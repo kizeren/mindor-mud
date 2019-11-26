@@ -1,0 +1,70 @@
+CC      = gcc
+PROF    = -O -ggdb
+NOCRYPT = -DNOCRYPT
+C_FLAGS =  -Wall -Wstrict-prototypes  -DOLD_RAND $(PROF) $(NOCRYPT)    
+L_FLAGS =  $(PROF)
+
+.PHONY: clean build all
+
+SRC = *.c
+INC = *.h
+
+
+all:: build mindor
+
+checkin: 
+	ci -l $(SRC) $(INC)
+	mv *.c,v *.h,v /usr/home/mindor/public_html/RCS
+
+diff:
+	rcsdiff -c  $(SRC) $(INC) > mindor.diff 
+
+build:
+	@if [ -f .build ]; then \
+	    expr `cat .build` + 1 > .build; \
+	else \
+	    echo '1' > .build; \
+	fi
+	@if [ -f .version ]; then \
+	    expr `cat .version` + 1 > .version; \
+	else \
+	    echo '10001' > .version; \
+	fi
+	@if [ `cat .build` -ge 51 ]; then \
+	    echo '1' > .build; \
+	fi
+	@echo '#ifndef BUILD_H' > build.h
+	@echo '#define BUILD_H' >> build.h
+	@echo "#define LINKCOUNT   `cat .build`" >> build.h
+	@echo '#endif' >> build.h
+	@echo '#ifndef VERSION_H' > version.h
+	@echo '#define VERSION_H' >> version.h
+	@echo "#define VERSION   `cat .version`" >> version.h
+	@echo '#endif' >> version.h
+	@echo "Build number `cat .build`, version `cat .version` set."
+
+
+
+
+MINDOR_FILES = act_comm.o act_enter.o act_info.o act_move.o act_obj.o act_wiz.o \
+          alias.o ban.o clans.o comm.o const.o curse.o db.o db2.o effects.o \
+	  fight.o finger.o flags.o forget.o handler.o healer.o interp.o note.o \
+	  lookup.o magic.o magic2.o music.o recycle.o repent.o save.o scan.o \
+	  sign.o skills.o special.o tables.o update.o wizlist.o \
+          mob_cmds.o mob_prog.o olc.o olc_act.o olc_save.o bit.o mem.o \
+          string.o olc_mpcode.o spellup.o  check.o whoweb.o webspells.o \
+          homes.o ftp.o rebirth.o petname.o hometown.o stat.o \
+          timer.o shops.o act_move2.o social-edit.o relationship.o quest.o room_map.o \
+	  dice.o bladecast.o
+
+
+
+mindor: $(MINDOR_FILES)
+	rm -f mindor
+	$(CC) $(L_FLAGS) -o mindor $(MINDOR_FILES)
+
+.c.o: merc.h
+	$(CC) -c $(C_FLAGS) $<
+
+clean:
+	rm -f mindor $(MINDOR_FILES)
