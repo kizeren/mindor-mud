@@ -22,7 +22,8 @@ rcs:: 	diff
 #This was just an idea I had for keeping all user files up to date.
 #Just comment this out if ya don't want to use it.
 #Or just never type "make rcs"
-
+#I developed this game on FreeBSD using RCS/CVS.  Remove/uncomment if you don't 
+#wish to use this.
 checkin: 
 	ci -l $(SRC) $(INC)
 	cp ./RCS/*.c,v /home/mcbride/public_html/Mindor/CodeVersion

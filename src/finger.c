@@ -34,7 +34,7 @@
 
 
 /**************************************************************************
-*      Mindor 1.0 is copyright 2002-2004 by Shaun Mcbride                *
+*      Mindor 1.0 is copyright 2002-2019 by Shaun Mcbride                *
 *      Portions of the code were inspired by other works                 *
 *      found around the internet.                                        *
 *                                                                        *

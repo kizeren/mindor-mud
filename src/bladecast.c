@@ -1,5 +1,5 @@
 /**************************************************************************
-*      Mindor 1.0 is copyright 2002-2004 by Chris Cox                    *
+*      Mindor 1.0 is copyright 2002-2019 by Chris Cox                    *
 *      Portions of the code were inspired by other works                 *
 *      found around the internet.                                        *
 *                                                                        *
