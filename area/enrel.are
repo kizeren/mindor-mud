@@ -1,0 +1,1982 @@
+#AREADATA
+Name Enrel~
+Builders ~
+VNUMs 31001 31099
+Credits [10 25] Akmaro  Enrel~
+Security 5
+RepopMsg ~
+End
+
+
+
+#MOBILES
+#31001
+enrel berserk skeleton~
+a berserk skeleton~
+A berserk skeleton is here, laughing insanely.
+~
+This skeleton looks at you, fire blazing where it's eyes should be.  It
+apparently went mad from the tortures it received during life, and now wants
+revenge in death.  
+~
+human~
+ABFO ef A A -700 0
+22 8 1d30+150 10d10+40 2d4+4 slash
+-5 2 -1 0
+D LQ M N
+stand stand none 200
+IM ABCGHI medium unknown
+F for AHV
+F par DEFJK
+M GREET 31010 100~
+#31002
+enrel dilapidated skeleton~
+a dilapidated skeleton~
+A dilapidated skeleton lies in the corner of the room.
+~
+~
+human~
+ABO ef A A -700 0
+22 8 1d30+150 10d10+40 2d4+3 punch
+-5 2 -1 0
+J LQ M N
+stand stand none 220
+IM ABCGHI medium unknown
+F for AHV
+F par DEFJK
+#31003
+enrel ancient skeleton~
+an ancient skeleton~
+An ancient skeleton lies here, collecting dust.
+~
+This skeleton is covered in a thick layer of dust, as though it has been
+here for many years.  Red eyes glow at you from inside empty eyesockets.  
+~
+human~
+ABO ef A A -700 0
+22 3 1d30+150 10d10+40 2d4+3 stab
+-4 2 -1 0
+0 LQ MP 0
+stand stand none 200
+IM ABCGHI medium unknown
+F for AHV
+F par DEFJK
+#31004
+enrel bleeding corpse~
+a bleeding corpse~
+A corpse is chained to the wall, blood slowly trickling to the floor.
+~
+The corpse's heart seems to have been ripped out of its chest.  It stares
+at you blankly.  
+~
+human~
+ABO FIef A A -700 0
+26 9 5d10+200 10d10+70 2d6+6 punch
+-2 -3 -1 0
+0 LQ I H
+stand stand none 250
+AHMV ABCEFGHIJK medium unknown
+F par D
+M GREET 31001 40~
+#31005
+enrel headless corpse~
+a headless corpse~
+A headless corpse stumbles towards you!
+~
+This corpse seems to have lost it's head, and stumbles around blindly
+without it.  
+~
+human~
+ABO Fef A A -1000 0
+24 9 5d10+200 10d10+70 2d6+6 thrust
+-2 -3 -1 0
+0 LQ I H
+stand stand none 200
+AHMV BCEFGHIJK medium unknown
+F par AD
+#31006
+a sacrifice victim~
+a sacrifice victim~
+A sacrifice victim is here, chained to the wall.
+~
+The sacrifice victim is chained to the wall, and slowly bleeding to death
+from a wound to his side.  
+~
+human~
+AB FG A A -500 0
+1 0 1d1+0 1d1+0 1d1+0 punch
+4 4 4 4
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 31002 100~
+M DEATH 31003 100~
+#31007
+enrel priest Merdakai~
+a priest of Merdakai~
+A priest of Merdakai is here, praying to his god.
+~
+Dressed in long black robes, shadows enshroud most of this man's body. 
+His hands seem to be tainted red from blood.  He is ready to accept
+sacrifices in the name of his god.  
+~
+human~
+AB Jef A A -1000 0
+32 14 10d20+460 10d10+125 2d6+4 punch
+-2 -2 -1 -1
+0 0 M N
+stand stand male 300
+AHMV ABCDEFGHIJK medium unknown
+M ACT 31004 drops a sacrifice victim's heart~
+#31008
+enrel priestess Ahzai~
+a priestess of Ahzai~
+A priestess of Ahzai is here, praying to her god.
+~
+Dressed in flowing black robes, the priestess is covered in shadow and
+mystery.  She is ready to accept sacrifices in the name of her god.  
+~
+human~
+AB Jef A A -1000 0
+32 11 10d20+460 10d10+125 2d6+4 magic
+-2 -2 -1 -1
+0 M 0 N
+stand stand female 300
+AHMV ABCDEFGHIJK medium unknown
+M ACT 31005 drops a sacrifice victim's heart~
+#31009
+enrel priest Bhaal~
+a priest of Bhaal~
+A priest of Bhaal is here, praying to his god.
+~
+The priest of Bhaal is covered from head to toe with tattoos of dragons
+and flames.  His hands are stained red with blood.  He is ready to accept
+sacrifices in the name of his god.  
+~
+human~
+AB JNOef A A -1000 0
+32 11 10d20+460 10d10+125 2d6+4 claw
+-2 -2 -1 -1
+J M 0 N
+stand stand male 300
+AHMV ABCDEFGHIJK medium unknown
+M ACT 31006 drops a sacrifice victim's heart~
+#31010
+enrel priest pazuzu~
+a priest of Pazuzu~
+A priest of Pazuzu is here, praying to his goddess.
+~
+This priest is chanting in an unknown language, completely oblivious of
+your presence.  He is ready to accept sacrifices in the name of his goddess.
+~
+human~
+AB Jef A A -1000 0
+32 11 10d20+460 10d10+125 2d6+4 stab
+-2 -2 -1 -1
+0 M 0 N
+stand stand male 300
+AHMV ABCDEFGHIJK medium unknown
+M ACT 31007 drops a sacrifice victim's heart~
+#31011
+enrel priest moloch~
+a priest of Moloch~
+A priest of Moloch is here, praying to his god.
+~
+The priest of Moloch is dressed in a long black robe, covering him from
+head to toe, oscuring his body.  
+~
+human~
+AB Jef A A -1000 0
+32 11 10d20+460 10d10+125 2d6+4 slash
+-2 -2 -1 -1
+0 M 0 N
+stand stand male 300
+AHMV ABCDEFGHIJK medium unknown
+M ACT 31008 drops a sacrifice victim's heart~
+#31012
+enrel licodragon dragon~
+the licodragon~
+A licodragon is here, drinking greedily from a bowl of blood.
+~
+The licodragon is easily 20 feet across, and not an inch of flesh is on
+its entire body.  It is animated through some dark sorcery.  The blood that
+it drinks splatters all over the floor as it falls through its bones.  
+~
+dragon~
+ABO ef AJT A -1000 0
+27 9 10d10+350 10d10+100 3d2+6 claw
+-1 -2 -2 0
+M M BE FI
+stand stand none 350
+AHZ ACDEFGHIJKPQUVX medium unknown
+F aff JT
+F res H
+M DEATH 31009 100~
+#31013
+enrel hungry wolf~
+a hungry wolf~
+A hungry wolf is here in search of prey.
+~
+This wolf is almost nothing but skin and bones.  It obviously hasn't had
+a meal in a very long time.  
+~
+dog~
+ABG GJKLMPQRSTUVWXYZabcdef A A -600 0
+14 3 1d20+100 5d5+10 2d2+2 chomp
+-1 -1 -1 0
+R 0 ILQ HK
+stand stand none 60
+AGV ACDEFHJKUV medium unknown
+F off H
+#31014
+enrel mangy wolf~
+a mangy wolf~
+A mangy wolf is here, whimpering slightly.
+~
+This wolf seems to be suffering from the mange.  It whimpers painfully
+from its disease.  
+~
+dog~
+ABG GMef A A -600 0
+13 3 1d20+90 3d10+12 2d2+2 bite
+0 -1 -1 0
+HR 0 LQ HK
+stand stand none 55
+AGV ACDEFHJKUV medium unknown
+#31015
+enrel gibberling~
+a gibberling~
+A gibberling is here, blithering madly.
+~
+The gibberling looks at you with large, yellow eyes, then continues to
+blither like a lunatic.  
+~
+dog~
+ABG FGef A A -800 0
+15 5 1d20+120 5d5+14 2d3+3 bite
+0 -1 -1 0
+H 0 LQ N
+stand stand none 80
+AGV ACDEFHJKUV medium unknown
+#31016
+enrel large bear~
+a large bear~
+A large bear is here, foraging for a meal.
+~
+This bear is large, but looks rather thin and unhealthy.  It rummages
+around these woods for a meal without much luck.  
+~
+bear~
+ABG 0 A A -200 0
+20 4 1d20+160 0d0+0 3d4+4 claw
+0 -1 0 1
+DEO 0 EI HK
+stand stand none 80
+AGV ABCDEFHJKUV large unknown
+#31017
+enrel wolf large~
+a large wolf~
+A large wolf is here, searching for its next meal.
+~
+This wolf is one of the largest wolves you have ever seen!  It looks at
+you hungrily, no doubt sizing you up for its next meal.  
+~
+dog~
+AB GJef A A -650 0
+15 3 1d20+130 5d5+10 2d3+2 chomp
+-1 -1 -1 0
+HR 0 ILQ HK
+stand stand none 80
+AGV ACDEFHJKUV large unknown
+#31018
+enrel crazed gibberling~
+a crazed gibberling~
+A crazed gibberling is here, blithering insanely.
+~
+A crazed gibberling raves around like a maniac.  
+~
+dog~
+ABF FGJef A A -800 0
+15 5 1d20+110 5d5+14 2d3+3 bite
+0 -1 -1 0
+H 0 LQ K
+stand stand none 90
+AGV ACDEFHJKUV medium unknown
+#31019
+enrel gibberling shaman~
+a gibberling shaman~
+A gibberling shaman is here, pointing a stick at you and blithering madly!
+~
+The gibberling shaman is adorned in many different types of oranments. 
+He holds a staff that has a wolf head attached to the top of it.  
+~
+dog~
+ABR GJef A A -800 0
+18 6 1d20+150 10d10+60 2d3+4 magic
+0 -1 -1 0
+H 0 CLQ HK
+stand stand none 120
+AGV ACDEFHJKUV medium unknown
+#31020
+enrel mushroom carniverous~
+a carniverous mushroom~
+A carniverous mushroom is here, lying in wait of its next meal.
+~
+This mushroom is large, and where it's gills should be seem to be some
+kind of large mouth with sharp teeth.  
+~
+human~
+AB Gef A A -600 0
+14 6 1d20+80 10d10+25 2d2+2 bite
+0 0 0 0
+0 LQ EIJ HK
+stand stand none 80
+A BDEK medium unknown
+F for HMV
+F par ACFGHIJ
+#31021
+enrel poison treefrog frog~
+a poison treefrog~
+A poison treefrog is here, hopping about.
+~
+This treefrog is brilliant shades of green and red, and covered in a
+poisonous sticky slime.  
+~
+lizard~
+AB Gef A A -300 0
+14 5 1d20+90 10d2+10 2d2+2 slime
+-1 0 -1 0
+FH LQ F EIJ
+stand stand none 40
+ABGXc ACDEFHKQV medium unknown
+F res L
+#0
+
+
+
+#OBJECTS
+#31001
+stone altar~
+a stone altar~
+A stone altar lies here in the middle of the room.~
+unknown~
+trash 0 P
+0 0 0 0 0
+0 100 0 P
+E
+altar~
+Runes are etched into the side of the altar.  {RLa'thai Bhaal
+fur'descarte v-nai ghur-poch{w.  
+~
+#31002
+stone altar~
+a stone altar~
+A stone altar lies in the middle of the room.~
+unknown~
+trash 0 P
+0 0 0 0 0
+0 100 0 P
+E
+altar~
+Runes are etched into the side of the altar.  {RLa'thai Pazuzu
+v'ran-descarte pan nub'leim{w.  
+~
+#31003
+Temple Altar~
+a stone altar~
+A stone altar lies in the middle of the room.~
+unknown~
+trash 0 P
+0 0 0 0 0
+0 100 0 P
+E
+altar~
+Runes are carved into the side of the altar.  {RLa'thai Merdakai
+pa-v'ran-descarte h'wreth mal'set{w.  
+~
+#31004
+stone altar~
+a stone altar~
+A stone altar lies in the middle of the room.~
+unknown~
+trash 0 P
+0 0 0 0 0
+0 100 0 P
+E
+altar~
+Runes are carved into the side of the altar.  {RLa'thai ahzai-descarte
+pan'olech v'rate m'zec-tae{x.  
+~
+#31005
+small hole~
+a small hole~
+{x~
+unknown~
+portal 0 P
+999 0 0 31031 0
+0 0 0 P
+#31006
+small hole~
+a small hole~
+{w~
+unknown~
+portal 0 P
+999 0 0 31030 0
+0 0 0 P
+#31007
+spiked bone breastplate~
+a spiked bone breastplate~
+A boney breastplate lies here.~
+bone~
+armor SY AD
+4 5 6 2 0
+20 40 1500 P
+A
+18 1
+A
+19 1
+A
+5 1
+E
+breastplate~
+This breastplate seems to be made from the chest of the licodragon.  It
+smells a little.  
+~
+#31008
+sword edged broken-bone bone~
+a sword edged with broken-bone pieces~
+A sword made from bone lies here.~
+unknown~
+weapon SY AN
+sword 5 4 slash 0
+20 38 1200 P
+A
+18 2
+A
+19 1
+E
+sword~
+This sword seems to be made from femur of another skeleton.  
+~
+#31009
+spiked shield lashed bones~
+a spiked shield made of lashed-together bones~
+A spiked shield made from bone lies here.~
+bone~
+armor SY AJ
+4 5 6 3 0
+20 30 1600 P
+A
+13 15
+A
+5 1
+E
+shield~
+This shield appears to have been made from the rib cage of a less
+fortunate skeleton.  
+~
+#31010
+spiked bone bracelet~
+a spiked-bone bracelet~
+A bracer made of bone lies lies.~
+unknown~
+armor SY AM
+2 3 4 1 0
+20 20 1100 P
+A
+19 3
+A
+13 -3
+#31011
+rotting corpse~
+a rotting corpse~
+A corpse is chained to the wall, blood slowly trickling to the floor.~
+unknown~
+trash 0 P
+0 0 0 0 0
+0 0 0 P
+E
+corpse~
+The corpse's chest has been ripped open, and it appears as though its
+heart was taken.  It stares from blank eyes.  
+~
+#31012
+enrel sacrifice victim heart~
+a sacrifice victim's heart~
+A sacrifice victim's heart lies here on the ground.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 1 0 P
+#31013
+unholy symbol merdakai~
+the Unholy Symbol of Merdakai~
+The holy symbol of Merdakai beckons you to pick it up.~
+gold~
+armor EJM AC
+8 6 8 5 0
+32 12 3500 P
+A
+4 2
+A
+18 3
+A
+19 3
+#31014
+unholy ring Ahzai~
+the Unholy Ring of Ahzai~
+A ring of Ahzai lies in the ground, luring you to take it...~
+gold~
+armor EJM AB
+0 0 0 20 0
+32 10 3500 P
+A
+3 2
+A
+18 2
+A
+19 2
+#31015
+unholy gauntlets bhaal~
+the Unholy Gauntlets of Bhaal~
+The gauntlets of Bhaal lie here, tempting you to take them.~
+gold~
+armor EJM AH
+8 6 8 3 0
+32 35 3100 P
+A
+2 2
+A
+18 3
+A
+19 3
+#31016
+enrel greaves pazuzu~
+the Unholy Greaves of Pazuzu~
+A pair of Pazuzu's greaves are here, enticing you to take them.~
+unknown~
+armor EJM AF
+9 8 9 6 0
+32 45 3200 P
+A
+18 2
+A
+19 2
+A
+5 2
+#31017
+dagger moloch~
+the Dagger of Moloch~
+A dagger of Moloch invites you to take it.~
+unknown~
+weapon EJM AN
+dagger 7 5 pierce AEH
+32 15 5000 P
+A
+2 1
+A
+19 2
+A
+18 2
+#31018
+bowl blood~
+a bowl of blood~
+Blood drips down from the ceiling into a bowl in the middle of the room.~
+bronze~
+trash 0 P
+0 0 0 0 0
+1 10 0 P
+#31019
+pile bone flesh~
+a pile of bone and flesh~
+A pulverized pile of flesh and bone is in the middle of the room.~
+bone and flesh~
+trash 0 P
+0 0 0 0 0
+1 10 0 P
+E
+bone~
+With disgust you realize that this pile of pulverized bone and flesh once
+used to be human which is now splattered all over this room.  
+~
+E
+flesh~
+With disgust you realize that this pile of pulverized bone and flesh once
+used to be human which is now splattered all over this room.  
+~
+E
+pile~
+With disgust you realize that this pile of pulverized bone and flesh once
+used to be human which is now splattered all over this room.  
+~
+#31020
+enrel dusty journal~
+a dusty journal~
+A dusty journal lies here, forgotten.~
+unknown~
+trash 0 P
+0 0 0 0 0
+1 10 50 P
+E
+journal~
+The priests like fresh sacrifices, usually of a human heart.  They take
+the heart out of your chest while you are still alive, it's horrible to
+behold.  I don't know how much longer I have before they take my heart too,
+and sacrifice it to their awful gods.  The thought drives me mad.  
+~
+E
+dusty~
+The priests like fresh sacrifices, usually of a human heart.  They take
+the heart out of your chest while you are still alive, it's horrible to
+behold.  I don't know how much longer I have before they take my heart too,
+and sacrifice it to their awful gods.  The thought drives me mad.  
+~
+#31021
+small crystal clear spring~
+a crystal clear spring~
+A crystal clear spring gurgles to the surface, inviting you to drink from it.~
+unknown~
+fountain 0 P
+-1 -1 'water' 0 0
+1 1 10 P
+#31022
+enrel shaman staff~
+a shaman's staff~
+A strange looking staff is here, glowing slightly.~
+unknown~
+staff G AO
+38 5 5 'frenzy' 0
+18 20 400 P
+#31069
+small stone altar~
+a stone altar~
+A stone altar lies in the middle of the clearing.~
+unknown~
+trash 0 P
+0 0 0 0 0
+0 100 0 P
+E
+stone~
+This altar is covered in ancient runes which are difficult to make out
+due to the amount of blood on them.  Etched deeply in the stone at the top
+of the altar are fiery red letters that spell out the name Moloch.  
+~
+E
+altar~
+This altar is covered in ancient runes which are difficult to make out
+due to the amount of blood on them.  Etched deeply in the stone at the top
+of the altar are fiery red letters that spell out the name Moloch.  
+~
+E
+small~
+This altar is covered in ancient runes which are difficult to make out
+due to the amount of blood on them.  Etched deeply in the stone at the top
+of the altar are fiery red letters that spell out the name Moloch.  
+~
+#31098
+none~
+none~
+Don't use my vnums again, Deathstorm~
+Mystical~
+armor 0 AJ
+0 0 0 0 0
+250 0 0 P
+#31099
+akmaros dagger~
+akmaro's Dagger~
+Desc Other imms QUIT using my vnums!~
+mystical~
+weapon GI AN
+dagger 10 8 pierce ABCDE
+110 20 0 P
+#0
+
+
+
+#ROOMS
+#31001
+Forest of Enrel~
+Dark trees surround you everywhere you look.  In the distance a wolf
+howls, no doubt hungrily in search of prey.  Exits lie in all directions
+leading you deeper into the forest.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31049
+D1
+~
+~
+0 0 31002
+D2
+~
+~
+0 0 31069
+D3
+~
+~
+0 0 31059
+S
+#31002
+Eastern Forest~
+The branches here seem to reach out and grasp at you, the roots trip you
+as you walk by.  Perhaps there is a malevolent spirit at work here in the
+forest?  East leads you deeper into the forest, while the trail west seems
+to thin out.  
+~
+0 0 3
+0
+D1
+~
+~
+0 0 31003
+D3
+~
+~
+0 0 31001
+S
+#31003
+Eastern Forest~
+There is a small trail leading to the east here, but it is only fainly
+visible.  Tree branches reach out to snag at you and roots trip you up at
+every step.  The trail leads to the east and west, and there seems to be a
+clearing to the north.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31004
+D1
+~
+~
+0 0 31005
+D2
+~
+~
+0 0 31048
+D3
+~
+~
+0 0 31002
+S
+#31004
+Small Clearing~
+There is a clearing in the trees here.  In the middle of the clearing is
+a small stone altar, covered in fresh blood.  Obviously there was a
+sacrifice here recently.  The trees are too thick to pass any other
+direction except the way you came.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 31003
+S
+#31005
+Eastern Forest~
+The trees grow closely together here, their branches intertwined almost
+as if maliciously keeping you from passing to the east.  There is a small
+trail leading to the north.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31006
+D3
+~
+~
+0 0 31003
+S
+#31006
+Northeastern Forest~
+The canopy above you blocks almost all light from the forest floor,
+enshrouding the area is shadows and darkness.  There almost seems to be a
+malevolent spirit at work.  The trees clear to form openings to the north
+and east, and the trail leads back the way you came.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31007
+D1
+~
+~
+0 0 31008
+D2
+~
+~
+0 0 31005
+S
+#31007
+Northeastern Forest~
+You seem to have reached a dead end.  The trees grow thickly here, their
+long branches entangled to form a solid wall that you cannot pass.  You have
+no choice but to go back the way you came.  
+~
+0 0 3
+0
+D2
+~
+~
+0 0 31006
+S
+#31008
+Northeastern Forest~
+Howling can be heard to the north.  The trees here seem to be unhealthy. 
+Bark is coming off of the trunks, the leaves are brown and dying, and the
+sickening smell of rotting wood wafts up to your nostrils.  There is a trail
+through the trees heading north.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31010
+D1
+~
+~
+0 0 31009
+D3
+~
+~
+0 0 31006
+S
+#31009
+Northeastern Forest~
+Red eyes flash in the darkness to the north.  The trees seem even more
+unhealthy here, and many have fallen over from rotting inside out.  There is
+an opening in the trees to the north.  Whatever evil lies in these woods, it
+must be getting closer.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31012
+D2
+~
+~
+0 0 31011
+D3
+~
+~
+0 0 31008
+S
+#31010
+Northeastern Forest~
+The trail north abruptly ends, cut off by a ring of trees stretching
+their branches out to block your way.  You will have to find another route
+to the north.  
+~
+0 0 3
+0
+D2
+~
+~
+0 0 31008
+S
+#31011
+Charred Circle of Trees~
+The ground here has been scorched into a perfect circle, almost certainly
+through magical means.  An aura of evil seems to permeate this area.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31009
+S
+#31012
+Before the Temple~
+The leaves have all fallen off the trees here, giving the forest and dead
+and dull feel.  To the north you can see a what appears to be a crumbling
+building.  There is a path leading to the south and east.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31013
+D1
+~
+~
+0 0 31038
+D2
+~
+~
+0 0 31009
+S
+#31013
+Entrance to the Temple~
+Before you is a crumbling temple.  The aura of evil and malice is almost
+overpowering from within.  The trees around the temple have been scorched
+and burned, leaving only a charred waste.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31014
+D2
+~
+~
+0 0 31012
+S
+#31014
+Crumbling Archway~
+The archway into the temple is broken and crumbling.  Dark marble pillars
+line the entrance of the temple, some form of ancient elvish writing etched
+deeply into the surface.  North leads further into the temple.  
+~
+0 12 0
+0
+D0
+~
+~
+0 0 31015
+D2
+~
+~
+0 0 31013
+S
+#31015
+Inside the Temple~
+The roof overhead is crumbling, allowing your first glimpse of the sky
+since entering the forest of Enrel.  On the wall is strange lettering etched
+into the stone.  Exits lie in every direction.  
+~
+0 8 0
+0
+E
+wall~
+Strange runes are carved into the wall.  {RLa'thai moloch t'ch-mae
+descarte v'hran-lai fur'lach{x.  It doesn't seem to make sense.  
+~
+E
+lettering~
+Strange runes are carved into the wall.  {RLa'thai moloch t'ch-mae
+descarte v'hran-lai fur'lach{x.  It doesn't seem to make sense.  
+~
+D0
+~
+~
+0 0 31018
+D1
+~
+~
+0 0 31017
+D2
+~
+~
+0 0 31014
+D3
+~
+~
+0 0 31016
+S
+#31016
+Temple Altar~
+There is an altar in the middle of this room, and the scent of dried
+blood floats unpleasantly to you.  There is a small grate in the floor
+allowing for the blood to drain.  
+~
+0 8 0
+0
+E
+altar~
+Runes are etched into the side of the altar.  {RLa'thai Bhaal
+fur'descarte v-nai ghur-poch{w.  
+~
+D1
+~
+~
+0 0 31015
+S
+#31017
+Temple Altar~
+In the middle of the room there is a stone altar, covered in fresh blood.
+The blood slowly trickles into a small grate on the floor.  The only way out
+is back the way you came.  
+~
+0 8 0
+0
+D3
+~
+~
+0 0 31015
+S
+#31018
+Inside the Temple~
+There once was a statue in the center of this room, but now it is a pile
+of ruins.  All over the walls are depictions of a great battle, seemingly
+between supernatural forces.  Pictures of demons impaling and decapitating
+angels adorn most of the walls.  
+~
+0 8 0
+0
+D0
+~
+~
+0 0 31021
+D1
+~
+~
+0 0 31020
+D2
+~
+~
+0 0 31015
+D3
+~
+~
+0 0 31019
+S
+#31019
+Temple Altar~
+An altar stands in the middle of this room, the charred remains of a
+corpse still on it.  Blood slowly trickles down into a grate in the floor. 
+In many places the blood has coagulated into a pool, making the floor sticky
+and slippery.  
+~
+0 8 0
+0
+D1
+~
+~
+0 0 31018
+S
+#31020
+Temple Altar~
+There is a stone altar in the middle of the room.  The charred remains of
+what appear to be a human skeleton are on top of the altar, smoking
+slightly.  Dried blood is splattered all over the floor and walls, and the
+sickening smell of rotten flesh pervades the room.  
+~
+0 8 0
+0
+D3
+~
+~
+0 0 31018
+S
+#31021
+Spiraling Staircase~
+There is a large marble staircase in the middle of the room descending
+into the depths of the temple.  The stairs are slippery and covered in fresh
+blood.  A faint scream can be heard crying out from the depths below.  
+~
+0 8 0
+0
+D2
+~
+~
+0 0 31018
+D5
+~
+~
+0 0 31022
+S
+#31022
+Spiraling Staircase~
+The staircase leads into the unknown depths of the temple.  The way is
+treacherous because of the blood on the black marble stairs, making them
+slippery.  A tortured scream can be heard below.  
+~
+0 9 0
+0
+D2
+~
+~
+0 0 31025
+D4
+~
+~
+0 0 31021
+D5
+~
+~
+0 0 31023
+S
+#31023
+Spiraling Staircase~
+The staircase leads further into the dark depths of the dungeon.  The
+tortured screams are growing louder now, no doubt coming from somewhere on
+this level.  A trail of blood leads to the south.  
+~
+0 9 0
+0
+D2
+~
+~
+0 0 31032
+D4
+~
+~
+0 0 31022
+D5
+~
+~
+0 0 31024
+S
+#31024
+Dark Chamber~
+Before you is a dark chamber, once the quarters of a great necromancer. 
+Through some remaining magic trickery, everywhere you look there seems to
+skull glaring at you.  Blood pours through grates into the ceiling above
+directly into the center of this room, where it collects into what appears
+to be a large bowl.  
+~
+0 8 0
+0
+D4
+~
+~
+0 0 31023
+S
+#31025
+Dimly Lit Hall~
+A torch flickers on the wall, then goes out.  There is very little light
+here, and what light there is quickly is absorbed into the dark obsidian
+rock.  Exits lie in all directions.  
+~
+0 9 0
+0
+D0
+~
+~
+0 0 31022
+D1
+~
+~
+0 0 31027
+D2
+~
+~
+0 0 31028
+D3
+~
+~
+0 0 31026
+S
+#31026
+Dark Cell~
+The walls here are cold and dank, carved directly into the rock face.  In
+the dim light you can see moss growing on the walls as water slowly trickles
+to the ground.  The sound of water dripping slowly mingles with faint
+screams of pain from below.  
+~
+0 9 0
+0
+D1
+~
+~
+0 0 31025
+S
+#31027
+Dark Cell~
+The wall here is carved from the rock face, and it is cold and moist. 
+Tortures screams of pain and despair can be heard from the dungeons below
+you.  
+~
+0 9 0
+0
+D3
+~
+~
+0 0 31025
+S
+#31028
+Dimly Lit Hall~
+The shadows seem to dance before your eyes as you walk into this room. 
+The torches flicker, casting shadows in every which direction.  A strange
+smell wafts up to you.  
+~
+0 9 0
+0
+D0
+~
+~
+0 0 31025
+D1
+~
+~
+0 0 31030
+D3
+~
+~
+0 0 31029
+S
+#31029
+Dark Cell~
+A pair of chains hang from the wall here, a crumbling skeleton still held
+captive even long after death.  The smell of burnt flesh is so powerful that
+it is sickening.  
+~
+0 9 0
+0
+D1
+~
+~
+0 0 31028
+S
+#31030
+Dark Cell~
+Chains hang from the wall.  In the corner of the room is a decayed
+skeleton, it's bony hand still gripping tight around what appears to be a
+small knife.  There is a small hole in the wall covered by some rocks, but
+it looks like it could be entered.  
+~
+0 9 0
+0
+D3
+~
+~
+0 0 31028
+S
+#31031
+Secret Cavern~
+This room is very small, apparently it was carved from the solid rock
+through years and years of patience toil.  There are marks on the wall to
+represent the number of days the prisoner was held captive.  
+~
+0 12 0
+0
+S
+#31032
+Dark Corridor~
+The walls here are made of some kind of jet black rock, almost like
+obsidian except that they seem to be absorbing the light.  A horrible scream
+can be heard reverberating in your ears.  
+~
+0 9 0
+0
+D0
+~
+~
+0 0 31023
+D1
+~
+~
+0 0 31034
+D2
+~
+~
+0 0 31035
+D3
+~
+~
+0 0 31033
+S
+#31033
+Torture Chamber~
+This room is filled with various kinds of torture devices, and blood
+congeals into a puddle on the ground.  Dried blook cakes every wall in the
+room.  In the corner of the room is a guillotine that has had its blade
+replaced by a large hammer.  No wonder its so messy in here.  
+~
+0 9 0
+0
+D1
+~
+~
+0 0 31032
+S
+#31034
+Torture Chamber~
+Blood and pieces of entrails are splattered all over the walls here. 
+There is a large stone slab on a pulley system directly over a grate in the
+floor.  The stone seems to smash a victim into pulp so that the blood can
+drain into a room below.  
+~
+0 9 0
+0
+D3
+~
+~
+0 0 31032
+S
+#31035
+Dark Corridor~
+The strange stone that the walls are made of seems to be absorbing all of
+the light, making it very dark here.  The screams are growing louder now,
+and a pool of blood is congealing on the floor in a puddle.  
+~
+0 9 0
+0
+D0
+~
+~
+0 0 31032
+D1
+~
+~
+0 0 31037
+D3
+~
+~
+0 0 31036
+S
+#31036
+Torture Chamber~
+A fresh pool of blood is slowly trickling out from the corpse of a
+sacrifice victim, and the stench of rotting flesh is overpowering.  All
+different kinds of torture devices line this room.  
+~
+0 9 0
+0
+D1
+~
+~
+0 0 31035
+S
+#31037
+Torture Chamber~
+All sorts of devices used for torture are here.  The wall has spikes and
+chains in many places, no doubt where the prisoners were held captive, and
+an iron maiden is in the far corner of the room.  
+~
+0 9 0
+0
+D3
+~
+~
+0 0 31035
+S
+#31038
+Northeastern Forest~
+The trees here are sickly, and becoming more scarce to the west.  From
+somewhere within the forest you can hear a wolf howling, although its
+direction is unknown.  A path continues to the east.  
+~
+0 0 3
+0
+D1
+~
+~
+0 0 31039
+D3
+~
+~
+0 0 31012
+S
+#31039
+Northeastern Forest~
+The trees are thinning out a little bit to the east, making the path
+easier to traverse.  The sound of waves can be heard in the distance, and
+the scent of salty sea air is on the breeze.  The path leads north and east.
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31045
+D1
+~
+~
+0 0 31040
+D3
+~
+~
+0 0 31038
+S
+#31040
+Nearing the Eastern Shore~
+To the east is the Eastern Shore, and to the west is the Forest of Enrel.
+The woods seem dark and uninviting.  The scent of salty sea air becomes
+stronger here.  
+~
+0 4 2
+0
+D1
+~
+~
+0 0 31041
+D3
+~
+~
+0 0 31039
+S
+#31041
+Eastern Shore~
+You are standing on the eastern shores.  The ocean breaks upon the sands,
+carrying them away only to deposit them further down the beach again.  Sea
+gulls circle lazily in the sky above you, squawking amongst themselves in
+search of a meal.  
+~
+0 0 2
+0
+D0
+~
+~
+0 0 31042
+D3
+~
+~
+0 0 31040
+S
+#31042
+Eastern Shore~
+This is the eastern shore.  To the west you can see the Forest of Enrel,
+although a rock cliff keeps you from heading west here.  Small crustaceans
+scurry hurriedly along the beach, in search of prey.  
+~
+0 0 2
+0
+D0
+~
+~
+0 0 31043
+D2
+~
+~
+0 0 31041
+S
+#31043
+Eastern Shore~
+You are on the eastern shore.  To the west a large stone cliff impedes
+your progress into the Forest of Enrel, and to the north there seems to be a
+small hut.  To the south are the white sands of the eastern shores.  The sea
+gulls make low circling passes over the water in search of a meal.  
+~
+0 0 2
+0
+D0
+~
+~
+0 0 31044
+D2
+~
+~
+0 0 31042
+S
+#31044
+Small Hut by the Beach~
+All sorts of fishing nets, poles, and ropes line this room.  There is a
+very strong odor of fish here, no doubt coming from a dubious looking pail
+in the corner of the room.  The hut itself is made from a thached roof of
+various reeds, and hardly looks sturdy enough to withstand a single storm,
+even though it has been here for many years.  
+~
+0 1032 0
+0
+D2
+~
+~
+0 0 31043
+S
+#31045
+Northeastern Forest~
+The trees here are dark and foreboding, spreading out their branches to
+obscure the sunlight.  To the north there is a trail deeper into the heart
+of the woods, and to the south a path leads you back.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31046
+D2
+~
+~
+0 0 31039
+S
+#31046
+Northeastern Forest~
+Your northern progress is impeded by a solid wall of trees, allowing you
+no way around them.  A small path leads to the east, while south leads you
+back the way you came.  
+~
+0 0 3
+0
+D2
+~
+~
+0 0 31045
+D3
+~
+~
+0 0 31047
+S
+#31047
+Fallen Oak~
+A loarge oak tree has fallen here, blocking off the path to the west. 
+Surrounding you are dark, looming trees, and you cannot shake the feeling
+that someone is watching you.  East leads you back the way from which you
+came.  
+~
+0 0 3
+0
+D1
+~
+~
+0 0 31046
+S
+#31048
+Eastern Forest~
+Trees encompass you everywhere that you look, leaving you no exits except
+for the direction from which you came.  It is almost as if the trees are
+maliciously hindering your progress.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31003
+S
+#31049
+Northern Forest~
+The trees loom above you, blocking out most of the light from above. 
+There seems to be chattering in an unknown language, but just as soon as it
+starts, it stops.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31050
+D2
+~
+~
+0 0 31001
+S
+#31050
+Northern Forest~
+All around you the trees are reaching up into the sky, their branches
+jutting overhead, blocking out the light.  The sound of running water can be
+heard to the north, while the way south leads back to the entrance of the
+forest.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31051
+D2
+~
+~
+0 0 31049
+S
+#31051
+Northern Forest~
+The sound of rushing water is very strong here.  There is a small hole in
+the ground, leading to an underground river which flows into the Dragon Sea.
+Paths lead in all directions.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31052
+D1
+~
+~
+0 0 31053
+D2
+~
+~
+0 0 31050
+D3
+~
+~
+0 0 31054
+D5
+~
+~
+0 0 31056
+S
+#31052
+Northern Forest~
+Far to the northwest you think you catch a hint of something shimmering
+brightly, but you cannot be certain from this distance.  It is very hard to
+see because of the thick foliage growing all around you, and the trees are
+so dense here that further forward progress is impossible.  
+~
+0 0 3
+0
+D2
+~
+~
+0 0 31051
+S
+#31053
+Small Spring~
+A small spring trickles up from the surface of the ground here, supplied
+by the underwater river.  The water of the spring appears to be very clean
+and pure, and marvelously cool and refreshing.  It invites you to drink from
+it.  
+~
+0 0 3
+0
+D3
+~
+~
+0 0 31051
+S
+#31054
+Northern Forest~
+You cannot help shake the feeling that you are being watched, almost as
+if the trees themselves had eyes.  There is a path leading to the north, and
+the sound of water can be heard to the east.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31055
+D1
+~
+~
+0 0 31051
+S
+#31055
+Northern Forest~
+All of the trees here have their branches pointing towards you, almost as
+if they have a mind of their own.  Surrounding you on all sides except the
+north and south, the trees leave you little choice but to turn back or
+venture straight into the heart of the woods.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31100
+D2
+~
+~
+0 0 31054
+S
+#31056
+Underground River~
+Above you the tree tops can be clearly seen, and there is a small opening
+in the river to allow you to crawl up into the forest.  The currents are
+quite strong, pulling you to the east.  
+~
+0 0 7
+0
+D1
+~
+~
+0 0 31057
+D4
+~
+~
+0 0 31051
+S
+#31057
+Underground River~
+The currents are getting stronger here.  Try as you might, you cannot
+fight the current to go back to the west.  Your only choice is to follow the
+river to the east, wherever it might take you.  
+~
+0 0 7
+0
+D1
+~
+~
+0 0 31058
+S
+#31058
+Underground River~
+The sound of rushing water completely fills your ears as the currents
+grow stronger and stronger, sweeping everything away that is in their path. 
+There is little choice but to continue east.  
+~
+0 0 7
+0
+D1
+~
+~
+0 0 9788
+S
+#31059
+Western Forest~
+Before you is the great expanse of the Forest of Enrel, trees filling the
+horizon for as far as the eye can see.  The canopy of leaves overhead casts
+shadows all about.  
+~
+0 0 3
+0
+D1
+~
+~
+0 0 31001
+D3
+~
+~
+0 0 31060
+S
+#31060
+Western Forest~
+The trees seem almost to part ways, opening up a small path to the north.
+The only exit is back the way which you came, the trees are too thick to
+pass any other way.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31061
+D1
+~
+~
+0 0 31059
+S
+#31061
+Western Forest~
+The branches and roots seem to reach out, trying to hinder your progress.
+Even the most skilled and cautious traveller could quickly land in trouble
+here.  Far in the north something seems to be reflecting a bright light.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31062
+D2
+~
+~
+0 0 31060
+S
+#31062
+Western Forest~
+The smell of smoke and burnt vegetation is strong here, overpowering the
+other senses.  A thick wall of trees blocks further progress to the north,
+but there is a small path leading west.  
+~
+0 0 3
+0
+D2
+~
+~
+0 0 31061
+D3
+~
+~
+0 0 31063
+S
+#31063
+Western Forest~
+The trees here seem to be becoming more scarce, and turning from the dark
+black color of the trees of the inner woods into a rich brown.  To the north
+seems to be the outline of a city.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31064
+D1
+~
+~
+0 0 31062
+S
+#31064
+Entrance to the Forest~
+Before you is the entrance to the Forest of Enrel, and to the north is a
+path leading to the city of Enrel.  Two great oaks stand here, towering into
+the sky, almost as though they were the vanguards of the forest entrance.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31065
+D2
+~
+~
+0 0 31063
+S
+#31065
+Dirt Path~
+There is a small dirt road here, overgrown with weeds and vegetation. 
+Obviously it is not used often.  To the north is the city of Enrel, and the
+forest lies to the south.  
+~
+0 0 2
+0
+D0
+~
+~
+0 0 31066
+D2
+~
+~
+0 0 31064
+S
+#31066
+Outside the City Gates~
+Towering before you are the gates of Enrel, set into the magificient and
+allegedly impregnable red sandstone walls of Enrel itself.  The city lies to
+the north inside the gates, while a small dirt path leads south into the
+forest.  
+*City of Enrel will be in soon. Please be patient*
+~
+0 0 0
+0
+D2
+~
+~
+0 0 31065
+S
+#31069
+Entrance to the Forest~
+Before you is a dark looking forest.  The tops of the trees blot out the
+sun, allowing very little light into reach the ground below.  A pair of red
+eyes glow from inside the forest.  Unless you are prepared, now would be a
+good time to turn back.  
+~
+0 4 3
+0
+D0
+~
+~
+0 0 31001
+D2
+~
+~
+0 0 9791
+S
+#0
+
+
+
+#SPECIALS
+M 31014 spec_poison
+M 31021 spec_poison
+S
+
+
+
+#RESETS
+M 0 31015 1 31001 10
+O 0 31069 0 31004
+M 0 31011 1 31004 1
+M 0 31013 1 31005 1
+M 0 31014 1 31007 1
+M 0 31018 1 31008 1
+M 0 31019 1 31011 1
+E 0 31022 0 17
+O 0 31001 0 31016
+M 0 31009 1 31016 1
+E 0 31015 0 9
+O 0 31002 0 31017
+M 0 31010 1 31017 1
+E 0 31016 0 7
+M 0 31007 1 31019 1
+O 0 31003 0 31019
+E 0 31013 0 3
+O 0 31004 0 31020
+M 0 31008 1 31020 1
+E 0 31014 0 1
+M 0 31012 1 31024 1
+O 0 31018 0 31024
+M 0 31002 1 31026 1
+E 0 31010 0 15
+M 0 31003 1 31027 1
+E 0 31010 0 14
+E 0 31009 0 11
+M 0 31001 1 31030 1
+O 0 31005 0 31030
+E 0 31008 0 16
+O 0 31006 0 31031
+O 0 31020 0 31031
+M 0 31005 1 31033 1
+O 0 31019 0 31034
+M 0 31004 1 31036 1
+M 0 31006 1 31037 1
+M 0 31017 1 31038 1
+M 0 31016 1 31048 1
+O 0 31021 0 31053
+M 0 31020 1 31060 1
+O 0 31010 0 31063
+M 0 31021 1 31063 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#31001
+emote raises its head and looks at you.
+say Please...help me...
+~
+#31002
+say Please...kill me...
+~
+#31003
+mob oload 31012
+~
+#31004
+say Thank you for your sacrifice, $n.
+mob oload 31013
+give merdakai $n
+mob purge heart
+~
+#31005
+say Thank you for your sacrifice, $n.
+mob oload 31014
+give ring $n
+mob purge heart
+~
+#31006
+say Thank you for your sacrifice, $n.
+mob oload 31015
+give gauntlet $n
+mob purge heart
+~
+#31007
+say Thank you for your sacrifice, $n.
+mob oload 31016
+give greaves $n
+mob purge heart
+~
+#31008
+say Thank you for your sacrifice, $n.
+mob oload 31017
+give dagger $n
+mob purge heart
+~
+#31009
+mob oload 31007
+~
+#31010
+emote throws back its head and cackles madly.
+kill $n
+~
+#31069
+emote throws back its head and cackles madly!
+mob kill $n
+~
+#0
+
+#$

@@ -1,0 +1,150 @@
+#AREADATA
+Name Dungeons of Direm'doth~
+Builders ~
+VNUMs 10800 10899
+Credits [ HRO ] Akmaro  Direm'doth~
+Security 7
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#10800
+Dark Forest~
+The trees here grow darker as you venture north, their great branches
+streched towards you like hundreds of probing fingers searching for prey. 
+Very little light passes through the branches overhead, and the still air of
+the forest gives the area a foreboding feel.  
+~
+0 1 3
+0
+D0
+~
+~
+0 0 10801
+S
+#10801
+Dark Forest~
+An ominous quiet lies on the forest.  The thick branches overhead act
+almost like a ceiling, blocking out most light that tries to penetrate
+through the canopy above.  A faint whiff of rot and decay fills the forest. 
+~
+0 1 3
+0
+D0
+~
+~
+0 0 10802
+D2
+~
+~
+0 0 10800
+S
+#10802
+Dark Forest~
+Twisted limbs reaching into the sky as though in tortured pain, towering
+dark trees loom above you twisted into seemingly unnatural shapes.  Yellowed
+and brown leaves fall slowly to the forest floor before, and a stench of
+decay stronger than the rotting vegetation around you wafts in from the
+west.  
+~
+0 1 3
+0
+D2
+~
+~
+0 0 10801
+D3
+~
+~
+0 0 10803
+S
+#10803
+Rocky Path~
+The dark trees of the forest slowly give way to more rocky ground as you
+continue west, and weeds shoot up from wherever they can survive in the
+barren soil.  A foul stench drifts in from the west, like rotting flesh.  
+ 
+~
+0 0 4
+0
+D1
+~
+~
+0 0 10802
+D3
+~
+~
+0 0 10804
+S
+#10804
+Barren Cliff~
+The trees have vanished here, giving rise instead to barren, rocky soil,
+from which a few hardy weeds grow.  An overpowering stench of decay floats
+up from below, where a jagged crack in the earth opens into a deep chasm
+below.  
+~
+0 1 4
+0
+D1
+~
+~
+0 0 10803
+D5
+~
+~
+0 0 10805
+S
+#10805
+~
+Dark tunnels stretch out in all directions, a nauseating arouma of death
+and decay filling the obsidian caverns.  Faint lettering is etched into the
+side of the cavern in a scrawling script.  
+~
+0 1 0
+0
+E
+lettering~
+There are some letters covered in a thin film of dust on the cavern
+walls.  It reads: We have been down here for five days.  We can hear the
+drums, always the drums, coming closer.  Will we ever get out?  
+~
+D4
+~
+~
+0 0 10804
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,383 @@
+#AREADATA
+Name Midgaard Apartments~
+Builders ~
+VNUMs 16200 16299
+Credits [ All ] Shaun  Midgaard Apartments~
+Security 1
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#16200
+acook Private Cook~
+the {Wcook{x~
+Arathorn's private cook slaves over food all day.
+~
+~
+human~
+A CDEH A A 1000 0
+10 50 100d100+1000 10d11+95 50d25+50 none
+1 1 1 3
+I 0 0 0
+stand stand none 500000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 16200 100~
+#0
+
+
+
+#OBJECTS
+#16200
+Marble Sink~
+a {Wm{wa{Wr{wb{Wl{we {Ws{wi{Wn{wk{x~
+{x~
+unknown~
+drink 0 0
+100000 100000 'water' 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#16200
+Hallway~
+You are in a long hallway which stretched east and west in the distance. 
+Large wooden doors line the corridor, the entrances to the private quarters
+of some of those citizens of Mindor who prefer not to sleep on a street. 
+Bloody footprints cover the floor, and the names of some of Mindor's finest
+combatants have been carved into the walls with with the tips of knives.  A
+door to the north has the name "Vacant" printed on it and the door to the
+east wears the name "Vacant".  
+~
+0 787460 0
+0
+D0
+~
+~
+0 0 16214
+D1
+~
+~
+0 0 16201
+D2
+~
+~
+0 0 16213
+D3
+~
+~
+0 0 16207
+S
+#16201
+Akmaro's Home~
+You are standing inside of Akmaro's home.  The walls are of a beautiful
+polished redwood, coming from the far corners of Mindor to suit the taste of
+the owner, and the ceiling stands twelve feet from the ground.  A staircase
+leads up, but there is no second floor and it seems to stop abruptly in
+mid-air.  
+~
+0 16777216 0
+0
+D3
+~
+~
+0 0 16200
+O Akmaro~
+S
+#16202
+Narrow trail through the forest~
+You have found the end of the dusty trail.  Before you stands and old
+building, which seems to be falling apart.  The ancient trees surrounding
+the building appear to be diggin thier massive trunks into the sides of the
+building.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 16203
+D1
+~
+~
+0 0 6103
+S
+#16203
+Grand Steps~
+The entrance to the building is extermly worn, but looks to be kept up. 
+The door is made of hard oak and steel docorative hinges.  Pillars are made
+of large oak tree trunks and steps made of shaped granite bolders.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 16204
+D2
+~
+~
+0 0 16202
+S
+#16204
+Motel Entrance~
+Main hall of the Mindor Hotel.  Anyone is allowed a room here at the
+motel.  See 'help motel' for a breif explination on how to get a room.  More
+rooms and space will be added upon request.  Only 1 mob and 1 object will be
+allowed in personal rooms.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 16210
+D1
+~
+~
+0 0 16205
+D2
+~
+~
+0 0 16203
+S
+#16205
+Hallway~
+You are in a long hallway which stretched east and west in the distance. 
+Large wooden doors line the corridor, the entrances to the private quarters
+of some of those citizens of Mindor who prefer not to sleep on a street. 
+Bloody footprints cover the floor, and the names of some of Mindor's finest
+combatinetsn have been carved into the walls with with the tips of knives. 
+A door to the north has the name "Vacant" printed on it and the door to the
+south wears the name "Vacant". 
+~
+0 0 0
+0
+D0
+~
+~
+0 0 16208
+D1
+~
+~
+0 0 16207
+D2
+~
+~
+0 0 16209
+D3
+~
+~
+0 0 16204
+S
+#16206
+Hallway~
+You are in a long hallway which stretched east and west in the distance. 
+Large wooden doors line the corridor, the entrances to the private quarters
+of some of those citizens of Mindor who prefer not to sleep on a street. 
+Bloody footprints cover the floor, and the names of some of Mindor's finest
+combatinetsn have been carved into the walls with with the tips of knives. 
+A door to the north has the name "Vacant" printed on it and the door to the
+south wears the name "Vacant". 
+~
+0 0 0
+0
+D3
+~
+~
+0 0 16205
+S
+#16207
+Hallway~
+You are in a long hallway which stretched east and west in the distance. 
+Large wooden doors line the corridor, the entrances to the private quarters
+of some of those citizens of Mindor who prefer not to sleep on a street. 
+Bloody footprints cover the floor, and the names of some of Mindor's finest
+combatinetsn have been carved into the walls with with the tips of knives. 
+A door to the north has the name "Vacant" printed on it and the door to the
+south wears the name "Vacant". 
+~
+0 0 0
+0
+D0
+~
+~
+0 0 16211
+D1
+~
+~
+0 0 16200
+D2
+~
+~
+0 0 16212
+D3
+~
+~
+0 0 16205
+S
+#16208
+{ML{mux{Muri{mou{Ms H{mom{Me{x~
+{DThe walls, in perfect condition, are painted a {cmellow blue{D with {Clighter
+blue {Daccents. {WW{wh{Wi{wt{We {ws{Wh{wa{Wg {wc{Wa{wr{Wp{we{Wt{D suggests luxury from corner to corner. A
+window on the north wall displays the scenery of a {gl{Gu{gs{Gh {gf{Go{gre{Gs{gt{D.  To the east
+a kitchen is visible through the open entryway, and the {yf{Yr{yon{Yt {yd{Yoo{yr {Dstands to the south.{x
+~
+0 50855940 0
+0
+D1
+~
+~
+0 0 16215
+D2
+~
+~
+0 0 16205
+M 150 H 150
+O Arathorn~
+S
+#16209
+Coal's Home~
+{DThe room is softly lit, the floor carpeted in rich black velvet, the
+walls painted a deep blue.  A fireplace against the east wall lights the
+room, casting flickering shadows across the place.  A bed sits against the
+far wall, covered with red satin sheets and a big blue comforter.  Blue and
+red silk pillows are scattered across the head of the bed.  A shower sits to
+the left of the bed, large enough for about 4 people, with shower heads for
+each.  {x 
+~
+0 16777216 0
+0
+D0
+~
+~
+0 0 16205
+O Coal~
+S
+#16210
+~
+~
+0 16778248 0
+0
+D2
+~
+~
+0 0 16204
+S
+#16211
+~
+~
+0 0 0
+0
+D2
+~
+~
+0 0 16207
+S
+#16212
+Mook's Home~
+~
+0 16777216 0
+0
+D0
+~
+~
+0 0 16207
+O Mook~
+S
+#16213
+Oanda's Home~
+A messy home this is.
+~
+0 16777216 0
+0
+D0
+~
+~
+0 0 16200
+O Oanda~
+S
+#16214
+Hallway~
+You are in a long hallway which stretched east and west in the distance. 
+Large wooden doors line the corridor, the entrances to the private quarters
+of some of those citizens of Mindor who prefer not to sleep on a street. 
+Bloody footprints cover the floor, and the names of some of Mindor's finest
+combatinetsn have been carved into the walls with with the tips of knives. 
+A door to the north has the name "Vacant" printed on it and the door to the
+east wears the name "Vacant".  
+~
+0 787460 0
+0
+D2
+~
+~
+0 0 16200
+S
+#16215
+{MS{mmal{Ml K{mitche{Mn{x~
+~
+0 0 0
+0
+D3
+~
+~
+0 0 16208
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 16200 1 16215 1
+O 0 16200 0 16215
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#16200
+if name $n Arathorn
+mob call 16201
+else
+mob damage $n 30000 30000 yes
+mob echoaround $n {wThe {WCook {RB{rUR{RN{rS $n B{RA{rDL{RY {wwith a hot knife.{x
+mob echoat $n {wThe {WCook {RB{rUR{RN{rS {YYOU{r B{RA{rDL{RY {wwith a hot knife.{x
+say {W!!!!!!{RYOU ARE NOT ALLOWED ENTRY{W!!!!!!!{x
+endif
+~
+#16201
+say Hello Arathorn, I've prepared you some food.
+if rand 10
+mob oload 22013
+give pie arathorn
+else
+if rand 20
+mob oload 6644
+give steak arathorn
+if rand 30
+mob oload 20
+give mush arathorn
+else
+mob oload 9561
+give leg arathorn
+endif
+~
+#0
+
+#$

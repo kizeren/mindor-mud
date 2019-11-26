@@ -1,0 +1,598 @@
+#AREADATA
+Portal System~
+Builders ~
+VNUMs 50000 50020
+Credits [ ALL ] Kizeren Portals~
+Security 1
+RepopMsg You hear a buzzing sound.~
+End
+
+
+
+#MOBILES
+#50000
+A dragon~
+A dragon ~
+A dragon is floating around the portals.
+~
+~
+blackdragon~
+AFG JT AJT A 0 0
+150 150 301d50+4546 150d10+85 50d3+80 slice
+-91 -91 -91 -60
+0 L BEH OS
+stand stand none 1000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#50010
+A dragon~
+A dragon ~
+A dragon is floating around the portals.
+~
+~
+blackdragon~
+AFG JT AJT A 0 0
+150 150 301d50+4546 150d10+85 50d3+80 slice
+-91 -91 -91 -60
+0 L BEH OS
+stand stand none 1000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#50013
+A dragon~
+A dragon ~
+A dragon is floating around the portals.
+~
+~
+blackdragon~
+AFG JT AJT A 0 0
+150 150 301d50+4546 150d10+85 50d3+80 slice
+-91 -91 -91 -60
+0 L BEH OS
+stand stand none 1000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#50014
+A dragon~
+A dragon ~
+A dragon is floating around the portals.
+~
+~
+blackdragon~
+AFG JT AJT A 0 0
+150 150 301d50+4546 150d10+85 50d3+80 slice
+-91 -91 -91 -60
+0 L BEH OS
+stand stand none 1000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#50015
+A dragon~
+A dragon ~
+A dragon is floating around the portals.
+~
+~
+blackdragon~
+AFG JT AJT A 0 0
+150 150 301d50+4546 150d10+85 50d3+80 slice
+-91 -91 -91 -60
+0 L BEH OS
+stand stand none 1000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#50018
+A dragon~
+A dragon ~
+A dragon is floating around the portals.
+~
+~
+blackdragon~
+AFG JT AJT A 0 0
+150 150 301d50+4546 150d10+85 50d3+80 slice
+-91 -91 -91 -60
+0 L BEH OS
+stand stand none 1000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#0
+
+
+
+#OBJECTS
+#50000
+train token~
+train token~
+A train token has been left here.~
+unknown~
+can_eat 0 A
+CE A 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#50000
+Portal System~
+A very brightly lit room that seems to shine with intensity from all
+directions.  The portals from many of the directions lead off into very
+uncharted regions of mindor.  The light seems to be eminating from the
+opening of the portals and is waving around like water.  Touching this water
+only creates a ripple affect that seems to make the water opening refract
+light in multiple colours.  So much color and light that it is almost
+impossible to tell which way you have came from and went through.  
+~
+0 0 0
+2
+D3
+~
+~
+0 0 50004
+D4
+~
+~
+0 0 50015
+D6
+~
+~
+0 0 50001
+S
+#50001
+Portal System~
+A very brightly lit room that seems to shine with intensity from all
+directions.  The portals from many of the directions lead off into very
+uncharted regions of mindor.  The light seems to be eminating from the
+opening of the portals and is waving around like water.  Touching this water
+only creates a ripple affect that seems to make the water opening refract
+light in multiple colours.  So much color and light that it is almost
+impossible to tell which way you have came from and went through.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 50002
+D3
+~
+~
+0 0 50007
+D8
+~
+~
+0 0 50000
+S
+#50002
+Portal System~
+A very brightly lit room that seems to shine with intensity from all
+directions.  The portals from many of the directions lead off into very
+uncharted regions of mindor.  The light seems to be eminating from the
+opening of the portals and is waving around like water.  Touching this water
+only creates a ripple affect that seems to make the water opening refract
+light in multiple colours.  So much color and light that it is almost
+impossible to tell which way you have came from and went through.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 50001
+D9
+~
+~
+0 0 50003
+D11
+~
+~
+0 0 4
+S
+#50003
+Portal System~
+A very brightly lit room that seems to shine with intensity from all
+directions.  The portals from many of the directions lead off into very
+uncharted regions of mindor.  The light seems to be eminating from the
+opening of the portals and is waving around like water.  Touching this water
+only creates a ripple affect that seems to make the water opening refract
+light in multiple colours.  So much color and light that it is almost
+impossible to tell which way you have came from and went through.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 50006
+D7
+~
+~
+0 0 50002
+S
+#50004
+Portal System~
+A very brightly lit room that seems to shine with intensity from all
+directions.  The portals from many of the directions lead off into very
+uncharted regions of mindor.  The light seems to be eminating from the
+opening of the portals and is waving around like water.  Touching this water
+only creates a ripple affect that seems to make the water opening refract
+light in multiple colours.  So much color and light that it is almost
+impossible to tell which way you have came from and went through.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 50005
+D1
+~
+~
+0 0 50000
+S
+#50005
+Portal System~
+A very brightly lit room that seems to shine with intensity from all
+directions.  The portals from many of the directions lead off into very
+uncharted regions of mindor.  The light seems to be eminating from the
+opening of the portals and is waving around like water.  Touching this water
+only creates a ripple affect that seems to make the water opening refract
+light in multiple colours.  So much color and light that it is almost
+impossible to tell which way you have came from and went through.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 50004
+D11
+~
+~
+0 0 50010
+S
+#50006
+Portal System~
+A very brightly lit room that seems to shine with intensity from all
+directions.  The portals from many of the directions lead off into very
+uncharted regions of mindor.  The light seems to be eminating from the
+opening of the portals and is waving around like water.  Touching this water
+only creates a ripple affect that seems to make the water opening refract
+light in multiple colours.  So much color and light that it is almost
+impossible to tell which way you have came from and went through.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 50003
+D11
+~
+~
+0 0 7801
+S
+#50007
+Portal System~
+A very brightly lit room that seems to shine with intensity from all
+directions.  The portals from many of the directions lead off into very
+uncharted regions of mindor.  The light seems to be eminating from the
+opening of the portals and is waving around like water.  Touching this water
+only creates a ripple affect that seems to make the water opening refract
+light in multiple colours.  So much color and light that it is almost
+impossible to tell which way you have came from and went through.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 50001
+D3
+~
+~
+0 0 50008
+D8
+~
+~
+0 0 50009
+S
+#50008
+Portal System~
+A very brightly lit room that seems to shine with intensity from all
+directions.  The portals from many of the directions lead off into very
+uncharted regions of mindor.  The light seems to be eminating from the
+opening of the portals and is waving around like water.  Touching this water
+only creates a ripple affect that seems to make the water opening refract
+light in multiple colours.  So much color and light that it is almost
+impossible to tell which way you have came from and went through.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 50007
+S
+#50009
+Portal System~
+A very brightly lit room that seems to shine with intensity from all
+directions.  The portals from many of the directions lead off into very
+uncharted regions of mindor.  The light seems to be eminating from the
+opening of the portals and is waving around like water.  Touching this water
+only creates a ripple affect that seems to make the water opening refract
+light in multiple colours.  So much color and light that it is almost
+impossible to tell which way you have came from and went through.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 50010
+D6
+~
+~
+0 0 50007
+S
+#50010
+Portal System~
+A very brightly lit room that seems to shine with intensity from all
+directions.  The portals from many of the directions lead off into very
+uncharted regions of mindor.  The light seems to be eminating from the
+opening of the portals and is waving around like water.  Touching this water
+only creates a ripple affect that seems to make the water opening refract
+light in multiple colours.  So much color and light that it is almost
+impossible to tell which way you have came from and went through.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 50009
+D2
+~
+~
+0 0 50018
+D5
+~
+~
+0 0 50011
+S
+#50011
+Portal System~
+A very brightly lit room that seems to shine with intensity from all
+directions.  The portals from many of the directions lead off into very
+uncharted regions of mindor.  The light seems to be eminating from the
+opening of the portals and is waving around like water.  Touching this water
+only creates a ripple affect that seems to make the water opening refract
+light in multiple colours.  So much color and light that it is almost
+impossible to tell which way you have came from and went through.  
+~
+0 0 0
+0
+D4
+~
+~
+0 0 50010
+D8
+~
+~
+0 0 50012
+S
+#50012
+Portal System~
+A very brightly lit room that seems to shine with intensity from all
+directions.  The portals from many of the directions lead off into very
+uncharted regions of mindor.  The light seems to be eminating from the
+opening of the portals and is waving around like water.  Touching this water
+only creates a ripple affect that seems to make the water opening refract
+light in multiple colours.  So much color and light that it is almost
+impossible to tell which way you have came from and went through.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 50013
+D6
+~
+~
+0 0 50011
+S
+#50013
+Portal System~
+A very brightly lit room that seems to shine with intensity from all
+directions.  The portals from many of the directions lead off into very
+uncharted regions of mindor.  The light seems to be eminating from the
+opening of the portals and is waving around like water.  Touching this water
+only creates a ripple affect that seems to make the water opening refract
+light in multiple colours.  So much color and light that it is almost
+impossible to tell which way you have came from and went through.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 50012
+D7
+~
+~
+0 0 50014
+S
+#50014
+Portal System~
+A very brightly lit room that seems to shine with intensity from all
+directions.  The portals from many of the directions lead off into very
+uncharted regions of mindor.  The light seems to be eminating from the
+opening of the portals and is waving around like water.  Touching this water
+only creates a ripple affect that seems to make the water opening refract
+light in multiple colours.  So much color and light that it is almost
+impossible to tell which way you have came from and went through.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 50015
+D9
+~
+~
+0 0 50013
+S
+#50015
+Portal System~
+A very brightly lit room that seems to shine with intensity from all
+directions.  The portals from many of the directions lead off into very
+uncharted regions of mindor.  The light seems to be eminating from the
+opening of the portals and is waving around like water.  Touching this water
+only creates a ripple affect that seems to make the water opening refract
+light in multiple colours.  So much color and light that it is almost
+impossible to tell which way you have came from and went through.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 50014
+D2
+~
+~
+0 0 50017
+D4
+~
+~
+0 0 50018
+D5
+~
+~
+0 0 50000
+D9
+~
+~
+0 0 50016
+S
+#50016
+Portal System~
+A very brightly lit room that seems to shine with intensity from all
+directions.  The portals from many of the directions lead off into very
+uncharted regions of mindor.  The light seems to be eminating from the
+opening of the portals and is waving around like water.  Touching this water
+only creates a ripple affect that seems to make the water opening refract
+light in multiple colours.  So much color and light that it is almost
+impossible to tell which way you have came from and went through.  
+~
+0 0 0
+0
+D7
+~
+~
+0 0 50015
+S
+#50017
+Portal System~
+A very brightly lit room that seems to shine with intensity from all
+directions.  The portals from many of the directions lead off into very
+uncharted regions of mindor.  The light seems to be eminating from the
+opening of the portals and is waving around like water.  Touching this water
+only creates a ripple affect that seems to make the water opening refract
+light in multiple colours.  So much color and light that it is almost
+impossible to tell which way you have came from and went through.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 50015
+S
+#50018
+Portal System~
+A very brightly lit room that seems to shine with intensity from all
+directions.  The portals from many of the directions lead off into very
+uncharted regions of mindor.  The light seems to be eminating from the
+opening of the portals and is waving around like water.  Touching this water
+only creates a ripple affect that seems to make the water opening refract
+light in multiple colours.  So much color and light that it is almost
+impossible to tell which way you have came from and went through.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 50010
+D2
+~
+~
+0 0 50020
+D4
+~
+~
+0 0 50019
+D5
+~
+~
+0 0 50015
+S
+#50019
+Portal System~
+A very brightly lit room that seems to shine with intensity from all
+directions.  The portals from many of the directions lead off into very
+uncharted regions of mindor.  The light seems to be eminating from the
+opening of the portals and is waving around like water.  Touching this water
+only creates a ripple affect that seems to make the water opening refract
+light in multiple colours.  So much color and light that it is almost
+impossible to tell which way you have came from and went through.  
+~
+0 0 0
+0
+D5
+~
+~
+0 0 50018
+S
+#50020
+Portal System~
+A very brightly lit room that seems to shine with intensity from all
+directions.  The portals from many of the directions lead off into very
+uncharted regions of mindor.  The light seems to be eminating from the
+opening of the portals and is waving around like water.  Touching this water
+only creates a ripple affect that seems to make the water opening refract
+light in multiple colours.  So much color and light that it is almost
+impossible to tell which way you have came from and went through.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 50018
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 50000 10 50000 1
+M 0 50010 1 50010 1
+M 0 50013 1 50013 1
+M 0 50014 1 50014 1
+M 0 50015 1 50015 1
+M 0 50018 1 50018 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

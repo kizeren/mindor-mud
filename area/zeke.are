@@ -1,0 +1,393 @@
+#AREADATA
+Name Zeke~
+Builders ~
+VNUMs 10900 10999
+Credits [LOCK] Open~
+Security 1
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#10900
+A Long windy path~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 10901
+S
+#10901
+A Long windy path~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 10902
+D2
+~
+~
+0 0 10900
+S
+#10902
+Entrance to The Temple~
+Great pillars stand facing skyward as the temple approaches.  Statues of
+the elements surround the entrance.  The whistle of the wind echos through
+the chambers.  The walls lined with cryptic messages and curses, baffle your
+mind.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 10903
+D3
+~
+~
+0 0 10901
+S
+#10903
+In the Corridor~
+The Corridor is lined with black velvet rugs and fancy red drapes. 
+Laughter and sounds of dying people fill the air, yet you here little
+children playing.  The exit splits into four ways, everyone with a different
+charcateristics.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 10904
+D1
+~
+~
+0 0 10914
+D2
+~
+~
+0 0 10902
+D3
+~
+~
+0 0 10908
+S
+#10904
+A Dark room~
+You look straight ahead and see the room twist like dough.  Lightning
+flashes through the corridor landing feed infront of the exit.  The Realm
+you know is slowly twisting it's way into a lost void.  Flying object zoom
+by as confusing sights blurr your mind.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 10906
+D2
+~
+~
+0 0 10903
+D5
+~
+~
+0 0 10907
+S
+#10905
+~
+~
+0 0 0
+0
+D2
+~
+~
+0 0 10904
+S
+#10906
+A Colorless void~
+Things around are just...  Gone.  The Reality you know has just turned on
+you, transporting you to this place.  Lights flash randomly causing you to
+reel back in dismay.  Sounds of thunder boom through the realm.  A Piercing
+high cackle breaks into the disruption.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 10904
+S
+#10907
+A hole~
+There's a hole in the floor... Hehehe :P
+~
+0 0 0
+0
+D4
+~
+~
+0 0 10904
+S
+#10908
+A warm forest~
+The forest begins to glow as you move forward.  Squirrels and small birds
+flee from the sight of you.  Smoke incaves everything you see in sight.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 10903
+D3
+~
+~
+0 0 10909
+S
+#10909
+The Bottom of the Clif~
+The Fire has closed in, disabling a way out only thing to do is climb. 
+Animals Screech as they stop at thier firey death.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 10908
+D4
+~
+~
+0 0 10910
+S
+#10910
+Top of the Cliff~
+Your pulse races as you realize your stuck, you have to push forward to
+make it alive.  Screams of dying animals fill the air as the earth begins to
+shift.  Trees crackle as they fall lifelessly to the ground.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 10911
+D5
+~
+~
+0 0 10909
+S
+#10911
+On the Edge of a steamy mountain~
+Creatures run as the mountain begins to shake violently.  The Smoke
+increases as your visiblity fades.  Dying trees block the way, disabling you
+to get to the top.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 10913
+D2
+~
+~
+0 0 10910
+S
+#10912
+~
+~
+0 0 0
+0
+D2
+~
+~
+0 0 10911
+S
+#10913
+The Ridge of the Volcano~
+Lava boils as you prepare to fight the unlawful creature threatening your
+existance.  The earth trembles as the Volcano pushes it's limits.  The
+horrible creature emerges from the depths of the lava.  A heart piercing
+roar freezes you solid.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 10911
+S
+#10914
+A Dark Gloomy Hallway~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 10915
+D3
+~
+~
+0 0 10903
+S
+#10915
+A Elevator~
+~
+0 0 0
+0
+D3
+~
+~
+0 0 10914
+D5
+~
+~
+0 0 10916
+S
+#10916
+A Elevator~
+~
+0 0 0
+0
+D3
+~
+~
+0 0 10917
+D4
+~
+~
+0 0 10915
+S
+#10917
+a Misty Black Cave~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 10916
+D3
+~
+~
+0 0 10918
+S
+#10918
+a Misty Black Cave~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 10917
+D3
+~
+~
+0 0 10919
+D5
+~
+~
+0 0 10920
+S
+#10919
+a Misty Black Cave~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 10918
+S
+#10920
+Stairway to Hell~
+~
+0 0 0
+0
+D4
+~
+~
+0 0 10918
+D5
+~
+~
+0 0 10922
+S
+#10921
+Hades' Throne~
+~
+0 0 0
+0
+D3
+~
+~
+0 0 10922
+D4
+~
+~
+0 0 10920
+S
+#10922
+Stairway to Hell~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 10921
+D4
+~
+~
+0 0 10920
+S
+#10999
+{D-{w={W[{DA G{woT{WH{wi{DC R{wo{WO{wM{W]{w={D-{x~
+~
+0 2052 0
+0
+O Zeke~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

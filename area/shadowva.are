@@ -1,0 +1,6194 @@
+#AREADATA
+Name New Area~
+Builders ~
+VNUMs 32000 32599
+Credits [ ALL ] Shadowvale   Nemisis~
+Security 1
+RepopMsg The sun fades as light turns to dark.~
+End
+
+
+
+#MOBILES
+#32084
+a healer~
+a healer~
+A clan healer is here selling spells.
+~
+~
+elf~
+ABGZae J AJ A 0 0
+110 110 221d36+3334 110d10+85 36d3+60 none
+-64 -64 -64 -41
+0 0 B Z
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#32085
+The Ghost of Strick~
+The Ghost of Strick the bartender~
+The Gost of Strick is here levitating drinks to his customers.
+~
+He looks rather harmless, but then again so does a sleeping dragon.
+~
+human~
+ABG 0 A A 750 0
+49 0 5d10+550 12d9+100 2d10+7 none
+-7 -7 -7 6
+EFNU 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0
+#32090
+vampire guildmaster~
+the guildmaster~
+Your guildmaster stands here.
+~
+An ancient man dressed in jet black.
+~
+human~
+ABJKOPVb 0 A A 0 0
+80 10 1d1+30000 1d1+499 5d8+5 pierce
+-15 -15 -15 -15
+FHN ABCD 0 0
+stand stand male 15000
+AHMV ABCDEFGHIJK medium 0
+#32093
+grocer~
+the grocer~
+A grocer stands at the counter, with a slightly impatient look on his face.
+~
+A tall grocer, who moves two 200 pounds bag of flour around on his shoulders.
+~
+human~
+ABV 0 A A 900 0
+46 0 1d1+999 1d1+99 1d8+20 beating
+-15 -15 -15 -15
+EFJ ABCD 0 0
+stand stand male 1300
+AHMV ABCDEFGHIJK medium 0
+#32100
+The Attendant~
+attendant~
+The attendant
+~
+~
+human~
+AB 0 A A 800 0
+45 0 5d10+450 11d9+100 3d6+6 none
+-6 -6 -6 6
+EFNU ABCD 0 0
+stand stand male 505
+AHMV ABCDEF medium 0
+F par GHIJK
+#32103
+Vampire Bat~
+a vampire bat~
+A Vampire Bat
+~
+~
+bat~
+AI TZ ATZ A -1000 0
+20 20 10d6+1 10d6+1 10d6+1 bite
+0 0 0 0
+FH 0 0 S
+stand stand none 0
+AGV ACDEFHJKP small unknown
+#32104
+White Owl~
+white owl~
+Wise old owl
+~
+~
+song bird~
+AI T AT A 1000 0
+40 40 20d6+2 20d6+2 20d6+2 none
+0 0 0 0
+FH 0 0 0
+stand stand none 0
+AGW ACDEFHKP small unknown
+#32105
+Bloodhound~
+a blood hound~
+A Bloody bloodhound
+~
+~
+dog~
+AI 0 A A -1000 0
+60 60 60d6+3 60d6+3 60d6+3 bite
+0 0 0 0
+H 0 0 0
+stand stand none 0
+AGV ACDEFHJKUV medium blood
+#32106
+Black Scorpion~
+a scorpion~
+A black scorpion
+~
+~
+centipede~
+AI Z AZ A -1000 0
+80 80 80d6+4 80d6+4 80d6+4 sting
+0 0 0 0
+0 0 FI E
+stand stand none 0
+ABGO ACK medium unknown
+#32107
+Death Cobra~
+A snake~
+A Death cobra 
+~
+~
+snake~
+AI 0 A A -1000 0
+100 100 100d6+5 100d6+5 100d6+5 bite
+0 0 0 0
+0 0 L I
+stand stand none 0
+AGXYc ADEFKLQVX medium unknown
+#32110
+oldstyle Nabil shopkeeper~
+Nabil~
+Nabil, purveyor of exotic pets, is waiting to serve you.
+~
+A large, well-fed shopkeeper, Nabil is adept at finding animals from all 
+parts of the world. He welcomes you warmly and offers to show you a pair
+of priceless parrots.
+~
+human~
+AB 0 A A 800 0
+45 0 5d10+450 11d9+100 3d6+6 none
+-6 -6 -6 6
+EFNU ABCD 0 0
+stand stand male 505
+AHMV ABCDEF medium 0
+F par GHIJK
+#32167
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+ABc 0 A A -1000 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AV 0 medium unknown
+F for HM
+F par ABCDEFGHIJK
+#32169
+Hiroshi~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 A A 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#32170
+Dr. Frankenstien~
+Dr. Frankenstien~
+Dr. Frankenstien is here trying to make an experiment of you.
+~
+~
+human~
+ABFc 0 A A -1000 0
+100 500 20d338+1840 10d20+100 10d20+50 slash
+0 0 0 0
+ABCDEFGHIKN ABIJKLQR CMNOPT HS
+stand stand male 40000
+ABMVc ABCDEFGHIJK medium skin
+F for H
+#32171
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 A A 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#32172
+Ghost of Black Horse Nightmare~
+the Nightmare~
+The darkness writhes and coallesces into the form of a pitch black horse.
+~
+A tall, fierce horse with blood red eyes stands before you, seeming to twist
+in and out of being even as you look at it.  All light is repelled from the
+vicinity of the beast, surrounding it with an aura of blackness, pierced
+only by the hellish red lights of its eyes.
+~
+unique~
+ABOQc 0 A A 1000 0
+10 2 10d10+1300 1d10+800 4d7+11 cleave
+-15 -15 -15 -15
+DEFGI KM CH NOP
+stand stand either 1000
+ACHV ACDEFHKQ large 0
+#32173
+Frankenstien's Monster~
+Frankenstien's monster~
+Frankenstien's Monster is here!!
+~
+Well now you've gone and done it...  You killed his daddy and pissed him
+off.....  Well best of luck to you..  
+~
+draconian~
+ABCGORTVc T AT A -1000 0
+110 999 1d1+29999 1d1+29999 6d19+150 smash
+-9 -9 -9 -9
+ADGMOR ABEHILQ CDGHIKOP FGJMNRSYZ
+stand stand male 1000
+ACDHIJKLMVZc ABCDEFGHIJKLPQUVWXY giant 0
+#32174
+Statue~
+the statue of Nemisis~
+The statue of Nemisis stands here.
+~
+~
+human~
+ABQT 0 A A 1000 0
+61 0 6d12+928 31d9+100 2d12+9 none
+-10 -10 -10 4
+EIKU 0 0 0
+stand stand male 1150
+AHMV ABCDEF tiny 0
+F par GHIJK
+#32175
+Statue~
+the statue of Kizeren~
+The statue of Kizeren stands here.
+~
+~
+human~
+ABQT 0 A A 1000 0
+61 0 6d12+928 31d9+100 2d12+9 none
+-10 -10 -10 4
+EIKU 0 0 0
+stand stand male 1150
+AHMV ABCDEF tiny 0
+F par GHIJK
+#32176
+statue~
+the statue of Augustus~
+The statue of Augustus stands here.
+~
+~
+human~
+ABQT 0 A A 1000 0
+61 0 6d12+928 31d9+100 2d12+9 none
+-10 -10 -10 4
+EIKU 0 0 0
+stand stand male 1150
+AHMV ABCDEF tiny 0
+F par GHIJK
+#32177
+statue~
+the statue of Muaso~
+The statue of Muaso stands here.
+~
+~
+human~
+ABQT 0 A A 1000 0
+61 0 6d12+928 31d9+100 2d12+9 none
+-10 -10 -10 4
+EIKU 0 0 0
+stand stand male 1150
+AHMV ABCDEF tiny 0
+F par GHIJK
+#32181
+a bank tellar~
+a bank tellar~
+A bank tellar is standing here.
+~
+~
+human~
+ABG 0 A A 0 0
+110 110 221d36+3334 110d10+85 36d3+60 none
+-64 -64 -64 -41
+0 0 0 0
+stand stand male 0
+0 0 medium mist
+F for AHMV
+F par ABCDEFGHIJK
+#32182
+Norman Bates~
+Norman Bates ~
+Norman Bates stands here waiting to show you your room for the night.
+~
+~
+human~
+AB 0 A A 0 0
+110 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AMV ABCDEFHIJK medium skin
+F for H
+F par G
+#32183
+Norman's Mother~
+Norman's Mother~
+Norman's mother sits in her rocking chair looking out a window.
+~
+~
+human~
+AB 0 A A 0 0
+110 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+I ABCDEFGHIJK medium skeleton
+F for AHMV
+#32184
+Boo~
+a ghost~
+A ghost is floating nearby.
+~
+~
+dragon~
+ABGc JT AJT A 1000 0
+109 109 219d36+3301 109d10+85 36d3+59 none
+-64 -64 -64 -41
+0 C BEH FI
+stand stand none 3000
+AHZ ACDEFGHIJKPQUVX medium ghost
+#32185
+Freddy Krugar~
+Freddy Krugar~
+Freddy Krugar is here waiting to make your nightmare a reality.
+~
+~
+human~
+ABOc 0 A A -1000 0
+50 200 10d10+10 10d10+10 10d10+10 claw
+0 0 0 0
+BEFGHKN ABLMQR 0 CHS
+stand stand male 0
+ABIMVc ABCDEFHIJKU medium BurnedSkin
+F for H
+F par G
+#32191
+Hell Hound~
+a hell hound~
+A hell hound is here.
+~
+Fido is a small dog that has a foul smell and pieces of rotted meat hanging
+around his teeth.
+~
+fido~
+AFH 0 A A -200 0
+0 0 2d4+2 0d1+99 1d2+0 none
+10 10 10 10
+EFNR 0 0 C
+stand stand male 0
+ABGV ACDEFHJKQV medium 0
+#32193
+cityguard guard~
+the cityguard~
+A cityguard is here, guarding the gate alertly.
+~
+A big, strong, helpful, trustworthy guard.
+~
+human~
+ABT 0 A A 1000 3000
+29 3 15d15+160 1d1+149 2d4+4 punch
+0 0 0 8
+CDEKLTU 0 C 0
+stand stand either 150
+AHMV ABCDEFGHIJK medium 0
+#32194
+First Draconian Archmage Jr.~
+a temple guard~
+A temple guard is looking for outlaws to punish.
+~
+Big. Very big.
+Stupid. Very stupid.
+
+The guardian of  the Temple of Nemisis, towers over you.  He's over 12
+feet tall, every inch of it muscle. It would be a Bad Thing to commit a crime
+in his presence.
+~
+giant~
+ABTVc 0 A A 1000 3000
+140 30 1d1+3999 1d1+499 5d4+40 crush
+-25 -25 -25 -15
+ACDEFHIKLNOT ABCEFGHIJKLMNOQRTXYZ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK huge 0
+F res HI
+F vul JP
+#32211
+Clan Shopkeeper~
+Clan Shopkeeper~
+A clan shopkeeper is here.
+~
+~
+kobold~
+ABG J AJ A -1000 0
+110 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 L C
+stand stand none 0
+ABHMV ABCDEFGHIJKQ small none
+#32233
+Clan Shopkeeper~
+Clan Shopkeeper~
+A clan shopkeeper is here.
+~
+~
+kobold~
+ABG J AJ A -1000 0
+110 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 L C
+stand stand none 0
+ABHMV ABCDEFGHIJKQ small none
+#32235
+Clan Shopkeeper~
+Clan Shopkeeper~
+A clan shopkeeper is here.
+~
+~
+kobold~
+ABG J AJ A -1000 0
+110 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 L C
+stand stand none 0
+ABHMV ABCDEFGHIJKQ small none
+#32237
+Clan Shopkeeper~
+Clan Shopkeeper~
+A clan shopkeeper is here.
+~
+~
+kobold~
+ABG J AJ A 1000 0
+110 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 L C
+stand stand none 0
+ABHMV ABCDEFGHIJKQ small none
+#32241
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 A A 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#32244
+shopkeeper old man~
+the ancient potion-brewer~
+An old man eyes you greedily.
+The old man says, 'Would you like to buy a nice love potion?'
+~
+He looks very dangerous.  I wouldn't try to rob him.
+~
+human~
+ABQRV 0 A A 1000 0
+64 0 1d1+999 1d1+999 10d10+10 magic
+-15 -15 -15 -15
+FGH ABCD 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0
+#32247
+wizard blue decorum~
+{BW{bi{Bz{ba{Br{bd {Bo{bf {Bt{bh{Be {bB{Bl{bu{Be {bD{Be{bc{Bo{br{Bu{bm{x~
+{CA {BW{bi{Bz{ba{Br{bd {Bo{bf {Bt{bh{Be {bB{Bl{bu{Be {bD{Be{bc{Bo{br{Bu{bm{C is present.{x
+~
+Clad in all blue, this wizard stands proud and ready to
+defend his hall.
+~
+human~
+ABc 0 A A 0 0
+71 83 25d10+1100 1d100+3000 5d8+13 none
+-25 -25 -25 -11
+0 B 0 0
+stand stand either 1100
+E ABCDEFGHIJK medium unknown
+F for AHMV
+#32252
+armourer armorer~
+the armourer~
+An armourer stands here.
+~
+An old but very strong armourer, he has made more armours in his
+lifetime than you have ever seen.
+~
+human~
+ABV 0 A A 900 0
+45 10 1d1+999 1d1+99 1d8+32 punch
+-15 -15 -15 -15
+CEFJKN ABCD 0 0
+stand stand male 25000
+AHMV ABCDEFGHIJK medium 0
+#32257
+oldstyle blacksmith~
+the blacksmith~
+The blacksmith bids you welcome to his humble store.
+~
+The blacksmith is a lean and mean fighting machine.  His knowledge of weapons
+and armour would certainly help him in any fight against riff-raff like you.
+~
+human~
+AB 0 A A 600 0
+99 0 50d10+4500 25d9+100 5d8+19 none
+-20 -20 -20 3
+EFNU 0 0 0
+stand stand male 900
+AHMV ABCDEFGHIJK medium 0
+#32262
+baker~
+the baker~
+The baker looks at you calmly, wiping flour from his face with one hand.
+~
+A fat, nice looking baker. But you can see that he has many scars on his
+body.
+~
+human~
+ABV 0 A A 900 0
+46 0 1d1+999 1d1+99 1d8+20 beating
+-15 -15 -15 -15
+CDF ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0
+#32266
+The Butcher~
+George the Butcher~
+George the Butcher is here whacking away at a side of beef.
+~
+Looking down at you with blood splattered all over his face and apron,
+he asks, 'How much you want?'
+~
+human~
+AB 0 A A 600 0
+60 0 6d12+853 15d9+100 4d6+8 none
+-9 -9 -9 6
+EFNU 0 0 0
+stand stand male 50
+AHMV ABCDEFGHIJK medium 0
+#32271
+Repairman~
+a repairman~
+A repairman is here.
+~
+~
+human~
+AB 0 A A 0 0
+101 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#32273
+oldstyle horse young~
+the young horse~
+A young horse is here, grazing.
+~
+The horse whinnies at you, then runs around you a few times, then just goes
+back to grazing.
+~
+human~
+ABFH 0 A A 0 0
+12 0 2d7+71 3d9+100 1d7+1 none
+4 4 4 9
+EFNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#32274
+oldstyle chicken~
+a chicken~
+A chicken sits on her nest.
+~
+The chicken is bright and healthy.  She has no weapons but her beak.
+~
+human~
+ABG 0 A A 0 0
+4 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+EFNU 0 0 0
+sit sit female 0
+AHMV ABCDEFGHIJK medium 0
+#32275
+oldstyle cow~
+a cow~
+A cow is here, chewing her cud.
+~
+The cow looks like it hasn't been milked in quite some time.  Although she
+is past her prime, you see that she still has a lot of years left, and that
+if provoked, her rear kick can be quite deadly.
+~
+human~
+ABG 0 A A 0 0
+7 0 2d7+46 2d9+100 1d5+1 none
+6 6 6 9
+EFNU 0 0 0
+rest rest none 0
+AHMV ABCDEFGHIJK medium 0
+#32278
+oldstyle chef~
+the chef~
+The chef stands here making dinner.
+~
+You see a very large human who seems to taste everything he makes.
+~
+human~
+AB 0 A A 400 0
+40 0 3d9+333 10d9+100 2d8+5 none
+-4 -4 -4 7
+EFNU 0 0 0
+stand stand male 345
+AHMV ABCDEF tiny 0
+F par GHIJK
+#32282
+Book of Death~
+a book~
+A black book is setting on a table.
+~
+A black book of death is laying on the table before you.  This book is
+not something to mess with.  
+~
+human~
+ABCFGT 0 A A -1000 0
+55 10 6d12+703 3d100+200 5d4+7 none
+-20 -20 -20 -10
+EFNU 0 0 0
+stand stand none 2000
+AHMV ABCDEFGHIJK medium 0
+#32283
+oldstyle librarian mage~
+the Librarian~
+The Librarian has fallen asleep at his desk here.
+~
+He looks like a rather peaceful old man.
+~
+human~
+ABFGHR 0 A A 450 0
+46 0 5d10+400 23d9+100 2d8+5 none
+-5 -5 -5 3
+FU 0 0 0
+sleep sleep male 64
+AHMV ABCDEFGHIJK medium 0
+#32284
+toilet monster mound stuff~
+the toilet monster~
+A smelly mound of... stuff... squishes here.
+~
+Gross..
+~
+unique~
+ABCFGU 0 A A 0 0
+65 0 10d10+1100 1d10+650 6d4+9 suction
+-15 -15 -16 -14
+ACD LQ 0 0
+stand stand none 0
+BHJ ABCDEFHIJKU large 0
+#32286
+Closet Monster~
+a pile of close~
+A smelly mound of... stuff... squishes here.
+~
+Gross..
+~
+unique~
+ABCFGU 0 A A 0 0
+65 0 10d10+1100 1d10+650 6d4+9 suction
+-15 -15 -16 -14
+ACD LQ 0 0
+stand stand none 0
+BHJ ABCDEFHIJKU large 0
+#32290
+A carnivorous plant~
+a carnivorous plant~
+Amidst the jungle here, a huge Carnivorous plant reaches out to grab you!
+~
+The plant looks something like a Venus fly-trap, only MUCH larger.
+~
+human~
+ABFG 0 A A 0 0
+18 0 2d6+110 4d9+100 1d8+2 none
+2 2 2 8
+EFNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#32291
+oldstyle Secretary of Hell~
+Secretary of Hell~
+The Secretary of Hell sits here, watching the phones ring.
+~
+This very sexy secretary seems to be just sitting here amusing herself
+by watching the little lights on the telephone blink. She is oblivious
+to your presence and seems fascinated by the phones.
+~
+human~
+AB 0 A A -700 0
+85 0 25d10+2500 21d9+100 3d12+15 none
+-15 -15 -15 4
+EFNU 0 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK medium 0
+#32296
+lookout~
+The Lookout~
+A lookout has been posted here to search for signs of danger.
+~
+He peers intently in all directions and keeps an eye on the weather.
+~
+human~
+ABCGT 0 A A -1000 0
+50 15 5d10+550 2d100+200 2d10+7 none
+-50 -50 -50 0
+EFNU 0 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#32079
+sign~
+a sign is posted here.~
+A sign is posted on a nearby tree.~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+Welcome to Shadowvale, realm of eternal rain..
+~
+E
+tree~
+~
+#32080
+sign~
+a sign hangs here.~
+A sign hangs on an outreached arm.~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+Enter my tomb and discover my secret.....  
+~
+#32081
+portal~
+a portal is here.~
+A portal suddenly appears before you.~
+unknown~
+portal 0 0
+0 0 0 32008 0
+0 0 0 P
+#32082
+portal~
+a portal is here.~
+A portal is here waiting to take you to a far away place.~
+unknown~
+portal 0 0
+0 0 0 32007 0
+0 0 0 P
+#32083
+Healing pool~
+a healing pool~
+A healing pool~
+water~
+furniture 0 0
+100 0 F 100 100
+0 0 0 P
+#32086
+Real Bloody Mary~
+a Real Bloody Mary~
+A Real Bloody Mary with real blood~
+blood~
+drink 0 0
+5 5 'blood' 0 0
+0 1 50 P
+#32087
+Toxic Cola~
+a toxic cola~
+A cold toxic cola~
+slime~
+drink 0 0
+5 5 'slime mold juice' 1 0
+0 1 50 P
+#32088
+Barrel of Beer~
+a barrel of beer~
+A large barrel of fine beer~
+beer~
+drink 0 0
+20 20 'beer' 0 0
+0 20 100 P
+#32089
+Bar~
+a bar~
+A bar is here to sit at~
+wood~
+furniture 0 0
+100 100 ADN 10 10
+0 0 0 P
+#32091
+fountain water~
+a large cracked fountain~
+Some stagnant water lies in the bottom of the fountain.~
+oldstyle~
+fountain 0 0
+10 10 'water' 0 0
+0 0 0 P
+#32094
+skin water buffalo~
+a buffalo water skin~
+A bloated dead buffalo is on the floor.~
+leather~
+drink 0 A
+64 64 'water' 0 0
+0 40 24 G
+#32095
+torch~
+a torch~
+A large torch.~
+wood~
+light 0 A
+0 0 50 0 0
+0 30 4 G
+#32096
+backpack pack back~
+a backpack~
+A backpack stands upright here.~
+oldstyle~
+container 0 AK
+60 AC 0 6 100
+0 20 100 P
+#32097
+cloak nightmares black~
+a cloak of nightmares~
+A shadowy black cloak writhes with agony.~
+shadows~
+armor CF AK
+21 20 20 16 0
+89 20 10000 P
+A
+2 4
+A
+3 -2
+A
+5 -3
+A
+9 15
+A
+12 85
+A
+13 60
+A
+19 6
+#32098
+Immortal's Signet Ring~
+immortal's signet ring~
+A ring showing immortalship is protecting you.~
+alien metal~
+gem HTZ AB
+0 0 0 0 0
+102 1 0 P
+F
+I 0 0 BCDEFGHIJKLMNOPQRST
+F
+S 0 0 HO
+F
+A 0 0 CDEFGJNTUVZc
+A
+19 200
+A
+18 200
+A
+17 -50
+#32167
+Scales Of Nemisis~
+the scales of nemisis~
+The Scales of Nemisis are protecting you.~
+Silk~
+armor ABCGHISUYZ AD
+-99999 -99999 -99999 -99999 0
+0 1 0 P
+#32168
+Castle Basement Key~
+a bone key~
+A key to the castle basement.~
+bone~
+key N AO
+0 0 0 0 0
+1 1 0 P
+#32169
+Claw of Nemisis~
+a claw of nemisis~
+A claw of nemisis is here.~
+crystal~
+weapon ABGHISTUYZ AN
+exotic 9999 9999 divine ABCDEGH
+1 1 0 P
+A
+18 30000
+A
+19 30000
+#32171
+Key To Castle Tower~
+a key to the castle tower~
+A key to the castle tower~
+stone~
+key 0 AO
+0 0 0 0 0
+1 1 0 P
+#32178
+Key to Castle Vault~
+a key to the castle vault~
+A key to the castle vault~
+gold~
+key 0 AO
+0 0 0 0 0
+1 1 10000 P
+#32179
+Pile of Platinum Coins~
+a pile of coins~
+A pile of coins is here.~
+Platinum~
+money 0 A
+237 11 0 0 0
+0 10 300000 P
+#32180
+pile bone flesh~
+a pile of bone and flesh~
+A pulverized pile of flesh and bone is in the middle of the room.~
+bone and flesh~
+trash 0 P
+0 0 0 0 0
+1 10 0 P
+E
+pile~
+With disgust you realize that this pile of pulverized bone and flesh once
+used to be human which is now splattered all over this room.  
+~
+E
+flesh~
+With disgust you realize that this pile of pulverized bone and flesh once
+used to be human which is now splattered all over this room.  
+~
+E
+bone~
+With disgust you realize that this pile of pulverized bone and flesh once
+used to be human which is now splattered all over this room.  
+~
+#32181
+Old Rusted Chains~
+a pair of rusty chains~
+A pair of rusty chains set here.~
+iron~
+trash 0 0
+0 0 0 0 0
+102 1 0 P
+A
+12 100
+A
+13 100
+A
+18 5
+#32186
+pizza slice~
+a slice of pizza~
+A slice of pizza is here looking very tasty.~
+oldstyle~
+food 0 A
+15 15 0 0 0
+0 10 10 P
+E
+pizza slice~
+Ahh!  Round Table pizza!  How appropriate.  Any root beer?
+~
+#32187
+meat steak~
+a juicy steak~
+A juicy steak sits on a plate here.~
+meat~
+food 0 A
+25 25 0 0 0
+0 20 0 P
+#32188
+rotting flesh~
+some rotting flesh~
+Some rotting flesh lies here in a pile.~
+oldstyle~
+armor 0 AD
+8 8 8 0 0
+49 30 3900 P
+#32189
+A Weed Brownie~
+a weed brownie~
+A freshly made weed brownie has been left here.~
+weed~
+pill 0 A
+100 'shockshield' 'iceshield' 'fireshield' 'sanctuary'
+0 1 0 P
+#32190
+You Must Have Done Something Good Pill~
+a you must have done something good pill~
+A strange pill lies here.~
+hehe~
+pill 0 A
+100 'quest pill' 'quest pill' 'quest pill' 'quest pill'
+0 1 0 P
+#32192
+DEA Agent Badge~
+dEA Agent Badge~
+A DEA badge is here.~
+Brass~
+armor ABGHIOSTY AJ
+-99999 -99999 -99999 -99999 1
+105 1 0 P
+A
+19 24464
+A
+18 24464
+#32196
+mystical waterfall icewine~
+a Mystical Waterfall~
+A Mystical Waterfall flows down the side of this mountain.~
+etherealness~
+fountain AGOSTY 0
+99999 99999 'icewine' 0 0
+104 60 0 P
+#32198
+Blood filled bottle~
+a bottle of {Gdragons {Rblood {x~
+A magic bottle filled with {Gdragons {Rblood {x is here.~
+glass~
+drink H A
+99999 99999 'blood' 0 0
+0 1 0 P
+#32199
+Mirror Shield~
+a mirror shield~
+A mirror shield is floating here.~
+mirror~
+armor ABFGMOSTY AJ
+100 100 100 100 1
+0 1 0 P
+A
+18 100
+A
+17 -100
+#32206
+Portal One~
+portal one~
+Portal one to fanatics tower.~
+unknown~
+portal 0 0
+0 0 0 19993 0
+0 0 0 P
+#32207
+Portal Two~
+portal two~
+Portal two to olympus.~
+unknown~
+portal 0 0
+0 0 0 904 0
+0 0 0 P
+#32208
+Portal Three~
+portal three~
+Portal three to elemental canyon.~
+unknown~
+portal 0 0
+0 0 0 9205 0
+0 0 0 P
+#32209
+Portal Four~
+portal four~
+Portal four to camelot.~
+unknown~
+portal 0 0
+0 0 0 3802 0
+0 0 0 P
+#32210
+Portal Five~
+portal five~
+Portal five to the pirate ship.~
+unknown~
+portal 0 0
+0 0 0 16005 0
+0 0 0 P
+#32212
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' 'detect hidden' '' ''
+0 10 220 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'.
+~
+#32213
+COTM Signet Ring~
+cOTM signet ring~
+COTM signet ring.~
+alien metal~
+gem HT AB
+0 0 0 0 0
+0 1 0 P
+F
+I 0 0 BCDEFGHIJKLMNOPQRST
+F
+S 0 0 HO
+F
+A 0 0 CDEFGJNTUVZc
+A
+19 200
+A
+18 200
+A
+17 -50
+#32214
+flaming black sword long longsword~
+the pitch-black flaming longsword~
+A pitch-black long sword here~
+oldstyle~
+weapon G AN
+sword 2 12 slash AC
+55 200 2200 P
+A
+18 1
+E
+flaming sword long longsword~
+This sword is amazing! It almost wields itself! As you test it out, the
+flames seems to roar brighter as you go thru basic swordsman routines.
+it is obviously a great find!
+~
+#32234
+gleaming white sword~
+a gleaming white sword~
+A white sword gleams brightly.~
+mithril~
+weapon IK AN
+sword 5 11 cleave 0
+50 200 10000 P
+A
+18 10
+A
+19 15
+#32236
+sword lightning bolt~
+a sparking lightning sword~
+A lightning bolt fashioned into a sword spits sparks here.~
+oldstyle~
+weapon AB AN
+sword 5 4 slash H
+50 100 2200 P
+A
+18 -1
+A
+19 2
+#32238
+avenger holy sword~
+holy Avenger~
+A glowing silvery sword is hovering here, ready to possess an owner.~
+oldstyle~
+weapon GK AN
+sword 4 6 slice 0
+50 250 5700 P
+A
+18 1
+A
+19 6
+#32239
+fountain of water~
+{gFo{Gu{Wnt{Ga{gin {Wof {BW{ba{Bt{be{Br{x~
+A {gFo{Gu{Wnt{Ga{gin {Wof {BW{ba{Bt{be{Br{x is here.~
+stone~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 P
+#32240
+GOS Signet Ring~
+gOS signet ring~
+GOS signet ring.~
+alien metal~
+gem HT AB
+0 0 0 0 0
+0 1 0 P
+F
+I 0 0 BCDEFGHIJKLMNOPQRST
+F
+S 0 0 HO
+F
+A 0 0 CDEFGJNTUVZc
+A
+19 200
+A
+18 200
+A
+17 -50
+#32241
+OOTC Signet Ring~
+oOTC signet ring~
+OOTC signet ring.~
+alien metal~
+gem HT AB
+0 0 0 0 0
+0 1 0 P
+F
+I 0 0 BCDEFGHIJKLMNOPQRST
+F
+S 0 0 HO
+F
+A 0 0 CDEFGJNTUVZc
+A
+19 200
+A
+18 200
+A
+17 -50
+#32242
+COP Signet Ring~
+cOP signet ring~
+COP signet ring.~
+alien metal~
+gem HT AB
+0 0 0 0 0
+0 1 0 P
+F
+I 0 0 BCDEFGHIJKLMNOPQRST
+F
+S 0 0 HO
+F
+A 0 0 CDEFGJNTUVZc
+A
+19 200
+A
+18 200
+A
+17 -50
+#32243
+red potion bubbling~
+a bubbling red potion~
+A bubbling red potion is here, lying on the ground.~
+unknown~
+potion G AO
+30 'giant strength' '' '' ''
+30 10 2600 P
+E
+bubbling~
+On the side of this bubbling red potion is a label marked in beautiful
+script handwriting: Potion of Giant Strength.  
+~
+E
+red~
+On the side of this bubbling red potion is a label marked in beautiful
+script handwriting: Potion of Giant Strength.  
+~
+E
+potion~
+On the side of this bubbling red potion is a label marked in beautiful
+script handwriting: Potion of Giant Strength.  
+~
+#32245
+life potion~
+a potion of life healing~
+A potion of life healing has left here.~
+oldstyle~
+potion H A
+32 'cure poison' 'bless' '' ''
+11 10 630 P
+#32246
+Minor Potion of Healing~
+{wa minor potion of {Whealing{x~
+{wA minor potion of {Whealing{w is here.~
+unknown~
+potion 0 AO
+25 'cure light' 'reserved' 'reserved' 'reserved'
+50 0 5000 P
+#32248
+wand~
+elemental wand of fire~
+A fire wand lies forgotten on the ground.~
+oldstyle~
+wand A AO
+15 3 3 'fireball' 0
+31 70 3900 P
+#32249
+wand air wind~
+elemental wand of wind and air~
+An air wand lies forgotten on the ground.~
+oldstyle~
+wand A AO
+11 1 1 'gas breath' 0
+53 70 12600 P
+#32250
+wand~
+elemental wand of lightning~
+A lightning wand lies forgotten on the ground.~
+oldstyle~
+wand A AO
+9 1 1 'lightning bolt' 0
+13 70 1420 P
+#32251
+wand magic missile missiles~
+a wand of magic missiles~
+a wooden stick lies on the ground.~
+wood~
+wand G AO
+4 10 10 'magic missile' 0
+3 10 320 P
+E
+wand~
+It has a little note that says 'point this end at target'.
+~
+#32253
+enrel bone bracer~
+a bracer made of bone~
+A bracer made of bone lies lies.~
+unknown~
+armor SY AM
+4 4 5 3 0
+20 40 800 P
+A
+2 1
+A
+19 1
+A
+18 2
+#32254
+shield electric~
+an electric shield~
+A shield made entirely of energy buzzes here.~
+oldstyle~
+armor B AJ
+9 9 9 4 0
+55 80 4500 P
+A
+5 1
+A
+1 -1
+#32255
+leggings red~
+red dragonscale leggings~
+On the floor you see two red dragonscale leggings.~
+oldstyle~
+armor GJ AF
+9 9 9 4 0
+57 170 3700 P
+A
+19 2
+A
+2 -1
+#32256
+water walking boots elven~
+elven Water Walking Boots~
+A pair of Elven Water Walking Boots lie here.~
+ash~
+boat A AG
+0 0 0 0 0
+20 150 2000 P
+A
+14 -25
+#32258
+balanced adamantite longsword long sword~
+a finely balance adamantite longsword~
+An adamantite longsword of superb craftsmanship gleams here.~
+adamantite~
+weapon AI AN
+sword 2 22 cleave D
+70 300 17800 P
+A
+19 15
+A
+18 15
+#32259
+ice spear two-handed~
+an ice spear~
+A spear made out of ice lies here.~
+oldstyle~
+weapon 0 AN
+staff 6 7 pierce BF
+95 50 1330 P
+#32260
+axe war~
+a war axe~
+A razor-sharp war axe rests on the ground.~
+steel~
+weapon G AN
+axe 3 4 chop 0
+23 70 930 P
+A
+19 1
+E
+axe~
+It has an edge sharp enough to cut a passing thought. A good find, this.
+~
+#32261
+dagger sacrificial~
+a spider shaped dagger~
+A dagger with spider leg shaped blades lies on the ground.~
+oldstyle~
+weapon GJ AN
+dagger 4 6 stab 0
+59 20 3300 P
+A
+19 3
+A
+18 3
+#32263
+pipeweed bread~
+a pipeweed bread~
+A loaf of pipeweed bread arouses your hunger.~
+oldstyle~
+food 0 A
+30 24 0 0 0
+0 10 15 P
+#32264
+bread~
+a bread~
+A loaf of bread is here. It doesn't look too stale.~
+food~
+food 0 A
+18 12 0 0 0
+0 10 9 P
+#32265
+dwarven adventurer bread~
+Dwarven Adventurer Bread~
+A fine example of Dwarven Adventurer Bread lies here.~
+food~
+food 0 A
+48 20 0 0 0
+1 1 50 P
+#32267
+meat steak~
+a juicy steak~
+A juicy steak sits on a plate here.~
+meat~
+food 0 A
+25 25 0 0 0
+0 20 0 P
+#32268
+side meat beef~
+a side of beef~
+A side of beef is here on the floor.~
+oldstyle~
+food 0 A
+24 24 0 0 0
+0 100 50 P
+#32269
+side meat pork~
+a side of pork~
+A side of pork is here on the floor.~
+oldstyle~
+food 0 A
+23 23 0 0 0
+0 100 42 P
+#32270
+side meat horse~
+a side of horse~
+A side of horse is here on the floor.~
+oldstyle~
+food 0 A
+30 30 0 0 0
+0 120 21 P
+#32272
+bed~
+a bed~
+A very soft and large bed is here.~
+wood~
+furniture 0 0
+2 400 K 250 250
+0 0 10000 P
+#32276
+hay pile~
+a pile of hay~
+There is a big pile of hay here.~
+oldstyle~
+trash 0 A
+0 0 0 0 0
+0 200 0 P
+#32277
+large meat hook two-handed~
+a large meat hook~
+A large meat hook is stuck into the ground.~
+oldstyle~
+weapon 0 AN
+polearm 9 4 stab BF
+93 30 2400 P
+A
+19 2
+#32279
+wooden table~
+a wooden table~
+A wooden table sits here.~
+wood~
+furniture 0 0
+10 40 BEHN 100 100
+0 500 0 P
+#32280
+Piano~
+an old piano~
+An old piano sets here.~
+wood~
+jukebox 0 0
+0 0 0 0 0
+0 400 0 P
+#32281
+mahogany desk~
+the {yM{Ya{yh{Yo{yg{Ya{yn{Yy {DD{re{Ds{rk{x~
+The {yM{Ya{yh{Yo{yg{Ya{yn{Yy {DD{re{Ds{rk{x is here.~
+unknown~
+furniture 0 0
+1 1000 D 100 100
+0 0 0 P
+#32285
+Picture of Lord Frankenstien~
+a picture~
+A picture of Lord Frankenstien is hanging here.~
+picture paper~
+trash O AO
+0 0 0 0 0
+1 1 100 P
+#32287
+fireplace~
+a fireplace~
+A fireplace made from stone is set against the east wall.~
+oldstyle~
+container 0 0
+200 0 0 200 100
+0 0 0 P
+E
+fireplace~
+It is fashioned from stones of various sizes that have been stacked on top of
+each other and fastened with mortar.  Its chimney is constructed likewise and
+leads the smoke out through the low cabin ceiling.
+~
+#32288
+chair~
+a chair~
+An old wooden and well crafted chair is here.~
+wood~
+furniture 0 0
+1 700 E 0 0
+0 0 1000 P
+#32289
+leather couch~
+a long leather couch~
+A long leather couch rests here, waiting for a patient to examine.~
+soft leather~
+furniture B 0
+2 2000 BEHKN 100 100
+0 0 0 P
+E
+leather couch~
+The couch seems to hum continuously.  Under your scrutiny, you think you
+hear it mutter something about "..neuro deficiency leading to..", but
+maybe it's just your imagination..  Need a seat?
+~
+#32316
+amulet captain~
+the pirate captain's amulet~
+Captain Amos's precious amulet has been accidentally left here.~
+~
+key AF AC
+B 0 0 0 0
+10 2 200 P
+A
+13 20
+A
+1 2
+A
+12 20
+E
+amulet captain~
+It is a small coin shaped amulet hung on a thin gold chain.  On the
+face of the amulet is a picture of a dagger pointing down at a set
+of skull and crossbones.
+~
+#0
+
+
+
+#ROOMS
+#32000
+Entrance to Shadowvale~
+The sky grows cloudy as you feel light drops of water land on your
+shoulder.  Just ahead you see a muddy path leading to what appears to be a
+graveyard.  A sign is nailed to a tree nearby along with a hangmans noose,
+makes you wonder if it is a good idea to continue.....  
+~
+0 0 0
+0
+E
+sign~
+Welcome to Shadowvale, realm of eternal darkness....  
+~
+E
+tree~
+Welcome to Shadowvale, realm of eternal rain...
+~
+D0
+~
+~
+0 0 32001
+S
+#32001
+A Muddy Path~
+The rain continues to fall as you make your way up the path.  A chill
+runs up your spine as you notice the tall iron gates ahead to the North.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32002
+D2
+~
+~
+0 0 32000
+S
+#32002
+Entrance to the Graveyard~
+Two large cast iron gates now stand before you, and beyond.....  The
+GRAVEYARD!!!  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32003
+D2
+~
+~
+0 0 32001
+S
+#32003
+Shadowvale Graveyard~
+Before you stands the graves of all the fallen heros, victims of the
+realm..  Rows and rows of graves stretch on as far as the eye can see...  To
+the East lies a statue of what seems to be a past king, and to the West an
+unmarked grave....  I wonder who it was....  The path continues north to an
+open tomb, looks like a good place to get out of the rain.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32004
+D1
+~
+~
+0 0 32006
+D2
+~
+~
+0 0 32002
+D3
+~
+~
+0 0 32005
+S
+#32004
+Entrance to The Royal Tomb~
+Your standing in front of an ancient tomb of the past king of this realm.
+The door is open and rusted in place from years of constant rain.  As you
+walk up the steps you wonder what secrets the tomb hold for you....  
+~
+0 0 0
+0
+D0
+~
+~
+1 0 32007
+D2
+~
+~
+0 0 32003
+S
+#32005
+An Unmarked Gravesite~
+You stand before an unmarked gravestone....  It reads HERE LIES the rest
+is worn off...  Hmmmm....  A large hole is in front of it slowly filling
+with water...  I guess he wasn't dead after all....  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 32003
+S
+#32006
+A Large Statue~
+A large statue of a past king stands tall and proud...  A sign hangs on
+one of his outreached arms..  I wonder what it says ?  
+~
+0 0 0
+0
+D3
+~
+~
+0 0 32003
+S
+#32007
+Inside The Tomb~
+As you walk inside you instantly start to get cold.  There is no light
+except for the lighting showing through the door.  Suddenly a portal appears
+in the room, could this be the kings secret..?  
+~
+0 8 0
+0
+D2
+~
+~
+1 0 32004
+S
+#32008
+Temple Portal Room~
+As you exit the portal you find yourself in a large room of what seems to
+be a temple.  Behind you is the portal you arrived from and there is a large
+hallway to the East.  
+~
+0 1032 0
+0
+D1
+~
+~
+0 0 32009
+S
+#32009
+End of Long Hallway~
+You've reached the end of the long hallway in the Temple of Nemisis.  The
+floors are made of smooth polished obsidian, exits lie in all directions.  
+~
+0 1032 0
+0
+D0
+~
+~
+0 0 32010
+D1
+~
+~
+0 0 32011
+D2
+~
+~
+0 0 32012
+D3
+~
+~
+0 0 32008
+S
+#32010
+The Healing Room~
+You enter a small room where the people come to heal there various
+sicknesses.  A nice warm healing pool has been built right into the marble
+flooring for you to rest in.  It seems like a nice place to stop and rest
+for a while.....  
+~
+0 1032 0
+0
+D2
+~
+~
+0 0 32009
+S
+#32011
+The Sacraficial Room~
+This is the sacraficial room in the Temple of Nemisis, its a place to
+donate items you no longer need for newbies and to show your beleif in the
+Gods of the realm.  A donation pit sits in the middle of the room waiting
+for donations..  
+~
+0 1032 0
+0
+D3
+~
+~
+0 0 32009
+S
+#32012
+Center of The Temple ~
+Your standing in the center of the Temple of Nemisis.  A huge room with a
+domed sealing, floors of fine cut marble, and a HUGE statue of Nemisis the
+God of Darkness himself...  A marble fountain is pouring out crystal clear
+water nearby.  Exits are North, West, and South....  
+~
+0 1032 0
+0
+D0
+~
+~
+0 0 32009
+D2
+~
+~
+0 0 32013
+D3
+~
+~
+0 0 32022
+S
+#32013
+Large Reception Room~
+As you enter the temples reception room you see millions of tiny lit
+candles and statues of the gods of the realm...  To the North is a large
+hallway and to the South is the exit to the Temple of Nemisis.  
+~
+0 1032 0
+0
+D0
+~
+~
+0 0 32012
+D2
+~
+~
+0 0 32014
+S
+#32014
+Entrance to The Temple of Nemisis~
+You now stand before the entrance to the Temple of Nemisis The God of
+Darkness...  The temple itself is huge, made of black obsidian...  Before
+you is a giant doorway leading into the temple and to the South is the city
+of Shadowvale....  
+~
+0 1024 0
+0
+E
+first~
+~
+E
+first~
+~
+E
+first~
+~
+D0
+~
+~
+0 0 32013
+D2
+~
+~
+0 0 32015
+S
+#32015
+Temple Square~
+You are standing in the temple square, the intersection of Guilotine Road
+and Death Row.  As you look around you see what seems to be a normal city
+with only one difference.....  Everyone is dead!!!!  Or undead really... 
+Could this be a whole new realm.?  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32014
+D1
+~
+~
+0 0 32017
+D2
+~
+~
+0 0 32018
+D3
+~
+~
+0 0 32016
+S
+#32016
+West Guilotine Road~
+You are at the corner of R. I. P. Way and West Guilotine Road.
+To the North is Shadowvale Bank, Eastward is the Temple Square,
+South is R.I.P. Way and Westward leads to Boo's Place.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32032
+D1
+~
+~
+0 0 32015
+D2
+~
+~
+0 0 32034
+D3
+~
+~
+0 0 32033
+S
+#32017
+East Guilotine Road~
+You are standing on East Guilotine Road.  To the North is the Bar of
+Souls, to the East is the Grociery Store, and to the South is Market
+Street...  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32019
+D1
+~
+~
+0 0 32023
+D2
+~
+~
+0 0 32024
+D3
+~
+~
+0 0 32015
+S
+#32018
+Death Row~
+You are now standing on the North end of Death Row.  As you look around
+you see walls to the East and West, to the North you see the Temple Square
+and the Row continues Southward.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32015
+D2
+~
+~
+0 0 32021
+S
+#32019
+Entrance To The Bar of Souls~
+Your standing at the entrance to the Bar of Souls...  This is where the
+locals like to get together and have a few drinks.  The only question is
+what are they drinking..?  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32020
+D2
+~
+~
+0 0 32017
+S
+#32020
+Bar of Souls~
+Your standing in the Bar of Souls.  As you look around you see some of
+the locals talking at the bar enjoying themselves..  A wooden bar is in the
+middle of the room, behind it is the bartender Strick, or the Ghost of
+Strick now...  Maybe i nice drink would do you some good....  
+~
+0 1032 0
+0
+D2
+~
+~
+0 0 32019
+S
+#32021
+Death Row~
+You are at the South end of Death Row. As you continue to look
+around you notice that your exits are North and South to the
+city gates. Walls still stand to the East and West of you....
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32018
+D2
+~
+~
+0 0 32031
+S
+#32022
+Guild of Shadowvale~
+You find yourself in the Temple Guild..  Here you can train, practice,
+and gain your skills.  Shadowvale guildmaster is standing before you waiting
+to share his wealth of knowledge...  
+~
+0 1032 0
+0
+D1
+~
+~
+0 0 32012
+S
+#32023
+Grocery Store~
+Your in the local Grocery Store, here you can purchase or sell items you
+may need along the way in your journey to Heroship...  
+~
+0 0 0
+0
+D3
+~
+~
+0 0 32017
+S
+#32024
+North Market Street~
+You are standing in North Market Square. As you look to the East you 
+can see the local armory, to the West is the blacksmith and the market
+square continues Southward.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32017
+D1
+~
+~
+0 0 32025
+D2
+~
+~
+0 0 32027
+D3
+~
+~
+0 0 32026
+S
+#32025
+Armory~
+You have entered the local armory. Here you can purchase Armor 
+you may need, or sell armor that is of no use to you anymore.
+The Armoror stands here trying to sell a fine mirror shield to
+one of the locals.
+~
+0 0 0
+0
+D3
+~
+~
+0 0 32024
+S
+#32026
+Blacksmith~
+Here is the local blacksmith. You can choose to buy, or sell 
+weapons of most kinds. As you look around you see swords and
+spears and all sorts of equipment you might be able to use.
+The smithy sits calmly behind his table sharpening a blade of
+fine mithryl.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 32024
+S
+#32027
+South Market Street~
+Your now standing in South Market Square. To the East is the 
+potion shop, to the South is the pet store, and to the West 
+is the magic shop. 
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32024
+D1
+~
+~
+0 0 32029
+D2
+~
+~
+0 0 32030
+D3
+~
+~
+0 0 32028
+S
+#32028
+Magic Shop~
+As your looking around the Magic shop you can see a rack of 
+nice brooms for riding. A shelf of wands and books of spells
+is along the wall, and a beutiful baby pheonix is perched in 
+a cage hanging from the ceiling. As you approach the bird an
+old man suddenly appears before you and asks if he can be of
+assistance to you.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 32027
+S
+#32029
+Potion Shop~
+As you enter the potion shop you can notice a strange but 
+somewhat delightful smell. You look around and see a huge 
+couldron with a brightly lit fire beneath it slowly cooking
+in the center of the shop. A witch steps out from behind a
+wall of beads in the doorway and asks if she could intrest
+you in some frogs eyes or bat testicles. hmmm... better just
+stick with a potion or two.
+~
+0 0 0
+0
+D3
+~
+~
+0 0 32027
+S
+#32030
+Entrance To The Pet Store~
+Your standing at the entrance to the Pet Store..  Here you can purchase a
+friend to help you in your journy.  Exits are North and up to the store.  
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32027
+D4
+~
+~
+0 0 32101
+S
+#32031
+City Gates~
+Youv'e reached the city gates leading South out of Shadowvale.  As you
+gaze Southward you see a winding path leading up the side of a cliff to a
+large castle.....  I wonder who it belongs or belonged to?  A sign is posted
+on the gates warning those who dare go beyond them...  
+~
+0 0 0
+0
+E
+sign~
+To whomever dares leave the safety of the city of Shadowvale, 
+our prayers go with you.... Beyond these walls lie nightmares
+far beyond death itself. 
+
+signed, The Mayor of Shadowvale
+~
+D0
+~
+~
+0 0 32021
+D2
+~
+~
+0 0 32055
+S
+#32032
+Shadowvale Bank~
+You are standing in Shadowvale bank and trust. Here you can
+set up a bank account to help lighten your wallet and to make
+it easier to manage your money. A bank teller is standing 
+behind his desk witing for you to type HELP BANK....
+~
+0 33555464 0
+0
+D2
+~
+~
+0 0 32016
+S
+#32033
+Boo's Place~
+Your in the local resteraunt, here you can sit and relax, and have a bite
+to eat.  You look around and see Several tables, lamps, and chairs.  You
+also notice in one of the corner tables is a group of vampires...  Hopefully
+they don't decide to call you to there table and have you for dinner.....  
+~
+0 263176 0
+0
+D1
+~
+~
+0 0 32016
+S
+#32034
+R.I.P. Alley~
+Your stnding in North R.I.P. Alley, to the North is West Guilotine Road.
+A bakery is to the East, Southward is South R.I.P. Alley, and to the West
+is Bates Motel for you weary travelers...
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32016
+D1
+~
+~
+0 0 32035
+D2
+~
+~
+0 0 32037
+D3
+~
+~
+0 0 32036
+S
+#32035
+bakery~
+As you walk into the bakery the smell of fresh bread comes upon 
+you and makes you hungry... The local baker walks out of the 
+back room to greet you with a smile and is now waiting to serve
+your hunger needs...
+~
+0 1032 0
+0
+D3
+~
+~
+0 0 32034
+S
+#32036
+Bate's Motel~
+~
+0 1032 0
+0
+D1
+~
+~
+0 0 32034
+S
+#32037
+R.I.P. Alley~
+You are now in the middle of R.I.P. Alley, to the North is North R.I.P. Alley,
+to the East is the Bucher shop, to the West is the local Repair shop, and R.I.P.
+Alley continues Southward...
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32034
+D1
+~
+~
+0 0 32039
+D2
+~
+~
+0 0 32040
+D3
+~
+~
+0 0 32038
+S
+#32038
+Repair Shop~
+As you enter the local repair shop you notice piles upon piles
+of broken armor, weapons, and items lying everywhere. The local
+Repairman is steadily working away behind a desk towards the 
+back of the room. He stops and greets you with a smile. "Hello!"
+Just type Repair for more assistance...
+~
+0 1032 0
+0
+D1
+~
+~
+0 0 32037
+S
+#32039
+Meat Market~
+You are now standing in the Bucher shop. While standing in line you 
+notice freshly cut links and steaks. The bucher stands behind his
+counter eagerly awaiting you decision on purchasing some fine meats.
+~
+0 1032 0
+0
+D3
+~
+~
+0 0 32037
+S
+#32040
+R.I.P. Alley~
+Your now at the end of R.  I.  P.  Alley....  The alley continues North
+and South to Elm Street and the local housing....  To the East is a lookout
+tower, and to the West is a small road.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32037
+D1
+~
+~
+0 0 32292
+D2
+~
+~
+0 0 32047
+D3
+~
+~
+0 0 32297
+S
+#32041
+An Abandoned Home~
+~
+0 16777224 0
+0
+D2
+~
+~
+0 0 32046
+S
+#32042
+Freddy Krugars House of Nightmares~
+Welcome to Freddy's hous of nightmares. As you look around you see the 
+room is covered in dust and cobwebs. A baby carrage is slowly moving 
+by itself down the hallway. You hear a faint sound "1 2 freddy's coming
+for you, 3 4 better lock your door, 5 6 grab a crusafix, 7 8 gonna stay
+up late, 9 10 LET THE NIGHTMARE BEGIN!!!" suddenly Freddy appears before 
+you and says WELCOME......
+~
+0 8 0
+0
+D2
+~
+~
+0 0 32045
+S
+#32043
+An Abandoned Home~
+~
+0 16777224 0
+0
+D2
+~
+~
+0 0 32048
+S
+#32044
+An Abandoned Home~
+~
+0 16777224 0
+0
+D2
+~
+~
+0 0 32049
+S
+#32045
+West Elm Street~
+You have reached the end of West Elm Street. The street 
+continues Eastward. To the South is an old abandoned home,
+and to the North you see a large white house with boards
+over all the windows except one. A strange glow is leaking
+out the front door. I wonder who's house this belongs to.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32042
+D1
+~
+~
+0 0 32046
+D2
+~
+~
+0 0 32050
+S
+#32046
+West Elm Street~
+You are standing on West Elm Street. To the North and South
+are some Abandoned housing. The Street continues East and West.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32041
+D1
+~
+~
+0 0 32047
+D2
+~
+~
+0 0 32051
+D3
+~
+~
+0 0 32045
+S
+#32047
+Elm Street~
+You are standing at the intersection of Elm Street and R.  I.  P.  Alley. 
+To the East and West is some of the local housing, and to the South is the
+Housing Management Office... 
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32040
+D1
+~
+~
+0 0 32048
+D2
+~
+~
+0 0 32052
+D3
+~
+~
+0 0 32046
+S
+#32048
+East Elm Street~
+Your standing on East Elm Street. The street continues East and West
+Old abandoned houses are to the North and South.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32043
+D1
+~
+~
+0 0 32049
+D2
+~
+~
+0 0 32053
+D3
+~
+~
+0 0 32047
+S
+#32049
+East Elm Street~
+You have rached the end of East Elm Street. To
+the North and South are more abandoned houses.
+The road continues Westward.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32044
+D2
+~
+~
+0 0 32054
+D3
+~
+~
+0 0 32048
+S
+#32050
+An Abandoned Home~
+~
+0 16777224 0
+0
+D0
+~
+~
+0 0 32045
+S
+#32051
+An Abandoned Home~
+~
+0 16777224 0
+0
+D0
+~
+~
+0 0 32046
+S
+#32052
+Housing Management Office~
+~
+0 16777224 0
+0
+D0
+~
+~
+0 0 32047
+S
+#32053
+An abandoned Home~
+~
+0 16777224 0
+0
+D0
+~
+~
+0 0 32048
+S
+#32054
+An Abandoned Home~
+~
+0 16777224 0
+0
+D0
+~
+~
+0 0 32049
+S
+#32055
+Trail Up The Mountain~
+Standing outside the city gates you begin to wonder if
+this was such a good idea to leave the safety of the 
+city walls.. A Beginning of a trail can be seen maybe
+it leads to the old castle on the side of the mountain.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32031
+D1
+~
+~
+0 0 32056
+S
+#32056
+Trail Up The Mountain~
+As your walking along the trail up the mountain, you notice 
+the wind starting to pick up. A large ravine with a bridge 
+is ahead to the South..
+~
+0 0 0
+0
+D2
+~
+~
+0 0 32057
+D3
+~
+~
+0 0 32055
+S
+#32057
+Devils Crossing~
+You have come to a ravine...  It seems to Be a mile high....  An old
+wooden bridge is here for you to get across but be careful, you dont know
+how dangerous the crossing may be...  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32056
+D1
+~
+~
+0 0 32058
+S
+#32058
+Devils Crossing~
+You are standing on the other side of Devils Crossing... As you look 
+down into the ravine, you thank the Gods that you didn't fall.. The 
+winding path continues South towards a large castle.
+~
+0 0 0
+0
+D2
+~
+~
+0 0 32059
+D3
+~
+~
+0 0 32057
+S
+#32059
+Castle Gates~
+Well you made it up the mountain and now you are standing 
+before a huge castle.... The old rusty gates have fallen,
+and weeds and vines have grown over the walls and ground.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32058
+D2
+~
+~
+0 0 32060
+S
+#32060
+Castle Courtyard~
+You are standing in what once must have been the castle
+courtyard. All that is left now is a memory of what this
+grand courtyard provided to the everyday life of the owner
+and the servants.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32059
+D2
+~
+~
+0 0 32061
+D3
+~
+~
+0 0 32063
+S
+#32061
+Castle Steps~
+Your standing on the castle steps. The steps are made of marble,
+now cracked and slowly falling apart. As you walk up the steps
+you pass a series of stone gargoyles probably placed here to keep
+entruders away.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32060
+D2
+~
+~
+0 0 32062
+S
+#32062
+Entrance To The Castle Tower~
+As you stand before the grand entrance to the castle tower
+you hear a faint noise and some movement coming around from
+the side. Maybe someone is home lets have a look shall we..
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32061
+D2
+~
+~
+1 32171 32103
+S
+#32063
+Entrance To The Garden~
+As you look ahead you see the castle gardens..  What once was a beautiful
+array of flowers and trees is now withered and dead....  Of course
+everything seems to be dead....  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 32060
+D3
+~
+~
+0 0 32064
+S
+#32064
+Castle Gardens~
+A tall statue of Augustus is before you now. The final inscription
+is here on the base of the old statue.
+~
+0 0 0
+0
+E
+inscription~
+THEN CAME THE COUNCIL OF IMMORTALSHIP TO GOVERN THE LIGHT AND DARK, 
+AND THINGS WERE GOOD ONCE AGAIN AND FOREVER WILL BE.
+~
+D0
+~
+~
+0 0 32065
+D1
+~
+~
+0 0 32063
+D2
+~
+~
+0 0 32071
+D3
+~
+~
+0 0 32072
+S
+#32065
+Castle Gardens~
+~
+0 0 0
+0
+D2
+~
+~
+0 0 32064
+D3
+~
+~
+0 0 32066
+S
+#32066
+Castle Gardens~
+You now stand before an old statue of Nemisis the God of
+Darkness.. As you examine the stonework you notice an 
+inscription on the base of the statue.... I wonder what 
+it reads..?
+~
+0 0 0
+0
+E
+inscription~
+BEFORE THE LIGHT THERE WAS DARKNESS AND THE DARKNESS WAS EVERYTHING.
+~
+D1
+~
+~
+0 0 32065
+D2
+~
+~
+0 0 32072
+D3
+~
+~
+0 0 32067
+S
+#32067
+Castle Gardens~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 32066
+D2
+~
+~
+0 0 32068
+S
+#32068
+Castle Gardens~
+As you stand before the statue of Kizeren you notice another
+inscription on the concrete base.
+~
+0 0 0
+0
+E
+inscription~
+THEN LIGHT WAS CREATED TO SEPERATE THE DARKNESS FROM ITSELF.
+~
+D0
+~
+~
+0 0 32067
+D1
+~
+~
+0 0 32072
+D2
+~
+~
+0 0 32069
+S
+#32069
+Castle Gardens~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32068
+D1
+~
+~
+0 0 32070
+S
+#32070
+Castle Gardens~
+You are standing before a statue of Muaso. As you look at the 
+stonework you notice a third inscription on the base of this
+magnificent statue.
+~
+0 0 0
+0
+E
+inscription~
+AFTER THE DARKNESS AND THE LIGHT THINGS WERE GOOD UNTIL THE DARKNESS 
+WANTED TO CONSUME THE LIGHT.
+~
+D0
+~
+~
+0 0 32072
+D1
+~
+~
+0 0 32071
+D2
+~
+~
+0 0 32073
+D3
+~
+~
+0 0 32069
+S
+#32071
+Castle Gardens~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32064
+D3
+~
+~
+0 0 32070
+S
+#32072
+Center Of The Garden~
+You are now in the center of the castle gardens. An old 
+fountain is here slowly filling itself with stagnant old
+water. As you look around you can see old rotted trees 
+and withered plants. Does'nt look like much anymore.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32066
+D1
+~
+~
+0 0 32064
+D2
+~
+~
+0 0 32070
+D3
+~
+~
+0 0 32068
+S
+#32073
+Along A Path~
+As you leave the castle gardens you thing about the writings
+on the statues and wonder of the past, present, and what is
+to come of the future of Mindor. The path along side of the
+castle continues Southward.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32070
+D2
+~
+~
+0 0 32074
+S
+#32074
+Along a Path~
+As you make your way along the path you can see the gardens 
+which you have just came from and up ahead you notice an old
+barn probably the castle stables. Could this be where the 
+sound you heard was comeing from...?
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32073
+D2
+~
+~
+0 0 32075
+S
+#32075
+Entrance To An Old Barn~
+Your standing at the entrance to the castle stables.  At one time this
+barn was filled with life and energy, but now all thats left is rotting wood
+and rusted nails.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32074
+D2
+~
+~
+0 0 32076
+S
+#32076
+The Stables~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32075
+D1
+~
+~
+0 0 32084
+D2
+~
+~
+0 0 32077
+D3
+~
+~
+0 0 32085
+S
+#32077
+The Stables~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32076
+D1
+~
+~
+0 0 32082
+D2
+~
+~
+0 0 32078
+D3
+~
+~
+0 0 32083
+S
+#32078
+The Stables~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32077
+D1
+~
+~
+0 0 32080
+D2
+~
+~
+0 0 32079
+D3
+~
+~
+0 0 32081
+S
+#32079
+Stall Seven~
+~
+0 8 0
+0
+E
+nemisis~
+Here standing before you is Nemisis the God of Darkness... As you peer 
+into his eyes you can see all the pain and suffering of the realm you call mindor.
+He has a sad painful look on his face, one of those looks a person gives before 
+they snap. Better off not to try and speak with him....
+~
+E
+nemisis~
+~
+D0
+~
+~
+0 0 32078
+S
+#32080
+Stall Six~
+~
+0 8 0
+0
+D3
+~
+~
+0 0 32078
+S
+#32081
+Stall Five~
+~
+0 8 0
+0
+D1
+~
+~
+0 0 32078
+S
+#32082
+Stall Four~
+~
+0 8 0
+0
+D3
+~
+~
+0 0 32077
+S
+#32083
+Stall Three~
+~
+0 8 0
+0
+D1
+~
+~
+0 0 32077
+S
+#32084
+Stall Two~
+~
+0 8 0
+0
+D3
+~
+~
+0 0 32076
+S
+#32085
+Stall One~
+~
+0 8 0
+0
+D1
+~
+~
+0 0 32076
+S
+#32099
+Nemisis's Meditation Chamber~
+As you walk into the temple you notice there are no walls. Large marble pillars hold the
+ceiling up and the floor is an olympic size pool of water. As you look outside, you can
+see that you are right below the cloud line. Looking down you see the entire Realm of
+Mindor. As you start to leave a small tornado of rose pedals forms in the middle of the 
+pool and Nemisis appears meditating as they fade. He opens his eyes and slowly walks
+across the top of the water in your direction.
+~
+0 525832 0
+0
+D2
+~
+~
+0 0 32197
+M 9999 H 9999
+S
+#32101
+Pet Store~
+Your now in the Pet Shop of Shadowvale...  An attendant is here to help
+you pick out that special friend for your adventure..  
+~
+0 4096 0
+0
+E
+attendant~
+~
+D5
+~
+~
+0 0 32030
+S
+#32102
+storage room~
+~
+0 12 0
+0
+S
+#32103
+Reception Room~
+~
+0 8 0
+0
+D0
+~
+~
+1 0 32062
+D1
+~
+~
+0 0 32105
+D2
+~
+~
+0 0 32106
+D3
+~
+~
+0 0 32104
+S
+#32104
+Broom Closet~
+~
+0 8 0
+0
+D1
+~
+~
+0 0 32103
+S
+#32105
+Coat Closet~
+~
+0 8 0
+0
+D3
+~
+~
+0 0 32103
+S
+#32106
+~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32103
+D1
+~
+~
+0 0 32108
+D2
+~
+~
+0 0 32109
+D3
+~
+~
+0 0 32107
+S
+#32107
+Balcony Over The Castle Gardens~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 32106
+S
+#32108
+Living Room~
+~
+0 4 0
+0
+D2
+~
+~
+0 0 32111
+D3
+~
+~
+0 0 32106
+S
+#32109
+~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32106
+D1
+~
+~
+0 0 32111
+D2
+~
+~
+0 0 32112
+D3
+~
+~
+0 0 32110
+S
+#32110
+Small Bathroom~
+~
+0 8 0
+0
+D1
+~
+~
+0 0 32109
+S
+#32111
+Living Room~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32108
+D3
+~
+~
+0 0 32109
+S
+#32112
+Starewell~
+You are now in the starewell of the first floor....  Exits are north, up
+to the second floor of the castle, and down to the dungeon...  
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32109
+D4
+~
+~
+0 0 32113
+D5
+~
+~
+1 32168 32161
+S
+#32113
+2nd Floor~
+~
+0 8 0
+0
+D2
+~
+~
+0 0 32114
+D5
+~
+~
+0 0 32112
+S
+#32114
+~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32113
+D1
+~
+~
+0 0 32116
+D2
+~
+~
+0 0 32117
+D3
+~
+~
+0 0 32115
+S
+#32115
+Kitchen~
+~
+0 8 0
+0
+D1
+~
+~
+0 0 32114
+D2
+~
+~
+0 0 32118
+S
+#32116
+Dining Room~
+~
+0 8 0
+0
+D2
+~
+~
+0 0 32119
+D3
+~
+~
+0 0 32114
+S
+#32117
+~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32114
+D2
+~
+~
+0 0 32120
+S
+#32118
+Deep Freeze~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32115
+S
+#32119
+Dining Room~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32116
+D2
+~
+~
+0 0 32122
+S
+#32120
+~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32117
+D1
+~
+~
+0 0 32122
+D2
+~
+~
+0 0 32123
+D3
+~
+~
+0 0 32121
+S
+#32121
+Small Closet~
+~
+0 8 0
+0
+D1
+~
+~
+0 0 32120
+S
+#32122
+Dining Room~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32119
+D3
+~
+~
+0 0 32120
+S
+#32123
+Starewell~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32120
+D4
+~
+~
+0 0 32124
+S
+#32124
+3rd Floor~
+~
+0 8 0
+0
+D2
+~
+~
+0 0 32125
+D5
+~
+~
+0 0 32123
+S
+#32125
+~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32124
+D1
+~
+~
+0 0 32127
+D2
+~
+~
+0 0 32128
+D3
+~
+~
+0 0 32126
+S
+#32126
+Guest Bedroom~
+~
+0 8 0
+0
+D1
+~
+~
+0 0 32125
+S
+#32127
+Guest Bedroom~
+~
+0 8 0
+0
+D3
+~
+~
+0 0 32125
+S
+#32128
+~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32125
+D1
+~
+~
+0 0 32130
+D2
+~
+~
+0 0 32131
+D3
+~
+~
+0 0 32129
+S
+#32129
+Guest Bedroom~
+~
+0 8 0
+0
+D1
+~
+~
+0 0 32128
+S
+#32130
+Guest Bedroom~
+~
+0 8 0
+0
+D3
+~
+~
+0 0 32128
+S
+#32131
+~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32128
+D1
+~
+~
+0 0 32133
+D2
+~
+~
+0 0 32134
+D3
+~
+~
+0 0 32132
+S
+#32132
+Gest Bedroom~
+~
+0 8 0
+0
+D1
+~
+~
+0 0 32131
+S
+#32133
+Guest Bedroom~
+~
+0 8 0
+0
+D3
+~
+~
+0 0 32131
+S
+#32134
+Stairwell~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32131
+D4
+~
+~
+0 0 32135
+S
+#32135
+4th Floor~
+~
+0 8 0
+0
+D2
+~
+~
+0 0 32136
+D5
+~
+~
+0 0 32134
+S
+#32136
+~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32135
+D2
+~
+~
+0 0 32139
+D3
+~
+~
+0 0 32137
+S
+#32137
+Grand Ballroom~
+~
+0 8 0
+0
+D1
+~
+~
+0 0 32136
+D2
+~
+~
+0 0 32140
+S
+#32138
+Castle Library~
+~
+0 8 0
+0
+D2
+~
+~
+0 0 32141
+S
+#32139
+~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32136
+D1
+~
+~
+0 0 32141
+D2
+~
+~
+0 0 32142
+S
+#32140
+Grand Ballroom~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32137
+D2
+~
+~
+0 0 32143
+S
+#32141
+Castle Library~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32138
+D3
+~
+~
+0 0 32139
+S
+#32142
+~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32139
+D1
+~
+~
+0 0 32144
+D2
+~
+~
+0 0 32145
+D3
+~
+~
+0 0 32143
+S
+#32143
+Gand Ballroom~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32140
+D1
+~
+~
+0 0 32142
+S
+#32144
+Small Office~
+~
+0 8 0
+0
+D3
+~
+~
+0 0 32142
+S
+#32145
+Starewell~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32142
+D4
+~
+~
+0 0 32146
+S
+#32146
+5th Floor~
+~
+0 8 0
+0
+D2
+~
+~
+0 0 32147
+D5
+~
+~
+0 0 32145
+S
+#32147
+~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32146
+D1
+~
+~
+0 0 32149
+D2
+~
+~
+0 0 32150
+D3
+~
+~
+0 0 32148
+S
+#32148
+Servants Quarters~
+~
+0 8 0
+0
+D1
+~
+~
+0 0 32147
+D2
+~
+~
+0 0 32151
+S
+#32149
+Master Bedroom~
+~
+0 8 0
+0
+D2
+~
+~
+0 0 32152
+D3
+~
+~
+0 0 32147
+S
+#32150
+~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32147
+D2
+~
+~
+0 0 32153
+S
+#32151
+Dirty Bathroom~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32148
+D2
+~
+~
+0 0 32154
+S
+#32152
+Master Bathroom~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32149
+S
+#32153
+~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32150
+D1
+~
+~
+0 0 32155
+D2
+~
+~
+0 0 32156
+D3
+~
+~
+0 0 32154
+S
+#32154
+Servants Quarters~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32151
+D1
+~
+~
+0 0 32153
+S
+#32155
+Portrait Room~
+~
+0 8 0
+0
+D3
+~
+~
+0 0 32153
+S
+#32156
+Starewell~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32153
+D4
+~
+~
+0 0 32157
+S
+#32157
+Sixth Floor~
+As you reach the top step of the stairwell you here down the dark
+corridor "So You made it to the sixth floor, immpressive....  But you still
+have a long way to go hehehehe."  I wonder who's voice that was....  I have
+a feeling your going to find out..  
+~
+0 8 0
+0
+D2
+~
+~
+0 0 32158
+D5
+~
+~
+0 0 32156
+S
+#32158
+A Dark Corridor~
+Your heading down a dark coridor on the sixth floor of the castle.  As
+you look around you see old furnature and paintings of long ago.  What once
+was a beautiful hallway is now cobwebs and dust.  
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32157
+D2
+~
+~
+0 0 32159
+S
+#32159
+Safe Room~
+Your are now in a safe room on the sixth floor of this CRAZY castle... 
+This could mean one of two things for you now....  One you are half way to
+the top and you have a long way to go or two, you are about to face an
+impossible MOB who will probably make an experiment of you....  The only
+question is which on is it?  
+~
+0 1032 0
+0
+D0
+~
+~
+0 0 32158
+D2
+~
+~
+0 0 32160
+S
+#32160
+Frankenstien's Laboritory~
+You have entered the laboritory of Dr.  Frankenstien..  The Dr.  Himself
+is standing in front of you cackeling with insane glee...  Looks like he
+found his next experiment.....  YOU!!  
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32159
+S
+#32161
+Castle Dungeon~
+~
+0 8 0
+0
+D2
+~
+~
+0 0 32162
+D4
+~
+~
+1 0 32112
+S
+#32162
+Castle Dungeon~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32161
+D1
+~
+~
+0 0 32164
+D2
+~
+~
+0 0 32165
+D3
+~
+~
+1 0 32163
+S
+#32163
+An Empty Cage~
+~
+0 8 0
+0
+D1
+~
+~
+1 0 32162
+S
+#32164
+A Huge Broken Cage~
+~
+0 8 0
+0
+D3
+~
+~
+0 0 32162
+S
+#32165
+Entrance To Vault~
+Your standing at the entrance to the castle vault....  As you look at the
+huge stainless steel door you notice that there is a hole....  More than
+likely for a key i would think...  
+~
+0 8 0
+0
+D0
+~
+~
+0 0 32162
+D2
+~
+~
+1 32178 32166
+S
+#32166
+Castle Vault~
+Well if you made it this far, Congradulations your not dead...  As you
+look around the old vault you notice a HUGE pile of platinum coins all for
+you...  Hell you deserve it after facing that freakshow...  
+~
+0 8 0
+0
+D0
+~
+~
+1 0 32165
+S
+#32195
+Cliff looking over all of Mindor~
+You are on top of a mountain that reaches up over the Realm of Mindor. You look ahead
+you see a huge temple to the North. A beautiful waterfall flows down the mountain. You
+notice large marble steps leading up to the peak where the temple is.   
+~
+0 0 5
+0
+D0
+~
+~
+0 0 32197
+D5
+~
+~
+0 0 32014
+M 400 H 400
+S
+#32197
+Steps To The Temple~
+As you make your way up the large marble steps you wonder who bought you here and why?
+Did you die and go to heaven or is this hell in disguise? Well i have a feeling you're
+about to find out....
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32099
+D2
+~
+~
+0 0 32195
+S
+#32200
+Clan Hall For GOS~
+You are standing in the clan hall for the guild of shadows. A large
+marble fountain sits in the center of the room. Along the walls are
+the clans crests and armor statues. To the North is the guild, East 
+is the clan portal room, southward is the healer, and to the west is 
+the clan shop.
+~
+0 1032 0
+0
+D0
+~
+~
+0 0 32204
+D1
+~
+~
+0 0 32201
+D2
+~
+~
+0 0 32203
+D3
+~
+~
+0 0 32202
+D4
+~
+~
+0 0 32014
+D5
+~
+~
+0 0 32205
+C gos~
+S
+#32201
+Clan Portal Room~
+~
+0 1032 0
+0
+D3
+~
+~
+0 0 32200
+C gos~
+S
+#32202
+Clan Shop~
+~
+0 1032 0
+0
+D1
+~
+~
+0 0 32200
+C gos~
+S
+#32203
+Clan Healing Room~
+~
+0 1032 0
+0
+D0
+~
+~
+0 0 32200
+C gos~
+S
+#32204
+GOS Guild~
+~
+0 1032 0
+0
+D2
+~
+~
+0 0 32200
+C gos~
+S
+#32205
+Clan Gathering Place~
+~
+0 1032 0
+0
+D4
+~
+~
+0 0 32200
+C gos~
+S
+#32214
+OOTC Clan Hall~
+~
+0 1032 0
+0
+D0
+~
+~
+0 0 32215
+D1
+~
+~
+0 0 32218
+D2
+~
+~
+0 0 32216
+D3
+~
+~
+0 0 32217
+D4
+~
+~
+0 0 4310
+D5
+~
+~
+0 0 32219
+C ootc~
+S
+#32215
+Clan Guild ~
+~
+0 1032 0
+0
+D2
+~
+~
+0 0 32214
+C ootc~
+S
+#32216
+Clan Healing Room~
+~
+0 1032 0
+0
+D0
+~
+~
+0 0 32214
+C ootc~
+S
+#32217
+Clan Shop~
+~
+0 1032 0
+0
+D1
+~
+~
+0 0 32214
+C ootc~
+S
+#32218
+Clan Portal Room~
+~
+0 1032 0
+0
+D3
+~
+~
+0 0 32214
+C ootc~
+S
+#32219
+Clan Gathering Room~
+~
+0 1032 0
+0
+D4
+~
+~
+0 0 32214
+C ootc~
+S
+#32220
+COTM Clan Hall~
+~
+0 1032 0
+0
+D0
+~
+~
+0 0 32221
+D1
+~
+~
+0 0 32225
+D2
+~
+~
+0 0 32223
+D3
+~
+~
+0 0 32224
+D4
+~
+~
+0 0 3014
+D5
+~
+~
+0 0 32226
+C cotm~
+S
+#32221
+Clan Guild~
+~
+0 1032 0
+0
+D2
+~
+~
+0 0 32220
+C cotm~
+S
+#32223
+Clan Healer~
+~
+0 1032 0
+0
+D0
+~
+~
+0 0 32220
+C cotm~
+S
+#32224
+Clan Store~
+~
+0 1032 0
+0
+D1
+~
+~
+0 0 32220
+C cotm~
+S
+#32225
+Clan Portal Room~
+~
+0 1032 0
+0
+D3
+~
+~
+0 0 32220
+C cotm~
+S
+#32226
+Clan Gathering Place~
+~
+0 1032 0
+0
+D4
+~
+~
+0 0 32220
+C cotm~
+S
+#32227
+COP Clan Hall~
+~
+0 1032 0
+0
+D0
+~
+~
+0 0 32228
+D1
+~
+~
+0 0 32231
+D2
+~
+~
+0 0 32229
+D3
+~
+~
+0 0 32230
+D4
+~
+~
+0 0 9506
+D5
+~
+~
+0 0 32232
+C cop~
+S
+#32228
+Clan Guild~
+~
+0 1032 0
+0
+D2
+~
+~
+0 0 32227
+C cop~
+S
+#32229
+Clan Healer~
+~
+0 1032 0
+0
+D0
+~
+~
+0 0 32227
+C cop~
+S
+#32230
+Clan Shop~
+~
+0 1032 0
+0
+D1
+~
+~
+0 0 32227
+C cop~
+S
+#32231
+Clan Portal Room~
+~
+0 1032 0
+0
+D3
+~
+~
+0 0 32227
+C cop~
+S
+#32232
+Clan Gathering Place~
+~
+0 1032 0
+0
+D4
+~
+~
+0 0 32227
+C cop~
+S
+#32292
+Observation Tower Entrance~
+You stand at the base of a thin lookout tower.  You might as well take a
+look around and head up to enjoy the view...  
+~
+0 8 0
+0
+D3
+~
+~
+0 0 32040
+D4
+~
+~
+0 0 32293
+S
+#32293
+Climbing Upward~
+~
+0 8 0
+0
+D4
+~
+~
+0 0 32294
+D5
+~
+~
+0 0 32292
+S
+#32294
+Climbing Upward~
+~
+0 8 0
+0
+D4
+~
+~
+0 0 32295
+D5
+~
+~
+0 0 32293
+S
+#32295
+Observation Deck~
+Standing at the top looking out you see miles and miles of city and open
+plains.  A lookout is posted here to search for signs of danger around the
+city of shadowvale.  As you look to the west you notice a large harbor and a
+ship of some sort.  
+~
+0 8 0
+0
+D5
+~
+~
+0 0 32294
+S
+#32297
+Small Road~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 32040
+D3
+~
+~
+0 0 32298
+S
+#32298
+Small Intersection~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32300
+D1
+~
+~
+0 0 32297
+D2
+~
+~
+0 0 32311
+D3
+~
+~
+0 0 32299
+S
+#32299
+Path To The West Gate~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 32298
+D3
+~
+~
+0 0 32310
+S
+#32300
+Shadowvale Docks~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32301
+D2
+~
+~
+0 0 32298
+S
+#32301
+Pier 1~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32308
+D2
+~
+~
+0 0 32300
+D3
+~
+~
+0 0 32302
+S
+#32302
+Pier 2~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32306
+D1
+~
+~
+0 0 32301
+D3
+~
+~
+0 0 32303
+S
+#32303
+Pier 3~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32304
+D1
+~
+~
+0 0 32302
+S
+#32304
+On A Dock~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32305
+D2
+~
+~
+0 0 32303
+S
+#32305
+On A Dock~
+~
+0 0 0
+0
+D2
+~
+~
+0 0 32304
+D4
+~
+~
+0 0 32319
+S
+#32306
+On A Dock~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32307
+D2
+~
+~
+0 0 32302
+S
+#32307
+On A Dock~
+~
+0 0 0
+0
+D2
+~
+~
+0 0 32306
+D4
+~
+~
+0 0 32321
+S
+#32308
+On A Dock~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32309
+D2
+~
+~
+0 0 32301
+S
+#32309
+On A Dock~
+~
+0 0 0
+0
+D2
+~
+~
+0 0 32308
+D4
+~
+~
+0 0 32323
+S
+#32310
+West Gate~
+You have reached the west gate of Shadowvale.  To the East lies the city
+itself, and to the West the unknown....  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 32299
+S
+#32311
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32298
+D2
+~
+~
+0 0 32312
+S
+#32312
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32311
+D1
+~
+~
+0 0 32313
+D2
+~
+~
+0 0 32314
+D3
+~
+~
+0 0 32315
+S
+#32313
+~
+~
+0 0 0
+0
+D3
+~
+~
+0 0 32312
+S
+#32314
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32312
+S
+#32315
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 32312
+S
+#32319
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32329
+D1
+~
+~
+0 0 32320
+D3
+~
+~
+0 0 32326
+D5
+~
+~
+0 0 32305
+S
+#32320
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32330
+D1
+~
+~
+0 0 32321
+D3
+~
+~
+0 0 32319
+S
+#32321
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32331
+D1
+~
+~
+0 0 32324
+D3
+~
+~
+0 0 32320
+D5
+~
+~
+0 0 32307
+S
+#32323
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32333
+D1
+~
+~
+0 0 32325
+D3
+~
+~
+0 0 32324
+D5
+~
+~
+0 0 32309
+S
+#32324
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32332
+D1
+~
+~
+0 0 32323
+D3
+~
+~
+0 0 32321
+S
+#32325
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32334
+D3
+~
+~
+0 0 32323
+S
+#32326
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32327
+D1
+~
+~
+0 0 32319
+S
+#32327
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32341
+D1
+~
+~
+0 0 32329
+D2
+~
+~
+0 0 32326
+D3
+~
+~
+0 0 32328
+S
+#32328
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32342
+D1
+~
+~
+0 0 32327
+S
+#32329
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32340
+D1
+~
+~
+0 0 32330
+D2
+~
+~
+0 0 32319
+D3
+~
+~
+0 0 32327
+S
+#32330
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32339
+D1
+~
+~
+0 0 32331
+D2
+~
+~
+0 0 32320
+D3
+~
+~
+0 0 32329
+S
+#32331
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32338
+D1
+~
+~
+0 0 32332
+D2
+~
+~
+0 0 32321
+D3
+~
+~
+0 0 32330
+S
+#32332
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32337
+D1
+~
+~
+0 0 32333
+D2
+~
+~
+0 0 32324
+D3
+~
+~
+0 0 32331
+S
+#32333
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32336
+D1
+~
+~
+0 0 32334
+D2
+~
+~
+0 0 32323
+D3
+~
+~
+0 0 32332
+S
+#32334
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32335
+D2
+~
+~
+0 0 32325
+D3
+~
+~
+0 0 32333
+S
+#32335
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32351
+D2
+~
+~
+0 0 32334
+D3
+~
+~
+0 0 32336
+S
+#32336
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32350
+D1
+~
+~
+0 0 32335
+D2
+~
+~
+0 0 32333
+D3
+~
+~
+0 0 32337
+S
+#32337
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32349
+D1
+~
+~
+0 0 32336
+D2
+~
+~
+0 0 32332
+D3
+~
+~
+0 0 32338
+S
+#32338
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32348
+D1
+~
+~
+0 0 32337
+D2
+~
+~
+0 0 32331
+D3
+~
+~
+0 0 32339
+S
+#32339
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32347
+D1
+~
+~
+0 0 32338
+D2
+~
+~
+0 0 32330
+D3
+~
+~
+0 0 32340
+S
+#32340
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32346
+D1
+~
+~
+0 0 32339
+D2
+~
+~
+0 0 32329
+D3
+~
+~
+0 0 32341
+S
+#32341
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32345
+D1
+~
+~
+0 0 32340
+D2
+~
+~
+0 0 32327
+D3
+~
+~
+0 0 32342
+S
+#32342
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32344
+D1
+~
+~
+0 0 32341
+D2
+~
+~
+0 0 32328
+D3
+~
+~
+0 0 32343
+S
+#32343
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 32342
+S
+#32344
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 32345
+D2
+~
+~
+0 0 32342
+S
+#32345
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32352
+D1
+~
+~
+0 0 32346
+D2
+~
+~
+0 0 32341
+D3
+~
+~
+0 0 32344
+S
+#32346
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32353
+D1
+~
+~
+0 0 32347
+D2
+~
+~
+0 0 32340
+D3
+~
+~
+0 0 32345
+S
+#32347
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32354
+D1
+~
+~
+0 0 32348
+D2
+~
+~
+0 0 32339
+D3
+~
+~
+0 0 32346
+S
+#32348
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32355
+D1
+~
+~
+0 0 32349
+D2
+~
+~
+0 0 32338
+D3
+~
+~
+0 0 32347
+S
+#32349
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32356
+D1
+~
+~
+0 0 32350
+D2
+~
+~
+0 0 32337
+D3
+~
+~
+0 0 32348
+S
+#32350
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32357
+D1
+~
+~
+0 0 32351
+D2
+~
+~
+0 0 32336
+D3
+~
+~
+0 0 32349
+S
+#32351
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32358
+D2
+~
+~
+0 0 32335
+D3
+~
+~
+0 0 32350
+S
+#32352
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 32353
+D2
+~
+~
+0 0 32345
+S
+#32353
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 32354
+D2
+~
+~
+0 0 32346
+D3
+~
+~
+0 0 32352
+S
+#32354
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 32355
+D2
+~
+~
+0 0 32347
+D3
+~
+~
+0 0 32353
+S
+#32355
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 32356
+D2
+~
+~
+0 0 32348
+D3
+~
+~
+0 0 32354
+S
+#32356
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 32357
+D2
+~
+~
+0 0 32349
+D3
+~
+~
+0 0 32355
+S
+#32357
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 32358
+D2
+~
+~
+0 0 32350
+D3
+~
+~
+0 0 32356
+S
+#32358
+~
+~
+0 0 0
+0
+D2
+~
+~
+0 0 32351
+D3
+~
+~
+0 0 32357
+S
+#32359
+MUD School Entrance~
+~
+0 394240 0
+0
+D0
+~
+~
+0 0 32360
+S
+#32360
+MUD School Entrance Hall~
+~
+0 394248 0
+0
+D0
+~
+~
+0 0 32361
+D2
+~
+~
+0 0 32359
+S
+#32361
+Main Hallway~
+~
+0 394248 0
+0
+D0
+~
+~
+0 0 32364
+D1
+~
+~
+0 0 32363
+D2
+~
+~
+0 0 32360
+D3
+~
+~
+0 0 32362
+S
+#32362
+Secretary's Office~
+~
+0 394248 0
+0
+D1
+~
+~
+0 0 32361
+S
+#32363
+Principles Office~
+~
+0 394248 0
+0
+D3
+~
+~
+0 0 32361
+S
+#32364
+Stairwell~
+~
+0 394248 0
+0
+D2
+~
+~
+0 0 32361
+D4
+~
+~
+0 0 32365
+S
+#32365
+Stairwell~
+~
+0 394248 0
+0
+D2
+~
+~
+0 0 32366
+D5
+~
+~
+0 0 32364
+S
+#32366
+Second Floor~
+~
+0 394248 0
+0
+D0
+~
+~
+0 0 32365
+D1
+~
+~
+0 0 32368
+D2
+~
+~
+0 0 32369
+D3
+~
+~
+0 0 32367
+S
+#32367
+Library~
+~
+0 394248 0
+0
+D1
+~
+~
+0 0 32366
+S
+#32368
+Cafeteria~
+~
+0 394248 0
+0
+D3
+~
+~
+0 0 32366
+S
+#32369
+Stairwell~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 32366
+D4
+~
+~
+0 0 32370
+S
+#32370
+Stairwell~
+~
+0 394248 0
+0
+D0
+~
+~
+0 0 32371
+D5
+~
+~
+0 0 32369
+S
+#32371
+Third Floor~
+~
+0 394248 0
+0
+D0
+~
+~
+0 0 32374
+D1
+~
+~
+0 0 32373
+D2
+~
+~
+0 0 32370
+D3
+~
+~
+0 0 32372
+S
+#32372
+MUD School Shop~
+~
+0 394248 0
+0
+D1
+~
+~
+0 0 32371
+S
+#32373
+Gymnasium~
+~
+0 394248 0
+0
+D3
+~
+~
+0 0 32371
+S
+#32374
+Stairwell~
+~
+0 394248 0
+0
+D2
+~
+~
+0 0 32371
+D4
+~
+~
+0 0 32375
+S
+#32375
+Stairwell~
+~
+0 394248 0
+0
+D2
+~
+~
+0 0 32376
+D5
+~
+~
+0 0 32374
+S
+#32376
+Fourth Floor~
+~
+0 394248 0
+0
+D0
+~
+~
+0 0 32375
+D1
+~
+~
+0 0 32378
+D2
+~
+~
+0 0 32379
+D3
+~
+~
+0 0 32377
+S
+#32377
+Classroom 1~
+~
+0 131080 0
+0
+D1
+~
+~
+0 0 32376
+S
+#32378
+Classroom 2~
+~
+0 131080 0
+0
+D3
+~
+~
+0 0 32376
+S
+#32379
+Stairwell ~
+~
+0 394248 0
+0
+D0
+~
+~
+0 0 32376
+D4
+~
+~
+0 0 32380
+S
+#32380
+Stairwell~
+~
+0 394248 0
+0
+D0
+~
+~
+0 0 32381
+D5
+~
+~
+0 0 32379
+S
+#32381
+Fifth Floor~
+~
+0 394248 0
+0
+D0
+~
+~
+0 0 32384
+D1
+~
+~
+0 0 32383
+D2
+~
+~
+0 0 32380
+D3
+~
+~
+0 0 32382
+S
+#32382
+MUD School Healing Room~
+~
+0 394248 0
+0
+D1
+~
+~
+0 0 32381
+S
+#32383
+Classroom 3~
+~
+0 131080 0
+0
+D3
+~
+~
+0 0 32381
+S
+#32384
+Graduation Room~
+~
+0 394248 0
+0
+D2
+~
+~
+0 0 32381
+S
+#0
+
+
+
+#SPECIALS
+M 32173 spec_breath_any
+M 32174 spec_cast_cleric
+M 32175 spec_cast_cleric
+M 32176 spec_cast_cleric
+M 32177 spec_cast_cleric
+M 32191 spec_fido
+M 32247 spec_cast_mage
+M 32283 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 32062 2 2
+D 0 32103 0 2
+D 0 32112 5 2
+D 0 32161 4 2
+D 0 32162 3 1
+D 0 32163 1 1
+D 0 32165 2 2
+D 0 32166 0 2
+O 0 32080 0 32006
+O 0 32081 0 32007
+O 0 32082 0 32008
+M 0 32084 1 32010 1
+O 0 32083 0 32010
+O 0 3010 0 32011
+O 0 3399 0 32012
+M 0 32194 1 32014 1
+M 0 32191 5 32015 5
+M 0 32085 1 32020 1
+G 0 32086 0
+G 0 32087 0
+G 0 32088 0
+O 0 32089 0 32020
+M 0 32191 5 32021 5
+M 0 32090 1 32022 1
+M 0 32093 1 32023 1
+G 0 32094 0
+G 0 32095 0
+G 0 32096 0
+M 0 32191 5 32024 5
+M 0 32252 1 32025 1
+G 0 32253 0
+G 0 32254 0
+G 0 32255 0
+G 0 32256 0
+M 0 32257 1 32026 1
+G 0 32258 0
+G 0 32259 0
+G 0 32260 0
+G 0 32261 0
+M 0 32193 1 32027 1
+M 0 32247 1 32028 1
+G 0 32248 0
+G 0 32249 0
+G 0 32250 0
+G 0 32251 0
+M 0 32244 1 32029 1
+G 0 32212 0
+G 0 32243 0
+G 0 32245 0
+G 0 32246 0
+M 0 32191 1 32030 1
+M 0 32193 2 32031 2
+M 0 32181 1 32032 1
+M 0 32184 1 32033 1
+G 0 32186 0
+G 0 32187 0
+G 0 32188 0
+M 0 32191 5 32034 5
+M 0 32262 1 32035 1
+G 0 32263 0
+G 0 32264 0
+G 0 32265 0
+O 0 32272 0 32036
+M 0 32183 1 32036 1
+M 0 32182 1 32036 1
+M 0 32266 1 32039 1
+G 0 32267 0
+G 0 32268 0
+G 0 32269 0
+G 0 32270 0
+M 0 32193 1 32040 1
+M 0 32185 1 32042 1
+M 0 32191 5 32046 5
+M 0 32191 5 32048 5
+M 0 32291 1 32052 1
+O 0 32281 0 32052
+M 0 32176 1 32064 1
+M 0 32290 1 32065 1
+M 0 32174 1 32066 1
+M 0 32290 1 32067 1
+M 0 32175 1 32068 1
+M 0 32290 1 32069 1
+M 0 32177 1 32070 1
+M 0 32290 1 32071 1
+O 0 32091 0 32072
+O 0 32276 0 32077
+M 0 32172 1 32079 1
+E 0 32171 0 17
+M 0 32275 1 32080 1
+M 0 32275 1 32081 1
+M 0 32274 1 32082 1
+M 0 32274 1 32083 1
+M 0 32273 1 32084 1
+M 0 32273 1 32085 1
+M 0 32100 1 32101 1
+M 0 32104 1 32102 1
+M 0 32103 1 32102 1
+M 0 32105 1 32102 1
+M 0 32106 1 32102 1
+M 0 32107 1 32102 1
+O 0 32289 0 32103
+O 0 32287 0 32108
+M 0 32284 1 32110 1
+O 0 32288 0 32111
+M 0 32278 1 32115 1
+O 0 32279 0 32116
+O 0 32277 0 32118
+O 0 32279 0 32119
+M 0 32286 1 32121 1
+O 0 32279 0 32122
+O 0 32272 0 32126
+O 0 32272 0 32127
+O 0 32272 0 32129
+O 0 32272 0 32130
+O 0 32272 0 32132
+O 0 32272 0 32133
+M 0 32282 1 32138 1
+O 0 32280 0 32140
+M 0 32283 1 32141 1
+O 0 32281 0 32144
+O 0 32272 0 32148
+O 0 32272 0 32149
+M 0 32284 1 32151 1
+M 0 32284 1 32152 1
+O 0 32272 0 32154
+O 0 32285 0 32155
+M 0 32170 1 32160 1
+E 0 32168 0 17
+M 0 32173 1 32162 1
+E 0 32178 0 17
+O 0 32181 0 32163
+O 0 32180 0 32164
+O 0 32199 0 32166
+O 0 32179 0 32166
+O 0 32179 0 32166
+O 0 32179 0 32166
+O 0 32179 0 32166
+O 0 32179 0 32166
+O 0 32196 0 32195
+O 0 32239 0 32200
+O 0 32210 0 32201
+O 0 32209 0 32201
+O 0 32208 0 32201
+O 0 32207 0 32201
+O 0 32206 0 32201
+M 0 32211 1 32202 1
+G 0 32212 0
+G 0 32214 0
+M 0 32084 1 32203 1
+O 0 32083 0 32203
+M 0 32090 1 32204 1
+O 0 32239 0 32214
+M 0 32090 1 32215 1
+O 0 32083 0 32216
+M 0 32084 1 32216 1
+M 0 32233 1 32217 1
+G 0 32212 0
+G 0 32234 0
+O 0 32210 0 32218
+O 0 32209 0 32218
+O 0 32208 0 32218
+O 0 32207 0 32218
+O 0 32206 0 32218
+O 0 32239 0 32220
+M 0 32090 1 32221 1
+O 0 32083 0 32223
+M 0 32084 1 32223 1
+M 0 32235 1 32224 1
+G 0 32212 0
+G 0 32236 0
+O 0 32210 0 32225
+O 0 32209 0 32225
+O 0 32208 0 32225
+O 0 32207 0 32225
+O 0 32206 0 32225
+O 0 32239 0 32227
+M 0 32090 1 32228 1
+O 0 32083 0 32229
+M 0 32084 1 32229 1
+M 0 32237 1 32230 1
+G 0 32238 0
+G 0 32212 0
+O 0 32210 0 32231
+O 0 32209 0 32231
+O 0 32208 0 32231
+O 0 32207 0 32231
+O 0 32206 0 32231
+M 0 32296 1 32295 1
+S
+
+
+
+#SHOPS
+32085 0 0 0 0 0 100 100 0 23
+32093 0 0 0 0 0 100 100 0 2400
+32100 0 0 0 0 0 100 100 0 2400
+32110 0 0 0 0 0 100 100 0 2400
+32181 0 0 0 0 0 100 100 0 23
+32184 0 0 0 0 0 100 100 0 23
+32211 0 0 0 0 0 100 100 0 23
+32233 0 0 0 0 0 100 100 0 23
+32235 0 0 0 0 0 100 100 0 23
+32237 0 0 0 0 0 100 100 0 23
+32244 0 0 0 0 0 100 100 0 23
+32247 0 0 0 0 0 100 100 0 23
+32252 0 0 0 0 0 100 100 0 23
+32257 0 0 0 0 0 100 100 0 23
+32262 0 0 0 0 0 100 100 0 23
+32266 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

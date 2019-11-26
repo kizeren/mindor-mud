@@ -1,0 +1,148 @@
+#AREADATA
+Castle Magistar~
+Builders ~
+VNUMs 21100 21199
+Credits librom~
+Security 1
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#21100
+bridge guardian~
+Bridge guardian~
+The bridge guardian keeps watch over the area.
+~
+~
+human~
+AB 0 A A 300 0
+45 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 100
+V ADEGHJ medium unknown
+F for AHM
+F par BCFIK
+M GREET 21100 100~
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#21100
+A dirt platform~
+The dirt platform is unstable.  It shakes and shudders with every slight
+breeze.  Pieces of thin rope, attatched to a sturdy tree, hold it together. 
+Two stakes stick out of the ground, and attatched to them is a long wooden
+bridge.  The bridge disapears in a thick mist to the north.  A dirt trail
+that disapears behind a forest leads east.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21101
+S
+#21101
+Southern end of bridge~
+The bridge is made of a soft wood that has rotted from the moisture in
+the air.  A thick gray mist surrounds the bridge and it is impossible to
+tell how far down the ground is.  A faint light can be seen to the north, it
+may be the end.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21102
+D2
+~
+~
+0 0 21100
+S
+#21102
+Northern end of bridge~
+The northern end of the bridge is lit by two torches sticking out of the
+ground.  A large castle can be seen to the north.  Loud creaks and groans
+can be heard coming from the bridge as it sways in the wind.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21103
+D2
+~
+~
+0 0 21101
+S
+#21103
+Castle lawn~
+The lawn is totally made of dirt and a few misplaced weeds.  The smell of
+sulphur travels through the air.  Several cauldrons filled with fire light
+the area.  The castle towers over the whole area.  Loud animal like howls
+can be heard coming from the open windows.  The doors to the castle are
+north.  
+~
+0 0 0
+0
+D0
+~
+~
+1 0 21104
+D2
+~
+~
+0 0 21102
+S
+#21104
+Entrance hall~
+The entrance hall is huge.
+Many torches line to area showing a dimly lit hall.
+~
+0 0 0
+0
+D2
+~
+~
+1 0 21103
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 21103 0 1
+D 0 21104 2 1
+M 0 21100 1 21100 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#21100
+say Hail! $N, watch out for demons on the other side.
+~
+#0
+
+#$

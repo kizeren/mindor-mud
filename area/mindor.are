@@ -1,0 +1,304 @@
+#AREADATA
+Name Mindor~
+Builders None~
+VNUMs 20400 20600
+Credits [TAll ] Shaun   Mindor~
+Security 9
+End
+
+
+
+#MOBILES
+#20400
+Healer~
+{Whealer{x~
+A{W healer{x is waiting for people to heal.
+~
+~
+human~
+ABG CDEFGJL 0 1000 0
+110 110 221d36+3334 110d10+85 36d3+60 slice
+-64 -64 -64 -41
+BCHIKN ABCD HQ 0
+stand stand male 10000
+M ABCDEFGHIJK medium flesh
+F for AHV
+M GRALL 20400 arrived.~
+#20401
+Sulsar~
+Sulsar~
+Sulsar is waiting for you order.
+~
+~
+human~
+ABG 0 0 0 0
+110 110 221d36+3334 110d10+85 36d3+60 slice
+-64 -64 -64 -41
+EFKN ABDI 0 0
+stand stand male 0
+M ABCDEFGHIJK medium flesh
+F for AHV
+#20410
+Shop clerk~
+shop clerk~
+A shop clerk is standing behind the counter.
+~
+~
+human~
+ABG 0 0 0 0
+110 110 221d36+3334 110d10+85 36d3+60 none
+-64 -64 -64 -41
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#20400
+A standard dagger~
+a standard dagger~
+A standard dagger rests here.~
+steel~
+weapon 0 AO
+dagger 2 2 stab 0
+10 10 30 P
+#0
+
+
+
+#ROOMS
+#20400
+Healer's Palace~
+You are standing in the healer's palace at the center of Mindor.  A hugh
+platform is in front of you with one lonely healer on it.  He is chanting
+incantations of magic nature.  There are many tables around the outer walls
+of the palace with candles burning on them.  One for each soldier that has
+died in a battle.  Pray to the gods that be so that the healer may not have
+to light one for you.  
+~
+0 525312 0
+D1
+~
+~
+0 0 20401
+S
+#20401
+Outside the palace~
+You are standing on the walk way about the palace.  The palace is made of
+marble granite and is hugh.  The architecture is that of ancient Greek
+style.  Many of statues of famous people line the entrance to the palace. 
+North and south follow the walk around the palace.  
+~
+0 524288 1
+D0
+~
+~
+0 0 20402
+D1
+~
+~
+0 0 20403
+D3
+~
+~
+0 0 20400
+S
+#20402
+Walk way around palace~
+Heading around the palace, you can notice the beutiful art work and
+design put into the building of this structure.  The palace seems to be
+about two stories tall and has a steep roof made of the same granite.  The
+path continues on around to the west and to the south.  There is a granite
+bench here for passerby's to rest on.  
+~
+0 524288 1
+D2
+~
+~
+0 0 20401
+D3
+~
+~
+0 0 20405
+S
+#20403
+Hiiu way~
+You are standing on a large avenue kown as Hiiu Way.  There are a couple
+of fine shops along this path that are selling fine goods to anyone that can
+meet the prices.  To the north is Sulsar's forge.  The finest weapons in
+Mindor can be bought at this store.  To the south is the pet shop, nothing to
+expensive can be found here.  
+~
+0 524288 1
+D0
+~
+~
+0 0 20409
+D1
+~
+~
+0 0 20404
+D2
+~
+~
+0 0 20410
+D3
+~
+~
+0 0 20401
+S
+#20404
+Hiiu way~
+You are standing on a large avenue known as Hiiu Way.  There are a couple
+of fine shops along this path that are selling goods to anyone that can meet
+the prices.  The people move about performing thier day to day tasks.  The
+door to the north, with the giant golden scroll above it, is the clerics
+shop.  You can by some pretty nifty spells there.  The door to the south,
+with the giant silver globe, is the map makers shop.  They offer a variety
+of maps to some of the more famous places.  
+~
+0 524288 1
+D3
+~
+~
+0 0 20403
+S
+#20405
+Walk way around palace~
+Heading around the palace, you can notice the beutiful art work and
+design put into the building of this structure.  The palace seems to be
+about two stories tall and has a steep roof made of the same granite.  The
+path continues on around the the east and west.  To the north is Calwin Way.
+More commerce area of Mindor.  You can hear the buzy people at work from
+here.  
+~
+0 524288 1
+D1
+~
+~
+0 0 20402
+D3
+~
+~
+0 0 20406
+S
+#20406
+Walk way around palace~
+Heading around the palace, you can notice the beutiful art work and
+designs put into the building of this structure.  The palace seems to be
+about two storeis tall and has a steep roof made of the same granite.  The
+path continues on around to the east and south.  
+~
+0 524288 1
+D1
+~
+~
+0 0 20405
+D2
+~
+~
+0 0 20407
+S
+#20407
+Walk way and Hiiu Way~
+Walk way around the palace starts and ends here, depending on which way
+you just came from.  Follow the walk way around the palace to find the
+healer.  On the eastern side of Hiiu Way are some small fine shops.  To the
+west, is the western side of the Hiiu Way.  More shops can be found along
+this part of town.  
+~
+0 524288 1
+D0
+~
+~
+0 0 20406
+D3
+~
+~
+0 0 20408
+S
+#20408
+Hiiu Way~
+You are standing on a large avenue knows as Hiiu Way.  There are a couple
+of fine shops along this path that are selling goods to anyone that can meet
+the prices.  The people move about performing thier day to day tasks.  To
+the north is a suit of chainmail over looking the entrance to the armory. 
+To the south are the Jewler brother's store.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20407
+S
+#20409
+Sulsar's Forge~
+Welcome to Sulsar's Forge.  The sign says on the wall behind the counter.
+There are many of weapons hanging on hooks around the store.  It is fairly
+warm in here from the heat off of the furnace in the back.  You can here the
+bank of the hammer hitting the steal from the metal workers hitting the
+newly formed swords and daggers.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20403
+S
+#20410
+Pet Shop~
+Welcome to Mindor's pet store.  A wide variety of animals come and go
+from this store.  The walls are lined with cages upon cages of exotice
+species.  The store is fairly kept clean and free of any kind of oders.  The
+quality of the animals seems to very good.  
+~
+0 528384 0
+D0
+~
+~
+0 0 20403
+S
+#20411
+UNLINKED~
+stock room.
+~
+0 524292 0
+S
+#0
+
+
+
+#SPECIALS
+M 20400 spec_cast_cleric
+S
+
+
+
+#RESETS
+M 0 20400 1 20400 1
+M 0 20400 1 20409 1
+M 0 20401 1 20409 1
+G 0 20400 0
+M 0 20410 1 20410 1
+S
+
+
+
+#SHOPS
+20401 5 0 0 0 0 10 100 1 24
+20410 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#20400
+say Hello $n.  What may I do for you?
+~
+#0
+
+#$

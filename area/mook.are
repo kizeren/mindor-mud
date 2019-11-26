@@ -1,0 +1,1044 @@
+#AREADATA
+Name Aserfeth~
+Builders ~
+VNUMs 21201 21299
+Credits [TALL ] Mook  Aserfeth~
+Security 1
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#21201
+{3A dirt path{0~
+To the west you see Aserfeth, the elven city.  To the east lies a path.  
+~
+0 4 0
+0
+D1
+~
+~
+0 0 21202
+D3
+~
+~
+0 0 21203
+S
+#21202
+{3A dirt path{0~
+Trees line a dirt path leading south and west.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 8951
+D3
+~
+~
+0 0 21201
+S
+#21203
+{3a small clearing{0~
+Several {2trees{0, wider than most cities in the area tower above this place,
+with many bridges stretched between the {2trees{0.  This area is magical, and it
+vibrates with all the life.  Paths lead in all the cardinal directions, with
+east leaving the city.  
+~
+0 0 0
+0
+E
+trees~
+These trees tower above everything else.  Bridges at many different
+heights stretch between them, and high up there is a bustle of activity.  
+~
+D0
+~
+~
+0 0 21204
+D1
+~
+~
+0 0 21201
+D2
+~
+~
+0 0 21206
+D3
+~
+~
+0 0 21220
+S
+#21204
+{3A path around the city{0~
+This is a path that leads around the city of Aserfeth.  It is very
+narrow, weaving between many trees to the north and south.  The city itself
+lies to the west.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21205
+D2
+~
+~
+0 0 21203
+D3
+~
+~
+0 0 21219
+S
+#21205
+{yA path around the city~
+This is a path that leads around the city of Aserfeth.  It is very
+narrow, weaving between many trees to the south and west.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21204
+D3
+~
+~
+0 0 21218
+S
+#21206
+{yA path around the city~
+This is a path that leads around the city of Aserfeth.  It is very
+narrow, weaving between many trees to the north and south.  The city itself
+lies to the west.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21203
+D2
+~
+~
+0 0 21207
+D3
+~
+~
+0 0 21221
+S
+#21207
+{yA path around the city~
+This is a path that leads around the city of Aserfeth.  It is very
+narrow, weaving between many trees to the north and west.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21206
+D3
+~
+~
+0 0 21208
+S
+#21208
+{yA path around the city~
+This is a path that leads around the city of Aserfeth.  It is very
+narrow, weaving between many trees to the east and west.  The city itself
+lies to the north.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21221
+D1
+~
+~
+0 0 21207
+D3
+~
+~
+0 0 21209
+S
+#21209
+{yA path around the city~
+This is a path that leads around the city of Aserfeth.  It is very
+narrow, weaving between many trees to the east and west.  The city itself
+lies to the north.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21222
+D1
+~
+~
+0 0 21208
+D3
+~
+~
+0 0 21210
+S
+#21210
+{yA path around the city~
+This is a path that leads around the city of Aserfeth.  It is very
+narrow, weaving between many trees to the east and west.  The city itself
+lies to the north.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21223
+D1
+~
+~
+0 0 21209
+D3
+~
+~
+0 0 21211
+S
+#21211
+{yA path around the city~
+This is a path that leads around the city of Aserfeth.  It is very
+narrow, weaving between many trees to the north and east.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21212
+D1
+~
+~
+0 0 21210
+S
+#21212
+{yA path around the city~
+This is a path that leads around the city of Aserfeth.  It is very
+narrow, weaving between many trees to the north and south.  The city itself
+lies to the east.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21213
+D1
+~
+~
+0 0 21223
+D2
+~
+~
+0 0 21211
+S
+#21213
+{yA path around the city~
+This is a path that leads around the city of Aserfeth.  It is very
+narrow, weaving between many trees to the north and south.  The city itself
+lies to the east.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21214
+D1
+~
+~
+0 0 21224
+D2
+~
+~
+0 0 21212
+S
+#21214
+{yA path around the city~
+This is a path that leads around the city of Aserfeth.  It is very
+narrow, weaving between many trees to the north and south.  The city itself
+lies to the east.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21215
+D1
+~
+~
+0 0 21225
+D2
+~
+~
+0 0 21213
+S
+#21215
+{yA path around the city~
+This is a path that leads around the city of Aserfeth.  It is very
+narrow, weaving between many trees to the east and south.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21216
+D2
+~
+~
+0 0 21214
+S
+#21216
+{yNear a Tree~
+This is a path that leads around the city of Aserfeth.  It is very
+narrow, weaving between many trees to the east and west.  The city itself
+lies to the south.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21217
+D2
+~
+~
+0 0 21225
+D3
+~
+~
+0 0 21215
+S
+#21217
+{yA path around the city~
+This is a path that leads around the city of Aserfeth.  It is very
+narrow, weaving between many trees to the east and west.  The city itself
+lies to the south.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21218
+D2
+~
+~
+0 0 21226
+D3
+~
+~
+0 0 21216
+S
+#21218
+{yA path around the city~
+This is a path that leads around the city of Aserfeth.  It is very
+narrow, weaving between many trees to the east and west.  The city itself
+lies to the south.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21205
+D2
+~
+~
+0 0 21219
+D3
+~
+~
+0 0 21217
+S
+#21219
+{yNear a Tree~
+Here stands one of Aserfeth's many trees.  The western side of the tree
+looks climbable, maybe this is a way to get to all the elves up high?  In
+all directions it is forested, but paths can be seen to the north, the east,
+and the south, and a clearing is to the west.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21218
+D1
+~
+~
+0 0 21204
+D2
+~
+~
+0 0 21220
+D3
+~
+~
+0 0 21226
+D4
+~
+~
+0 0 21228
+S
+#21220
+{yOn a path between some trees.~
+This is the main path of Aserfeth.  To the east lies a small clearing
+near the entrance of the city, and to the west lies a large clearing filled
+with tents and commotion.  Despite this path being used a lot, it is still
+surrounded by the forest and its vibrant life.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21219
+D1
+~
+~
+0 0 21203
+D2
+~
+~
+0 0 21221
+D3
+~
+~
+0 0 21227
+S
+#21221
+{yNear a Tree~
+Here stands one of Aserfeth's many trees.  The southern side of the tree
+looks climbable, maybe this is a way to get to all the elves up high?  In
+all directions it is forested, but paths can be seen in the north, the east,
+and the south.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21220
+D1
+~
+~
+0 0 21206
+D2
+~
+~
+0 0 21208
+D3
+~
+~
+0 0 21222
+S
+#21222
+{yNear a Tree~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21227
+D1
+~
+~
+0 0 21221
+D2
+~
+~
+0 0 21209
+D3
+~
+~
+0 0 21223
+D4
+~
+~
+0 0 21242
+S
+#21223
+{yNear a Tree~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21224
+D1
+~
+~
+0 0 21222
+D2
+~
+~
+0 0 21210
+D3
+~
+~
+0 0 21212
+D4
+~
+~
+0 0 21241
+S
+#21224
+{yOn a path between some trees.~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21225
+D1
+~
+~
+0 0 21227
+D2
+~
+~
+0 0 21223
+D3
+~
+~
+0 0 21213
+S
+#21225
+{yNear a Tree~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21216
+D1
+~
+~
+0 0 21226
+D2
+~
+~
+0 0 21224
+D3
+~
+~
+0 0 21214
+S
+#21226
+{yA Large Clearing~
+This is a clearing obviously used for outsiders to Aserfeth.  There are
+many tents set up, and a lot of activity - all sorts of creatures are coming
+and going throughout the various tents.  The clearing itself is surrounded
+by forest, but it continues to the south.  To the north is the path.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21217
+D1
+~
+~
+0 0 21219
+D2
+~
+~
+0 0 21227
+D3
+~
+~
+0 0 21225
+S
+#21227
+{yA Large Clearing~
+This is a clearing obviously used for outsiders to Aserfeth.  There are
+many tents set up, and a lot of activity - all sorts of creatures are coming
+and going throughout the various tents.  The clearing itself is surrounded
+by forest, but it continues to the north.  To the east is the path 
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21226
+D1
+~
+~
+0 0 21220
+D2
+~
+~
+0 0 21222
+D3
+~
+~
+0 0 21224
+S
+#21228
+{yOn the Side of a Tree~
+You are clinging to the western side of a tree, with two options: the
+safety of climbing down the tree, or the adventure of entering the tree. 
+The opening lies east, while saftey lies down.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21229
+D5
+~
+~
+0 0 21219
+S
+#21229
+{yIn a Tree~
+This room is filled with all sorts of strange objects.  From mechanical
+birds, to books on how-to voodoo, if theres something to be found, its here.
+In the corner a strange old man is ruffling through some odds and ends in a
+box.  There are three exits out of this place, to the west, out of the tree,
+the the south, which leads to a bridge, and up, which leads farther up the
+tree.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21230
+D3
+~
+~
+0 0 21228
+D4
+~
+~
+0 0 21231
+S
+#21230
+{3On a bridge in Aserfeth~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21229
+D2
+~
+~
+0 0 21234
+S
+#21231
+~
+~
+0 0 0
+0
+D3
+~
+~
+0 0 21232
+D5
+~
+~
+0 0 21229
+S
+#21232
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21231
+D4
+~
+~
+0 0 21233
+S
+#21233
+~
+~
+0 0 0
+0
+D5
+~
+~
+0 0 21232
+S
+#21234
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21230
+D3
+~
+~
+0 0 21238
+D4
+~
+~
+0 0 21235
+S
+#21235
+~
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21236
+D5
+~
+~
+0 0 21234
+S
+#21236
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21235
+D4
+~
+~
+0 0 21237
+S
+#21237
+~
+~
+0 0 0
+0
+D5
+~
+~
+0 0 21236
+S
+#21238
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21234
+D2
+~
+~
+0 0 21242
+D3
+~
+~
+0 0 21239
+S
+#21239
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21240
+D1
+~
+~
+0 0 21238
+D3
+~
+~
+0 0 21241
+S
+#21240
+{3On a bridge~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21243
+D2
+~
+~
+0 0 21239
+S
+#21241
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21239
+D5
+~
+~
+0 0 21223
+S
+#21242
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21238
+D5
+~
+~
+0 0 21222
+S
+#21243
+{4A Darkened Room~
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21240
+D5
+~
+~
+0 0 21244
+S
+#21244
+{4A Dark Stairwell~
+~
+0 0 0
+0
+D4
+~
+~
+0 0 21243
+D5
+~
+~
+0 0 21245
+S
+#21245
+{4A Dark Stairwell~
+~
+0 0 0
+0
+D4
+~
+~
+0 0 21244
+D5
+~
+~
+0 0 21246
+S
+#21246
+{4Entrance to The Arena~
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21247
+D4
+~
+~
+0 0 21245
+S
+#21247
+{4The Arena~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21246
+D1
+~
+~
+0 0 21251
+D3
+~
+~
+0 0 21248
+S
+#21248
+{4The Arena~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21247
+D2
+~
+~
+0 0 21250
+S
+#21249
+{1The Pit~
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21254
+S
+#21250
+{4The Arena~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21248
+D2
+~
+~
+0 0 21255
+S
+#21251
+{4The Arena~
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21252
+D3
+~
+~
+0 0 21247
+S
+#21252
+{4The Arena~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21251
+D2
+~
+~
+0 0 21253
+S
+#21253
+{4The Arena~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21252
+D3
+~
+~
+0 0 21254
+S
+#21254
+{bThe Arena{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21249
+D1
+~
+~
+0 0 21253
+D3
+~
+~
+0 0 21255
+S
+#21255
+{4The Arena~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21250
+D1
+~
+~
+0 0 21254
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,397 @@
+#AREADATA
+Name Gods~
+Builders Raiden~
+VNUMs 9800 9850
+Credits [90 110] Riaden  Gods~
+Security 1
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#9801
+Statue of Hephaestus~
+Statue of Hephaestus~
+The statue of Hephaestus is here
+~
+This is the statue of Hephaestus, the God of fire and craftsman.  
+~
+human~
+ABG 0 A A 0 0
+150 150 309d51+4546 150d11+95 51d2+107 none
+-98 -98 -98 -67
+0 0 0 0
+stand stand male 0
+H 0 medium stone
+F for AMV
+F par ABCDEFGHIJK
+#9802
+Statue of Artemis~
+Statue of Artemis~
+A statue of Artemis is here.
+~
+This is Artemis, goddess of the moon and the hunt.  
+~
+human~
+ABG 0 A A 0 0
+150 150 309d51+4546 150d11+95 51d2+107 none
+-98 -98 -98 -67
+0 0 0 0
+stand stand female 0
+0 0 medium stone
+F for AHMV
+F par ABCDEFGHIJK
+#9803
+Statue of Hermes~
+Statue of Hermes~
+The statue of Hermes is here.
+~
+This is the statue of Hermes, the Messenger God.  
+~
+human~
+ABG 0 A A 0 0
+150 150 309d51+4546 150d11+95 51d2+107 none
+-98 -98 -98 -67
+0 0 0 0
+stand stand male 0
+0 0 medium stone
+F for AHMV
+F par ABCDEFGHIJK
+#9804
+Statue of Aphrodite~
+Statue of Aphrodite~
+The statue of Aphrodite is here.
+~
+This is the statue of Aphrodite, Goddess of love and beauty.  
+~
+human~
+ABG 0 A A 0 0
+150 150 309d51+4546 150d11+95 51d2+107 none
+-98 -98 -98 -67
+0 0 0 0
+stand stand female 0
+0 0 medium stone
+F for AHMV
+F par ABCDEFGHIJK
+#9805
+Statue of Apollo~
+Statue of Apollo~
+A statue of Apollo is here.
+~
+This is Apollo, God of the Sun.  
+~
+human~
+ABG 0 A A 0 0
+150 150 309d51+4546 150d11+95 51d2+107 none
+-98 -98 -98 -67
+0 0 0 0
+stand stand male 0
+0 0 medium stone
+F for AHMV
+F par ABCDEFGHIJK
+#9806
+Statue of Athena~
+Statue of Athena~
+The statue of Athena is here.
+~
+This is the statue of Athena, Goddess of wisdom and war.  
+~
+human~
+ABG 0 A A 0 0
+150 150 309d51+4546 150d11+95 51d2+107 none
+-98 -98 -98 -67
+0 0 0 0
+stand stand female 0
+0 0 medium stone
+F for AHMV
+F par ABCDEFGHIJK
+#9807
+Statue of Ares~
+Statue of Ares~
+The statue of Ares is here.
+~
+This is Ares, God of war.  
+~
+human~
+ABG 0 A A 0 0
+150 150 309d51+4546 150d11+95 51d2+107 none
+-98 -98 -98 -67
+0 0 0 0
+stand stand male 0
+0 0 medium stone
+F for AHMV
+F par ABCDEFGHIJK
+#9808
+Statue of Hera~
+Statue of Hera~
+The statue of Hera is here.
+~
+This is the statue of Hera, Goddess of marriage, childern, and the home. 
+Wife of Zeus.  
+~
+human~
+ABG 0 A A 0 0
+150 150 309d51+4546 150d11+95 51d2+107 none
+-98 -98 -98 -67
+0 0 0 0
+stand stand female 0
+0 0 medium stone
+F for AHMV
+F par ABCDEFGHIJK
+#9809
+Statue of Hestia~
+Statue of Hestia~
+The statue of Hestia is here.
+~
+This is Hestia, Goddess of the hearth.  
+~
+human~
+ABG 0 A A 0 0
+150 150 309d51+4546 150d11+95 51d2+107 none
+-98 -98 -98 -67
+0 0 0 0
+stand stand female 0
+0 0 medium stone
+F for AHMV
+F par ABCDEFGHIJK
+#9810
+Statue of Hades~
+Statue of Hades~
+The statue of Hades is here.
+~
+This is Hades, God of the Afterlife.  
+~
+human~
+ABG 0 A A 0 0
+150 150 309d51+4546 150d11+95 51d2+107 none
+-98 -98 -98 -67
+0 0 0 0
+stand stand male 0
+0 0 medium stone
+F for AHMV
+F par ABCDEFGHIJK
+#9811
+Statue of Poseidon~
+Statue of Poseidon~
+The statue of Poseidon is here.
+~
+This is Poseidon, God of the Sea.  
+~
+human~
+ABG 0 A A 0 0
+150 150 309d51+4546 150d11+95 51d2+107 none
+-98 -98 -98 -67
+0 0 0 0
+stand stand male 0
+0 0 medium stone
+F for AHMV
+F par ABCDEFGHIJK
+#9812
+Statue of Zeus~
+Statue of Zeus~
+A statue of Zeus is here.
+~
+This is Zeus, Father of All Gods.  
+~
+human~
+ABG 0 A A 0 0
+150 150 309d51+4546 150d11+95 51d2+107 none
+-98 -98 -98 -67
+0 0 0 0
+stand stand male 0
+0 0 medium stone
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#9800
+{!R{*a{!i{*d{!e{*n{!'{*s{( Autographed Picture~
+{!R{*a{!i{*d{!e{*n{!'{*s{( Autographed Picture~
+A picture of {!R{*a{!i{*d{!e{*n{( with bolts of {&l{#i{&g{#h{&t{#n{&i{#n{&g{( in the background~
+picture paper~
+trash O AO
+0 0 0 0 0
+1 1 100 P
+#9801
+{!F{1i{!r{1e {!s{1w{!o{1r{!d{(~
+{!F{1i{!r{1e {!S{1w{!o{1r{!d{(~
+A long sword with a blade made entirely of fire.~
+Fire~
+weapon 0 AN
+exotic 1 1 slash 0
+15 20 300 P
+#9802
+{!F{1ire {!s{1taff{x~
+{!F{1ire {!s{1taff{x~
+A long staff made of bamboo with a {!f{1lame{x shooting out of the end.~
+bamboo~
+staff A AO
+50 1000000 1000000 'fireball' 0
+50 20 175 P
+#9803
+bamboo torch~
+bamboo torch~
+A torch made of bamboo.~
+bamboo~
+light 0 AO
+0 0 999 0 0
+0 10 20 P
+#9804
+black obsidian ring~
+a black obsidian ring~
+A small black ring has been droped here.~
+obsidian~
+armor 0 AB
+0 0 0 0 0
+30 10 300 P
+#9805
+sword of power~
+sword of power~
+A sword lies here bouncing off the ground with power.~
+unknown~
+weapon 0 AN
+exotic 1 1 slash 0
+35 6 300 P
+#9806
+sword of destruction~
+sword of destruction~
+A large sword with a crack down the center of it lies here.~
+unknown~
+weapon 0 AN
+exotic 1 1 slash D
+50 10 6000 P
+#9847
+Lightning Armor~
+lightning armor~
+A small suit of armor with lightning flowing through it was droped here.~
+lightning~
+armor 0 AD
+26 15 30 10 0
+25 5 500 P
+#9848
+Gold Engagement Ring~
+gold engagement ring~
+A golden engagement ring, made by Raiden, is here.~
+Raiden's bone~
+jewelry ABI ABCEHIJKLMO
+0 0 0 0 0
+1 10 500 P
+A
+19 25
+A
+18 26
+#9849
+Velvet Futon Couch~
+{wa {MV{mel{Mv{me{Mt {mF{Mu{mto{Mn {mC{Mo{mu{Mc{mh{x~
+{wa {MV{mel{Mv{me{Mt {mF{Mu{mto{Mn {mC{Mo{mu{Mc{mh{w looks comfortable.~
+unknown~
+furniture 0 0
+100 100000 BEHK 1000 1000
+0 0 0 P
+#9850
+whiskey shot~
+a shot of whiskey~
+A shot of whiskey is on the table.~
+oldstyle~
+drink 0 A
+2 2 'whisky' 0 0
+0 10 12 P
+#0
+
+
+
+#ROOMS
+#9800
+Tower of The Olympians~
+This is the first floor of the glorious Temple of Gods.  The walls are
+made of stone with torches embeded into them.  There is a small shelving
+unit in the center of the room with many books on it.  The floors are
+covered in a dark red carpet as if they were made of blood.  There are a few
+windows in the walls to let sunlight in from outside.  
+~
+0 0 0
+0
+D4
+~
+~
+0 0 9801
+M 1000 H 1000
+S
+#9801
+Hephaestus' Alter~
+This room is filled with light coming from the center of the room where
+there is a large fire pit.  The walls are almost bare except for a few
+pictures of hephaestus and a torch on each wall.  The floor is covered with
+a dark red carpet with an almost unknown pattern on it.  There is a large
+painting of hephaestus covering the ceiling.  
+~
+0 0 0
+0
+D4
+~
+~
+0 0 9802
+D5
+~
+~
+0 0 9800
+S
+#9802
+Artemis' Alter~
+In this room small light is given.  The walls are bare except for a few
+torches to light the room.  The floor is covered with large white tile with
+small black designs in it.  The cieling is made up of a painting of Artemis.
+A small alter rests in the center of the room as to worship this goddess.  
+~
+0 0 0
+0
+D4
+~
+~
+0 0 9803
+D5
+~
+~
+0 0 9801
+S
+#9803
+Hermes' Alter~
+This room is filled with ease.  White feathers drop endlessly from the
+cieling and then disappear when they hit the floor.  The floor looks like
+the room was on a cloud in the middle of nowhere.  The walls have a few
+torches and a picture on one wall.  
+~
+0 0 0
+0
+D5
+~
+~
+0 0 9802
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

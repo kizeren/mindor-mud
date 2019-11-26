@@ -1,0 +1,557 @@
+#AREADATA
+Name New area~
+Builders Darush~
+VNUMs 700 899
+Credits [?? ??] Darush The Town of Kiov~
+Security 1
+End
+
+
+
+#MOBILES
+#700
+A Gate Guard~
+a Gate Guard~
+A Gate Guard stands here watching the entrance.
+~
+~
+titan~
+AB DVa 0 -1000 0
+150 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB D HN
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#757
+fountain spring~
+a magical spring~
+A Magical spring lies in the centre of the room.~
+air~
+fountain AB 0
+0 0 'water' 0 0
+0 10000 0 P
+#0
+
+
+
+#ROOMS
+#730
+market street~
+~
+0 0 0
+D0
+~
+~
+0 0 731
+D1
+~
+~
+0 0 732
+S
+#731
+a shop~
+~
+0 0 0
+D2
+~
+~
+0 0 730
+S
+#732
+market street~
+~
+0 0 0
+D0
+~
+~
+0 0 734
+D1
+~
+~
+0 0 733
+D2
+~
+~
+0 0 735
+D3
+~
+~
+0 0 730
+S
+#733
+market street~
+~
+0 0 0
+D0
+~
+~
+0 0 736
+D2
+~
+~
+0 0 737
+D3
+~
+~
+0 0 732
+S
+#734
+a shop~
+~
+0 0 0
+D2
+~
+~
+0 0 732
+S
+#735
+a shop~
+~
+0 0 0
+D0
+~
+~
+0 0 732
+S
+#736
+a shop~
+~
+0 0 0
+D2
+~
+~
+0 0 733
+S
+#737
+a shop~
+~
+0 0 0
+D0
+~
+~
+0 0 733
+S
+#738
+residential~
+~
+0 0 0
+D0
+~
+~
+0 0 741
+D1
+~
+~
+0 0 739
+D2
+~
+~
+0 0 744
+S
+#739
+residential~
+~
+0 0 0
+D0
+~
+~
+0 0 742
+D1
+~
+~
+0 0 740
+D2
+~
+~
+0 0 745
+D3
+~
+~
+0 0 738
+S
+#740
+residential~
+~
+0 0 0
+D0
+~
+~
+0 0 743
+D2
+~
+~
+0 0 746
+D3
+~
+~
+0 0 739
+S
+#741
+a house~
+~
+0 0 0
+D2
+~
+~
+0 0 738
+S
+#742
+a house~
+~
+0 0 0
+D2
+~
+~
+0 0 739
+S
+#743
+a house~
+~
+0 0 0
+D2
+~
+~
+0 0 740
+S
+#744
+a house~
+~
+0 0 0
+D0
+~
+~
+0 0 738
+S
+#745
+a house~
+~
+0 0 0
+D0
+~
+~
+0 0 739
+S
+#746
+residential~
+~
+0 0 0
+D0
+~
+~
+0 0 740
+D2
+~
+~
+0 0 747
+S
+#747
+residential~
+~
+0 0 0
+D0
+~
+~
+0 0 746
+D3
+~
+~
+0 0 748
+S
+#748
+residential~
+~
+0 0 0
+D1
+~
+~
+0 0 747
+S
+#749
+guard street~
+~
+0 0 0
+D1
+~
+~
+0 0 750
+S
+#750
+guard street~
+~
+0 0 0
+D2
+~
+~
+0 0 751
+D3
+~
+~
+0 0 749
+S
+#751
+guard street~
+~
+0 0 0
+D0
+~
+~
+0 0 750
+D2
+~
+~
+0 0 752
+S
+#752
+The South Road~
+~
+0 0 0
+D0
+~
+~
+0 0 751
+D2
+~
+~
+0 0 753
+D3
+~
+~
+0 0 754
+S
+#753
+guard room~
+~
+0 0 0
+D0
+~
+~
+0 0 752
+D3
+~
+~
+0 0 758
+S
+#754
+The South Road~
+~
+0 0 0
+D0
+~
+~
+0 0 756
+D1
+~
+~
+0 0 752
+D3
+~
+~
+0 0 755
+S
+#755
+The South Road~
+~
+0 0 0
+D0
+~
+~
+0 0 757
+D1
+~
+~
+0 0 754
+S
+#756
+weapon cache~
+~
+0 0 0
+D2
+~
+~
+0 0 754
+S
+#757
+The Temple of Kiov~
+~
+0 4 0
+D2
+~
+~
+0 0 755
+S
+#758
+barracks~
+~
+0 0 0
+D1
+~
+~
+0 0 753
+D3
+~
+~
+0 0 759
+S
+#759
+barracks~
+~
+0 0 0
+D1
+~
+~
+0 0 758
+S
+#760
+The South Road~
+~
+0 4 0
+D3
+~
+~
+0 0 761
+S
+#761
+The South Road~
+~
+0 4 0
+D0
+~
+~
+0 0 765
+D1
+~
+~
+0 0 760
+D2
+~
+~
+0 0 767
+D3
+~
+~
+0 0 762
+S
+#762
+The South Road~
+~
+0 4 0
+D0
+~
+~
+0 0 763
+D1
+~
+~
+0 0 761
+S
+#763
+Temple~
+~
+0 0 0
+D0
+~
+~
+0 0 764
+D2
+~
+~
+0 0 762
+S
+#764
+Temple~
+~
+0 0 0
+D2
+~
+~
+0 0 763
+S
+#765
+Temple~
+~
+0 0 0
+D2
+~
+~
+0 0 761
+S
+#766
+The Anxious Wench~
+You are inside one of the inns of Kiov.  The room is filled with many
+ordinary tables with matching stools.  Colorful carpets cover the floor of
+the inn in a clash of shades, showing off a desperate attempt at decoration.
+Girls with the same clashing colored uniforms hustle throughout the inn
+wearing big smiles, serving customers to their satisfaction.  A door to the
+east leads out of the inn and into the streets of Kiov.  
+~
+0 0 0
+S
+#767
+temple~
+~
+0 0 0
+D0
+~
+~
+0 0 761
+D1
+~
+~
+0 0 769
+D3
+~
+~
+0 0 768
+S
+#768
+temple~
+~
+0 0 0
+D1
+~
+~
+0 0 767
+S
+#769
+temple~
+~
+0 0 0
+D3
+~
+~
+0 0 767
+S
+#770
+Market Square~
+~
+0 0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 757 0 757
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

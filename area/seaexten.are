@@ -1,0 +1,432 @@
+#AREADATA
+Name Dragon Sea~
+Builders ~
+VNUMs 4200 4250
+Credits [25 40] Akasha  Dragon Sea~
+Security 9
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#4205
+Shark~
+a shark~
+A shark is here, waiting to attack.
+~
+~
+water fowl~
+AG Tb ATb A 0 0
+30 30 61d10+304 30d10+85 10d3+20 none
+-10 -10 -10 -4
+0 HR R ST
+stand stand none 100
+AGWb ACDEFHKP small unknown
+#4207
+Shark~
+a shark~
+A shark is here, waiting to attack.
+~
+~
+water fowl~
+AG Tb ATb A 0 0
+30 30 61d10+304 30d10+85 10d3+20 none
+-10 -10 -10 -4
+0 HR R ST
+stand stand none 100
+AGWb ACDEFHKP small unknown
+#4219
+Shark~
+a shark~
+A shark is here, waiting to attack.
+~
+~
+water fowl~
+AG Tb ATb A 0 0
+30 30 61d10+304 30d10+85 10d3+20 none
+-10 -10 -10 -4
+0 HR R ST
+stand stand none 100
+AGWb ACDEFHKP small unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#4200
+The Dragon Sea~
+The deep {Bblue-{Ggreen{x waters of the Dragon Sea surround you for as
+far as the eye can see, stretching to the horizon in every direction.  
+~
+0 8192 6
+0
+D0
+~
+~
+0 0 4201
+D2
+~
+~
+0 0 9788
+S
+#4201
+The Dragon Sea~
+The deep {Bblue-{Ggreen{x waters of the Dragon Sea surround you for as
+far as the eye can see, stretching to the horizon in every direction.  
+~
+0 8192 6
+0
+D1
+~
+~
+0 0 4202
+D2
+~
+~
+0 0 4200
+S
+#4202
+The Dragon Sea~
+The deep {Bblue-{Ggreen{x waters of the Dragon Sea surround you for as
+far as the eye can see, stretching to the horizon in every direction.  
+~
+0 8192 6
+0
+D1
+~
+~
+0 0 4203
+D3
+~
+~
+0 0 4201
+S
+#4203
+The Dragon Sea~
+The deep {Bblue-{Ggreen{x waters of the Dragon Sea surround you for as
+far as the eye can see, stretching to the horizon in every direction.  
+~
+0 8192 6
+0
+D0
+~
+~
+0 0 4204
+D1
+~
+~
+0 0 4206
+D3
+~
+~
+0 0 4202
+S
+#4204
+The Dragon Sea~
+The deep {Bblue-{Ggreen{x waters of the Dragon Sea surround you for as
+far as the eye can see, stretching to the horizon in every direction.  
+~
+0 8192 6
+0
+D1
+~
+~
+0 0 4205
+D2
+~
+~
+0 0 4203
+S
+#4205
+The Dragon Sea~
+The deep {Bblue-{Ggreen{x waters of the Dragon Sea surround you for as
+far as the eye can see, stretching to the horizon in every direction.  
+~
+0 8192 6
+0
+D0
+~
+~
+0 0 4207
+D2
+~
+~
+0 0 4206
+D3
+~
+~
+0 0 4204
+S
+#4206
+The Dragon Sea~
+The deep {Bblue-{Ggreen{x waters of the Dragon Sea surround you for as
+far as the eye can see, stretching to the horizon in every direction.  
+~
+0 8192 6
+0
+D0
+~
+~
+0 0 4205
+D1
+~
+~
+0 0 4209
+D3
+~
+~
+0 0 4203
+S
+#4207
+The Dragon Sea~
+The deep {Bblue-{Ggreen{x waters of the Dragon Sea surround you for as
+far as the eye can see, stretching to the horizon in every direction.  
+~
+0 8192 6
+0
+D0
+~
+~
+0 0 4208
+D2
+~
+~
+0 0 4205
+S
+#4208
+The Dragon Sea~
+The deep {Bblue-{Ggreen{x waters of the Dragon Sea surround you for as
+far as the eye can see, stretching to the horizon in every direction.  
+~
+0 8192 6
+0
+D1
+~
+~
+0 0 4218
+D2
+~
+~
+0 0 4207
+S
+#4209
+The Dragon Sea~
+The deep {Bblue-{Ggreen{x waters of the Dragon Sea surround you for as
+far as the eye can see, stretching to the horizon in every direction.  
+~
+0 8192 6
+0
+D1
+~
+~
+0 0 4210
+D3
+~
+~
+0 0 4206
+S
+#4210
+The Dragon Sea~
+The deep {Bblue-{Ggreen{x waters of the Dragon Sea surround you for as
+far as the eye can see, stretching to the horizon in every direction.  
+~
+0 8192 6
+0
+D0
+~
+~
+0 0 4213
+D1
+~
+~
+0 0 4211
+D3
+~
+~
+0 0 4209
+S
+#4211
+The Dragon Sea~
+The deep {Bblue-{Ggreen{x waters of the Dragon Sea surround you for as
+far as the eye can see, stretching to the horizon in every direction.  
+~
+0 8192 6
+0
+D1
+~
+~
+0 0 4212
+D3
+~
+~
+0 0 4210
+S
+#4212
+The Dragon Sea~
+The deep {Bblue-{Ggreen{x waters of the Dragon Sea surround you for as
+far as the eye can see, stretching to the horizon in every direction.  
+~
+0 8192 6
+0
+D3
+~
+~
+0 0 4211
+S
+#4213
+The Dragon Sea~
+The deep {Bblue-{Ggreen{x waters of the Dragon Sea surround you for as
+far as the eye can see, stretching to the horizon in every direction.  
+~
+0 8192 6
+0
+D1
+~
+~
+0 0 4214
+D2
+~
+~
+0 0 4210
+S
+#4214
+The Dragon Sea~
+The deep {Bblue-{Ggreen{x waters of the Dragon Sea surround you for as
+far as the eye can see, stretching to the horizon in every direction.  
+~
+0 8192 6
+0
+D0
+~
+~
+0 0 4215
+D3
+~
+~
+0 0 4213
+S
+#4215
+The Dragon Sea~
+The deep {Bblue-{Ggreen{x waters of the Dragon Sea surround you for as
+far as the eye can see, stretching to the horizon in every direction.  
+~
+0 8192 6
+0
+D0
+~
+~
+0 0 4216
+D2
+~
+~
+0 0 4214
+S
+#4216
+The Dragon Sea~
+The deep {Bblue-{Ggreen{x waters of the Dragon Sea surround you for as
+far as the eye can see, stretching to the horizon in every direction.  
+~
+0 8192 6
+0
+D1
+~
+~
+0 0 4217
+D2
+~
+~
+0 0 4215
+S
+#4217
+The Dragon Sea~
+The deep {Bblue-{Ggreen{x waters of the Dragon Sea surround you for as
+far as the eye can see, stretching to the horizon in every direction.  
+~
+0 8192 6
+0
+D3
+~
+~
+0 0 4216
+S
+#4218
+The Dragon Sea~
+The deep {Bblue-{Ggreen{x waters of the Dragon Sea surround you for as
+far as the eye can see, stretching to the horizon in every direction.  
+~
+0 8192 6
+0
+D1
+~
+~
+0 0 4219
+D3
+~
+~
+0 0 4208
+S
+#4219
+The Dragon Sea~
+The deep blue-green waters of the Dragon Sea surround you for as far as
+the eye can see, stretching to the horizon in every direction.  
+~
+0 8192 6
+0
+D1
+~
+~
+0 0 4220
+D3
+~
+~
+0 0 4218
+S
+#4220
+The Dragon Sea~
+The shore of Nornir.  The sand on the shore is pure white in color.  This
+shore is kept fairly clean and looks to be lightly travelled.  To the west
+is the dragon sea and to the east looks to be a dock.  
+~
+0 8192 6
+0
+D1
+~
+~
+0 0 4300
+D3
+~
+~
+0 0 4219
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 4205 5 4205 1
+M 0 4207 1 4207 1
+M 0 4219 5 4219 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

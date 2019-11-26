@@ -1,0 +1,933 @@
+#AREADATA
+The Prison~
+Builders ~
+VNUMs 31400 31460
+Credits Augustus~
+Security 1
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#31400
+a prisoner escape man~
+A prisoner hangs here~
+A prisoner, who tried to escape, hangs rotting on the wall.
+~
+~
+elf~
+AB J A A -500 0
+30 30 63d11+304 30d11+95 11d2+27 punch
+-12 -12 -12 -6
+IJ 0 B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#31401
+prison couch~
+a {Wwhite{x couch~
+A very large, comfortable {Wwhite{x satan couch.~
+{WWhite{x Satan~
+furniture 0 0
+20 20000 FIL 100 100
+0 0 0 R
+#31404
+Ring of Virtuosity~
+ring of {YVirtuosity{x~
+A Ring of {YVirtuosity{x ~
+Hardened Steel forged my the purest Saint~
+gem AISY AB
+0 0 0 0 0
+20 1 20000 R
+#0
+
+
+
+#ROOMS
+#31400
+Tunnel through the Mountain~
+~
+0 8 0
+0
+D2
+~
+~
+0 0 31401
+S
+#31401
+Tunnel through the Mountain~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 31400
+D2
+~
+~
+0 0 31402
+S
+#31402
+Tunnel through the Mountain~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 31401
+D2
+~
+~
+0 0 31403
+S
+#31403
+Tunnel through the Mountain~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 31402
+D2
+~
+~
+0 0 31404
+S
+#31404
+Tunnel through the Mountain~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 31403
+D5
+~
+~
+0 0 31405
+S
+#31405
+Bloody Steps~
+~
+0 8 0
+0
+D4
+~
+~
+0 0 31404
+D5
+~
+~
+0 0 31406
+S
+#31406
+The Visitors Room~
+There are several chairs paired up around the room facing tempered glass
+room where families can visit the prisoners.  By the Warden's law, noone is
+allowed into the prison, instead the prisoners are brought down the Hallway
+of Horor to remind them that they will join its captives if they try to
+escape.  
+~
+0 8 0
+0
+D2
+~
+~
+1 0 31407
+D4
+~
+~
+0 0 31405
+M 1000 H 1000
+S
+#31407
+Hallway of Horor~
+From the overwelming smell of rotted flesh, you can tell how the Hallway
+of Horors got it's name.  The walls ahead are littered with the deceased
+corpses of the countless men and women who have tried to escape but failed. 
+Let this be a Warning to the would be explorer, Once you enter the prison
+you will not escape.  Exits lie south 
+~
+0 8 0
+0
+D0
+~
+~
+1 0 31406
+D2
+~
+~
+0 0 31408
+M 0 H 0
+S
+#31408
+Hallway of Horor~
+The putrid smell of death gets stronger with every step you take.
+~
+0 8 0
+0
+D0
+~
+~
+0 0 31407
+D2
+~
+~
+0 0 31409
+M 0 H 0
+S
+#31409
+Hallway of Horor~
+You can't help but be nauseated with the ever stronger scent of death and
+rotting flesh in the air.  To the south you can see the source of the smell
+dangling from it's chains. 
+~
+0 8 0
+0
+D0
+~
+~
+0 0 31408
+D2
+~
+~
+0 0 31410
+M 0 H 0
+S
+#31410
+Hallway of Horor~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 31409
+D2
+~
+~
+0 0 31411
+M 0 H 0
+S
+#31411
+Hallway of Horor~
+~
+0 8 0
+0
+D0
+~
+~
+0 0 31410
+D1
+~
+~
+0 0 31412
+M 0 H 0
+S
+#31412
+Hallway of Horror~
+~
+0 8 0
+0
+D1
+~
+~
+0 0 31413
+D3
+~
+~
+0 0 31411
+M 0 H 0
+S
+#31413
+Hallway of Horror~
+~
+0 8 0
+0
+D1
+~
+~
+0 0 31414
+D3
+~
+~
+0 0 31412
+M 0 H 0
+S
+#31414
+Hallway of Horror~
+~
+0 8 0
+0
+D1
+~
+~
+0 0 31415
+D3
+~
+~
+0 0 31413
+M 0 H 0
+S
+#31415
+Entrance to the Prison~
+~
+0 8 0
+0
+D2
+~
+~
+0 0 31416
+D3
+~
+~
+0 0 31414
+M 200 H 200
+S
+#31416
+The Prison Yard~
+As you pass the two-foot thick Titanium gates of the prison, you find
+yourself standing in side a heavily guarded box.  You see nothing but
+training equpiment and sweaty, pale prisoners who could rip you apart with
+the slightest motion.  
+~
+0 8 0
+0
+D0
+~
+~
+0 0 31415
+D1
+~
+~
+0 0 31419
+D2
+~
+~
+0 0 31423
+D3
+~
+~
+0 0 31417
+S
+#31417
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31416
+D2
+~
+~
+0 0 31424
+D3
+~
+~
+0 0 31418
+S
+#31418
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31417
+D2
+~
+~
+0 0 31425
+S
+#31419
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31420
+D2
+~
+~
+0 0 31422
+D3
+~
+~
+0 0 31416
+S
+#31420
+~
+~
+0 0 0
+0
+D2
+~
+~
+0 0 31421
+D3
+~
+~
+0 0 31419
+S
+#31421
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31420
+D3
+~
+~
+0 0 31422
+S
+#31422
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31419
+D1
+~
+~
+0 0 31421
+D3
+~
+~
+0 0 31423
+S
+#31423
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31416
+D1
+~
+~
+0 0 31422
+D2
+~
+~
+0 0 31426
+D3
+~
+~
+0 0 31424
+S
+#31424
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31417
+D1
+~
+~
+0 0 31423
+D3
+~
+~
+0 0 31425
+S
+#31425
+~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31418
+D1
+~
+~
+0 0 31424
+S
+#31426
+Cell Block A~
+Cell Block A is knowen as the Low security area of the prison.  Only
+Prisoners up for parol or those who are model inmates live in this block.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31423
+D1
+~
+~
+0 0 31439
+D2
+~
+~
+0 0 31427
+D3
+~
+~
+0 0 31438
+M 0 H 0
+S
+#31427
+Cell Block A~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31426
+D1
+~
+~
+0 0 31441
+D2
+~
+~
+0 0 31428
+D3
+~
+~
+0 0 31440
+M 0 H 0
+S
+#31428
+Cell Block A~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31427
+D1
+~
+~
+0 0 31443
+D2
+~
+~
+0 0 31429
+D3
+~
+~
+0 0 31442
+M 0 H 0
+S
+#31429
+Cell Block A~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31428
+D5
+~
+~
+0 0 31430
+M 0 H 0
+S
+#31430
+Cell Block B~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31431
+D1
+~
+~
+0 0 31445
+D3
+~
+~
+0 0 31444
+D4
+~
+~
+0 0 31429
+M 0 H 0
+S
+#31431
+Cell Block B~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31432
+D1
+~
+~
+0 0 31447
+D2
+~
+~
+0 0 31430
+D3
+~
+~
+0 0 31446
+M 0 H 0
+S
+#31432
+Cell Block B~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31433
+D1
+~
+~
+0 0 31449
+D2
+~
+~
+0 0 31431
+D3
+~
+~
+0 0 31448
+M 0 H 0
+S
+#31433
+~
+~
+0 0 0
+0
+D2
+~
+~
+0 0 31432
+D5
+~
+~
+0 0 31434
+M 0 H 0
+S
+#31434
+Cell Block C~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31451
+D2
+~
+~
+0 0 31435
+D3
+~
+~
+0 0 31450
+D4
+~
+~
+0 0 31433
+M 0 H 0
+S
+#31435
+Cell Block C~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31434
+D1
+~
+~
+0 0 31453
+D2
+~
+~
+0 0 31436
+D3
+~
+~
+0 0 31452
+M 0 H 0
+S
+#31436
+Cell Block C~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31435
+D1
+~
+~
+0 0 31455
+D2
+~
+~
+0 0 31437
+D3
+~
+~
+0 0 31454
+M 0 H 0
+S
+#31437
+Cell Block C~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31436
+M 0 H 0
+S
+#31438
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31426
+S
+#31439
+~
+~
+0 0 0
+0
+D3
+~
+~
+0 0 31426
+S
+#31440
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31427
+S
+#31441
+~
+~
+0 0 0
+0
+D3
+~
+~
+0 0 31427
+S
+#31442
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31428
+S
+#31443
+~
+~
+0 0 0
+0
+D3
+~
+~
+0 0 31428
+S
+#31444
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31430
+S
+#31445
+~
+~
+0 0 0
+0
+D3
+~
+~
+0 0 31430
+S
+#31446
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31431
+S
+#31447
+~
+~
+0 0 0
+0
+D3
+~
+~
+0 0 31431
+S
+#31448
+~
+~
+0 4 0
+0
+D1
+~
+~
+0 0 31432
+S
+#31449
+The G-Spot~
+~
+0 12 0
+0
+D3
+~
+~
+0 0 31432
+S
+#31450
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31434
+S
+#31451
+~
+~
+0 0 0
+0
+D3
+~
+~
+0 0 31434
+S
+#31452
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31435
+S
+#31453
+~
+~
+0 0 0
+0
+D3
+~
+~
+0 0 31435
+S
+#31454
+~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31436
+S
+#31455
+~
+~
+0 0 0
+0
+D3
+~
+~
+0 0 31436
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 31406 2 1
+D 0 31407 0 1
+O 0 31401 0 31406
+M 0 31400 100 31410 4
+M 0 31400 100 31411 4
+M 0 31400 100 31412 4
+M 0 31400 100 31413 4
+M 0 31400 100 31414 4
+O 0 4302 0 31415
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

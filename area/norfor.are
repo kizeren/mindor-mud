@@ -1,0 +1,1631 @@
+#AREADATA
+Name Nornir Forest~
+Builders ~
+VNUMs 4400 4499
+Credits [ ALL ] Kizeren  Nornir Forest~
+Security 1
+RepopMsg {x~
+End
+
+
+
+#MOBILES
+#4411
+Forest elf~
+Forest elf~
+A forest elf stands here.
+~
+~
+elf~
+ABG J AJ A 0 0
+110 110 221d36+3334 110d10+85 36d3+60 none
+-64 -64 -64 -41
+0 0 B Z
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 4411 o'la-tu-ini~
+#4412
+Forest elf~
+Forest elf~
+A forest elf stands here.
+~
+~
+elf~
+ABG J AJ A 0 0
+110 110 221d36+3334 110d10+85 36d3+60 none
+-64 -64 -64 -41
+0 0 B Z
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 4412 o'la-tu-ini~
+#4413
+a snake~
+a snake~
+A snake is swimming here.
+~
+~
+snake~
+ABG 0 A A -1000 0
+5 5 11d2+51 5d10+85 1d5+7 none
+5 5 5 7
+0 0 L I
+stand stand none 0
+AGXYc ADEFKLQVX medium unknown
+#4414
+a snake~
+a snake~
+A snake is swimming here.
+~
+~
+snake~
+ABG 0 A A -1000 0
+5 5 11d2+51 5d10+85 1d5+7 none
+5 5 5 7
+0 0 L I
+stand stand none 0
+AGXYc ADEFKLQVX medium unknown
+#4459
+Skeleton~
+a skeleton~
+A skeleton is here, disgrunteled by an early death.
+~
+~
+human~
+AB 0 0 A 0 0
+10 10 21d3+102 10d10+85 3d3+10 none
+2 2 2 4
+0 0 0 0
+stand stand none 0
+E 0 medium bones
+F for AHMV
+F par ABCDEFGHIJK
+#4469
+skeleton~
+a skeleton~
+A disgruntled Skeleton.
+~
+~
+human~
+AB 0 0 A 0 0
+15 15 31d5+152 15d10+85 5d3+12 none
+0 0 0 2
+0 N C 0
+stand stand none 1000
+0 0 large bones
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#4408
+hammer~
+a small hammer~
+A small hammer has been left behind.~
+wood~
+weapon 0 AN
+axe 8 5 thwack 0
+30 3 100 P
+#4431
+flowers~
+some flowers~
+Some flowers are growing here.~
+grass~
+food 0 AO
+10 4 0 0 0
+0 2 0 P
+#4468
+chest~
+a wooden chest~
+A wooden chest stands in the corner.~
+oldstyle~
+container 0 A
+100 ACD 4469 20 100
+0 400 100 P
+E
+chest~
+It is a robust chest made from short, heavy planks that have been fastened
+together with tenons.  It is equipped with a simple brass lock.
+~
+#4469
+Skeleton Key~
+a key~
+A Skeleton key.~
+bone~
+key 0 AO
+0 0 0 0 0
+0 1 10 P
+#4470
+Expensive Ruby~
+a ruby~
+Wow a very expensive item has been left here.~
+ruby~
+treasure 0 AO
+0 0 0 0 0
+0 0 10000000 P
+#0
+
+
+
+#ROOMS
+#4400
+Outside Northern Gate~
+The sky is cluttered with dense vegatation from the forest.  The walls of
+the city are kept clean and free of any vegatation grown up or around them. 
+The path is a plain path with a lot of prints in it from the passerbys. 
+There is a variety of flowers planted along the path.  The path leads north
+into the Nornir forest and south back into Nornir.  
+~
+0 1 3
+0
+D0
+~
+~
+0 0 4403
+D1
+~
+~
+0 0 4401
+D2
+~
+~
+0 0 4313
+S
+#4401
+Path around Nornir~
+Path around nornir, just and empty field.  Alot of crops and vegetation 
+grow wildly here. Not much more movement to the east can one go.
+~
+0 1 3
+0
+D1
+~
+~
+0 0 4402
+D3
+~
+~
+0 0 4400
+S
+#4402
+Path around Nornir~
+Dead end!
+~
+0 1 2
+0
+D3
+~
+~
+0 0 4401
+S
+#4403
+Path in the forest~
+Entrance to the Nornir forest.  The trees are are some of the largest on
+the continent.  They extend all the way to the skyline, blocking the view of
+the sky.  Around the path the trees and shurbs are neatly cleaned.  The path
+is a plain dirt trail with small vegitation growing nearby.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 4404
+D2
+~
+~
+0 0 4400
+D3
+~
+~
+0 0 4426
+S
+#4404
+Path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs on the sides of the
+path make is impossible to wonder from it.  
+~
+0 1 3
+0
+D1
+~
+~
+0 0 4405
+D2
+~
+~
+0 0 4403
+S
+#4405
+Path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs on the sides of the
+path make is impossible to wonder from it.  
+~
+0 1 3
+0
+D1
+~
+~
+0 0 4406
+D3
+~
+~
+0 0 4404
+S
+#4406
+Path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs on the sides of the
+path make is impossible to wonder from it.  
+~
+0 1 3
+0
+D1
+~
+~
+0 0 4407
+D3
+~
+~
+0 0 4405
+S
+#4407
+Path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  It look as if some 
+children have made a tree house here in the trees.  There are not many
+footprints in the dirt of the path.  The thick shurbs on the sides of the
+path make is impossible to wonder from it.  
+~
+0 1 3
+0
+D1
+~
+~
+0 0 4409
+D3
+~
+~
+0 0 4406
+D4
+~
+~
+0 0 4408
+S
+#4408
+Up a ladder~
+The tree house landing is a couple more steps up.  The ground is starting to
+look very far down now.  The limbs from neighboring trees are making it
+difficult to climb up.  The planks of the ladder seem to be sturdy enough
+to continue climbing towards the platform of the treehouse.  Upon further
+inspection of the tree,  someone has left thier hammer in the side of the 
+tree.
+~
+0 1 3
+0
+E
+tree~
+------------------------------------
+| o'la-tu-ini di-ya-lo hoks li'lae |
+------------------------------------
+~
+E
+word~
+------------------------------------
+| o'la-tu-ini di-ya-lo hoks li'lae |
+------------------------------------
+~
+D5
+~
+~
+0 0 4407
+S
+#4409
+A bend in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs on the sides of the
+path make is impossible to wonder from it.  The path continues north from here.
+~
+0 1 3
+0
+D0
+~
+~
+0 0 4410
+D3
+~
+~
+0 0 4407
+S
+#4410
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the 
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs on the sides of the
+path make is impossible to wonder from it.  
+~
+0 1 3
+0
+D0
+~
+~
+0 0 4411
+D2
+~
+~
+0 0 4409
+S
+#4411
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the 
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs and trees now 
+block any kind of passage through this part of the forest.  There is a 
+{Wsign{x next to the side of the path. 
+~
+0 1 3
+0
+E
+sign~
+The elvish people of this forest loved to carve words into the sides of
+trees.  The elf in front of you is waiting for you to speak at certain
+phrase to enter the rest of the forest.  
+~
+E
+Akasha~
+The zombie follows its vampire master.
+{GThe mark of Piton is on it's forehead.{x.
+~
+D2
+~
+~
+0 0 4410
+S
+#4412
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs and trees now 
+block any kind of passage through this part of the forest.  There is a 
+{Wsign{x next to the side of the path. 
+~
+0 1 3
+0
+E
+Akasha~
+The zombie follows its vampire master.
+{GThe mark of Piton is on it's forehead.{x.
+~
+D0
+~
+~
+0 0 4413
+S
+#4413
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs to the side of the 
+forest path do not allow for much wondering.  
+~
+0 1 3
+0
+D0
+~
+~
+0 0 4414
+D2
+~
+~
+0 0 4412
+S
+#4414
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs to the side of the 
+forest path do not allow for much wondering.  
+~
+0 1 3
+0
+D1
+~
+~
+0 0 4415
+D2
+~
+~
+0 0 4413
+S
+#4415
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs to the side of the 
+forest path do not allow for much wondering.  
+~
+0 1 3
+0
+D0
+~
+~
+0 0 4416
+D3
+~
+~
+0 0 4414
+S
+#4416
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs to the side of the 
+forest path do not allow for much wondering.  
+~
+0 1 3
+0
+D0
+~
+~
+0 0 4417
+D2
+~
+~
+0 0 4415
+S
+#4417
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs to the side of the 
+forest path do not allow for much wondering.  
+~
+0 1 3
+0
+D0
+~
+~
+0 0 4418
+D2
+~
+~
+0 0 4416
+S
+#4418
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs to the side of the 
+forest path do not allow for much wondering.  
+~
+0 1 3
+0
+D0
+~
+~
+0 0 4419
+D2
+~
+~
+0 0 4417
+S
+#4419
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs to the side of the 
+forest path do not allow for much wondering.  
+~
+0 1 3
+0
+D1
+~
+~
+0 0 4420
+D2
+~
+~
+0 0 4418
+S
+#4420
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the trees.
+Can barely make out if it is day or nite.  There are not many footprints in
+the dirt of the path.  The thick shurbs to the side of the forest path do
+not allow for much wondering.  A path wonders off to the east.  
+~
+0 1 3
+0
+D0
+~
+~
+0 0 4421
+D1
+~
+~
+0 0 1501
+D3
+~
+~
+0 0 4419
+S
+#4421
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs to the side of the 
+forest path do not allow for much wondering.  
+~
+0 1 3
+0
+D0
+~
+~
+0 0 4422
+D2
+~
+~
+0 0 4420
+S
+#4422
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs to the side of the 
+forest path do not allow for much wondering.  
+~
+0 1 3
+0
+D2
+~
+~
+0 0 4421
+D3
+~
+~
+0 0 4423
+S
+#4423
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs to the side of the 
+forest path do not allow for much wondering.  
+~
+0 1 3
+0
+D0
+~
+~
+0 0 4433
+D1
+~
+~
+0 0 4422
+D3
+~
+~
+0 0 4424
+S
+#4424
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs to the side of the 
+forest path do not allow for much wondering.  
+~
+0 1 3
+0
+D1
+~
+~
+0 0 4423
+D3
+~
+~
+0 0 4425
+S
+#4425
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs to the side of the 
+forest path do not allow for much wondering.  
+~
+0 1 3
+0
+D1
+~
+~
+0 0 4424
+D3
+~
+~
+0 0 4428
+S
+#4426
+Path in the forest~
+The trees are are some of the largest on the continent.  They extend all
+the way to the skyline, blocking the view of the sky.  Around the path the
+trees and shurbs are neatly cleaned.  The path is a plain dirt trail with
+small vegitation growing nearby.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 4427
+D1
+~
+~
+0 0 4403
+S
+#4427
+Path in the forest~
+The trees are are some of the largest on the continent.  They extend all
+the way to the skyline, blocking the view of the sky.  Around the path the
+trees and shurbs are neatly cleaned.  The path is a plain dirt trail with
+small vegitation growing nearby.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 4451
+D2
+~
+~
+0 0 4426
+S
+#4428
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs to the side of the 
+forest path do not allow for much wondering.  
+~
+0 1 3
+0
+D0
+~
+~
+0 0 4429
+D1
+~
+~
+0 0 4425
+D2
+~
+~
+0 0 4432
+S
+#4429
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs to the side of the 
+forest path do not allow for much wondering.  
+~
+0 1 3
+0
+D0
+~
+~
+0 0 4430
+D1
+~
+~
+0 0 4431
+D2
+~
+~
+0 0 4428
+S
+#4430
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs to the side of the 
+forest path do not allow for much wondering.  
+~
+0 1 3
+0
+D2
+~
+~
+0 0 4429
+S
+#4431
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs to the side of the 
+forest path do not allow for much wondering.  
+~
+0 1 3
+0
+D3
+~
+~
+0 0 4429
+S
+#4432
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs to the side of the 
+forest path do not allow for much wondering.  
+~
+0 1 3
+0
+D0
+~
+~
+0 0 4428
+S
+#4433
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs to the side of the 
+forest path do not allow for much wondering.  
+~
+0 1 3
+0
+D0
+~
+~
+0 0 4434
+D2
+~
+~
+0 0 4423
+S
+#4434
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs to the side of the 
+forest path do not allow for much wondering.  
+~
+0 1 3
+0
+D0
+~
+~
+0 0 4435
+D2
+~
+~
+0 0 4433
+S
+#4435
+A path in the forest~
+The path through the dense forest is not well explored by most travelers.
+There are alot of exotic plants and animals through out this region of the
+forest.  The sky is very cluttered from all the high dense growth the
+trees.  Can barely make out if it is day or nite.  There are not many
+footprints in the dirt of the path.  The thick shurbs to the side of the 
+forest path do not allow for much wondering.  Sound of water comes from
+the north.  
+~
+0 1 3
+0
+D0
+~
+~
+0 0 4436
+D2
+~
+~
+0 0 4434
+S
+#4436
+Norsek River~
+The continents main source of water, Norsek river is one of the largest
+in the continent to be explored.  Many types of fish and plant life depend
+on this river to bring in food.  Many of the trees grow right up to the edge
+of the river front.  The water look as clear as an ocean.  The sky is partly
+visibly from this point. The forest is south of here. 
+~
+0 0 6
+0
+D1
+~
+~
+0 0 4437
+D2
+~
+~
+0 0 4435
+S
+#4437
+Norsek River~
+The continents main source of water, Norsek river is one of the largest
+in the continent to be explored.  Many types of fish and plant life depend
+on this river to bring in food.  Many of the trees grow right up to the edge
+of the river front.  The water look as clear as an ocean.  The sky is partly
+visibly from this point.  
+~
+0 0 6
+0
+D1
+~
+~
+0 0 4438
+D3
+~
+~
+0 0 4436
+S
+#4438
+Norsek River~
+The continents main source of water, Norsek river is one of the largest
+in the continent to be explored.  Many types of fish and plant life depend
+on this river to bring in food.  Many of the trees grow right up to the edge
+of the river front.  The water look as clear as an ocean.  The sky is partly
+visibly from this point.  
+~
+0 0 6
+0
+D1
+~
+~
+0 0 4439
+D3
+~
+~
+0 0 4437
+S
+#4439
+Norsek River~
+The continents main source of water, Norsek river is one of the largest
+in the continent to be explored.  Many types of fish and plant life depend
+on this river to bring in food.  Many of the trees grow right up to the edge
+of the river front.  The water look as clear as an ocean.  The sky is partly
+visibly from this point.  
+~
+0 0 6
+0
+D1
+~
+~
+0 0 4440
+D3
+~
+~
+0 0 4438
+S
+#4440
+Norsek River~
+The continents main source of water, Norsek river is one of the largest
+in the continent to be explored.  Many types of fish and plant life depend
+on this river to bring in food.  Many of the trees grow right up to the edge
+of the river front.  The water look as clear as an ocean.  The sky is partly
+visibly from this point.  
+~
+0 0 6
+0
+D1
+~
+~
+0 0 4441
+D3
+~
+~
+0 0 4439
+S
+#4441
+Norsek River~
+The continents main source of water, Norsek river is one of the largest
+in the continent to be explored.  Many types of fish and plant life depend
+on this river to bring in food.  Many of the trees grow right up to the edge
+of the river front.  The water look as clear as an ocean.  The sky is partly
+visibly from this point.  
+~
+0 0 6
+0
+D1
+~
+~
+0 0 4442
+D3
+~
+~
+0 0 4440
+S
+#4442
+Norsek River~
+The continents main source of water, Norsek river is one of the largest
+in the continent to be explored.  Many types of fish and plant life depend
+on this river to bring in food.  Many of the trees grow right up to the edge
+of the river front.  The water look as clear as an ocean.  The sky opens up
+as the river take a bend to the north.  The outer bend of the river
+has cause much damage to the side of the river bank.
+~
+0 0 6
+0
+D0
+~
+~
+0 0 4443
+D1
+~
+~
+0 0 4450
+D3
+~
+~
+0 0 4441
+S
+#4443
+Norsek River~
+The continents main source of water, Norsek river is one of the largest
+in the continent to be explored.  Many types of fish and plant life depend
+on this river to bring in food.  Many of the trees grow right up to the edge
+of the river front.  The water look as clear as an ocean.  The sky is partly
+visibly from this point.  
+~
+0 0 6
+0
+D0
+~
+~
+0 0 4444
+D2
+~
+~
+0 0 4442
+S
+#4444
+Norsek River~
+The continents main source of water, Norsek river is one of the largest
+in the continent to be explored.  Many types of fish and plant life depend
+on this river to bring in food.  Many of the trees grow right up to the edge
+of the river front.  The water look as clear as an ocean.  The sky is partly
+visibly from this point.  
+~
+0 0 6
+0
+D0
+~
+~
+0 0 4445
+D2
+~
+~
+0 0 4443
+S
+#4445
+Norsek River~
+The continents main source of water, Norsek river is one of the largest
+in the continent to be explored.  Many types of fish and plant life depend
+on this river to bring in food.  Many of the trees grow right up to the edge
+of the river front.  The water look as clear as an ocean.  The sky is partly
+visibly from this point.  
+~
+0 0 6
+0
+D0
+~
+~
+0 0 4446
+D2
+~
+~
+0 0 4444
+S
+#4446
+Norsek River~
+The continents main source of water, Norsek river is one of the largest
+in the continent to be explored.  Many types of fish and plant life depend
+on this river to bring in food.  Many of the trees grow right up to the edge
+of the river front.  The water look as clear as an ocean.  The sky is partly
+visibly from this point.  The river to the north is block by deep water from
+a large waterfall and dense vegitation.  There is a small path leading off
+east into the forest.  
+~
+0 0 6
+0
+D1
+~
+~
+0 0 4447
+D2
+~
+~
+0 0 4445
+S
+#4447
+Path in the forest~
+Entrance to another part of the Nornir forest.  This part seems little
+bit more different then the previoius.  The trees seem to be listening to
+everthing that is done.  The big redwoods of the forest tower clear up to
+the sky and make it so dark not even the light of day can penetrate through.
+It is almost impossible to see beyond the trees due to a heavy mist that
+seems to linger about.  There is the sound of running water back to the
+west.  
+~
+0 1 3
+0
+D1
+~
+~
+0 0 4448
+D3
+~
+~
+0 0 4446
+S
+#4448
+Path in the forest~
+A path in another part of the Nornir forest.  This part seems little bit
+more different then the previoius.  The trees seem to be listening to
+everthing that is done.  The big redwoods of the forest tower clear up to
+the sky and make it so dark not even the light of day can penetrate through.
+It is almost impossible to see beyond the trees due to a heavy mist that
+seems to linger about.  The path is cluttered with leaves from the
+nieghboring trees.  The shrubs almost seem to reach out and try and touch
+the wandering travelers.  
+~
+0 1 3
+0
+D0
+~
+~
+0 0 4449
+D3
+~
+~
+0 0 4447
+S
+#4449
+Path in the forest~
+A path in another part of the Nornir forest.  This part is little bit
+more different then the previoius.  The trees are listening to everthing
+that is done and said.  The big redwoods of the forest tower all the up to
+the sky and make it so dark not even the light of day can't penetrate
+through.  It is almost impossible to see beyond the trees due to a heavy
+mist that is lingering about.  The path is cluttered with leaves from the
+nieghboring trees.  The shrubs reach out so far as if to try and touch the
+wandering travelers.  The sound from the water fall can be heard to the
+west.  There is a small path east of here.  
+~
+0 1 3
+0
+D1
+~
+~
+0 0 7800
+D2
+~
+~
+0 0 4448
+S
+#4450
+River bank of the Norsek river~
+The river bank has been washed out to a point that it is safe enought to
+transverse up the side of the bank to the path leading east.  There is a
+large tower to the east and the river is back west.  
+~
+0 0 3
+0
+D1
+~
+~
+0 0 2201
+D3
+~
+~
+0 0 4442
+S
+#4451
+Path in the forest~
+The trees are are some of the largest on the continent.  They extend all
+the way to the skyline, blocking the view of the sky.  Around the path the
+trees and shurbs are neatly cleaned.  The path is a plain dirt trail with
+small vegitation growing nearby.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 4452
+D2
+~
+~
+0 0 4427
+S
+#4452
+Path in the forest~
+The trees are are some of the largest on the continent.  They extend all
+the way to the skyline, blocking the view of the sky.  Around the path the
+trees and shurbs are neatly cleaned.  The path is a plain dirt trail with
+small vegitation growing nearby.  
+~
+0 0 3
+0
+D1
+~
+~
+0 0 4454
+D2
+~
+~
+0 0 4451
+D3
+~
+~
+0 0 4466
+S
+#4453
+~
+~
+0 0 0
+0
+D3
+~
+~
+0 0 4452
+S
+#4454
+~
+There seems to be some type of opening here.  The rock face extends
+almost as high as the tree tops.  There is a slow cool breeze coming from
+the entrance.  
+~
+0 0 3
+0
+D3
+~
+~
+0 0 4452
+D10
+~
+~
+0 0 4455
+S
+#4455
+Cave Entrance~
+Deep, dark and dreary.  The normal words for a unexplored cave.  There
+have been rumors of riches found in this cave.  Continue or runaway?  
+~
+0 1 0
+0
+D1
+~
+~
+0 0 4456
+D11
+~
+~
+0 0 4454
+S
+#4456
+cave~
+The cave is ever so dark now.  The light from the entrance is slowly
+fading the farther and farther you proceed inward.  The smell from the air
+is that of a damp rotten something.  Unclear as to what is ahead.  
+~
+0 1 0
+0
+D1
+~
+~
+0 0 4457
+D3
+~
+~
+0 0 4455
+S
+#4457
+Cave~
+The cave is ever so dark now.  The light from the entrance is slowly
+fading the farther and farther you proceed inward.  The smell from the air
+is really strange now.  Unclear as to what is ahead.  There are sounds of
+ratteling our heard from the north and south.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 4458
+D1
+~
+~
+0 0 4460
+D2
+~
+~
+0 0 4459
+D3
+~
+~
+0 0 4456
+S
+#4458
+Alcove~
+This part of the cave has been erroded away by several years of water
+running down the walls.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 4457
+S
+#4459
+Alcove~
+This part of the cave has been erroded away by several years of water
+running down the walls.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 4457
+S
+#4460
+Cave~
+The cave is ever so dark now.  The light from the entrance is slowly
+fading the farther and farther you proceed inward.  The smell from the air
+is really strange now.  Unclear as to what is ahead.  There are sounds of
+ratteling our heard from the north and south.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 4463
+D1
+~
+~
+0 0 4461
+D2
+~
+~
+0 0 4464
+D3
+~
+~
+0 0 4457
+S
+#4461
+Cave~
+The cave is ever so dark now.  There is no visible light coming from the
+entrance of the cave anymore.  It is still unclear as to what is ahead.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 4462
+D3
+~
+~
+0 0 4460
+S
+#4462
+Cave~
+The cave is ever so dark now.  There is no visible light coming from the
+entrance of the cave anymore.  It is still unclear as to what is ahead.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 4465
+D3
+~
+~
+0 0 4461
+S
+#4463
+Alcove~
+This part of the cave has been erroded away by several years of water
+running down the walls.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 4460
+S
+#4464
+Alcove~
+This part of the cave has been erroded away by several years of water
+running down the walls.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 4460
+S
+#4465
+Cave~
+The cave is ever so dark now.  There is no visible light coming from the
+entrance of the cave anymore.  It is still unclear as to what is ahead.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 4462
+D2
+~
+~
+0 0 4467
+S
+#4466
+Path in the forest~
+The trees are are some of the largest on the continent.  They extend all
+the way to the skyline, blocking the view of the sky.  Around the path the
+trees and shurbs are neatly cleaned.  The path is a plain dirt trail with
+small vegitation growing nearby.  
+~
+0 0 3
+0
+D1
+~
+~
+0 0 4452
+D3
+~
+~
+0 0 4469
+S
+#4467
+Cave~
+The cave is ever so dark now.  There is no visible light coming from the
+entrance of the cave anymore.  It is still unclear as to what is ahead.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 4465
+D1
+~
+~
+0 0 4468
+S
+#4468
+Cave~
+The cave is ever so dark now.  There is no visible light coming from the
+entrance of the cave anymore.  It is still unclear as to what is ahead.  
+~
+0 0 0
+0
+D3
+~
+~
+0 0 4467
+S
+#4469
+Path in the forest~
+The trees are are some of the largest on the continent.  They extend all
+the way to the skyline, blocking the view of the sky.  Around the path the
+trees and shurbs are neatly cleaned.  The path is a plain dirt trail with
+small vegitation growing nearby.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 4470
+D1
+~
+~
+0 0 4466
+S
+#4470
+Path in the forest~
+The trees are are some of the largest on the continent.  They extend all
+the way to the skyline, blocking the view of the sky.  Around the path the
+trees and shurbs are neatly cleaned.  The path is a plain dirt trail with
+small vegitation growing nearby.  
+~
+0 0 3
+0
+D1
+~
+~
+0 0 4471
+D2
+~
+~
+0 0 4469
+S
+#4471
+Path in the forest~
+The trees are are some of the largest on the continent.  They extend all
+the way to the skyline, blocking the view of the sky.  Around the path the
+trees and shurbs are neatly cleaned.  The path is a plain dirt trail with
+small vegitation growing nearby.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 4472
+D3
+~
+~
+0 0 4470
+S
+#4472
+Path in the forest~
+The trees are are some of the largest on the continent.  They extend all
+the way to the skyline, blocking the view of the sky.  Around the path the
+trees and shurbs are neatly cleaned.  The path is a plain dirt trail with
+small vegitation growing nearby.  
+~
+0 0 3
+0
+D2
+~
+~
+0 0 4471
+D3
+~
+~
+0 0 4473
+S
+#4473
+Path in the forest~
+The trees are are some of the largest on the continent.  They extend all
+the way to the skyline, blocking the view of the sky.  Around the path the
+trees and shurbs are neatly cleaned.  The path is a plain dirt trail with
+small vegitation growing nearby.  
+~
+0 0 3
+0
+D1
+~
+~
+0 0 4472
+D3
+~
+~
+0 0 4474
+S
+#4474
+Path in the forest~
+Around the path the trees and shurbs are neatly cleaned.  The path is a
+plain dirt trail with small vegitation growing nearby.  There is now a
+clearing ahead.  Looking over the cliff, the ocean can be seen.  
+~
+0 0 3
+0
+D1
+~
+~
+0 0 4473
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 4408 0 4408
+M 0 4411 1 4411 1
+M 0 4412 1 4412 1
+O 0 4431 0 4431
+M 0 4414 1 4444 1
+M 0 4413 1 4446 1
+M 0 4459 4 4458 1
+M 0 4459 4 4459 1
+M 0 4459 4 4463 1
+M 0 4459 4 4464 1
+M 0 4469 1 4468 1
+O 0 4468 0 4468
+G 0 4469 0
+P 0 4470 1 4468 1
+S
+
+
+
+#SHOPS
+4411 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#4411
+say 'Thank you for the magic word!'
+say 'Time for you reward.'
+mob transfer $n 4412
+~
+#4412
+say 'Thank you for the magic word!'
+say 'Time for you reward.'
+mob transfer $n 4411
+~
+#0
+
+#$

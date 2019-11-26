@@ -1,0 +1,900 @@
+#AREADATA
+Parnis~
+Builders ~
+VNUMs 40100 40199
+Credits [LOCK] New Area~
+Security 1
+RepopMsg A bell chimes, echoing dully through the silent city.~
+End
+
+
+
+#MOBILES
+#40100
+George Danvanti~
+The smithy is tending the fires.~
+The smithy is hear, tending the fires.
+~
+This smithy is obviously in the latter years, judging from his grey hair
+and wrinkled skin.  His hands, however, and strong and move with a deftness
+that displays that he known what he is doing and is not new to work.  
+~
+human~
+AG 0 0 A 0 0
+100 100 201d33+2021 100d10+85 33d3+55 none
+-58 -58 -58 -37
+0 0 0 0
+stand stand male 0
+HM 0 medium Flesh
+F for AV
+F par ABCDEFGHIJK
+#40101
+Joe Mangus~
+A frail man is standing here.~
+A frail man is standing here.
+~
+This mage, old of the years, is obviously well trained in the arts of
+magic.  The aura of magic seems to almost surround him, filling the air with
+a humming noise.  
+~
+human~
+AG 0 0 A 0 0
+105 105 211d35+2121 105d10+85 35d3+57 none
+-61 -61 -61 -39
+0 0 0 0
+stand stand male 0
+HM 0 medium Flesh
+F for AV
+F par ABCDEFGHIJK
+#40102
+Pat Ergoth~
+The beastmaster is here, tending a falcon.~
+The beastmaster is here, tending a falcon.
+~
+This man, forboding in sight, has a large scar running down his cheek,
+and a tatoo of an eagle branded into his shoulder.  His eyes are bright and
+keen, as if he knows more than it might appear.  He is dressed in furs.  
+~
+human~
+AG 0 0 A 0 0
+101 101 203d33+2041 101d10+85 33d3+55 none
+-58 -58 -58 -37
+0 0 0 0
+stand stand male 0
+HM 0 medium Flesh
+F for AV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#40100
+Orb Divine Power~
+an{B Orb {Wof{Y Divine{yPower{x~
+An orb rolls around arlong the ground, illuminating the nearby area.~
+Light~
+weapon ABCEGIPSUY AN
+exotic 15000 15000 divine ABCDEGH
+105 0 0 P
+A
+17 -500
+A
+17 -500
+A
+12 5000
+A
+13 5000
+A
+20 50
+A
+19 5000
+A
+18 5000
+A
+17 500
+A
+5 50
+A
+4 50
+A
+3 50
+A
+2 50
+A
+1 50
+#40101
+Aura Floating Protection~
+a{B Floating{Y Aura {Wof{y Protection{x~
+A ball of light floats aimlessly here.~
+Light~
+armor ABCEGIPSUY AD
+50000 50000 50000 50000 0
+105 0 0 P
+A
+17 -10000
+A
+14 5000
+A
+17 5000
+A
+12 5000
+A
+13 5000
+#40102
+Necklace Luna~
+a{y Necklace {Wof{C Luna{x~
+Lying on the ground, a necklace gleams slightly.~
+light~
+jewelry ABCEGIPSUY AC
+0 0 0 0 0
+105 0 0 P
+A
+18 500
+A
+19 500
+A
+17 -1000
+A
+20 75
+A
+1 5
+A
+3 5
+A
+4 5
+A
+5 5
+A
+2 5
+#40103
+Wings Light~
+some{g Wings {Wof{Y Light{x~
+Lying here are some wings seemingly made from spun strands of light.~
+light~
+armor ABCEGIPSUY AI
+2500 2500 2500 2500 0
+105 0 0 P
+#40104
+sword standard merc~
+a standard issue sword~
+You see a standard issue sword here.~
+steel~
+weapon G AN
+sword 3 5 slash 0
+31 50 1280 P
+A
+19 1
+A
+18 1
+E
+sword~
+You see a sword of great craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#0
+
+
+
+#ROOMS
+#40100
+Center of Parnis~
+This square is the center of Parnis, and the cobblestone is worn from
+use.  Out of the worn ground, a tree grows crookedly, and, on the horizon,
+the crater rim rises towards the sky.  
+~
+0 1024 1
+0
+D0
+~
+~
+0 0 40101
+D1
+~
+~
+0 0 40134
+D2
+~
+~
+0 0 40127
+D3
+~
+~
+0 0 40119
+S
+#40101
+Athame Road~
+Athame Road is the most transited road in Parnis, and its condition
+reflects that fact.  Deep ruts from years of carts are in the road, and the
+cobblestone, once rough, had been worn smooth by trafficing feet.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 40102
+D1
+~
+~
+0 0 40116
+D2
+~
+~
+0 0 40100
+S
+#40102
+Athame Road~
+Athame Road is the most transited road in Parnis, and its condition
+reflects that fact.  Deep ruts from years of carts are in the road, and the
+cobblestone, once rough, had been worn smooth by trafficing feet.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 40103
+D2
+~
+~
+0 0 40101
+S
+#40103
+Athame Road~
+Athame Road is the most transited road in Parnis, and its condition
+reflects that fact.  Deep ruts from years of carts are in the road, and the
+cobblestone, once rough, had been worn smooth by trafficing feet.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 40104
+D1
+~
+~
+0 0 40108
+D2
+~
+~
+0 0 40102
+S
+#40104
+Athame Road~
+Athame Road is the most transited road in Parnis, and its condition
+reflects that fact.  Deep ruts from years of carts are in the road, and the
+cobblestone, once rough, had been worn smooth by trafficing feet.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 40105
+D2
+~
+~
+0 0 40103
+S
+#40105
+The Northern Gate~
+The gate north from the city is here, and a road stretches over the rim,
+heading off into the distance.  The gate is a large wooden gate, reinforced
+with steel bars.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 40106
+D2
+~
+~
+0 0 40104
+D3
+~
+~
+0 0 40107
+S
+#40106
+The North-Eastern Guard Tower~
+This tower, set into the side of the gate, guards Parnis from invasion by
+any malisious forces.  At all times, two skilled archers are in it,
+defending the city at any cost.  
+~
+0 0 0
+0
+D3
+~
+~
+0 0 40105
+S
+#40107
+The North-Western Guard Tower~
+This tower, set into the side of the gate, guards Parnis from invasion by
+any malisious forces.  At all times, two skilled archers are in it,
+defending the city at any cost.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 40105
+S
+#40108
+Cauldron Road~
+This is Cauldron Road.  To the west, it joins with Athame Road, and, to
+the east, it goes to the main commercial district and the local tavern.  A
+few people stroll down this road slowly, perusing the wares, and some loud,
+drunken, laughter can be heard from the tavern.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 40110
+D1
+~
+~
+0 0 40109
+D2
+~
+~
+0 0 40111
+D3
+~
+~
+0 0 40103
+S
+#40109
+Cauldron Road~
+This is Cauldron Road.  To the west, it joins with Athame Road, and, to
+the east, it goes to the main commercial district and the local tavern.  A
+few people stroll down this road slowly, perusing the wares, and some loud,
+drunken, laughter can be heard from the tavern.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 40112
+D1
+~
+~
+0 0 40115
+D2
+~
+~
+0 0 40126
+D3
+~
+~
+0 0 40108
+D6
+~
+~
+0 0 40114
+S
+#40110
+Mangus's Magics~
+Mangus's Magics' interior is a sight that is near revolting.  Suspended
+in a green liquid in jars, body parts occasionally twitch, and, on the
+makeshift counter, a dust is arranged into a small pattern.  The older man
+behind the counter, however, seems not to notice the affect his store has on
+others.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 40108
+S
+#40111
+Danvanti's Weapon Smithy~
+The smithy is loud with the ringing common to a smithy.  A small,
+makeshift counter is set up, and a tanned, muscular man stands behind it,
+ready to sell his fine goods.  Weapons line the walls, each sharp as new.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 40108
+S
+#40112
+Pat's Pets~
+Pat's Pets is filled with commotion.  Parchment is everywhere, due to the
+fact that the pets are allowed to roam free.  On the rafters, several owls
+perch, looking down at any potential customers with their large, intellegent
+eyes.  Wolves prowl around the room, occasionally snapping at one another. 
+Behind the counter, a man smiles at any potential customer, waiting for
+their purchase 
+~
+0 4096 0
+0
+D2
+~
+~
+0 0 40109
+S
+#40113
+Pet Storage~
+~
+0 4 0
+0
+S
+#40114
+Pennypincher's Bank~
+The interior of Pennypinchers looks as the name implies.  Simple wooden
+flooring, no fancy decorations.  Quite dull, in fact.  A yound man stands
+behind a wooden counter, awaiting a transaction.  
+~
+0 33554432 0
+0
+D8
+~
+~
+0 0 40109
+S
+#40115
+Flaming Flagon Inn~
+The Flaming Flagon is looks just like any inn.  Loud laughter, some
+innocuous stains on the floor, and waiters hurridly going for table to
+table, not to mention the customers.  Whomever the innkeeper is, he, or she,
+is out of sight.  
+~
+0 0 0
+0
+D3
+~
+~
+0 0 40109
+S
+#40116
+Mayor Lane~
+This lane, named after the mayor, is the long pathway to her residence. 
+It is rumored that, in her residence, the mayor practices dark arts, and the
+road is actually lined with the bones of her foes.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 40117
+D3
+~
+~
+0 0 40101
+S
+#40117
+Mayor Lane~
+This lane, named after the mayor, is the long pathway to her residence. 
+It is rumored that, in her residence, the mayor practices dark arts, and the
+road is actually lined with the bones of her foes.  
+~
+0 0 1
+0
+D1
+~
+~
+0 0 40118
+D2
+~
+~
+0 0 40116
+S
+#40118
+Mayor Lane~
+This lane, named after the mayor, is the long pathway to her residence. 
+It is rumored that, in her residence, the mayor practices dark arts, and the
+road is actually lined with the bones of her foes.  To the east, the mayor's
+home is visible.  
+~
+0 0 1
+0
+D3
+~
+~
+0 0 40117
+S
+#40119
+Magma Avenue~
+Magma Avenue goes from the city center to the west gate, and is one of
+the least travelled roads in Parnis.  Because of this fact, the cobblestone
+is still rough and uneven.  
+~
+0 0 1
+0
+D1
+~
+~
+0 0 40100
+D3
+~
+~
+0 0 40120
+S
+#40120
+Magma Avenue~
+Magma Avenue goes from the city center to the west gate, and is one of
+the least travelled roads in Parnis.  Because of this fact, the cobblestone
+is still rough and uneven.  
+~
+0 0 1
+0
+D1
+~
+~
+0 0 40119
+D3
+~
+~
+0 0 40121
+S
+#40121
+Magma Avenue~
+Magma Avenue goes from the city center to the west gate, and is one of
+the least travelled roads in Parnis.  Because of this fact, the cobblestone
+is still rough and uneven.  
+~
+0 0 1
+0
+D1
+~
+~
+0 0 40120
+D3
+~
+~
+0 0 40122
+S
+#40122
+Magma Avenue~
+Magma Avenue goes from the city center to the west gate, and is one of
+the least travelled roads in Parnis.  Because of this fact, the cobblestone
+is still rough and uneven.  
+~
+0 0 1
+0
+D1
+~
+~
+0 0 40121
+D3
+~
+~
+0 0 40123
+S
+#40123
+The Western Gate~
+The gate west from the city is here, and a road stretches over the rim,
+heading off into the distance.  The gate is a large wooden gate, reinforced
+with steel bars.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 40124
+D1
+~
+~
+0 0 40122
+D2
+~
+~
+0 0 40125
+S
+#40124
+The North-Western Guard Tower~
+This tower, set into the side of the gate, guards Parnis from invasion by
+any malisious forces.  At all times, two skilled archers are in it,
+defending the city at any cost.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 40123
+S
+#40125
+The South-Western Guard Tower~
+This tower, set into the side of the gate, guards Parnis from invasion by
+any malisious forces.  At all times, two skilled archers are in it,
+defending the city at any cost.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 40123
+S
+#40126
+The Armored Minstrel~
+The Armormed Minstril is well named.  Armor of asll shapes and sizes line
+the walls, and a young woman stands behind the counter, awaiting a purchase.
+Several pieces of armor lie, in various conditions, on the counter. 
+Obviously The Armored Minstrel does repairs; either that or it sells some
+second-hand armor.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 40109
+S
+#40127
+Ash Lane~
+This lane is named for the thick clouds of pyroclastic flows that occured
+last time the volcano erupted, and many died from it.  The cobblestone is
+worn, yet not worn greatly.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 40100
+D2
+~
+~
+0 0 40128
+S
+#40128
+Ash Lane~
+This lane is named for the thick clouds of pyroclastic flows that occured
+last time the volcano erupted, and many died from it.  The cobblestone is
+worn, yet not worn greatly.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 40127
+D2
+~
+~
+0 0 40129
+S
+#40129
+Ash Lane~
+This lane is named for the thick clouds of pyroclastic flows that occured
+last time the volcano erupted, and many died from it.  The cobblestone is
+worn, yet not worn greatly.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 40128
+D2
+~
+~
+0 0 40130
+S
+#40130
+Ash Lane~
+This lane is named for the thick clouds of pyroclastic flows that occured
+last time the volcano erupted, and many died from it.  The cobblestone is
+worn, yet not worn greatly.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 40129
+D2
+~
+~
+0 0 40131
+S
+#40131
+The Southern Gate~
+The gate south from the city is here, and a road stretches over the rim,
+heading off into the distance.  The gate is a large wooden gate, reinforced
+with steel bars.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 40130
+D1
+~
+~
+0 0 40132
+D3
+~
+~
+0 0 40133
+S
+#40132
+The South-Eastern Guard Tower~
+This tower, set into the side of the gate, guards Parnis from invasion by
+any malisious forces.  At all times, two skilled archers are in it,
+defending the city at any cost.  
+~
+0 0 0
+0
+D3
+~
+~
+0 0 40131
+S
+#40133
+The South-Western Guard Tower~
+This tower, set into the side of the gate, guards Parnis from invasion by
+any malisious forces.  At all times, two skilled archers are in it,
+defending the city at any cost.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 40131
+S
+#40134
+Dormant Street~
+This street, aptly named for the state of the volcano whose crater
+shelters Parnis, is smooth cobblestone, heading from the city center to the
+west to the residental district, where the members of the city live, and
+several larger homes shelter the nobles who live in this fine city.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 40135
+D3
+~
+~
+0 0 40100
+S
+#40135
+Dormant Street~
+This street, aptly named for the state of the volcano whose crater
+shelters Parnis, is smooth cobblestone, heading from the city center to the
+west to the residental district, where the members of the city live, and
+several larger homes shelter nobles who live in this fine city.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 40136
+D3
+~
+~
+0 0 40134
+S
+#40136
+Dormant Street~
+This street, aptly named for the state of the volcano whose crater
+shelters Parnis, is smooth cobblestone, heading from the city center to the
+west to the residental district, where the members of the city live, and
+several larger homes shelter nobles who live in this fine city.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 40137
+D3
+~
+~
+0 0 40135
+S
+#40137
+Dormant Street~
+This street, aptly named for the state of the volcano whose crater
+shelters Parnis, is smooth cobblestone, heading from the city center to the
+west to the residental district, where the members of the city live, and
+several larger homes shelter nobles who live in this fine city.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 40138
+D3
+~
+~
+0 0 40136
+S
+#40138
+Eastern Gate~
+The gate east from the city is here, and a road stretches over the rim,
+heading off into the distance.  The gate is a large wooden gate, reinforced
+with steel bars.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 40139
+D2
+~
+~
+0 0 40140
+D3
+~
+~
+0 0 40137
+S
+#40139
+North-Eastern Guard Tower~
+This tower, set into the side of the gate, guards Parnis from invasion by
+any malisious forces.  At all times, two skilled archers are in it,
+defending the city at any cost.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 40138
+S
+#40140
+South-Eastern Guard Tower~
+This tower, set into the side of the gate, guards Parnis from invasion by
+any malisious forces.  At all times, two skilled archers are in it,
+defending the city at any cost.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 40138
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 40101 1 40110 1
+M 0 40100 1 40111 1
+M 0 40102 1 40112 1
+S
+
+
+
+#SHOPS
+40100 9 5 0 0 0 100 100 0 23
+40101 0 2 10 3 26 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

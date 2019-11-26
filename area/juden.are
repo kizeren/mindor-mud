@@ -1,0 +1,6498 @@
+#AREADATA
+City of Tyvenia~
+Builders ~
+VNUMs 21300 21799
+Credits [LOCK] Juden  Unknown~
+Security 9
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#21408
+Portal Wizards' Square~
+portal Wizards' Square~
+---> Wizards' Square Portal~
+unknown~
+portal 0 P
+0 0 0 21409 0
+0 0 0 P
+#21409
+Portal Castle Square~
+portal Castle Square~
+---> Castle Square Portal~
+unknown~
+portal 0 P
+0 0 0 21408 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#21504
+{cKiomo Carpets{x~
+{yCarpeting for every size of flooring lies draped around the walls of this
+trading establishment. Closely woven and patterned carpets are rolled up and
+left together, while several piles of rugs, barely better than thin hessian,
+are left casually around the floor. Kiomo himself does little work here,
+preferring to deal with the importing of new stock. He leaves the customer
+service to a young apprentice. A sign on the door displays the latest special
+offers.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21503
+S
+#21505
+{cThe Magical Music Shop{x~
+{yThe persistent sound of a rather elaborate music box fills the small shop with
+a complicated minuet. Powered not by conventional clockwork, but by magical
+means, the music repeats itself but with subtle variations of tone and
+melodies, gently creating a new tune every time. The shelves along one wall are
+filled with sheet music, while the other wall is blocked by a matching set of
+harpsichords. The back wall, behind the counter, holds several members of the
+string family, cradled in silk harnesses.{x
+~
+0 0 0
+0
+D3
+~
+~
+0 0 21503
+S
+#21506
+{cThe Cessation of the Road{x~
+{yEndeavor Road comes to a halt as it intersects the north to south road. The
+streets to the north are decorated in colored cobblestones, a prime example of
+the lavish disregard for expenses that mages have when it comes to spending on
+their own environs. A strange odor emanates from a disreputable alleyway to the
+east, where the mages obviously have no need to venture. With varied buildings,
+the street continues to the south, although the skyline is dominated by a high,
+square tower.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21508
+D1
+~
+~
+0 0 21546
+D2
+~
+~
+0 0 21503
+D3
+~
+~
+0 0 21507
+S
+#21507
+{cA Dingy Alleyway{x~
+{yA severe difference exists between the clean and maintained roads of this area,
+and the squalor of this alley. Piles of refuse are casually left against the
+walls, and several puddles of foul-smelling liquids adorn the floor. A flotilla
+of white feathers gently bobs on the largest of these puddles, drifting along
+with the slight breeze. The main city wall is used to block the western end of
+this passage, making a dead end of extremely unpleasant proportions. Despite
+the stench and filth, the area seems to be free of rats and other sundry
+infestations.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21506
+S
+#21508
+{cStreet of Chromatic Powers{x~
+{yA broad, cobbled roadway is decorated with a large number of magical symbols,
+picked out in a mosaic of colored stones. A cobblestone pentagram lies near a
+runed magic circle, whose symmetry is marred by a steel manhole cover that
+rests just to one side of the exact center. The sound of children learning by
+rote can be heard coming from the building to the east, the unshuttered windows
+allowing a view of a large classroom. To the west lies the ornate entrance to
+the Nyxero Deio.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21511
+D2
+~
+~
+0 0 21506
+D3
+~
+~
+0 0 21509
+S
+#21509
+{cThe Nyxero Deio{x~
+{yAn oaken panelled hallway greets the visitor, decorated with many signs for
+direction to certain exhibits, while other signs provide specific information
+in a tiny script. A reception desk faces the doorway, flanked by a pair of
+suits of armor which are stood to attention. A number of students mill around
+the floorspace, although their demeanor is less than enthusiastic. The work has
+to be done, but there are no rules to say they have to enjoy it.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21510
+D1
+~
+~
+0 0 21508
+S
+#21510
+{cThe Main Exhibition Hall{x~
+{yThis vast hall is filled with relics and artifacts from ages past. A sundial
+shows the correct time, even inside, although it has several other shadows
+which are unexplained. A number of warbanners, whose signs proclaim them to
+imbue the wielder with leadership, adorn one wall, whilst its opposite is
+decorated with magical shields. A large number of mystic weapons are held in a
+display case along the center of the room, yet all the exhibits are encased in
+thick, enchanted glass. The display glass is magically enhanced so as to repel
+enchantments from without, barring those that contain the proper magical key.
+The staff guard this information with jealous vigor, informing all inquirers to
+seek the permission of the Archmagi.{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21509
+S
+#21511
+{cStreet of Chromatic Powers{x~
+{yA wide cobbled street, flanked by a regular line of lampposts, follows a
+perfect north to south route. The broad flagstones of the walkway appear to be
+freshly laid, with no signs of wear from the passage of the many citizens of
+this city. The road itself is of great interest, with a number of symbols
+picked out in colored cobblestones. Amongst the devices on view are a phoenix,
+a sunburst and a runic symbol of unknown origin.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21512
+D2
+~
+~
+0 0 21508
+S
+#21512
+{cImprovisation of Powers{x~
+{yA gang of workmen toil around a large area of torn up roadway. A large pile of
+discarded cobblestones lies to one side, blocking half the remaining walkway,
+while a wagon stands nearby, bearing fresh cobbles for replacement. The
+discarded stones seem to be serviceable enough, although the fresh ones are
+colored in many hues. Standing by the wagon, a foreman peruses the work with
+one eye on the laborers, and the other on several diagrams he carries.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21513
+D2
+~
+~
+0 0 21511
+S
+#21513
+{cMeeting Point of Knowledge and Power{x~
+{yThis junction of two streets forms a perfect right angle, with the two
+thoroughfares making their way south and east. The southern street appears to
+have some form of roadworks in the distance, causing some slowing of the
+traffic flow. There are always several visitors to the city congregated on this
+corner, for to the west lies the mansion of Marious, the mage who guards
+against the encroachments of the dreaded Catacombs. Open to viewing by the
+public, the imposing oaken doors are slightly ajar.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21518
+D2
+~
+~
+0 0 21512
+D3
+~
+~
+0 0 21514
+S
+#21514
+{cEntrance Hall of the Mansion{x~
+{yElaborate cornices encircle the ceiling of this lavishly decorated hallway
+Statuettes of important historical figures are set on stone pedestals along the
+walls, intermingled with life-sized portraits of people wearing their finery.
+Little expense has been spared by the City Council who provided this residence
+for Orteus, yet he, according to rumor and gossip, is rarely to be found here.
+The house is immaculately kept by a small army of servants, and the public is
+allowed access as a generous gesture by the mage himself.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21515
+D1
+~
+~
+0 0 21513
+S
+#21515
+{cA Sitting Room{x~
+{yDelicate wooden chairs and settees, lightly upholstered in blue velvet, are
+arranged in a circle about a central leather armchair. This room, where Marious
+greets his guests on those rare occasions he graces this place with his
+presence, is tasteful in its simplicity. A silver tea service has been left in
+the exact center of a small occasional table, ready for the moment he takes a
+rest from his labors. One darkened corner of the room holds a mahogany drinks
+cabinet, securely locked by ensorcelment and a devious mechanical catch. A set
+of double doors opens to the entry hall to the south, while a set of French
+windows opens onto a pleasant garden to the east.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21516
+D2
+~
+~
+0 0 21514
+S
+#21516
+{cThe Garden od Orteus{x~
+{yLovingly tended by a team of gardeners, the lawns are level and perfectly
+bordered, while the flowerbeds are a riot of controlled color all year round.
+Sweet-smelling foliage protrudes from earthen planters, filling the air with a
+soft scent that is redolent of a more tropical climate. Flanked to the north
+and to the south by a high stone wall, the garden extends to the east and ends
+against the mansion to the west.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21517
+D3
+~
+~
+0 0 21515
+S
+#21517
+{cThe Garden od Orteus{x~
+{yDelicate ivy vines have been allowed to cover exacting sections of the stone
+walls that surround this botanical paradise. Head-high bushes have been
+cultivated, by exquisite skill, into the shapes of people and, on occasion,
+animals. To one corner of the garden rests a gazebo, where any visitor can
+shelter from the elements within its wood and glass frame.{x
+~
+0 0 0
+0
+D3
+~
+~
+0 0 21516
+S
+#21518
+{cStreet of Dignified Knowledge{x~
+{yRunning both east and west, the street is broad and clean, allowing the traffic
+of the city to flow freely. Wildly contrasting yellow curbs and red gutter
+stones encourage the carts to stay within the bounds of the roadway
+itself. The enchanted lampposts are flanked by a high, stone wall to the north
+and some form of center of learning to the south.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21519
+D3
+~
+~
+0 0 21513
+S
+#21519
+{cStreet of Dignified Knowledge{x~
+{yFramed by a colorful gutter and curbing, the street carries traffic directly
+east and west. Swept clean on a regular basis by the small army of janitors
+that cover the city, the light debris from the passing carts and coaches has
+little time to build up. A number of magically illuminated lampposts are
+distributed evenly along the walkways, guaranteeing a continual light at all
+hours of the day or night.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21520
+D3
+~
+~
+0 0 21518
+S
+#21520
+{cStreet of Dignified Knowledge{x~
+{yBroad and fair the street progresses, giving access to the fountain to the east
+and continuing a distance to the west. Kept in good repair, the cobblestone
+road is decorated with a red set of cobbles marking the gutters. Yellow
+sandstone has been used to make the curb between the road and the paved
+walkway, defining the areas with a vivid contrast. The low building to the
+north is obviously something religious, with patterned stained glass windows
+allowing light to enter. The southern building is apparently some form of
+classroom, with wide, plain glass windows showing many rows of desks.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21481
+D3
+~
+~
+0 0 21519
+S
+#21521
+{cA Rent in the Fabric of Creation{x~
+{yThe air is throbbing with sheer power as some mystic force takes near corporeal
+form. Strange, impossible shapes can be barely discerned as they speed past
+just within eyeshot. A number of students take short walks within this area,
+small sparkles of light momentarily affixing themselves to their extremities.
+Breathing is not difficult, yet the air tastes alive, somehow. Thick stone
+walls can just be seen through the haze, surrounding this phenomenon on three
+sides.{x
+~
+0 0 0
+0
+D3
+~
+~
+0 0 21479
+S
+#21522
+{cAvenue of Sporadic Remembrance{x~
+{yWith a wide road and decent paving, it is a wonder that there are so few
+pedestrians on this avenue. Pleasant enough, flanked by well tended willow
+trees, there appears to be little traffic along here, with a few students and
+occasional citizens being all. In contrast to the rest of the quarter, this is
+a restful area where life passes on at an unhurried rate. A huge, blank
+building towers over the road to the north, while several domiciles are
+arranged neatly to the south.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21524
+D2
+~
+~
+0 0 21523
+D3
+~
+~
+0 0 21474
+S
+#21523
+{cA Rentable Residence{x~
+{yCurrently not taken, this house stands open for inspection by potential
+residents. Wooden chairs are neatly stacked on the top of the table, a wardrobe
+stands with a door ajar for airing, and a bed stands against the far wall
+unmade.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21522
+S
+#21524
+{cAvenue of Sporadic Remembrance{x~
+{yA double row of willow trees line the road, casting their shadows upon well
+cleaned walkways. Every so often a stone bench is set into the paving slabs,
+allowing weary travellers to sit and rest. A large, blank building fills the
+northern sky, contrasting with the rather pleasant dwellings to the south.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21526
+D2
+~
+~
+0 0 21525
+D3
+~
+~
+0 0 21522
+S
+#21525
+{cA Rentable Residence{x~
+{yPlain wooden furnishings are stacked against one wall, showing this place to be
+currently unoccupied. A bunk bed stands next to them, flanked on the other side
+by a large wooden chest.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21524
+S
+#21526
+{cAvenue of Sporadic Remembrance{x~
+{yA row of willow trees lines the southern pathway of this avenue, a sharp
+contrast to the rubble that lies to the north. A collapsed construction has
+sheared from the large building that was on its west, leaving a field of
+masonic devastation. Several sawn-off tree stumps line the northern walkway,
+their original arboreal foliage broken off by the catastrophe that caused the
+destruction. Untouched by whatever befell the wasteland, the southern edge of
+the avenue hosts several houses of plain, yet sturdy, nature.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21530
+D1
+~
+~
+0 0 21528
+D2
+~
+~
+0 0 21527
+D3
+~
+~
+0 0 21524
+S
+#21527
+{cA Rentable Residence{x~
+{yA heavily worn, bare wooden floor bears the scars of misuse in times past. The
+furniture is somewhat timeworn and mismatched, and the foldaway bed looks
+somewhat dubious. The single window looking out onto the avenue outside, and
+the wasteland beyond, appears to be wedged open through a lack of maintainance.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21526
+S
+#21528
+{cThe Corner of Rememberance and Accomodation{x~
+{yThe contrast between the two roads is most apparent at this junction. The view
+to the north is of a dirty and barely swept street, lined by low quality
+housing on its east and a collapsed building on the west. The road to the west
+is a quiet affair and, although hardly a rich district, in a good state of
+repair and maintenance. Grassy areas lie to the south and east, although they
+are in a rather unkempt and neglected state.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21529
+D1
+~
+~
+0 0 21535
+D2
+~
+~
+0 0 21537
+D3
+~
+~
+0 0 21526
+S
+#21529
+{cAccommodation Road{x~
+{yThe smell of this area of the road is probably the reason for the lack of
+interest shown by the janitors, for the filth and detritus are piled knee-high
+in parts. The poorest of the student population reside here, dwelling in
+perhaps the greatest reason to study and advance. A large pile of rubble
+replaces the apartment block to the west, the result of either extreme neglect
+or a student prank. The eastern block has large cracks in the brickwork near
+the floor, something that does not inspire confidence.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21532
+D1
+~
+~
+0 0 21531
+D2
+~
+~
+0 0 21528
+D3
+~
+~
+0 0 21530
+S
+#21530
+{cWaste Ground{x~
+{yRubble litters the ground where an apartment block once stood. Its companion,
+across the road to the east, stands in a state of utter disrepair. The various
+scorch marks on the bricks littering the floor, however, suggest a fire or
+explosion. A few charred timbers stick out of the debris, their charred ends
+saluting the final end to a sizable building.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21529
+D2
+~
+~
+0 0 21526
+S
+#21531
+{cSome Squalid Housing{x~
+{yThe smell of decay meets all visitors, yet the inhabitants of this block,
+students from the poorest families, seem not to mind. Cheerfully nodding in
+passing, they seem happy enough despite the filth and stains. The stairs that
+once led to the upper floor have rotted away entirely, leaving the residents
+much less space to live in. The atmosphere is genial, the genuine good nature
+of the truly impoverished.{x
+~
+0 0 0
+0
+D3
+~
+~
+0 0 21529
+S
+#21532
+{cAccomodation Road{x~
+{yStark student tenement blocks rise to the east, a tribute to the need for cheap
+housing. The area before the apartments has all the hallmarks of a student
+area, with empty beer kegs prominent amongst the litter. A shop to the west
+services the needs of the local population, its door open at all times of day
+and night to accommodate the local inhabitants, their nocturnal habits
+legendary in many realms.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21539
+D1
+~
+~
+0 0 21534
+D2
+~
+~
+0 0 21529
+D3
+~
+~
+0 0 21533
+S
+#21533
+{cStudent Supplies{x~
+{yNumerous shelves embrace this dilapidated little shop, the depths of which
+cannot be seen in the poor lighting. The stock is rather eclectic in its
+variety, with rare foodstuffs resting next to the cheapest rices, while a wide
+assortment of literature tackles subjects both sublime and ephemeral. Well
+frequented by the locals, these premises seem to have been a nice little
+investment for the owner.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21532
+S
+#21534
+{cThe Ground Floor of an Apartment Block{x~
+{yAlthough untidy in appearance, there is little room to say that this place is
+actually dirty. The students who live in this block are not the greatest of
+housekeepers, but there are apparently some standards they do not let slip.
+Several piles of books rest next to a large wooden staircase that rises to the
+next level of the building. A large oaken door allows an exit to the street
+outside, across which a busy little shop can be seen.{x
+~
+0 0 0
+0
+D3
+~
+~
+0 0 21532
+D4
+~
+~
+0 0 21538
+S
+#21535
+{cUnkempt Parkland{x~
+{ySeveral patches of wiry grass are scattered around a large blackened circle,
+the result of a recent fire. The debris surrounding the area, half eaten food
+and discarded drinking vessels, suggest this to have been from the previous
+night. A couple of comatose students lie upon the grass near some bushes, their
+bodies contorted into positions that they shall surely regret upon waking. An
+ill-defined earthen trail wends its way east, to the streets of the city, and
+south.{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21536
+D3
+~
+~
+0 0 21528
+S
+#21536
+{cBy a Stagnant Puddle{x~
+{yA pair of trees huddle together for company near some stumps that are all that
+remain of their brethren. A stagnant pool, covered by a scum of algae and
+devoid of any recognisable life, lies to the south, an odiferous deterrent to
+the passing visitor. Beyond the pool rises a large earthen banking, the surface
+dotted by the entrances of some small burrowing animal.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21535
+D3
+~
+~
+0 0 21537
+S
+#21537
+{cUnkempt Parkland{x~
+{yPatches of thickly growing grass are framed by areas of bare earth, hardly
+inviting the casual visitor to rest and relax. Despite the lack of attention to
+the park itself, a number of students appear to be taking their ease on the
+small islands of green. Several solitary, robed youths are seated, so engrossed
+in their books that they are oblivious to the world around them. On one larger
+patch of grass, however, a group of nearly a dozen of their contemporaries are
+attempting to empty the contents of a large keg of a foaming beverage. An
+earthen trail winds to the north and to the east.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21528
+D1
+~
+~
+0 0 21536
+S
+#21538
+{cStudent Accommodations{x~
+{yA rather unusual set of furniture decorates the floor, with large cushions
+replacing the usual wooden chairs. A wide, low table rests on a rug in the
+center of the room, surrounded by the unconventional seating, the surface
+lightly covered by a number of discarded papers. A small stove stands to one
+side, providing a small amount of heating as well as a limited cooking
+facility.{x
+~
+0 0 0
+0
+D5
+~
+~
+0 0 21534
+S
+#21539
+{cAccommodation Road{x~
+{yBrutally severe tenement blocks rise for three stories to both sides of the
+narrow road. Although they are of sturdy construction, their general appearance
+is of low maintenance, cheap housing. The residents of the area are apprentices
+and students, and, like students of all varieties, tend to keep to hours of
+their own devising. The small army of janitors employed by the city apparently
+have little effect on this area, for the detritus has accumulated in the
+gutters.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21545
+D1
+~
+~
+0 0 21540
+D2
+~
+~
+0 0 21532
+D3
+~
+~
+0 0 21542
+S
+#21540
+{cThe Ground Floor{x~
+{yPlain plaster covers the walls of this hallway, with a wide set of painted
+wooden stairs leading up resting against the southern wall. A small table rests
+near the entrance holding several wax sealed scrolls, each addressed to an
+inhabitant of the building. Occasionally an inhabitant passes by, but they
+ignore you, for strangers are not uncommon in student accommodations.{x
+~
+0 0 0
+0
+D3
+~
+~
+0 0 21539
+D4
+~
+~
+0 0 21541
+S
+#21541
+{cStudent Accommodations{x~
+{yA couple of rugs attempt to cover the bare wooden floorboards. The furniture is
+basic but sturdy, comprised of a table, two chairs, a bed and a small black
+stove. The table is situated next to the window for the light, although the
+contents suggest that everything takes place on this table, including research,
+revision and food preparation. A large poster is tacked to the wall, bearing an
+artist's impression of the current most popular enchantress.{x
+~
+0 0 0
+0
+D5
+~
+~
+0 0 21540
+S
+#21542
+{cThe Ground Floor{x~
+{yPlain plaster covers the walls of this hallway, with a wide set of painted
+wooden stairs leading up resting against the southern wall. A small table rests
+near the entrance holding several wax sealed scrolls, each addressed to an
+inhabitant of the building. Occasionally an inhabitant passes by, but they
+ignore you, for strangers are not uncommon in student accommodations.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21539
+D4
+~
+~
+0 0 21543
+S
+#21543
+{cStudent Accommodations{x~
+{yA rather messy bedroom greets both the eyes and the nose as the remnants of a
+party hove into view. Empty beer kegs line one wall, while a number of broken
+glasses have been casually swept into one corner. A tapestry, worked with a
+picture of revelling partygoers, hangs askew on the northern wall. The window
+has been left open in a vain attempt to clear the air, although this could take
+some time.{x
+~
+0 0 0
+0
+D4
+~
+~
+0 0 21544
+D5
+~
+~
+0 0 21542
+S
+#21544
+{cStudent Accommodations{x~
+{yA couple of rugs attempt to cover the bare wooden floorboards. The furniture is
+basic but sturdy, comprised of a table, two chairs, a bed and a small black
+stove. The table is situated next to the window for the light, although the
+contents suggest that everything takes place on this table, including research,
+revision and food preparation. A large poster is tacked to the wall, bearing an
+artist's impression of the current most popular enchantress.{x
+~
+0 0 0
+0
+D5
+~
+~
+0 0 21543
+S
+#21545
+{cThe Gates of the Wizards' Quarter and Industrious Avenue{x~
+{y Industrious Avenue is bisected by a large street going from the north to the
+south, with numerous houses visible in both directions. The northern buildings
+are rather sumptuous in appearance, with finery and decoration much in
+evidence. The southern road, in contrast, is lined by apartment blocks of a
+rather functional style. Far to the west lies the main square of the area,
+where occurs much of the area's social intercourse. In the opposite direction
+lies the main suburbs of the city.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21560
+D1
+~
+~
+0 0 21554
+D2
+~
+~
+0 0 21539
+D3
+~
+~
+0 0 21577
+S
+#21546
+{cIndustrious Avenue{x~
+{yA veritable hive of activity, otherwise known as the School of the Educated
+Arts, dominates the avenue, with a steady noise of dozens of students filling
+the air. Satchels and oversized robes mark out the youngest students, their
+older colleagues looking more confident, standing around and smoking a crafty
+roll up. Occasionally, the taller figure and full pointed hat of a tutor stands
+above the crowd, a short lived area of calm following in their wake.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21547
+D2
+~
+~
+0 0 21581
+D3
+~
+~
+0 0 21506
+S
+#21547
+{cIndustrious Avenue{x~
+{yYoung students swarm across the northern walkway, many pausing to stare into
+the large window of a refreshment shop. The southern walkway seems to be
+favoured by the non-magical citizens, who rarely even glance at the building on
+that side of the street. Its ivy covered walls are occasionally split by a
+diamond leaded window, although where one glass panel is missing, a small,
+persistent tendril of smoke escapes.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21548
+D3
+~
+~
+0 0 21546
+S
+#21548
+{cThe Western Side of the Courtyard of Illusions{x~
+{yThronged with people, this area of the courtyard is intensely popular with the
+citizens. Fully acclaimed mages seem to be making their way to the south,
+ignoring the older students who are making their way to a tavern that lies on
+the northern side of the square. Younger students seem to be concentrated to
+the west, for in that direction lays the learning center for all practitioners
+of the magical arts. Familiar with the spectacle of so many mages in such a
+small space, the normal citizens carry on their business undeterred.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21550
+D1
+~
+~
+0 0 21409
+D2
+~
+~
+0 0 21549
+D3
+~
+~
+0 0 21547
+S
+#21549
+{cA Corner of the Courtyard of Illusions{x~
+{yAlthough the majority of the structures in the city were built at about the
+same time, the building that forms the southeastern corner of the courtyard
+seems to be much older, somehow. Thick ivy wreathes its way around shuttered
+windows, the glass diamond shaped with leaden mountings. A well worn step leads
+through an open pair of large, oaken doors into some sort of exclusive society.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21548
+D1
+~
+~
+0 0 21477
+S
+#21550
+{cA Corner of the Courtyard of Illusions{x~
+{yThose unschooled in the arcane arts gather here to relax and gossip, keeping
+themselves apart from the affairs of wizards. Several benches and tables are
+set out in front of the drinking establishment to the west, the sign of which
+declares it to be the "The Tea Diner". A rather less refined establishment
+sits to the north, offering refreshments of a headier nature. A number of
+hansom cabs rest nearby, their drivers seated and enjoying a relaxing drink. An
+unwritten convention sets this outside area aside for use by normal people, yet
+an elderly mage is seated on one bench by himself, dozing gently. Many sideways
+glances are cast in his direction, yet none seem willing to complain.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21478
+D2
+~
+~
+0 0 21548
+D3
+~
+~
+0 0 21553
+S
+#21551
+{cA Corner of the Courtyard of Illusions{x~
+{yRelatively free from the hustle and bustle of the rest of the courtyard, this
+area seems to be more of a rendezvous for people than anything else. Several
+people seem to be waiting for someone, resting on the stone benches and
+admiring the view. The courtyard itself is expansive and a sight to behold,
+although the two stone walls that form the corner have little to recommend
+them. The northern wall is a plain one, heavily buttressed for no readily
+apparent reason. The eastern one is the side wall of a shop, their slogan,
+"Orbs to the Discerning Buyer", emblazoned in colorful lettering.{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21576
+D3
+~
+~
+0 0 21478
+S
+#21552
+{cA Corner of the Courtyard of Illusions{x~
+{yApprentices mingle with Wisemen Wizards as the crowds take their various routes
+along the paths and thoroughfares. Several oases of calm exist in the restless
+turmoil of the crowds, where a number of benches and tables form an outdoor
+eating and relaxation area. A number of students are hurrying through their
+meals at several benches, while a couple of the more enterprising fellows are
+using their skills to levitate food from the platters of neighbors. Several
+black coaches form a patient queue to the south, each one waiting for their
+passengers to alight for the theater.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21576
+D3
+~
+~
+0 0 21477
+S
+#21553
+{cThe Tea Diner{x~
+{yExotic aromas fill the air, the product of several steaming urns of drinks.
+Tea is being served in fine porcelain cups, although nearly as many people seem
+to be ordering coffee, which is being offered in several varieties. Amongst the
+most outlandish offerings, the iced tea and iced coffee seem to be the most
+popular. A continual flow of customers partake of the liquid refreshments to be
+had, although few seem to be buying any of the buns on offer.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21550
+S
+#21554
+{cIndustrious Avenue, East of the Wizards' Quarter{x~
+{yA broad cobblestone road runs from the junction to the west to the far east,
+the main carriageway between the Wizards' area and the Outskirts. A number of
+citizens are making their way in both directions, their numbers augmented by a
+significant proportion of sorcerers and other wielders of the arcane arts.
+Lightly patrolled by the Guardsmen, this area is notoriously crime-free as a
+result of the magical potential in the hands of the travelers.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21555
+D3
+~
+~
+0 0 21545
+S
+#21555
+{cIndustrious Avenue{x~
+{yThe broad thoroughfare that is Industrious Avenue is made from many well-trodden
+cobblestones, each one worn from the many feet that have passed this way. A
+multitude of feet are doing that right now as the road is the main passage from
+the Wizards' area to the Outskirts. Several coaches, carrying the richer citizens,
+make their way through the thronging crowd, adding to the general noise from so
+many people.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21556
+D3
+~
+~
+0 0 21554
+S
+#21556
+{cIndustrious Avenue{x~
+{yA number of missing cobbles mar the otherwise perfect surface of the road, each
+one circled round with a ring of chalk to mark them for repair. One rather
+nasty hole seems to have claimed a wheel from a coach, the now-useless carriage
+abandoned at the side of the road awaiting repair. The pedestrians using the
+road wander past this spectacle, smug smiles occasionally crossing their faces
+as they note the gold filigree on the coach itself, denoting extreme wealth.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21557
+D3
+~
+~
+0 0 21555
+S
+#21557
+{cIndustrious Avenue{x~
+{yThe stone road runs from east to west and is bordered on the northern
+side by the thick wall that defines the city's limits in that direction. Little
+notice is taken by the travelers on the thoroughfare of this sight, for they
+have destinations in mind. Those heading to the west are bound for the Wizards
+quarter, while those going east are, no doubt, heading for their homes.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21558
+D3
+~
+~
+0 0 21556
+S
+#21558
+{cIndustrious Avenue{x~
+{yWell traveled at all hours, the road is somewhat dirty despite the best efforts of
+the city's small army of janitors. A number of guardsmen patrol this area at
+most times, for where people and property are crime will follow. Ignorant of
+the risks, the citizens make their way to and from their dwellings.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21559
+D3
+~
+~
+0 0 21557
+S
+#21559
+{cThe Western Entrance to Tyvenia{x~
+{yBlack steel lampposts with tall, serpentine bodies line the cobblestone street
+to the north and south. Each lamppost has been topped with a round, pearl white
+globe that casts large pools of illumination on the area. Constructed behind
+the light sources are the homes of Tyvenian citizens. Most of the residences
+are decorated and fashioned in the attitudes and personalities of their owners,
+while a scant few have been built solely for amusement or to fill up space.{x
+~
+0 0 0
+0
+D3
+~
+~
+0 0 21558
+S
+#21560
+{cStreet of Resplendent Dreams{x~
+{yThe houses lining this section of street seem to have been made from the same
+mould, with a standard of four windows and one door in exactly the same
+position on all of them. Painted wooden shutters are neatly tied back and the
+lawns are evenly trimmed. Little exists to distinguish any one house from the
+others, although a few lower floor windows have flowered window boxes attached.
+The cobbled streets and gutters are kept clear and clean, a tribute to the
+small army of janitors that infest this city.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21561
+D2
+~
+~
+0 0 21545
+S
+#21561
+{cStreet of Resplendent Dreams{x~
+{yGaudily decorated houses line the street, each competing for attention with
+their many-hued murals and color schemes. The gardens are perfectly tended, and
+the smell of spring flowers makes the air heady. Several of the gardens contain
+statues of mages, presumably the owner of the house indulging in fashionable
+vanity. One garden appears to be the result of some serious botanical magic,
+containing a miniature rain forest that should only exist in tropical climes.
+The herbs in that particular garden look interesting, to say the least.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21562
+D2
+~
+~
+0 0 21560
+S
+#21562
+{cStreet of Resplendent Dreams{x~
+{yPerhaps the most wealthy area of the Wizards' Quarter, this street is home to the
+most powerful mages the city houses. While not on the scale of Castle Tyvenia,
+the owners of the houses have evidently attempted to outdo each other in
+displays of finery and ostentation. Windows carved from sheets of crystal
+refract the light in spectral displays while rare, and dangerous, plants are
+tended with care in the roadside gardens. Many houses are guarded by high walls
+or thick iron railings, allowing their owners to rest undisturbed. The more
+worrying houses are the ones that have no obvious protection. Something must be
+guarding them, but it would take a brave thief to test the unknown.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21563
+D2
+~
+~
+0 0 21561
+S
+#21563
+{cPerplexity meets Dreams{x~
+{yElegantly worked stones form a neat curb as the two roads join at the
+northeastern edge of the wizards' quarter. Framed on the north by some iron
+railings, beyond which green parkland and pond can be seen, the residences of
+the major mages of the area lie to the south. Slightly out of place with the
+other, fine mansions, a somewhat singed house steams slightly. A sign at the
+door makes this out to be the house of the area's alchemist, his risky work
+explaining the state of his dwelling.{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21562
+D3
+~
+~
+0 0 21566
+S
+#21564
+{cPerplexity Street{x~
+{yThe steady passing of traffic does not detract from the pleasure of this
+street, for the entrance to the park opens to the north, allowing a good view
+of pleasant greenery. From the west comes the steady tinkling of a spring,
+barely audible over the rumble of passing wagons.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21565
+D3
+~
+~
+0 0 21481
+S
+#21565
+{cPerplexity Street{x~
+{yWith wide streets and high pavements, this street is more than safe for
+wagoneers and pedestrians alike. More than one of the flagstones that form the
+walkway has an inscription, and the small wall that supports the iron railings
+to the north is richly decorated with a regular worked stone design. To the far
+side of the railings a rolling park can be seen, with shrubs and trees dotted
+in and amongst the ornamental flowerbeds. High above a strip of some form of
+material stretches both north and south, glistening slightly in the light.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21566
+D2
+~
+~
+0 0 21567
+D3
+~
+~
+0 0 21564
+S
+#21566
+{cPerplexity Street{x~
+{yBroad, clean flagstones form a walkway on either side of a well-maintained
+cobblestone road. The gutters at the roadside are free from weeds or litter,
+while the general appearance of the street is of exacting cleanliness. Tall,
+wrought iron lampposts are placed at regular intervals, their magical radiance
+tuned to reflect the sun's light.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21563
+D3
+~
+~
+0 0 21565
+S
+#21567
+{cBarter Square{x~
+{yAn open air market, complete with temporary stalls of every color, takes the
+available space in this square, forcing people to cram together in search of
+bargains. Several delivery imps squirm their way through the crowds, bearing
+packages far larger than their tiny frames suggest they can carry. A large
+statue of a famous merchant from history stands at the entrance to the square,
+staring blankly into space and ignored by all. Thick stone walls baffle the
+sound of the market salespeople, with the few windows visible being tightly
+shuttered against the din. Perhaps the most noticeable feature is the
+transparent crystalline tower standing in the middle of the square. It is
+betrayed only by the milky color of the steps that wind around the inside of
+the structure, and by the people using the steps to ascend.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21565
+D1
+~
+~
+0 0 21568
+D2
+~
+~
+0 0 21571
+D3
+~
+~
+0 0 21570
+D4
+~
+~
+0 0 21572
+S
+#21568
+{cThe Mercantile Exchange{x~
+{yThe wealthier merchants congregate in this building, a place designed to allow
+the more important trades to take place. Here the merchants do not talk in
+terms of pounds but of boatloads, their business being the transport of the
+valuables that people require across the continent. The main wealth of the city
+is congregated within these walls, and the sumptuous surroundings echo this
+with solid gold ornaments rather than gilded. Pure silver mirrors reflect the
+lamplight, although several booths along the wall have been left in dim light
+to allow some privacy for the occupants. Hushed tones and decorous behaviour
+are the norm, with many a customer attended by a personal valet.{x
+~
+0 0 0
+0
+D3
+~
+~
+0 0 21567
+D5
+~
+~
+0 0 21569
+S
+#21569
+{cThe Casino{x~
+{yBelow the trading room lies a place where the merchants relax. On the floor
+above, vast sums are traded in deals to mutual benefit. Here, amongst the
+glitter and shine of a fully equipped gambling hall, the merchants take their
+chances against fate, the numbers and the house's bank. Roulette tables are
+surrounded by well-heeled men, each with a young female companion. Baccarat
+tables form a line against one wall, the onlookers breathlessly awaiting the
+next cards. Nearly as many fortunes are traded in this room in the form of
+gambling chips, as are above. Several impeccably dressed servants carry out the
+wishes of clients, fetching drinks and snacks and, occasionally, venturing to
+the teller for more chips. The air is filled with the sound of muted
+excitement, occasionally interrupted by a cheer of joy, or a groan of defeat.{x
+~
+0 0 0
+0
+D4
+~
+~
+0 0 21568
+S
+#21570
+{cStalls in the Square{x~
+{yBrightly varicolored canopies shelter stalls, their goods arrayed in neat
+displays for all to appreciate. A heaving throng of customers huddles in front
+of each stall, a throng of people hunting for their own particular needs. All
+the basic necessities of life are available here, foods, clothing and the like.
+Interspersed are many of the little luxuries of life, such as perfumes, silken
+garments and furs. New customers arrive at a steady rate, replenishing the
+people who leave holding their purchases.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21567
+S
+#21571
+{cLiturgy Shop{x~
+{yWhereas the common ingredients of magical spells are available at many places,
+the serious sorcerer who needs those rather specific items will make his way
+here. Lacking in any showmanship on the outside, this place makes its trade
+through word of mouth and customer service. Horns and talons from several types
+of demon are neatly labelled upon one rack, whilst vials of precious unguents
+are displayed on a head-high shelf. Rare inks and special parchments are laid
+out on a trestle table, ready for the local apprentices sent on errands. A pair
+of sturdy-looking mages stand guard at the door, suspiciously staring at all
+who enter. Behind the counter waits Lunkira the Enchantress, owner of these
+premises.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21567
+S
+#21572
+{cThe Top fo the Tower{x~
+{yThe tower walls are fully transparent, allowing a good view of the market-place
+below. The striped canopies of the stalls flutter visibly in the breeze, while
+the cries of the stall-holders are muffled by the tower itself. The sights of
+the city itself from this vantage are often sought by visitors from foreign
+climes, and many are the sketch artists who have been commissioned to draw this
+view.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21573
+D5
+~
+~
+0 0 21567
+S
+#21573
+{cOn the Pale Bridge{x~
+{yThe steady stream of traffic on the cobbled road below is matched by the steady
+flow of pedestrians on this lofty walkway. The glass-like walls, guarding the
+unwary from a high fall, are transparent enough to see through perfectly,
+allowing a good view of events below. Despite the number of people passing
+across this bridge, the floor seems to be as clean as the day it was made. More
+than structural magic is at work here.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21574
+D2
+~
+~
+0 0 21572
+S
+#21574
+{cOn the Pale Bridge{x~
+{yThe apparent fragility of the material used in making this bridge, some form of
+cloudy glass, is contradicted by the confident expressions of the citizens who
+regularly use it. Thick glass walls give a beautiful view of the Quarter, while
+protecting pedestrians from accidental falls. Even the glass underfoot is clear
+enough to see through, giving the illusion of walking among the clouds.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21575
+D2
+~
+~
+0 0 21573
+S
+#21575
+{cThe Top of the Tower{x~
+{yThe stairs in the tower are slightly translucent and thus easy to see against
+the near-invisible tower walls themselves. A small landing lies at the top of
+the stairs, with a milky-white bridge extending far to the south. The view from
+this height is somewhat breathtaking, encompassing the various sights of the
+park itself and the city beyond. The view of Castle Tyvenia itself is
+particularly impressive, with the crenellations and the pennants, snapping in
+the breeze upon the golden spires, clearly visible.{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21574
+D5
+~
+~
+0 0 21500
+S
+#21576
+{cThe Eastern Side of the Courtyard of Illusions{x~
+{yMuch of the traffic, both of goods and of people, passes through this part of
+the square, as most of it travels to the east or to the south. A pair of
+guardsmen are on hand to sort out any problems with the traffic, although, when
+a confrontation between wagoneers becomes physical, they take a step back to
+watch. Much of the area is paved for the citizens to walk on, though, for this
+square contains the much vaunted portal that gives its name to the courtyard.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21551
+D1
+~
+~
+0 0 21578
+D2
+~
+~
+0 0 21552
+D3
+~
+~
+0 0 21409
+S
+#21577
+{cIndustrious Avenue{x~
+{yDespite the best efforts of the road maintenance department of the civic
+council, the continual flow of traffic has caused many gaps in the cobblestones
+of the road. Carts travel in a regular procession, mostly from the east to the
+west, with all mannner of commodities as freight. The high wall of a private
+house to the north is dwarfed by a higher wall to the south, apparently an
+apartment block of some sort.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21545
+D3
+~
+~
+0 0 21578
+S
+#21578
+{cIndustrious Avenue{x~
+{yThe traffic is regulated by a harassed-looking guardsman, waving his arms with
+increasing desperation. Many carters ignore his commands, and find themselves
+in arguments between each other very quickly, creating small jams that allow
+pedestrians to cross the road safely. Several apprentices are looking into the
+window of a shop to the north, searching for just the right crystal ball for
+them. A building to the south, however, attracts very little attention indeed,
+most people's attention being taken by the large square to the west.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21580
+D1
+~
+~
+0 0 21577
+D2
+~
+~
+0 0 21579
+D3
+~
+~
+0 0 21576
+S
+#21579
+{cThe House of Past Glories{x~
+{yAway from the hustle and bustle of the street, this cool building is a refuge
+from the real world. Unlike the Musea Arcana on the west side of the quarter,
+this place is more a boastful celebration of past triumphs of magical
+endeavours. Racks of trophies are arrayed to show the victories of mages in
+times past, denaturised to keep them safe from prying hands. Armor and weaponry
+of warlords, skeletons of major daemons held together by wire, scepters from
+fallen kings and vestments from conquered highpriests are displayed for all to
+wonder at. Each display is explained by a large card carrying a description of
+the item, the date of the conquest, the name of the victor and a brief
+description of events. One stand holds an odd display of three identical sets
+of armor.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21578
+S
+#21580
+{cOrb Enterprises{x~
+{yThe walls of this shop are close together, yet the light from the candles is
+magnified by myriad crystal balls, creating an illusion of space. Shelf upon
+shelf of crystal balls, all mounted on specially wrought metal stands, look
+down upon the customer, each sphere having its own distinct hue. Rose colored
+balls reside near the magenta, while the blues, yellows and greens are mixed
+together. Perhaps the strangest orbs are those kept inside a locked cabinet,
+for they are jet black in appearance and seem to be, for want of a better word,
+waiting.{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21578
+S
+#21581
+{cEntrance to Wizard's Shrine{x~
+{y As with so many places of antiquity and power, this room promotes
+silence in many who enter the Shrine.  The few apprentices who wait their
+turn for knowledge do not speak, each lost in their own private meditations.
+The austerely plain walls are darkly painted, bearing no ornamentation to
+distract the mind from the pureness of true thought.  An acolyte of magic
+stands ready to greet newcomers, and to organize the queues of those seeking
+knowledge.{x
+~
+0 8 0
+0
+D0
+~
+~
+0 0 21546
+D2
+~
+~
+0 0 21582
+S
+#21582
+{cA Pathway in the Shrine{x~
+{ySmall globes of light cast a wan illumination along this dark passageway. The
+walls are a uniformly blank, dark gray, leeching all color from the faces of
+all who traverse this quiet corridor. The entry way to the shrine, to the north,
+is a bright beacon to guide the supplicants to the outside world, while the
+southern passage vanishes into impenetrable darkness. Those who seek power must
+brave the unknown.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21581
+D2
+~
+~
+0 0 21583
+S
+#21583
+{cThe Wisemen's Atrium{x~
+{yPerhaps this is a room, yet this cannot be said with any degree of
+certainty, for nothing is visible barring a small candle flame.  Dimly
+beyond this flame a figure of a man can be seen, his beard hoary and his
+face deeply lined with age.  The candle does nothing to illuminate the room,
+rather it deepens the shadows and forces concentration on a single point. 
+There is a sense of something else in the room, but whether this is an
+aspect of the Wisemen's powers, something physical or even just a figment of
+the imagination cannot be ascertained.  {x 
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21582
+S
+#21584
+{cHellion Court{x~
+{yJust to the north lays a busy junction, much of the traffic heading from there
+and south down this road. The road is lined by tall torches stands, known to
+the locals as Hellion's Breath in a reference to the name of the street itself.
+With the press of the pedestrians and carts, it is perhaps rather unfortunate
+that a coach has broken a wheel and is making progress rather difficult.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21322
+D2
+~
+~
+0 0 21585
+S
+#21585
+{cHellion Court{x~
+{yThe western wall is decorated by murals of dragons in flight, a sight
+guaranteed to attract the gaze of the average citizen. A tall brick building
+rises to the east, the starkness of the walls a contrast to the polychromatic
+view opposite. A number of tall stands bear lanterns that are lit at
+night-time, wrought iron structures that are more designed for strength than
+looks.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21584
+D2
+~
+~
+0 0 21586
+S
+#21586
+{cHellion Court{x~
+{yThe Hellion's Breath, a name given by the locals to the torches stands that line
+this road, flank Hellion Court in its journey to north and south. A sleeping
+hellion, captured by an expert artist on the western wall, slyly peers out at
+the passing citizens through a half-open eyelid. A sedan chair, unusual even
+for this cosmopolitan city, is waiting by the side of the road while the
+occupant examines the artwork on display.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21585
+D2
+~
+~
+0 0 21587
+S
+#21587
+{cHellion Court, North of the Exiguous Quarter{x~
+{yA mural of a large hellion to the west, at bay in its den before a group of
+heroes, has been defaced by some scallywag with a piece of charcoal. Somehow a
+mustache does not seem right upon the visage of a mighty hellion. The local
+population seem to be of a rough sort, many keeping to their own thoughts as
+they ignore each other in their travels. Familiarity appears to be regarded as
+a weakness, strength lies in numbers or in being unnoticed.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21586
+D2
+~
+~
+0 0 21588
+S
+#21588
+{cThe Gates to the Exiguous Quarter and Hellion Court{x~
+{yA set of iron gates remains open to the north, allowing entrance into Hellion
+Court. A pair of lamps of black steel have been ensconced on either side of the
+gates, casting dim pools of illumination on the cobblestone ground. Two roads
+extend to the east and west, ending at the stone and marble walls which
+surround the Exiguous Quarter. A street lined with establishments is to the south.
+A signpost has been erected here, in the center of the area.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21587
+D2
+~
+~
+0 0 21589
+S
+#21589
+{cAffluence Lane{x~
+{yA tattered rug hangs over the doorway of the small building to the west,
+beating against the outer walls of the establishment. White cobblestones have
+been laid across the ground, looking recently swept and washed. However,
+sinuous cracks streak along the surface of the bricks, revealing the true age
+of the street. Steel lampposts, topped with white orbs, flank the road on
+either side you.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21588
+D2
+~
+~
+0 0 21590
+S
+#21590
+{cAffluence Lane{x~
+{yTwo large structures of white plaster and stone flank the cobblestone road on
+either side of you. Steel lampposts line the street to the east and west,
+casting small pools of illumination on the area. The white bricks which have
+been sealed into the ground bear many sinuous and spidery cracks on their swept
+surfaces. Trampled weeds grow up through the crevices, marring the beauty of
+the surroundings.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21589
+D2
+~
+~
+0 0 21591
+S
+#21591
+{cThe Exiguous Quarter, Northern Courtyard{x~
+{ySinuous cracks run along the cobblestone ground of the courtyard. 
+Brown and yellow trampled weeds grow up through the crevices, marring the
+beauty of the surroundings.  The activity of the Exiguous Quarter can be
+heard from all around, reverberating off the stone and marble walls which
+surround the courtyard.  A street cuts through the walls to the north.  To
+the south is the center of the Quarter.  {x 
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21590
+D2
+~
+~
+0 0 21592
+S
+#21592
+{cCentral Courtyard of the Exiguous Quarter{x~
+{yA great marble platform has been placed in the center of this enormous
+courtyard. Propped on the pedestal is the steel structure of a gateway, with
+the swirling mist of the portal within the device. Sinuous cracks run along the
+cobblestone ground, with trampled weeds sprouting up from between the crevices.
+Immense walls of stone and marble have been effaced by weather and age,
+enclosing the courtyard and allowing only four streets to pass through their
+barricades.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21591
+D2
+~
+~
+0 0 21593
+S
+#21593
+{cThe Exiguous Quarter, Southern Courtyard{x~
+{yA brick road has been constructed to the south, leading through the two immense
+walls of stone and ivory. Sinuous cracks run along the cobblestone ground of
+the courtyard, with dark-colored, trampled weeds sprouting up through them.
+Though the beauty of the surroundings has been effaced by age and harsh
+weather, remnants of what once was new still remain.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21592
+D2
+~
+~
+0 0 21594
+S
+#21594
+{cGerin Street{x~
+Multicolored graffiti stains the immense walls to the east and west of you. The
+white globes on the tops of the steel lampposts have been shattered, and their
+remains are strewn across the cobblestone street. Weeds protrude from the
+sinuous and spidery cracks which streak across the bricks in the road.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21593
+D2
+~
+~
+0 0 21595
+S
+#21595
+Gerin Street~
+Multicolored graffiti stains the immense walls to the east and west of you. The
+white globes on the tops of the steel lampposts have been shattered, and their
+remains are strewn across the cobblestone street. Weeds protrude from the
+sinuous and spidery cracks which streak across the bricks in the road. A small
+grating has been built into the ground.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21594
+D2
+~
+~
+0 0 21596
+S
+#21596
+Sabre Crisscross~
+Two sabres, their blades crossed, have been painted on the cobblestone
+ground at this crossing.  The texture of the painting has been marred by
+harsh weather and heavy travel which has inevitably faded its bright colors
+and chipped its lacquer.  Three effacious roads lead away from Sabre
+Crisscross to the east, west and north.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21595
+D1
+~
+~
+0 0 21601
+D3
+~
+~
+0 0 21597
+S
+#21597
+Cutthroat's Boulevard{x~
+Steel lampposts, topped with pearl white globes, line the way down Cutthroats'
+Boulevard, providing a sufficient amount of illumination to the vicinity. White
+cobblestones have been laid across the ground, guiding the way east and west.
+The towering wall of the Exiguous Quarter looms over you to the south, impeding
+further travel in that direction. A dark alleyway cuts through the massive
+buildings to the north.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21596
+D3
+~
+~
+0 0 21598
+S
+#21598
+Cutthroat's Boulevard{x~
+Steel lampposts, topped with pearl white globes, line the way down Cutthroats'
+Boulevard, providing a sufficient amount of illumination to the vicinity. White
+cobblestones have been laid across the ground, guiding the way east and west.
+The towering wall of the Exiguous Quarter looms over you to the south, impeding
+further travel in that direction.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21597
+D3
+~
+~
+0 0 21599
+S
+#21599
+Cutthroat's Boulevard{x~
+Steel lampposts, topped with pearl white globes, line the way down Cutthroats'
+Boulevard, providing a sufficient amount of illumination to the vicinity. White
+cobblestones have been laid across the ground, guiding the way east and west.
+The towering wall of the Exiguous Quarter looms over you to the south, impeding
+further travel in that direction.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21598
+D3
+~
+~
+0 0 21600
+S
+#21600
+Corner of Sabotage and Cutthroats' Boulevard~
+Sinuous cracks run along the immense walls of the Exiguous Quarter to the north and
+east. The crevices look like a myriad of cobwebs which were constructed by a
+spider of unfathomable size. White cobblestones have been arranged in
+concentric circles at this round corner of Sabotage Street and Cutthroats'
+Boulevard. The two roads lead away from the vicinity to the north and east.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21599
+S
+#21601
+Cutthroats' Boulevard~
+Steel lampposts, topped with pearl white globes, line the way down Cutthroats'
+Boulevard, providing a sufficient amount of illumination to the vicinity. White
+cobblestones have been laid across the ground, guiding the way east and west.
+The towering wall of the Exiguous Quarter looms over you to the south, impeding
+further travel in that direction.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21602
+D3
+~
+~
+0 0 21596
+S
+#21602
+Cutthroats' Boulevard~
+Steel lampposts, topped with pearl white globes, line the way down Cutthroats'
+Boulevard, providing a sufficient amount of illumination to the vicinity. White
+cobblestones have been laid across the ground, guiding the way east and west.
+The towering wall of the Exiguous Quarter looms over you to the south, impeding
+further travel in that direction. A wretched stench emanates from the area to
+the north.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21603
+D3
+~
+~
+0 0 21601
+S
+#21603
+Cutthroats' Boulevard~
+Steel lampposts, topped with pearl white globes, line the way down Cutthroats'
+Boulevard, providing a sufficient amount of illumination to the vicinity. White
+cobblestones have been laid across the ground, guiding the way east and west.
+The towering wall of the Exiguous Quarter looms over you to the south, impeding
+further travel in that direction.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21604
+D3
+~
+~
+0 0 21602
+S
+#21604
+Corner of Devious Road and Cutthroats' Boulevard~
+A pattern of sinuous cracks runs along the surface of the cobblestone street,
+streaking out in every direction like a dozen cobwebs. Steel lampposts topped
+with white globes encircle the vicinity, casting small pools of light on the
+ground. The towering walls of the Exiguous Quarter rise up to the south and east.
+Two streets, which are in as bad a condition as the rest of the Quarter, sprawl
+before your eyes to the north and west.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21605
+D3
+~
+~
+0 0 21603
+S
+#21605
+Devious Road~
+Like any other street in the Exiguous Quarter, Devious Road's cobblestone-paved
+ground has been effaced by harsh weather and heavy travel. Sinuous streaks and
+spidery cracks are evident along the bricks' surfaces, with trampled blades of
+grass and dark-colored weeds growing up through them. Steel lampposts line the
+way north and south, topped with pearl white globes. The colossal marble and
+stone wall of the district has been built to the east, impeding further travel
+in that direction.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21606
+D2
+~
+~
+0 0 21604
+S
+#21606
+Devious Road~
+Like any other street in the Exiguous Quarter, Devious Road's cobblestone-paved
+ground has been effaced by harsh weather and heavy travel. Sinuous streaks and
+spidery cracks are evident along the bricks' surfaces, with trampled blades of
+grass and dark-colored weeds growing up through them. Steel lampposts line the
+way north and south, topped with pearl white globes. The colossal marble and
+stone wall of the district has been built to the east, impeding further travel
+in that direction. A solid oak door, reinforced with iron bands, has been
+hinged into the wall to the west.
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21605
+S
+#21300
+{cEntrance to the Tyvenia Suburbs{x~
+{yThe wide stone road named after the ancient adventurer Hyumone is
+filled with a continuous stream of people travelling to and from their homes.
+To the north lies the main residential area of the city, the Suburbs. Most of
+the traffic appears to be heading south, however, to the center of the City of
+Tyvenia itself. {x
+~
+0 0 1
+0
+D2
+~
+~
+0 0 21301
+S
+#21301
+{cHyumone Road{x~
+{yWide enough for three carts to pass comfortably, Hyumone Road stretches
+north into the main residential area of the city. The southern end of the road
+ends at the center of the city, yet the view of that direction is dominated by
+the ubiquitous sight of Castle Tyvenia, floating serenely in the breeze. The
+otherwise pleasant scene is disturbed by a badly bleeding adventurer laying in
+a gutter, the result of a duel or feud. A small crowd has gathered around the
+wounded man, making progress along the road more difficult.{x
+~
+0 0 1
+0
+D0
+~
+~
+0 0 21300
+D2
+~
+~
+0 0 21304
+S
+#21302
+{cEntrance to the Inn of Tyvenia{x~
+{yA giant entrance welcomes you to this gigantic hotel. The old Romanesque style
+floorboards and ceilings are painted with white and pure gold trimmings. A
+blinding light shines down from the stairs leading up. You notice a
+receptionist receiving money from many weary travelers.{x
+~
+0 0 1
+0
+D3
+~
+~
+0 0 21301
+D4
+~
+~
+0 0 21303
+S
+#21303
+{cReception Area{x~
+{yYou stand in the Reception area of the Inn of Tyvenia. It's a nice comfortable
+room, with a couch on the eastern wall, and a desk where the receptionist
+sits. There is a sign here.{x
+~
+0 0 1
+0
+D5
+~
+~
+0 0 21302
+S
+#21304
+{cHyumone Road, North of a Bridge{x~
+{yThe stones of the road meet the paving slabs of the bridge to the south,
+bordered on each side by a wide walkway. The road itself is busy with coaches
+and small carts ferrying people to and from their dwellings, while the walkways
+are thronging with pedestrians. The rumble of the wheeled traffic echoes loudly
+from the buildings to the sides, making conversation difficult.{x
+~
+0 0 1
+0
+D0
+~
+~
+0 0 21301
+D2
+~
+~
+0 0 21305
+S
+#21305
+{cHyumone's Bridge{x~
+{yHyumone died many centuries ago, yet as the first amongst the adventurers
+in the early days his name has never been forgotten. His exploits in far off
+climes and the treasures he plundered are the basis for many a legend, although
+the crowds of people moving across the bridge in both directions are more
+concerned with the modern day. Rare is the citizen, barring the serious
+scholar, who wonders at the origin of the name of this road and bridge. The
+road itself extends both north, to the suburbs of the city, and to the main
+courtyard to the south. True to the appellation, there is a steady wind blowing
+across the bridge, following the river's course.{x
+~
+0 0 1
+0
+D0
+~
+~
+0 0 21304
+D2
+~
+~
+0 0 21306
+S
+#21306
+{cHyumone Road, South of a Bridge{x~
+{yBusy with the mass of citizenry traveling to and from their homes in the north,
+the road is somewhat hazardous to traverse. The congestion is not helped by the
+traffic entering and leaving the city stables to the west, nor is it by the
+crowd of pilgrims heading into the shrine to the east. Just to the north is
+Hyumone Bridge, the main route across the mighty river Rowekio.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21305
+D1
+~
+~
+0 0 21308
+D2
+~
+~
+0 0 21307
+D3
+~
+~
+0 0 21309
+S
+#21307
+{cHyumone Road{x~
+{yThe granite paving of the courtyard has been extended onto this road, the slabs
+having been perfectly aligned to make a good, even surface. The walkways are
+somewhat narrower than the ideal would have been, for the many citizens and
+adventurers walking along them are crowded together in jostling masses. The
+light is dim here, for the shadow of Tyvenia Castle extends slightly past the
+courtyard itself.{x
+~
+0 0 1
+0
+D0
+~
+~
+0 0 21306
+D2
+~
+~
+0 0 21310
+D8
+~
+~
+0 0 21312
+S
+#21308
+{cThe Altar to the Gods of Tyvenia{x~
+{yJust east of Hyumone Road is a small outdoor sanctuary, bounded by a low
+stone wall. The great river Rowekio dominates the view, with the massive peak
+of Mount Lispol far off to the north. A stone altar to the Gods of Tyvenia
+stands in the corner of the area, and you may pray here to regain your life and
+possessions. Hyumone Road lies to the west, and leads to the rest of the
+city.{x
+~
+0 0 0
+0
+D3
+~
+~
+0 0 21306
+S
+#21309
+{cThe City Stables{x~
+{yThe mild scent of clean hay and well-kept horses reaches your senses as you
+pass into the stables. Obviously the stable manager keeps himself busy. The
+bridles, harnesses, saddles, blankets, and other equipment are hung in
+meticulous care on polished brass racks, spare shoes arranged by size dangle
+from pegs on the west wall, brushes and other tools set neatly in folding
+trays, and feed is in bales in back of the stalls, away from the long-reaching
+necks of the fine breeds who shelter here.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21306
+S
+#21310
+{cThe Main Cloister of Tyvenia{x~
+{yTo the north stretches Hyumone Road, a sunny street that seems to flee from
+the omnipresent shadow caused by the floating Castle Tyvenia. The magical
+illumination that is provided merely dispels the darkness, causing the effect
+of a false dawn. Unperturbed by the gloom, the courtyard appears to be very
+busy with peddlers and adventurers mingling together.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21307
+D1
+~
+~
+0 0 21316
+D2
+~
+~
+0 0 21315
+D3
+~
+~
+0 0 21311
+D7
+~
+~
+0 0 21317
+D8
+~
+~
+0 0 21314
+S
+#21311
+{cThe Main Cloister of Tyvenia{x~
+{yThe ubiquitous adventurers are sparser in numbers in this section of the
+cloister. Instead, the inhabitants of this corner reflect the surrounding
+buildings, for this is where the merchants and financiers gather to meet.
+Gathered in small numbers beneath the illuminating globes, the various wealthy
+men and women of financial note move from group to group making deals.
+Occasionally, one of the gathered merchants makes their way to the bank to the
+north to arrange a fiscal matter, often accompanied by a burly bodyguard or
+two. {x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21310
+D2
+~
+~
+0 0 21314
+D3
+~
+~
+0 0 21313
+D7
+~
+~
+0 0 21315
+S
+#21312
+{cTyvenia City Bank{x~
+{yThis building was constructed entirely of stone. The vaulted ceiling rises high
+above you with many windows on the upper wall to illuminate the room. Powerful
+looking guards stand in each corner, watching for danger. You can see the large
+vault door on the west wall, crafted from mithril. In front of it stands a
+semi-circular counter where an attractive young woman waits to assist bankers.
+There is a small sign nailed to the front of the counter.{x
+~
+0 0 0
+0
+D6
+~
+~
+0 0 21307
+S
+#21313
+{cGems & Jewels{x~
+{yA sparkling emerald green room stands before you. Small clusters of emerald
+dust give the room its dark green light. A large counter holds the jewels for
+selling, and the back room is stocked high with coins of all types. There is a
+sign posted at the counter.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21311
+S
+#21314
+{cThe Main Cloister of Tyvenia{x~
+{yThe shadow of Castle Tyvenia darkens the cloister that extends off to the
+east, diminished only by the provision of magically powered globes. Despite the
+permanent twilight caused by this phenomenon, the local inhabitants take little
+notice and act as if it were daytime. Just to the east lies a strange stone
+archway and a large flight of stone stairs, the upper reaches of which appear
+to meet the floating castle.{x
+~
+0 0 1
+0
+D0
+~
+~
+0 0 21311
+D1
+~
+~
+0 0 21315
+D2
+~
+~
+0 0 21364
+D3
+~
+~
+0 0 21318
+D6
+~
+~
+0 0 21310
+D7
+~
+~
+0 0 21363
+S
+#21315
+{cThe City of Tyvenia - Castle Square{x~
+{yHeavy slabs of stone have been perfectly aligned to give a solid and even
+surface for the citizens of this city. Rumor has it that all the traffic of the
+world passes through this courtyard at one time or another, and this, the
+center, is the best place to watch it. Never still, at any time of day or
+night, the courtyard is a consistent bustle of activity. Standing in the shadow
+of Castle Tyvenia, floating high above, posts bearing magically glowing globes
+have been erected to bring light to the eternal dark. Stone steps lead upwards
+to the castle far above, unsupported by anything physical yet sturdy enough to
+take the weight of many travelers. To one side stands a simple stone arch,
+unattached to anything but noticeable from the shimmering in the air within the
+arch itself. A steady stream of people appear to be walking to this arch,
+walking through and fading from view. Just as frequently, people solidify from
+air on the other side, pausing and then going about their business.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21310
+D1
+~
+~
+0 0 21317
+D2
+~
+~
+0 0 21363
+D3
+~
+~
+0 0 21314
+D6
+~
+~
+0 0 21316
+D7
+~
+~
+0 0 21365
+D8
+~
+~
+0 0 21364
+D9
+~
+~
+0 0 21311
+M 10000 H 10000
+S
+#21316
+{cThe Main Cloister of Tyvenia{x~
+{yThe air is cool from the shadows in the cloister, the ever-present hovering
+mass of the castle looming in the sky. A steady flow of adventurers, both young
+and old, make their way into the buildings to the north or the east. Upon
+exiting either of these buildings, they seem to be clasping something new in
+their hands. Servants hired by wealthier adventurers dart between the crowds,
+fetching bundles of items for their masters.{x
+~
+0 0 1
+0
+D2
+~
+~
+0 0 21317
+D3
+~
+~
+0 0 21310
+D8
+~
+~
+0 0 21315
+S
+#21317
+{cThe Main Cloister of Tyvenia{x~
+{yDespite the efforts of the magically glowing globes, the area is still tinged
+with an almost palpable darkness. To the east the gloom recedes as Emporium
+Street regains the natural light, but the center of the courtyard, to the west,
+has to be permanently lit by artificial means. In that direction can be seen a
+cluster of lights gathered round a free-standing stone archway, although one of
+the globes is flickering fitfully and in need of replacement. Scattered
+throughout the courtyard and surrounding streets are groups of adventurers, all
+preparing for their travels.{x
+~
+0 0 1
+0
+D0
+~
+~
+0 0 21316
+D1
+~
+~
+0 0 21323
+D2
+~
+~
+0 0 21365
+D3
+~
+~
+0 0 21315
+D8
+~
+~
+0 0 21363
+D9
+~
+~
+0 0 21310
+S
+#21318
+{cPeddler Way, West of Main Cloister{x~
+{yThe brooding shape of Castle Tyvenia dominates the skyline to the east, the
+shadow that it casts causing darkness in the courtyard in that direction. At
+this point of the city, however, it merely causes the effect of the early
+stages of dusk and the local inhabitants take little notice of it. To both
+north and south, large stone buildings containing public facilities rest, their
+thick walls plain and uninteresting.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21329
+D1
+~
+~
+0 0 21314
+D3
+~
+~
+0 0 21319
+S
+#21319
+{cPeddler Way{x~
+{yPeddler Way stretches east from here to the center of the City of Tyvenia
+itself, but the sunnier areas lay to the west. Rising to the north are the
+marble-faced, high walls of City Hall, the main center of all officialdom in
+the city. Opposing this to the south is the entrance to the law courts, a large
+pair of double doors flanked by several guardsmen.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21318
+D2
+~
+~
+0 0 21330
+D3
+~
+~
+0 0 21320
+S
+#21320
+{cPeddler Way{x~
+{yA fresh breeze blows down this street, catching the occasional piece of paper
+debris and sending it spiraling through the air. A large doorway to the north,
+set into a marble-faced front, allows access to the City Hall wherein resides
+the civic administration and the mayoral offices. A small detachment of
+guardsmen stand by, their boredom evident at a glance, while a steady stream of
+messengers and scribes enters and leaves the doors bearing papers.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21343
+D1
+~
+~
+0 0 21319
+D3
+~
+~
+0 0 21321
+S
+#21321
+{cPeddler Way{x~
+{yThe population of this street is generally indistinguishable from the rest of
+the city, apart from a number of well-dressed men and women. These people move
+through the street with ease, for the crowds open up for them and their burly
+minders. An unremarkable door to the south, bathed in reflected white light
+from the marble building opposite, is their destination. Within that place is
+the merchant's guild, a financial haven for the powerful cartels and syndicates
+that control the trade of the continent.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21320
+D2
+~
+~
+0 0 21357
+D3
+~
+~
+0 0 21322
+S
+#21322
+{cThe Intersection of Hellion Court and Peddler Way{x~
+{yA rather eclectic mixture of travelers makes their way through this junction,
+with scribes mingling with merchants and mages rubbing shoulders with beggars.
+The road to the east leads directly to the very heart of the city, the view in
+this direction dominated by Castle Tyvenia. The southern road runs all the way
+to the impecunious district, while the northern road extends to the wizard's area.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21470
+D1
+~
+~
+0 0 21321
+D2
+~
+~
+0 0 21584
+S
+#21323
+{cEmporium Street, East of the Main Cloister{x~
+{yA light twilight effect is caused by the edges of the shadow cast by Castle
+Tyvenia, serenely floating to the west. Further to the east the shade recedes
+to allow normal lighting from the sun, although the shade is ignored by the
+citizens who are now inured to its effects. A steady number of people, local
+inhabitants and adventurers alike, head towards the famed market to the east,
+although some may be best advised to visit the public baths in that direction
+instead.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21324
+D3
+~
+~
+0 0 21317
+S
+#21324
+{cEmporium Street{x~
+{yThe stones that form the main thoroughfare here are soiled from the
+passage of many a shopper, and the small army of janitors that the city employs
+seems powerless to prevent the litter. Many of the people are moving either to
+or from the market to the north, the cries of the stallholders just audible
+over the hubbub of the citizens. To the south stands a low building with a red-
+tiled roof and an ornate plasterwork decoration beneath the eaves.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21325
+D3
+~
+~
+0 0 21323
+S
+#21325
+{cEmporium Street{x~
+{yA brick wall stands to the north, forming a small boundary between Emporium
+Street and the market itself. From beyond this wall come the sounds of business
+as usual, with shouts, importunings and some less savory forms of advertising
+being quite audible. Opposing this to the south is the public baths, an
+institution restored from a now-extinct civilization and brought back to life
+and use by the mayor of this City. The citizens and adventurers traveling to
+and from this building appear to be rather more urbane than the common
+population.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21326
+D3
+~
+~
+0 0 21324
+S
+#21326
+{cEmporium Street{x~
+{yTo the north the famed market of the City of Tyvenia stands, brightly colored
+canopies marking out the stalls. People of many types, ranging from barbarian
+adventurers to local citizens, travel both to and from the market area. To the
+east lays Chateau Lane, one of the residential streets in the city, while to the
+south is a comparatively low building, topped by red tiles.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21327
+D3
+~
+~
+0 0 21325
+S
+#21327
+{cThe Intersection of Chateau Lane and Emporium Street{x~
+{yThe eastern end of Emporium Street crosses Chateau Lane, then continues onto the
+eastern gate of the city. Travelers from many lands enter and leave through
+these gates, watched carefully by alert guardsmen. The western expanse of the
+street runs to the square at the center of the city, although the view in that
+direction is dominated by the floating mass of Castle Tyvenia, often the first
+thing that a visitor to this place sees.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21328
+D3
+~
+~
+0 0 21326
+S
+#21328
+{cThe Eastern Gate of the City{x~
+{yJust to the west, Chateau Lane meets the bustling commerce of Emporium Street.
+Vendors and merchants are visible hawking their wares from stalls in the
+marketplace and along the street itself. The smooth paving stones give way to
+the east to a rougher path, and a large set of gates bars the way out of the
+city.{x
+~
+0 0 0
+0
+D3
+~
+~
+0 0 21327
+S
+#21329
+{cA Silent Cavern, Filled with Echoes{x~
+{yThe echoes continue as you venture on. The narrow rocky cleft that was once
+small, begins to transform into a dully lit cavern. At the far end of the room,
+an orb hovers in the air, giving off a pulsating light. In the center of the
+room, there is a skeleton of a long forgotten hero, pinned against an obsidian
+column, by his own sword. Upon the hilt of the sword, a woman enshrouded in
+complete darkness is carved, in amazing detail. You cautiously step forward,
+your eyes fixated on the enormous rune-covered hilt of the sword. Oblivious to
+the world around you, you step next to the skeleton and seize the hilt of the
+sword. Archaic energies shoot through your body, as you withdraw the sword and
+the skeleton falls to the ground. You turn to admire the swords beauty, and an
+uneasy feeling overcomes you. You collapse to the floor incapacitated. Your
+head spins as you hear the ancient words of a legend spewing forth, echoing as
+the walls around begin to crumble. As you begin to cease to exist, a being
+bends toward you. In an ancient language, somewhat similar to your own you
+hear the words "You are worthy of salvation... may the echoes of silence play
+through your mind forever... forever..forever...."{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21318
+S
+#21330
+{cThe Lobby of the Courts{x~
+{yHighly polished marble slabs cover the walls and floor, their pale hues
+draining the color from the faces of everyone inside the building. Small, high
+windows allow some natural light in, although this is supplemented by a large
+number of free-standing candelabra. The traditional blue robes of the legal
+profession are being worn by many solemn-faced gentlemen, each one bearing a
+sheaf of legal documents. A number of guardsmen stand unobtrusively at
+attention to the sides, eyes watchful for any signs of trouble.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21319
+D2
+~
+~
+0 0 21332
+D3
+~
+~
+0 0 21331
+D8
+~
+~
+0 0 21337
+S
+#21331
+{cThe Guardroom in the Courts{x~
+{yStarkly austere stones form the walls of the guardroom, a place where the
+guards assigned to the courts wait for their duties. Two rough tables bear the
+remains of meals, although these are being ignored by the pair of off-duty
+guards engaged in a rather serious game of cards. Several swords, breastplates
+and helmets are neatly arranged on racks against the northern wall, while the
+southern wall is made up of thick metal rails with a lockable grill door.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21330
+D2
+~
+~
+0 0 21337
+S
+#21332
+{cA Hallway in the Courts{x~
+{yThe polished marble surfacing stretches both north and south, transforming the
+sounds made by the waiting people into a steady sussuration. Groups of lawyers
+gather together, ignoring the witnesses who stand silently by themselves. A
+pair of guardsmen stand at attention flanking a doorway that leads into the
+main courtroom to the east.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21330
+D1
+~
+~
+0 0 21333
+D2
+~
+~
+0 0 21334
+D7
+~
+~
+0 0 21335
+D8
+~
+~
+0 0 21336
+S
+#21333
+{cThe Main Courtroom{x~
+{yThe ash panelling is a welcome relief from the featureless marble in the
+hallway outside, and it is also somewhat warmer than the chilly stone. Several
+blue-robed figures sit at benches, making or reading notes, while one of their
+number is standing, preparing to question a man in the witness box. On the far
+eastern wall, raised well above the floor and behind a large, wooden bench,
+sits a black-robed judge. A wooden waist-high box stands against the northern
+wall, the head-height rails that encompass it suggesting that this is for
+dangerous defendants. The pair of burly guardsmen standing ready by this
+structure reinforces this impression. Ten jury members sit on a bench against
+the southern wall, one of them having blatantly fallen asleep.{x
+~
+0 0 0
+0
+D3
+~
+~
+0 0 21332
+D8
+~
+~
+0 0 21334
+S
+#21334
+{cThe End of the Hallway{x~
+{yThe milky-white marble of the walls reflects the light from the myriad candles,
+each one fixed in its own holder. The southern end of the hall ends in a blank
+wall, fronted by a large, granite statue of the personification of justice.
+Androgynous in aspect, it stands and stares at all who pass this way. A small
+door is set into the western wall, opposed by a much more imposing double door
+that opens into the courtroom to the east.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21332
+D1
+~
+~
+0 0 21335
+D3
+~
+~
+0 0 21336
+D6
+~
+~
+0 0 21333
+S
+#21335
+{cThe Secondary Courtroom{x~
+{yLustrously varnished hazelwood has been used to panel this room. The judge's
+bench is level with the rest of the furnishings, indicating that the
+allegations under consideration in this court are of a lesser nature. The blue-
+robed figures at work in this court are less impressive to the sight than some
+that can be seen in this building, reflecting, perhaps, the lower fees
+available from lower class clients.{x
+~
+0 0 0
+0
+D3
+~
+~
+0 0 21334
+D9
+~
+~
+0 0 21332
+S
+#21336
+{cThe Robing Room{x~
+{yA small room of surprisingly little luxury, this is where the judiciary ready
+themselves to preside over cases. Four chairs are in the center of the carpeted
+floor, whilst a table holding several wooden heads, all but two bearing white
+wigs, stands by one wall. A rack of the black robes worn by the judges rests
+against the southern wall.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21334
+D6
+~
+~
+0 0 21332
+S
+#21337
+{cAtop the Stairs{x~
+{yA sturdy array of metal rails forms a barrier to the north and to freedom, for
+this is the entry to the jail cells of the court. Stone stairs descend into the
+gloom below, a darkness that is occasionally pierced by flickering torchlight.
+A pungent odor rises from the depths below, although it is a stale smell rather
+than the stench usually associated with an underground jail.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21331
+D5
+~
+~
+0 0 21338
+D6
+~
+~
+0 0 21330
+S
+#21338
+{cHallway in the Jail{x~
+{yA worn set of stone steps ascends to the upper levels and light, while the
+gloomy darkness becomes steadily heavier to the south. A set of metal bars
+forms a stone cell to the east from which a stale odor comes. The floor is
+paved with rough cobbles and strewn with wisps of straw, although there are
+none of the vermin and filth that would normally be associated with such a
+place.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21341
+D2
+~
+~
+0 0 21339
+D4
+~
+~
+0 0 21337
+S
+#21339
+{cHallway in the Jail{x~
+{yA scratched wooden table and chair occupy the center of this hallway, no doubt
+furnishings for the jailer. Although cold and somewhat odorous, this jail is
+not nearly as bad as tradition demands for such a place. This is probably due
+to the temporary nature of the occupants, who are generally held here for but a
+day or two before sentencing. A number of mirrored oil lamps are arrayed along
+the walls to provide some illumination. The light they give is dim but less
+smoky than torches would be. Barred cells lie to the east and south.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21338
+D1
+~
+~
+0 0 21342
+D2
+~
+~
+0 0 21340
+S
+#21340
+{cThe Condemned Cell{x~
+{yMuch smaller than the other cells, this area is used less frequently for it
+holds those condemned to death. Furnished only with a bare stone bench, the
+place is not designed for comfort as the inhabitants are never here for very
+long. Poorly maintained, the floor is uneven with broken paving in one corner,
+barely visible in the dirt that covers the floor. The bars forming the cell
+seem to be thicker than the other barriers in the jail area, perhaps reflecting
+the likelihood of desperate actions.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21339
+S
+#21341
+{cA Cell Beneath the Court{x~
+{ySolid stone walls hold thick iron bars, forming a cell from this large alcove.
+Perhaps thirty feet square, it holds up to twenty people at a time in readiness
+for trial in the courts above. A thick layer of straw carpets the floor,
+allowing the less-nervous prisoner a chance to sleep. Currently there are about
+a dozen inhabitants, each one lost in thought as they contemplate their
+forthcoming legal proceedings.{x
+~
+0 0 0
+0
+D3
+~
+~
+0 0 21338
+S
+#21342
+{cA Cell Beneath the Court{x~
+{yBarred off from the main hallways by thick iron, this cell is unpleasant but
+bearable. A small window opens at the top of the eastern wall to allow light in
+from the street outside, the grills in the gap being somewhat unecessary as the
+opening is but three inches in height. Although occupied by a number of
+dispirited men, this cell is barely furnished with straw, for this is the cell
+of those who have been sentenced to a custodial punishment. Transport to a
+permanent jail or labor camp is in the near future for the inhabitants of this
+cell.{x
+~
+0 0 0
+0
+D3
+~
+~
+0 0 21339
+S
+#21343
+{cThe Foyer of City Hall{x~
+{ySmall, white, ceramic tiles pave the floor, interspersed with a regular pattern
+of black tiles, the gaps being calculated to cause a headache in any sane
+person who looks at it for too long. A waist-high counter stands facing the
+door, staffed by a number of elderly men, each one poring through a number of
+files. Large double doors stand to the west, permanently ajar, opposed by a
+somewhat more minor door upon which the legend "Records" has been signed.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21350
+D2
+~
+~
+0 0 21320
+D3
+~
+~
+0 0 21344
+S
+#21344
+{cA Corridor in the Town Hall{x~
+{yLarge double doors guard the eastern end of this corridor, through which a
+number of clerks can be seen working steadily. The floor is paved with large
+yellow tiles, each bearing a carefully worked rendering of the great Seal of
+Tyvenia. The high walls are decorated with a delicately depicted mural, the
+walls on the south and west bearing a picture of the founding of the city,
+while the eastern and northern walls show a dragon at bay in its lair.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21345
+D1
+~
+~
+0 0 21343
+S
+#21345
+{cThe Foot of the Stairs{x~
+{yThe carefully tiled floor is interrupted by a set of granite steps that lead
+upwards to a distant hallway. The steps are covered by a thick, red carpet that
+allows a regular border of a yard on either side between the carpet and the
+wall. The western wall is hung with a huge, golden tapestry of the Symbol of
+Medievia, the yellow threads gently reflecting the light from a number of
+magical glowing globes. A small door stands unobtrusively in the northern wall.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21346
+D2
+~
+~
+0 0 21344
+D4
+~
+~
+0 0 21347
+S
+#21346
+{cThe Broom Cupboard{x~
+{ySmall and dingy, the room smells of musty mops and damp buckets. A number of
+barrels contain cleaning substances, while a small hand pump stands against the
+northern wall, ready to fill a bucket. Brooms, mops, buckets and cleaning
+cloths are randomly distributed around the room, ready for the next cleaning
+shift to start.{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21345
+S
+#21347
+{cThe Landing in the Upper Chambers{x~
+{yRed carpet cascades down the stairs to the lower floor of the Town Hall,
+complementing the thick red pile that covers this expansive area. The walls are
+featureless barring a large stained glass window in the eastern wall, the
+design illuminated being a humanoid figure, some notable figure from antiquity.
+Heavy oak doors stand in the north and south walls, each bound with iron and
+guarded by a large iron lock.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21348
+D2
+~
+~
+0 0 21349
+D5
+~
+~
+0 0 21345
+S
+#21348
+{cOffice of the Head Scribe{x~
+{yThis room is rather bare of the amount of paper one would expect for an office
+belonging to a scribe. An impressively large desk, made from some dark wood,
+rests near the northern wall, the few papers here being tidily arranged.
+Several quills and inkpots stand ready for immediate use, various sizes and
+colors available for different tasks. A sheaf of fine paper rests on a small
+table, ready for the drafting of important documents.{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21347
+S
+#21349
+{cThe Mayor's Office{x~
+{yA large, walnut desk shines with a deeply polished lustre in the middle of the
+red carpeted floor. Behind the desk rests a heavy, leather chair, thickly
+upholstered for the maximum possible comfort. Many books and scrolls adorn the
+numerous shelves that line the walls, each one being arranged as to subject
+matter and importance. A large window in the eastern wall looks out upon the
+street outside, the curtains currently half drawn to block the ubiquitous view
+of the Castle Tyvenia.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21347
+S
+#21350
+{cA Corridor in the Town Hall{x~
+{yThe white tiled floor, punctuated with irregularly placed black tiles, extends
+to the north and to the west. The walls are undecorated and painted in a plain
+white, the reflected glare being too much to stare at for more than a minute or
+so. Several scribes wander back and forth, each one holding a number of papers
+and each with a serious impression.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21351
+D3
+~
+~
+0 0 21343
+S
+#21351
+{cAmongst the Lecterns{x~
+{yA regularly spaced array of a dozen lecterns covers the floor, each one
+occupied by a scribe who is busily arranging papers and filling in forms. A
+small group of errand boys stands to one side, ready to take papers to their
+destination, to recover necessary documents and to refill inkpots. The lecterns
+extend far to the east, while the north and western areas are filled by row
+upon row of shelves.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21352
+D1
+~
+~
+0 0 21353
+D2
+~
+~
+0 0 21350
+D3
+~
+~
+0 0 21356
+S
+#21352
+{cAmidst of the Records{x~
+{yDeep aisles are lined on a north to south axis, formed by deep rows of
+shelving. Errand boys are continuously scampering along this section of the
+shelves, the notices that mark them suggesting that this area deals with the
+obituaries of brave adventurers. The shelving extends both to the east and
+west, while a group of scribes work at their lecterns to the south.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21354
+D2
+~
+~
+0 0 21351
+D3
+~
+~
+0 0 21355
+S
+#21353
+{cAmongst the Lecterns{x~
+{yA dozen lecterns fill the floorspace, all bar one occupied by a steadily
+working scribe. The odd one out is filled by a gently dozing scribe, for whom
+the peace and calm has become too much. The lecterns continue to the west,
+while a vast array of shelves stretch to the north.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21354
+D3
+~
+~
+0 0 21351
+S
+#21354
+{cAmidst the Records{x~
+{ySturdy wooden shelves support the various records necessary for a functioning
+bureaucracy. Perhaps twenty feet in height, dotted with occasional ladders, the
+shelves form a deep array of aisles that run to both north and south. The
+notices that mark the shelves suggest that this section records the births of
+new citizens, their names arranged alphabetically. The shelving continues far
+to the west, while a number of scribes at work can be seen to the south.{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21353
+D3
+~
+~
+0 0 21352
+S
+#21355
+{cAmidst the Records{x~
+{yThe stale odor of rarely moved paper fills the atmosphere between these
+shelves. Dust lies thickly upon the sparse piles of papers and cobwebs bar
+progress along the aisles. A dusty notice declares this area to be the records
+of marriages within the realms ofTyvenia.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21352
+D2
+~
+~
+0 0 21356
+S
+#21356
+{cAmongst the Lecterns{x~
+{yOrnate scrolls lie in small, scroll-holding pigeon holes, somewhat different to
+the standard shelving that lays to the north. An illuminated notice declares
+these to be the records of the Avatars and their virtuous deeds, each one
+magnificently gilded along the edges. A steady flow of errand boys arrives from
+the scribes to the east to update the scrolls as merciful acts are performed.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21355
+D1
+~
+~
+0 0 21351
+S
+#21357
+{cEntry to the Grand Exchange{x~
+{yA dozen lamps lay within, illuminating a small area at the base of some steps.
+Decorated in a simple, understated style, it belies the often rumored wealth
+that changes hands within these walls. The thick carpeting muffles all sounds
+of movement, and somehow the constant noise from the streets outside is quieted
+l
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21321
+D4
+~
+~
+0 0 21358
+S
+#21358
+{cFoyer of Grand Exchange{x~
+{yA wide area opens to the south, lightly populated by richly dressed people and
+several desks. A cloakroom, attended by a smartly dressed young lady, stands by
+the stairway to take the outside clothes of the merchants. The merchants who
+gather in the main square rarely venture here, the disdain that the traders
+here feel for such minor deals being near palpable. Several bored bodyguards
+stand to one side talking casually. Although their employers may not deal with
+ready money, they are still a viable target for a ransom demand.{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21359
+D5
+~
+~
+0 0 21357
+S
+#21359
+{cThe Grand Exchange{x~
+{yLiveried servants make their way across the floor, bearing messages for the
+merchants who trade here. Several of the notes are met with smiles or frowns,
+though most are met by a professional poker-face, for many of the deliveries
+are carefully watched by several eyes. Excessive politeness seems to be a house
+rule, for no voices are raised and many conversations are conducted in quiet
+tones.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21358
+D1
+~
+~
+0 0 21362
+D2
+~
+~
+0 0 21360
+S
+#21360
+{cThe Scribes' Desks{x~
+{yAway from the main body of merchants stands a cluster of desks attended by
+scribes. For a fee they put quill to vellum to draw up the contracts that
+finalize the deals made. Customarily three copies are made, with each merchant
+or syndicate receiving a copy, while a third is kept in the house safe, for an
+additional fee of course.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21359
+D1
+~
+~
+0 0 21361
+S
+#21361
+{cThe Refreshment Area{x~
+{yA scattering of tables, accompanied by chairs, are distributed around the
+floor. Several chairs are occupied by merchants and a number of servants attend
+them, bringing foodstuffs from a small door in the southern wall. Only light
+meals are served here, sufficient to quash the pangs of hunger and just long
+enough for the really serious deals to be concluded.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21362
+D3
+~
+~
+0 0 21360
+S
+#21362
+{cThe Grand Exchange{x~
+{yThe eastern wall is dominated by a massive portrait of a standing figure, the
+painting being of a man in archaic clothing and heavy golden jewelry. Of all
+the depictions of Nillarg Blanuhe, this is the only one known to have been made
+during his lifetime. Although there is no god that is held dear by merchants,
+the legends surrounding the trading exploits of Nillarg have elevated his
+status to near divinity in the eyes of any serious trader. Peddlers, on the
+whole, are not known for their piety, but many is the moment's reflection had
+by all who stand beneath this portrait.{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21361
+D3
+~
+~
+0 0 21359
+S
+#21363
+{cThe Main Cloister of Tyvenia{x~
+{yDraped in darkest shade from Castle Tyvenia floating high above, the courtyard
+is lighted to the brightness of a false dawn by magical glowing globes. A
+cluster of globes illuminate a low wooden podium, upon which the Town Crier of
+Medievia plies his trade. Mirroring this cluster of lights is a similar
+arrangement to the north surrounding a stone archway and a large set of free-
+standing stone stairs, while Wydolnet Road runs to the south, lit by more
+natural means.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21315
+D1
+~
+~
+0 0 21365
+D2
+~
+~
+0 0 21367
+D3
+~
+~
+0 0 21364
+D6
+~
+~
+0 0 21317
+D9
+~
+~
+0 0 21314
+S
+#21364
+{cThe Main Cloister of Tyvenia{x~
+{yThe crowds of adventurers that haunt this courtyard separate into two distinct
+groups at this corner. Thirsting for knowledge, the fresh faced new arrivals
+head to the library to the south. Ready to return to the fray and equipped for
+combat, groups of seasoned warriors and spellcasters make their way to an area
+even darker than the eternal twilight in the main yard. A number of glowing
+globes guide the traveler's way to a strange archway in the center of the
+court.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21314
+D1
+~
+~
+0 0 21363
+D3
+~
+~
+0 0 21408
+D6
+~
+~
+0 0 21315
+S
+#21365
+{cThe Main Cloister of Tyvenia{x~
+{yBusy with the varied gatherings of citizens, the main courtyard in the City of
+Medievia is a sight for the seasoned adventurer. Heavy slabs of granite have
+been worked into an even surface that stretches to all corners of the area.
+Veterans, bearing their scars, proudly arraign themselves in groups of their
+peers, watched enviously by the fresh faced recruits that surge from the
+Adventurer's guild to the south. The area is shaded by a massive construction,
+just hanging in the air several hundred feet above. This can only be Castle
+Tyvenia, the famed airborne construction, the last defense of the realm. This
+floating behemoth causes a constant shadow on the courtyard, necessitating
+magically illuminated globes to be set at intervals on posts. Many of these
+lights are centered around a strange construction to the north-west, while
+close by a somewhat friendlier cluster of lights invites the needy to seek out
+the treasures in the donation room.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21317
+D1
+~
+~
+0 0 21366
+D3
+~
+~
+0 0 21363
+D9
+~
+~
+0 0 21315
+S
+#21366
+{cTyvenia Donation Room{x~
+{yThis large and beautiful room is the housing for the many objects donated to
+the gods by mortals. The room shines brightly from the center of its ceiling.
+A large beam of healing white light shines forth into the area. Large walls
+formed from cobblestone surround the area for protection. A small swirling
+magical blue and black portal opens and closes sporadically, dropping
+necessary equipment.{x
+~
+0 0 0
+0
+D3
+~
+~
+0 0 21365
+S
+#21367
+{cWydolnet Road, South of Main Cloister{y~
+{yClose to the shadow of the great Castle Tyvenia, the light here is somewhat
+restricted although the local population pays it no heed. Wydolnet Road is a
+broad street, lined with trees and reasonably busy with traffic. Farther to the
+south the lighting becomes more normal, while the northern end of the road
+meets the artificially illuminated courtyard that lies at the heart of the
+city.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21363
+D2
+~
+~
+0 0 21369
+D3
+~
+~
+0 0 21368
+S
+#21368
+{cWithin the Ruins{x~
+{yDemolished columns have fallen throughout this desolate room, as if struck by
+lightning. Remnants of the once joyful and vibrant life enjoyed inside these
+walls have been reduced to nothing more than dust and memories. Cracked and
+broken structures are just about everywhere, waiting to trip anyone daring
+enough to enter this room.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21367
+S
+#21369
+{cWydolnet Road{x~
+{yThis broad road, lined with slender poplar trees, reaches far to the south. The
+cobblestones of the main thoroughfare are bordered by wide walkways to either
+side, the west running against the outside wall of the law courts and the
+eastern against the public baths. Named after a heroine of ancient times, the
+road is a monument to her name and works in the early days of the city.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21367
+D2
+~
+~
+0 0 21371
+D3
+~
+~
+0 0 21370
+S
+#21370
+{cLost in a Sea of Clouds{x~
+{yBlinding white light fill this room, reflecting off the numerous clouds that
+float up past you into the higher reaches of the heavens. Cold raindrops fall
+intermittently, barely grazing you as they slide downward and disappear into
+the clouds below. The patter of rain echoes softly as the clouds continue to
+converge and disperse right before your eyes.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21369
+S
+#21371
+{cWydolnet Road{x~
+{yDominated by the sight of Castle Tyvenia floating in the sky to the north, the
+street extends north to the center of the city and south to the waterfront
+district. A low building with a red-tiled roof sits to the east, wisps of steam
+escaping from the eaves proclaiming this to be the public baths. Bordering the
+street to the west is a high brick wall that protects the city from whatever
+terrors may lurk outside.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21369
+D2
+~
+~
+0 0 21372
+S
+#21372
+{cWydolnet Road{x~
+{yWydolnet Road, named after the heroine of legend and fable, runs from the north
+to the south and passes by the public baths to the east. Opposing this is an
+iron rail fence that fences off a green parkland from the road itself. The
+smell of grass and flowers is a welcome contrast to the odors of the city, and
+several people appear to be enjoying the air on the other side of the railings.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21371
+D2
+~
+~
+0 0 21373
+S
+#21373
+{cWydolnet Road, North of Riverside District{x~
+{yJust north of the junction with the waterfront district, Wydolnet Road is
+pleasantly interrupted by the entry to a park on the west. The light sound of
+children playing comes from the west, although a slight smell of fish coming
+from the south detracts from the general pleasant atmosphere. The road
+stretches far to the north where it ends at the main courtyard, but the view in
+that direction is dominated by the sight of Castle Tyvenia.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21372
+D2
+~
+~
+0 0 21374
+S
+#21374
+{cThe Intersection of Acerbity Street and Wydolnet Road{x~
+{yA high wooden arch over the road marks the northern edge of the Riverside
+District. Paved in tarred dirt, Acerbity Street leads away to the east and west.
+The air is humid and tastes of the salt of the sea. Wrought iron lampposts are
+set along the street at wide intervals, though they appear not to have been lit
+for a very long time. The bustling noises of city life can be heard to the
+north.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21373
+D1
+~
+~
+0 0 21435
+D2
+~
+~
+0 0 21375
+D3
+~
+~
+0 0 21453
+S
+#21375
+{cWydolnet Road{x~
+{yWydolnet Road runs north and south. The surface of the road is well kept.
+Several cobblestones have been recently replaced. Potted shrubs are spaced
+evenly along the edges of the road, and freshly painted lamp posts are placed
+between them. The noise of city life can be heard to the north.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21374
+D2
+~
+~
+0 0 21376
+S
+#21376
+{cWydolnet Road{x~
+{yWydolnet Road runs north and south. The surface of the road is well kept.
+Several cobblestones have been recently replaced. Potted shrubs are spaced
+evenly along the edges of the road, and freshly painted lamp posts are placed
+between them. The noise of city life can be heard to the north. The strong
+smell of fresh fish blows in on a breeze from the south.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21375
+D2
+~
+~
+0 0 21379
+D3
+~
+~
+0 0 21378
+S
+#21377
+{cThe Southwest Corner of the Crustacean Market{x~
+{yPlaced at the intersection of the streets is a noisy crustacean market. At all hours
+of the day and night, crustacean men stand at their stalls selling their catch. The
+pungent odor of crustacean fills the air, seeping from the walls of the buildings and
+the stones underfoot. Crustacean blood and oil have stained the ground around
+the stalls.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21436
+D1
+~
+~
+0 0 21381
+S
+#21378
+{cThree Masts Mercantile{x~
+{yA shop like any other, the mercantile has rows of shelves bearing food and
+supplies for the traveler. Wide glass windows, coated with a crystaline sheen
+of brine, look out over Wydolnet Road. A small counter sits in the back corner
+of the room.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21376
+S
+#21379
+{cThe Crustacean Market{x~
+{yPlaced at the intersection of the streets is a noisy crustacean market. At 
+all hours of the day and night, crustacean men stand at their stalls selling their 
+catch. The pungent odor of  crustacean fills the air, seeping from the walls 
+of the buildings and the cobblestones underfoot. Crustacean blood and oil 
+have stained the ground around the stalls.  A wide road leads away from 
+the Crustacean Market to the north.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21376
+D1
+~
+~
+0 0 21422
+D2
+~
+~
+0 0 21380
+D3
+~
+~
+0 0 21437
+S
+#21380
+{cThe Center of the Crustacean Market{x~
+{yPlaced at the intersection of the streets is a noisy crustacean market. At 
+all hours of the day and night, crustacean men stand at their stalls selling their 
+catch. The pungent odor of fish fills the air, seeping from the walls of the 
+buildings and the cobblestones underfoot. A fountain stands in the center 
+of the square, surrounded by wooden benches where fisherman clean their 
+catch. Deep gutters run away to the south, carrying the fouled water and 
+offal to the sea.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21379
+D1
+~
+~
+0 0 21420
+D2
+~
+~
+0 0 21381
+D3
+~
+~
+0 0 21436
+S
+#21381
+{cThe Crustacean Market{x~
+{yPlaced at the intersection of the streets is a noisy crustacean market. At all 
+hours of the day and night, crustacean men stand at their stalls selling their 
+catch. The pungent odor of crustacean fills the air, seeping from the walls 
+of the buildings and the cobblestones underfoot. Crustacean blood and oil 
+have stained the ground around the stalls. A salty breeze blows from the 
+south, but is not strong enough to clean the air.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21380
+D1
+~
+~
+0 0 21421
+D2
+~
+~
+0 0 21382
+D3
+~
+~
+0 0 21377
+S
+#21382
+{cAlkali Street{x~
+{yThe surfaces of the stone street and surrounding buildings are coated
+with a fine grit of salt spray. Even the air carries the salty taste of the
+sea. The booming sounds of cargo and the shouts of dockworkers fill the 
+air. The street slopes down to the south. The hoarse shouts of crustacean 
+vendors and the bustle of a market can be heard to the north.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21381
+D2
+~
+~
+0 0 21383
+S
+#21383
+{cAlkali Street{x~
+{yThe surfaces of the stone street and surrounding buildings are coated
+with a fine grit of salt spray. Even the air carries the salty taste of the
+sea. The booming sounds of cargo and the shouts of dockworkers fill the air.
+The street slopes down to the south where it opens out onto the wharf.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21382
+D2
+~
+~
+0 0 21384
+S
+#21384
+{cThe Harbor{x~
+{yBuilt of planks of timber, the wharf stretches from the building fronts to the
+edge of the sea. The surfaces of the planks are salt-stained and warped. Coils
+of chain and rope and rumpled piles of sailcloth line the walls of the adjacent
+buildings. Crates and rolls of cargo are stacked neatly along the edge of the
+wharf, awaiting loading onto outbound vessels, or movement to warehouses. A
+wide street leads away to the north. To the south is a sturdy pier, extending
+out into the inlet.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21383
+D1
+~
+~
+0 0 21389
+D2
+~
+~
+0 0 21385
+D3
+~
+~
+0 0 21463
+S
+#21385
+{cPier One, Berth One{x~
+{yThe pier is several yards wide, planked in warped timbers. Stout pilings,
+several feet in diameter, hold the pier up off of the sea. The pilings are
+grooved and worn from years of use as tie-offs. The pier just out into the
+inlet to the south. From the north come the sounds of a busy harbor.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21384
+D2
+~
+~
+0 0 21386
+S
+#21386
+{cPier One, Berth Two{x~
+{yThe pier is several yards wide, planked in warped timbers. Stout pilings,
+several feet in diameter, hold the pier up off of the sea. The pilings are
+grooved and worn from years of use as tie-offs. The pier continues to the north
+and south.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21385
+D2
+~
+~
+0 0 21387
+S
+#21387
+{cPier One, Berth Three{x~
+{yThe pier is several yards wide, planked in warped timbers. Stout pilings,
+several feet in diameter, hold the pier up off of the sea. The pilings are
+grooved and worn from years of use as tie-offs. The pier continues to the north
+and south.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21386
+D2
+~
+~
+0 0 21388
+S
+#21388
+{cPier One, Berth Four{x~
+{yThe pier is several yards wide, planked in warped timbers. Stout pilings,
+several feet in diameter, hold the pier up off of the sea. The pilings are
+grooved and worn from years of use as tie-offs. To the south, the pier drops
+off to the sea.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21387
+S
+#21389
+{cThe Harbor{x~
+{yBuilt of planks of timber, the wharf stretches from the building fronts to the
+edge of the sea. The surfaces of the planks are salt-stained and warped. Coils
+of chain and rope and rumpled piles of sailcloth line the walls of the adjacent
+buildings. Crates and rolls of cargo are stacked neatly along the edge of the
+wharf, awaiting loading onto outbound vessels, or movement to warehouses. The
+planking underfoot thrums with the current of the Rowekio emptying into the
+sea.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21390
+D3
+~
+~
+0 0 21384
+S
+#21390
+{cThe Harbor{x~
+{yBuilt of planks of timber, the wharf stretches from the building fronts to the
+edge of the sea. The surfaces of the planks are salt-stained and warped. Coils
+of chain and rope and rumpled piles of sailcloth line the walls of the adjacent
+buildings. Crates and rolls of cargo are stacked neatly along the edge of the
+harbor, awaiting loading onto outbound vessels, or movement to warehouses.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21415
+D1
+~
+~
+0 0 21391
+D2
+~
+~
+0 0 21404
+D3
+~
+~
+0 0 21389
+S
+#21391
+{cThe Harbor{x~
+{yBuilt of planks of timber, the harbor stretches from the building fronts to the
+edge of the sea. The surfaces of the planks are salt-stained and warped. Coils
+of chain and rope and rumpled piles of sailcloth line the walls of the adjacent
+buildings. Crates and rolls of cargo are stacked neatly along the edge of the
+harbor, awaiting loading onto outbound vessels, or movement to warehouses.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21392
+D3
+~
+~
+0 0 21390
+S
+#21392
+{cThe Harbor{x~
+{yBuilt of planks of timber, the wharf stretches from the building fronts to the
+edge of the sea. The surfaces of the planks are salt-stained and warped. Coils
+of chain and rope and rumpled piles of sailcloth line the walls of the adjacent
+buildings. Crates and rolls of cargo are stacked neatly along the edge of the
+harbor, awaiting loading onto outbound vessels, or movement to warehouses. To
+the south is a sturdy pier, extending out into the inlet.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21393
+D2
+~
+~
+0 0 21401
+D3
+~
+~
+0 0 21391
+S
+#21393
+{cA Sandy, Downward Sloping Path{x~
+{yA wide, sandy path leads down the man-made slope of the jetty. The large,
+granite boulders have been broken and moved aside to make a passable trail.
+Seaweed is crusted across the surfaces of the enormous boulders and sea water
+laps at the undersides of them. A constant breeze blows in off of the Sea of
+Infinity.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21394
+D3
+~
+~
+0 0 21392
+S
+#21394
+{cA Sandy, Downward Sloping Path{x~
+{yA constant breeze blows in off of the Sea of Infinity, stirring the sand around
+your feet. Large boulders are piled up along one side, creating the jetty. The
+boulders are lined with quartz and crusted with dried seaweed. Gulls wheel
+overhead, crying out to one another as they scan the wharf to the west.{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21395
+D3
+~
+~
+0 0 21393
+S
+#21395
+{cA Sandy, Downward Sloping Path{x~
+{yA trail of hard-packed sand winds through the looser sand of small dunes. Tall
+tufts of horse grass line the trail and large pieces of driftwood are scattered
+about. Gulls wheel overhead, crying out to one another as they scan the harbor
+to the west. A wall of large boulders is piled along the west side of the path,
+forming the inner edge of the jetty.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21394
+D2
+~
+~
+0 0 21396
+S
+#21396
+{cA Sandy Trail{x~
+{yA constant breeze blows in off of the Sea of Infinity, stirring the sand around
+your feet. A trail of hard-packed sand winds through the looser sand of small
+dunes. Tall tufts of horse grass line the trail and large pieces of driftwood
+are scattered about. Large thickets of spiny gorse speckle the landscape.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21395
+D2
+~
+~
+0 0 21397
+S
+#21397
+{cA Sandy Trail{x~
+{yTall tufts of horse grass line the trail and large pieces of driftwood are
+scattered about. Gulls wheel in the distance, crying out to one another as they
+scan the harbor off to the northwest. A trail of hard-packed sand winds through
+the looser sand of small dunes. The fresh smell of the sea clears your senses.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21396
+D1
+~
+~
+0 0 21398
+S
+#21398
+{cA Sandy Trail{x~
+{yA trail of hard-packed sand winds through the looser sand of small dunes. A
+constant breeze blows in off of the Sea of Infinity. Gulls wheel in the
+distance, crying out to one another as they scan the wharf off to the
+northwest.{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21399
+D3
+~
+~
+0 0 21397
+S
+#21399
+{cA Sandy Trail{x~
+{yA trail of hard-packed sand winds through the looser sand of small dunes.
+Stunted trees struggle to grow in the loose sand. Their tops are swept back by
+the sea breeze, pointing to the east. The steady breeze whistles through tufts
+of horse grass and thickets of spiny gorse.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21398
+D2
+~
+~
+0 0 21400
+S
+#21400
+{cSouthern Entrance to Tyvenia City{x~
+{yThe gravel of the path fades into hard-packed sand as the trail enters the
+small dunes to the north. The steady breeze from the Sea of Infinity stirs the
+sand around your feet and rustles through tufts of horse grass and thickets of
+gorse. A massive stone archway spans the path marking the southern border of
+the city of Tyvenia.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21399
+S
+#21401
+{cPier Three, Berth One{x~
+{yThe pier is several yards wide, planked in warped timbers. Stout pilings, a few
+feet in diameter, hold the pier up off of the sea. The pilings are grooved and
+worn from years of use as tie-offs. The pier juts out into the harbor to the
+south. From the north come the sounds of a busy harbor.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21392
+D2
+~
+~
+0 0 21402
+S
+#21402
+{cPier Three, Berth Two{x~
+{yThe pier is several yards wide, planked in warped timbers. Stout pilings, a few
+feet in diameter, hold the pier up off of the sea. The pilings are grooved and
+worn from years of use as tie-offs. The pier continues to the north and south.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21401
+D2
+~
+~
+0 0 21403
+S
+#21403
+{cPier Three, Berth Three{x~
+{yThe pier is several yards wide, planked in warped timbers. Stout pilings, a few
+feet in diameter, hold the pier up off of the sea. The pilings are grooved and
+worn from years of use as tie-offs. To the south, the pier drops off to the
+sea.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21402
+S
+#21404
+{cPier Two, Berth One{x~
+{yThe pier is several yards wide, planked in warped timbers. Stout pilings, a few
+feet in diameter, hold the pier up off of the sea. The pilings are grooved and
+worn from years of use as tie-offs. The pier juts out into the inlet to the
+south. From the north come the sounds of a busy harbor.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21390
+D2
+~
+~
+0 0 21405
+S
+#21405
+{cPier Two, Berth Two{x~
+{yThe pier is several yards wide, planked in warped timbers. Stout pilings, a few
+feet in diameter, hold the pier up off of the sea. The pilings are grooved and
+worn from years of use as tie-offs. The pier continues to the north and south.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21404
+D2
+~
+~
+0 0 21406
+S
+#21406
+{cPier Two, Berth Three{x~
+{yThe pier is several yards wide, planked in warped timbers. Stout pilings, a few
+feet in diameter, hold the pier up off of the sea. The pilings are grooved and
+worn from years of use as tie-offs. To the south, the pier drops off to the
+sea.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21405
+S
+#21407
+{cThe Entrance to a Warehouse{x~
+{yAn open darkness yawns before you. Rising on the left and right are pallets
+loaded with wares from all over Tyvenia. Salty water from the sea air
+condenses on the rafters high overhead, dripping irrythmically. The intermitent
+sound of flapping birdwings echoes down from the rafters. The air is cool and
+still here and the noises of the harbor are deadened.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21412
+D1
+~
+~
+0 0 21411
+D2
+~
+~
+0 0 21390
+D3
+~
+~
+0 0 21410
+S
+#21408
+{cObgisto Portal{x~
+{yTwo monoliths of obsidian covered in ancient runes form an archway within which
+stands a shadowy mirror. Its surface seems to drain the very light from the
+room. Silhouetted figures undulate inside the dark glass, creating a
+chiaroscuro of movement. Stepping forward, you brush your fingers against the
+extraordinary glass, only to watch them sink into the surface.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21364
+S
+#21409
+{cThe Portal of Illusions{x~
+{yA sphere of blackness is cut into the air, so purely black that it hurts the
+eyes to gaze upon it. Floating a few inches above the ground, it hums slightly,
+daring all near to enter. There is a steady stream of people doing just this,
+frowning in concentration as they take their turn to enter the blackness. As
+they enter, the sphere engulfs them, the hum grows louder momentarily, and the
+person disappears. Just as many people appear to be exiting the portal from the
+other side, pausing as they take stock of their new surroundings and then
+hurrying about their business.{x
+~
+0 4 0
+0
+D0
+~
+~
+0 0 21478
+D1
+~
+~
+0 0 21576
+D2
+~
+~
+0 0 21477
+D3
+~
+~
+0 0 21548
+S
+#21410
+{cThe West End of a Warehouse{x~
+{yThis corner of the warehouse seems to be a sorting area. Pallets and crates
+loaded with all manner of cargo are scattered about the floor. Saltwater drips
+from the rafters high overhead to splash in small puddles around the floor. The
+darkness opens to the north and east.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21413
+D1
+~
+~
+0 0 21407
+S
+#21411
+{cThe East End of a Warehouse{x~
+{yNeatly stacked crates line the walls of this corner of the warehouse and fill a
+rack in the middle of the floor. Each crate is nailed securely shut and sealed
+with a mark of the Harbormaster of Tyvenia. Cold seawater drips from the high
+rafters, splashing about you. Aisles between the crates lead away to the north
+and west.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21414
+D3
+~
+~
+0 0 21407
+S
+#21412
+{cAt The Back of a Warehouse{x~
+{yRows of lumber are stacked against the back wall of the warehouse. Small
+scurrying noises drift out from under the mountain of lumber and tiny eyes
+gleam in the light. Dripping water echoes loudly in the cavernous interior of
+the warehouse. Aisles between the piles of cargo lead off to the east, west and
+south.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21414
+D2
+~
+~
+0 0 21407
+D3
+~
+~
+0 0 21413
+S
+#21413
+{cThe West End of a Warehouse{x~
+{yStacked nearly to the rafters are pallets filled with furs and hides gathered
+from across Tyvenia. A musty animal smell fills the air. Condensed sea water
+drips from the high roof, splashing around you. Aisles between the pallets lead
+away into the darkness towards the east and south.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21412
+D2
+~
+~
+0 0 21410
+S
+#21414
+{cThe Eastern End of a Warehouse{x~
+{yStacked nearly to the rafters are barrels filled with wines and liquers
+gathered from across Tyvenia. The sweet smell of wine and the earthy scent of
+the oak barrels fill the air. Condensed sea water drips from the high roof,
+splashing around you. Aisles between the barrels lead away into the darkness
+towards the west and south.{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21411
+D3
+~
+~
+0 0 21412
+S
+#21415
+{cQujio Street{x~
+{yNeatly kept, Qujio Street borders the east side of the Riverside District.
+Fresh paint covers the faces of the building, masking the flaking layers of
+paint underneath. Despite the constant efforts at keeping the neighborhood
+fresh, the salty air wages its erosive war on the buildings. Fresh estones
+dot the street surface where cracked stones have been replaced. The street
+slopes gradually down towards the south where it opens onto a harbor.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21416
+D2
+~
+~
+0 0 21390
+S
+#21416
+{cQujio Street{x~
+{yNeatly kept, Qujio Street borders the east side of the Riverside District.
+Fresh paint covers the faces of the building, masking the flaking layers of
+paint underneath. Despite the constant efforts at keeping the neighborhood
+fresh, the salty air wages its erosive war on the buildings. Fresh stones
+dot the street surface where cracked stones have been replaced. The street
+slopes gradually down towards the south.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21418
+D2
+~
+~
+0 0 21415
+S
+#21417
+{cA Cozy Home{x~
+{yNeat and tidy, the cottage is warm and inviting. A woven rug covers the wooden
+floor. Three stuffed chairs are arranged neatly about the rug. The middle chair
+is barely half the size of the two chairs flanking it. A peaceful breeze blows
+in through the window, scenting the room with the perfume of flowers hanging in
+the windowbox.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21418
+S
+#21418
+{cQujio Street{x~
+{yNeatly kept, Qujio Street borders the east side of the Riverside District.
+Fresh paint covers the faces of the building, masking the flaking layers of
+paint underneath. Despite the constant efforts at keeping the neighborhood
+fresh, the salty air wages its erosive war on the buildings. Fresh stones
+dot the street surface where cracked stones have been replaced. Fresh flowers
+grow in window pots of the house on the west side of the street.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21419
+D2
+~
+~
+0 0 21416
+D3
+~
+~
+0 0 21417
+S
+#21419
+{cThe Intersection of Crustacean men's Way and Quijo Street{x~
+{yA wide street leads east and west, flanked by low warehouses. Years upon years
+of wagon traffic have worn parallel ruts in the street, pushing the
+stones deeper into the soil of the roadbed. The salty air blown in from
+the sea has deposited a thin layer of grit over the surfaces of the buildings.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21428
+D1
+~
+~
+0 0 21427
+D2
+~
+~
+0 0 21418
+D3
+~
+~
+0 0 21424
+S
+#21420
+{cThe Crustacean Market{x~
+{yPlaced at the intersection of the streets is a noisy crustacean market. At 
+all hours of the day and night, crustacean men stand at their stalls selling 
+their catch. The pungent odor of crustaceans fills the air, seeping from the 
+walls of the buildings and the stones underfoot. Crustacean blood and oil 
+have stained the ground around the stalls. Crustacean men's Way leads 
+away to the east. {x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21422
+D1
+~
+~
+0 0 21423
+D2
+~
+~
+0 0 21421
+D3
+~
+~
+0 0 21380
+S
+#21421
+{cThe Southeast Corner of the Crustacean Market{x~
+{yPlaced at the intersection of the streets is a noisy crustacean market. At 
+all hours of the day and night, crustacean men stand at their stalls selling 
+their catch. The pungent odor of crustacean fills the air, seeping from the 
+walls of the buildings and the stones underfoot. Crustacean blood and oil 
+have stained the ground around the stalls.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21420
+D3
+~
+~
+0 0 21381
+S
+#21422
+{cThe Northeast Corner of the Crustacean Market{x~
+{yPlaced at the intersection of the streets is a noisy crustacean market. At 
+all hours of the day and night, crustacean men stand at their stalls selling 
+their catch. The pungent odor of crustacean fills the air, seeping from the 
+walls of the buildings and the stones underfoot. Crustacean blood and oil 
+have stained the ground around the stalls.{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21420
+D3
+~
+~
+0 0 21379
+S
+#21423
+{cCrustacean men's Way{x~
+{yA wide street leads east and west, flanked by low warehouses. Years upon years
+of wagon traffic have worn parallel ruts in the street, pushing the
+stones deeper into the soil of the roadbed. The salty air blown in from
+the sea has deposited a thin layer of grit over the surfaces of the buildings.
+The noise and smells of a busy crustacean market waft in from the west.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21424
+D2
+~
+~
+0 0 21425
+D3
+~
+~
+0 0 21420
+S
+#21424
+{cCrustacean men's Way{x~
+{yA wide street leads east and west, flanked by low warehouses. Years upon years
+of wagon traffic have worn parallel ruts in the street, pushing the
+stones deeper into the soil of the roadbed. The salty air blown in from
+the sea has deposited a thin layer of grit over the surfaces of the buildings.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21426
+D1
+~
+~
+0 0 21419
+D3
+~
+~
+0 0 21423
+S
+#21425
+{cThe Sea Tack Shop{x~
+{yThere is hardly room to stand here without tripping over bundles of rope or
+bolts of sailcloth. Dozens of oars are strewn across the rafters overhead.
+Windproofed lamps of all shapes and sizes hang from hooks above. Spools of rope
+are skewered on pegs fastened to the walls, their loose ends tangled together
+in a heap at the foot of the wall. Despite the clutter, the shop seems a happy
+place where sailors meet to compete in tales of the sea.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21423
+S
+#21426
+{cThe Pipe Bowl{x~
+{yThe atmosphere is warm but comfortable here. The sweet smell of pipe smoke
+hangs in the air. Blending with the smell of pipe is the inviting smell of
+frying potatoes and fish. Several tables are set about the room, each
+surrounded by worn, but comfortable chairs. In stark contrast to the taverns on
+the east side of the Riverside District, this pub is quiet and friendly. One
+would not think twice of bringing their children here.{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21424
+S
+#21427
+{cCrustacean men's Way, East of the Riverside District{x~
+{yA wide street leads east and west, flanked by low warehouses. Years upon years
+of wagon traffic have worn parallel ruts in the street, pushing the
+stones deeper into the soil of the roadbed. The salty air blown in from
+the sea has deposited a thin layer of grit over the surfaces of the buildings.
+To the west is the intersection with Quijo Street.{x
+~
+0 0 0
+0
+D3
+~
+~
+0 0 21419
+S
+#21428
+{cQuijo Street{x~
+{yNeatly kept, Quijo Street borders the east side of the Riverside District.
+Fresh paint covers the faces of the building, masking the flaking layers of
+paint underneath. Despite the constant efforts at keeping the neighborhood
+fresh, the salty air wages its erosive war on the buildings. Fresh stones
+dot the street surface where cracked stones have been replaced.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21429
+D2
+~
+~
+0 0 21419
+S
+#21429
+{cQuijo Street{x~
+{yNeatly kept, Quijo Street borders the east side of the Riverside District.
+Fresh paint covers the faces of the buildings, masking the flaking layers of
+paint underneath. Despite the constant efforts at keeping the neighborhood
+fresh, the salty air wages its erosive war on the buildings. Fresh stones
+dot the street surface where cracked stones have been replaced. A noble estate
+stands along the west side of the street.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21431
+D2
+~
+~
+0 0 21428
+D3
+~
+~
+0 0 21430
+S
+#21430
+{cA Stately Home{x~
+{yThis home is noble and rich. Trophies and souvenirs from a lifetime of sea
+travel adorn the walls. A massive ship's wheel hangs on one wall, its spokes
+and handles polished to a proud shine. A giant harpoon is firmly anchored to
+the wall over a fireplace. Models of ships sit on high shelves around the room.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21429
+S
+#21431
+{cQuijo Street{x~
+{yNeatly kept, Quijo Street borders the east side of the Riverside District.
+Fresh paint covers the faces of the building, masking the flaking layers of
+paint underneath. Despite the constant efforts at keeping the neighborhood
+fresh, the salty air wages its erosive war on the buildings. Fresh stones
+dot the street surface where cracked stones have been replaced.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21432
+D2
+~
+~
+0 0 21429
+S
+#21432
+{cThe Corner of Acerbity and Quijo Streets{x~
+{yPaved in tarred dirt, Acerbity Street leads away to the west. The air is humid 
+and tastes of the salt of the sea. Wrought iron lampposts are set along the street
+at wide intervals, though they appear not to have been lit for a very long
+time. A well-kept street leads away to the south. The distant sounds of the sea
+drift up the street.{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21431
+D3
+~
+~
+0 0 21433
+S
+#21433
+{cAcerbity Street{x~
+{yPaved in tarred dirt, Acerbity Street leads away to the east and west. The air is
+humid and tastes of the salt of the sea. Wrought iron lampposts are set along
+the street at wide intervals, though they appear not to have been lit for a
+very long time.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21432
+D3
+~
+~
+0 0 21434
+S
+#21434
+{cAcerbity Street{x~
+{yPaved in tarred dirt, Acerbity Street leads away to the east and west. The air is
+humid and tastes of the salt of the sea. Wrought iron lampposts are set along
+the street at wide intervals, though they appear not to have been lit for a
+very long time.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21433
+D3
+~
+~
+0 0 21435
+S
+#21435
+{cAcerbity Street{x~
+{yPaved in tarred dirt, Acerbity Street leads away to the east and west. The air is
+humid and tastes of the salt of the sea. Wrought iron lampposts are set along
+the street at wide intervals, though they appear not to have been lit for a
+very long time.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21434
+D3
+~
+~
+0 0 21374
+S
+#21436
+{cThe Crustacean Market{x~
+{yPlaced at the intersection of the streets is a noisy crustacean market. At all hours
+of the day and night, crustacean men stand at their stalls selling their catch. The
+pungent odor of crustacean fills the air, seeping from the walls of the buildings and
+the stones underfoot. crustacean blood and oil have stained the ground around
+the stalls.  Abscond Street leads away to the west.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21437
+D1
+~
+~
+0 0 21380
+D2
+~
+~
+0 0 21377
+D3
+~
+~
+0 0 21438
+S
+#21437
+{cThe Northwest Corner of the Fish Market{x~
+{yPlaced at the intersection of the streets is a noisy crustacean market. At all hours
+of the day and night, crustacean men stand at their stalls selling their catch. The
+pungent odor of crustacean fills the air, seeping from the walls of the buildings and
+the stones underfoot. Crustacean blood and oil have stained the ground around
+the stalls.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21379
+D2
+~
+~
+0 0 21436
+S
+#21438
+{cAbscond Street{x~
+{yWorn down and dilapidated buildings flank the street. Weeds force their way up
+between the broken cobblestones. Once a neighborhood of dockworkers, this area
+has fallen into a slum. The face of the building to the north has been
+weathered by the salty sea winds. A door stands partly ajar, banging against
+its frame in the wind. The house to the south has been boarded up.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21439
+D1
+~
+~
+0 0 21436
+D2
+~
+~
+0 0 21440
+D3
+~
+~
+0 0 21441
+S
+#21439
+{cAn Abandoned Residence{x~
+{yA feeling of abandonment hangs in the air. Once a family home, this house isa
+now an empty shell. The dingy walls are marked with brighter squares where
+pictures once hung. The broken remains of a table are piled in a corner. Shouts
+and bellows from the nearby taverns give an indication of why the once-cozy
+home has become an empty shell.{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21438
+S
+#21440
+{cA Boarded-Up Residence{x~
+{yThe floors of the room are covered in a thick layer of dirt and grime.
+Splinters of glass hang from the cracked windowframe. Weathered planks of wood
+cover where the window once was. Old copies of the Mudslinger are piled in a
+corner, making a makeshift bed. The air is thick with the ever-present smell of
+sea air and the pungent odor of stale urine. Empty bottles and gnawed bones
+litter the floor.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21438
+S
+#21441
+{cAbscond Street~
+{yWorn down and dilapidated buildings flank the street. Weeds force their way up
+between the broken cobblestones. Once a neighborhood of dockworkers, theis area
+has fallen into a slum. The face of the building to the south has been
+weathered by the salty sea winds. A door stands partly ajar, banging against
+its frame in the wind. The house to the north has been boarded up.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21442
+D1
+~
+~
+0 0 21438
+D2
+~
+~
+0 0 21443
+D3
+~
+~
+0 0 21444
+S
+#21442
+{cA Boarded Up Residence{x~
+{yThe floors of the room are covered in a thick layer of dirt and grime.
+Splinters of glass hang from the cracked windowframe. Weathered planks of wood
+cover where the window once was. Old copies of the Mudslinger are piled in a
+corner, making a makeshift bed. The air is thick with the ever-present smell of
+sea air and the pungent odor of stale urine. Empty bottles and gnawed bones
+little the floor. A rusty-brown streak trails down one wall. At the top of the
+streak is the broken blade of a dagger, embedded in the wood.{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21441
+S
+#21443
+{cAn Abandoned Residence{x~
+{yAn feeling of abandonment hangs in the air. Standing in the middle of the room,
+one can almost hear the echoes of the past: the giggling of a child, the call
+to dinner, the faint strains of an evening of music around the fireplace. All
+that remains are the crumbling bricks on the hearth and a tattered rug rolled
+against one wall. Shouts and bellows from the nearby taverns give an indication
+of why the once-cozy home has become an empty shell.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21441
+S
+#21444
+{cThe Intersection of Abscond and Noxious Streets{x~
+{yThe street is paved in stones, though many of the stones are cracked or
+missing. A greasy sheen of saltwater and oil covers the ground and stains the
+walls of the surrounding buildings. A wooden archway spans the street to the
+west, marking the beginning of the Riverside District. The few lamps lining
+the streets have been broken or pushed over. This is clearly not the most
+reputable part of town.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21445
+D1
+~
+~
+0 0 21441
+D2
+~
+~
+0 0 21454
+S
+#21445
+{cNoxious Street{x~
+{yThe street is paved in stones, though many of the stones are cracked or
+missing. A greasy sheen of saltwater and oil covers the ground and stains the
+walls of the surrounding buildings. The few lamps lining the streets have been
+broken or pushed over. This is clearly not the most reputable part of town.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21446
+D2
+~
+~
+0 0 21444
+S
+#21446
+{cNoxious Street{x~
+{yThe street is paved in stones, though many of the stones are cracked or
+missing. A greasy sheen of saltwater and oil covers the ground and stains the
+walls of the surrounding buildings. The few lamps lining the streets have been
+broken or pushed over. Loud laughter and shouts flood out of the open door of
+the building to the east. This is clearly not the most reputable part of town.{x
+~
+0 4 0
+0
+D0
+~
+~
+0 0 21448
+D1
+~
+~
+0 0 21447
+D2
+~
+~
+0 0 21445
+S
+#21447
+{cThe Pitch Bucket{x~
+{yLong tables run down the center of the room. Each table is built of sturdy oak
+and flanked on both sides by equally sturdy benches. The surfaces of the tables
+and benches are scored and worn by years of spilled beer and brawling sailors.
+Sawdust is spread about the floor in a vain attempt to soak up spilled blood
+and beer. A long counter runs along the back of the room. It is supported by
+massive kegs.{x
+~
+0 0 0
+0
+D3
+~
+~
+0 0 21446
+S
+#21448
+{cNoxious Street{x~
+{yThe street is paved in cobblestones, though many of the stones are cracked or
+missing. A greasy sheen of saltwater and oil covers the ground and stains the
+walls of the surrounding buildings. The few lamps lining the streets have been
+broken or pushed over. This is clearly not the most reputable part of town.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21449
+D2
+~
+~
+0 0 21446
+S
+#21449
+{cThe Corner of Acerbity and Noxious Streets~
+{yPaved in tarred dirt, Acerbity Street leads away to the east. The air is humid and
+tastes of the salt of the sea. Wrought iron lampposts are set along the street
+at wide intervals, though they appear not to have been lit for a very long
+time. The grimy cobblestones of Noxious Street lead away to the south.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21450
+D2
+~
+~
+0 0 21448
+S
+#21450
+{cAcerbity Street{x~
+{yPaved in tarred dirt, Acerbity Street leads away to the east and west. The air is
+humid and tastes of the salt of the sea. Wrought iron lampposts are set along
+the street and wide intervals, though they appear not to have been lit for a
+very long time.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21451
+D3
+~
+~
+0 0 21449
+S
+#21451
+{cAcerbity Street{x~
+{yPaved in tarred dirt, Acerbity Street leads away to the east and west. The air is
+humid and tastes of the salt of the sea. Wrought iron lampposts are set along
+the street at wide intervals, though they appear not to have been lit for a
+very long time. An inviting inn stands on the south side of the street.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21453
+D2
+~
+~
+0 0 21452
+D3
+~
+~
+0 0 21450
+S
+#21452
+{cSafe Harbor Inn{x~
+{yWarm and inviting, the inn provides a respite from the cold sea winds. The
+floor boards are polished to a shine, except for a path from the front door to
+the checkin counter. Salt and gravel from the boots of travelers has
+permanently worn the finish away. Portraits of captains and their ships
+decorate the walls. A reception counter runs the length of the room.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21451
+S
+#21453
+{cAcerbity Street{x~
+{yPaved in tarred dirt, Acerbity Street leads away to the east and west. The air is
+humid and tastes of the salt of the sea. Wrought iron lampposts are set along
+the street at wide intervals, though they appear not to have been lit for a
+very long time.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21374
+D3
+~
+~
+0 0 21451
+S
+#21454
+{cNoxious Street{x~
+{yThe street is paved in stones, though many of the stones are cracked or
+missing. A greasy sheen of saltwater and oil covers the ground and stains the
+walls of the surrounding buildings. The few lamps lining the streets have been
+broken or pushed over. This is clearly not the most reputable part of town.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21444
+D2
+~
+~
+0 0 21455
+S
+#21455
+{cNoxious Street{x~
+{yThe street is paved in cobblestones, though many of the stones are cracked or
+missing. A greasy sheen of saltwater and oil covers the ground and stains the
+walls of the surrounding buildings. The few lamps lining the streets have been
+broken or pushed over. Loud laughter and shouts flood out of the open door of
+the building to the east.  The street slopes down to the south.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21454
+D1
+~
+~
+0 0 21456
+D2
+~
+~
+0 0 21457
+S
+#21456
+{cThe Fouled Anchor{x~
+{yThe interior of the tavern is dark, lit only by the glow of a fire on a wide
+hearth at one end of the room. Hanging over the mantle is an enormous iron
+anchor with a massive chain draped across it. Small tables are scattered
+randomly around the room and twice as many stools are strewn about them.{x
+~
+0 0 0
+0
+D3
+~
+~
+0 0 21455
+S
+#21457
+{cNoxious Street{x~
+{yThe street is paved in stones, though many of the stones are cracked or
+missing. A greasy sheen of saltwater and oil covers the ground and stains the
+walls of the surrounding buildings. The few lamps lining the streets have been
+broken or pushed over. This is clearly not the most reputable part of town. The
+clanging sounds of a smithy echo up from the south.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21455
+D2
+~
+~
+0 0 21458
+S
+#21458
+{cThe Shipyard Smithy~
+{yA massive furnace is here, belching smoke. The heat of the forge singes your
+eyebrows. Enormous bellows protrude from the sides of the furnace. An anvil, as
+big as a horse, rests on a massive block of wood. A half-finished anchor
+several feet long is propped across the anvil. Large rolls of iron bars are
+stacked neatly beside the furnace.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21457
+D1
+~
+~
+0 0 21460
+D2
+~
+~
+0 0 21459
+S
+#21459
+{cThe Shipyard Sawmill{x~
+{yLarge logs and massive timbers are stacked in neatly sorted rows. A thick,
+spiked chain, used for drawing logs up onto the sawdeck, descends down into the
+water to the south. An enormous band saw stands in the center of the decking. A
+drive shaft for the saw disappears under the wooden decking into the sea below.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21458
+D1
+~
+~
+0 0 21466
+S
+#21460
+{cThe North End of Shipyard{x~
+{yThe decking of the shipyard is gouged and scarred by the heavy work that goes
+on here. Stacks of lumber and barrels of tar and nails are scattered about.
+Wood shavings blow about in the ocean breeze around sections of decking and
+partially completed bulkheads. The clanging of a smithy can be heard to the
+west.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21461
+D2
+~
+~
+0 0 21466
+D3
+~
+~
+0 0 21458
+S
+#21461
+{cThe North End of Shipyard{x~
+{yThe decking of the shipyard is gouged and scarred by the heavy work that goes
+on here. Stacks of lumber and barrels of tar and nails are scattered about.
+Wood shavings blow about in the ocean breeze around sections of decking and
+partially completed bulkheads. The bustle and shouts of a busy wharf can be
+heard to the east.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21462
+D1
+~
+~
+0 0 21463
+D2
+~
+~
+0 0 21469
+D3
+~
+~
+0 0 21460
+S
+#21462
+{cThe Shipyard's Emporium{x~
+{yA pot-bellied stove stands in the corner of the room, doing its best to fend
+off the cool sea air. A long counter spans the shop. It is of thick wood and
+scarred with years of abuse. A pegboard covers the wall behind the counter. An
+assortment of tools are hung haphazardly from pegs. Boxes of rusty and broken
+tools are stacked behind the counter.{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21461
+S
+#21463
+{cThe Harbor{x~
+{yBuilt of planks of timber, the wharf stretches from the building fronts to the
+edge of the sea. The surfaces of the planks are salt-stained and warped. Coils
+of chain and rope and rumpled piles of sailcloth line the walls of the adjacent
+buildings. Crates and rolls of cargo are stacked neatly along the edge of the
+harbor, awaiting loading onto outbound vessels, or movement to warehouses.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21464
+D1
+~
+~
+0 0 21384
+D3
+~
+~
+0 0 21461
+S
+#21464
+{cThe Office of the Harbormaster{x~
+{yThe thick odor of pipe smoke hangs in the air. A massive oak desk dominates the
+center of the room and a worn chair sits behind it. A chart hangs on the wall,
+depicting the cycles of the moons and tides. A framed shadowbox is mounted on
+another wall. A wide window looks out over the west end of the harbor and the
+length of Pier One beyond.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21465
+D2
+~
+~
+0 0 21463
+S
+#21465
+{cHarbormaster's Quarters{x~
+{yClean and tidy, this room reflects its proud dweller. Everything is in order.
+The bed is made crisply, the paintings displayed on the wall are hung evenly
+and the floors are free of dust. A writing desk stands against the wall. The
+papers on its surface are arranged neatly.{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21464
+S
+#21466
+{cThe Shipyard{x~
+{yA massive crane, built of entire trees and rigged with enormous chains, arches
+high overhead. The chains run down the length of the crane and disappear below
+the decking. Presumably, the crane is used for raising and lowering the upper
+end of the drydock as well as hoisting vessels out of the sea. Stacks of lumber
+and barrels of tar and nails are scattered about. The decking is scarred and
+gouged by the rolling timbers and keels of ships. Many planks have been
+replaced, giving the deck a striped look.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21460
+D1
+~
+~
+0 0 21469
+D2
+~
+~
+0 0 21467
+D3
+~
+~
+0 0 21459
+S
+#21467
+{cThe Drydock{x~
+{yThe skeletal ribs of an enormous ship fill a massive man-made trench of wood.
+One side of the ship has been covered with planks and hot tar. The internal
+decks are still under construction, their surfaces a crosshatch of beams and
+planks. Four inlet valves, each taller than a man, line the inner edge of the
+trench. Sloping rampways lead up to the main shipyard to the north.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21466
+D2
+~
+~
+0 0 21468
+S
+#21468
+{cThe Drydock{x~
+{yThe skeletal ribs of an enormous ship fill a massive man-made trench of wood.
+One side of the ship has been covered with planks and hot tar. The internal
+decks are still under construction, their surfaces a crosshatch of beams and
+planks. Four inlet valves, each taller than a man, line the inner edge of the
+trench. The south end of the trench is a thick wall of oak, holding back the
+sea.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21467
+S
+#21469
+{cThe Shipyard{x~
+{yThe decking of the shipyard is gouged and scarred by the heavy work that goes
+on here. Stacks of lumber and barrels of tar and nails are scattered about.
+Wood shavings blow about in the ocean breeze around sections of decking and
+partially completed bulkheads.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21461
+D3
+~
+~
+0 0 21466
+S
+#21470
+{cHellion Court{x~
+{ySituated just north of a busy intersection, this road is the main thoroughfare
+between the abode of the mages and the more impoverished areas. Representatives
+of each quarter make their way through the crowds of citizens, ignoring each
+other politely for the main part. A large, marble faced building rises to the
+east, the white walls reflecting brightly onto the western wall which is
+decorated with murals of hellions.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21471
+D2
+~
+~
+0 0 21322
+S
+#21471
+{cHellion Court{x~
+{yDecorated with the images of dragons in various states, the western wall is one
+of the main defensive walls of the city. Tall and crenellated, with a well
+patrolled walkway, it has stood the test of time. Opposing this is the white
+marble facade of the City Hall, home to the minor officials that maintain and
+run the city.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21472
+D2
+~
+~
+0 0 21470
+S
+#21472
+{cHellion Court{x~
+{yThe decorations on the western wall depict a number of dragons in various
+poses, whether flight, hunting or even battling others of their kind. Repainted
+every year by order of the council, the origin of the pictures is lost in
+history. Indeed, the name of the road could be a reflection of the decor, but
+it is equally possible that the paintings came after the name was assigned.
+Academic opinion is split on the subject, and none can say for sure which case
+is correct.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21473
+D2
+~
+~
+0 0 21471
+S
+#21473
+{cHellion Court, South of the Wizards' Quarter{x~
+{yThe number of mages within the people traversing the street is certainly
+noticeable, for this section of the street is close to their quarter. Wizards
+with their staves are followed by apprentices while sorcerers prowl the street
+in a solitary fashion. Little heed is paid to the decorated walls to the west,
+their murals of dragons a common sight.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21474
+D2
+~
+~
+0 0 21472
+S
+#21474
+{cThe Gates to the Wizards' Quarter and Hellion Court{x~
+{yTwo broad roads intersect to form a busy set of crossroads, presided over by a
+harassed looking guardsman. The traffic moves in a constant flow, streaming
+mostly in a north and south direction. Carts of goods mix with coaches of
+various sizes, all jockeying for position within the domain of the guardsman's
+command. Only a small amount of traffic is moving to or from the east, whilst
+the majority of the trade carts turn to the west.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21475
+D1
+~
+~
+0 0 21522
+D2
+~
+~
+0 0 21473
+D3
+~
+~
+0 0 21486
+S
+#21475
+{cThe Hellion's Tail{x~
+{yOf all the streets of the City, this one is probably the only one to have been
+renamed by the citizens. Made from the ubiquitous cobblestones that pave the
+city's roads, it is an extension of Hellion Court, which stretches far to the
+south. Officially, it is known by the same name, but generations of the local
+citizenry have designated this section to be the "Hellion's Tail". Far to the
+north is a square, beyond which this road continues, while to the south the
+Tail is intersected by a street that crosses from east to west. The blank wall
+of a tall building stands to the east, opposed by a single-story building to
+the west.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21476
+D2
+~
+~
+0 0 21474
+S
+#21476
+{cThe Hellion's Tail{x~
+{yRenamed some generations ago by the locals to Hellion's Tail, the road itself
+has little about it to warrant such an unusual name. A large, open square sits
+directly to the north, directly in the center of the Wizards' Quarter, a focal
+point for the residents of this area. The wall of the western building is
+punctuated by many leaded windows, all with the shutters tied back to allow the
+light in. To the east, a tall building shows a blank wall, marred only by a
+number of bricked-up windows and a large billboard. The billboard is colorful,
+to say the least, and advertises the current production in the Theater Grande.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21477
+D2
+~
+~
+0 0 21475
+S
+#21477
+{cSouth of the Portal{x~
+{yThe broad open square lies to the north, the west and the east, thronging with
+people at all times. This place is the very center, both literally and
+socially, of all the interaction in the quarter. Business assignations are
+often started here, with the participants usually venturing towards the
+mercantile exchange far to the north. Many social meetings, romantic trysts and
+platonic friendships, are arranged in this area. To the east lies the entrance
+to the Theatre Grande, while the main attraction to the square is the black
+portal to the north.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21409
+D1
+~
+~
+0 0 21552
+D2
+~
+~
+0 0 21476
+D3
+~
+~
+0 0 21549
+S
+#21478
+{cNorth of Portal{x~
+{yThe stone flagged square spreads out to the south of here, with a continually
+replenished crowd of people milling around. Merchants and socialites mingle,
+each displaying their finery and trading in their own particular currency.
+Occasional Magi stride through the crowd, their robes marking them out from the
+ordinary mortals, yet they are outnumbered by the numbers of the apprentices,
+their robes and gowns not nearly as fine or ornate. The main north to south
+road recommences to the north here, known locally as the Hellion's Tail.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21479
+D1
+~
+~
+0 0 21551
+D2
+~
+~
+0 0 21409
+D3
+~
+~
+0 0 21550
+S
+#21479
+{cThe Hellion's Tail{x~
+{yA number of obvious visitors to the area stand in awe of the large glowing area
+to the east, a site of eldritch happenings. The greenish glow of some arcane
+occurrence shines brightly at all hours of the day or night, negating any need
+for illumination of any other kind. The vast majority of the populace passes it
+by with barely a glance, for this phenomenon is a permanent feature of the
+area. Often a mage will walk up to the phenomenon and enter, emerging a few
+minutes later looking decidedly refreshed and invigorated. Opposing this is the
+wall of a tavern, its shutters half closed to block out some of the eternal
+glow.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21480
+D1
+~
+~
+0 0 21521
+D2
+~
+~
+0 0 21478
+S
+#21480
+{cThe Hellion's Tail{x~
+{yA high stone wall rises to the east, although the constant cries of market
+traders can be heard from over the top of it. The building to the west is
+obviously some form of classroom, with rows of occupied desks clearly visible
+through the plain glass windows. An interesting greenish glow fills the road to
+the south, ignored by the riders and pedestrians who frequent the area, while a
+small chapel, fronted by a large, ornate fountain, lays to the north. The
+streets are busy enough, yet the passers by seem to be muted, each keeping to
+their own thoughts.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21481
+D2
+~
+~
+0 0 21479
+S
+#21481
+{cThe Spring of Junction{x~
+{yA broad plaza of smooth paving stones surrounds an ornate spring, tinkling
+gently as the water flows steadily. The water, coming from the various spouts,
+is colored by some arcane means, with streams of water giving all the shades of
+the rainbow. After a short while it becomes evident that there is something
+more to this than first meets the eye. The water actually begins its journey an
+inch above the fountain pool and makes its way up into the spouts, a
+happenstance of no natural cause. A large, ornamental plaque declares this
+spring to have been created by Quiope, Mosetaj's advisor in the war against
+the denizens of the Catacombs. A second, smaller plaque appears to be of more
+recent origin, and explains that the flows are due to a drunken student prank
+some years ago. Apparently no-one has been able to return the fountain to its
+previous state, yet the aesthetic effect is such that few would wish it to
+change. Stone roads extend to the east, the west and the south from here.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21482
+D1
+~
+~
+0 0 21564
+D2
+~
+~
+0 0 21480
+D3
+~
+~
+0 0 21520
+S
+#21482
+{cThe Entry of Chapel{x~
+{yWhite plaster walls, unadorned apart from the barest necessary religious
+trappings, greet the visitor in every direction. Narrow, stained glass windows
+break the walls at regular intervals, each one reaching to near the low
+ceiling. The sense of the Gods is muted in this place, the influence, no doubt,
+of so many major magi and their own near-divine powers. An aisle goes to the
+west, leading through a small cluster of dark brown, wooden pews.{x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 21481
+D3
+~
+~
+0 0 21483
+S
+#21483
+{cAmongst the Pews{x~
+{yHard wooden pews, a rich brown in color, are arrayed to each side, though none
+are showing much wear. On the whole, a pure mage has little time for the gods,
+seeking to improve his own powers instead. Devotions are kept up with, but kept
+to the minimum, for it is not wise to remain without influence in divine
+circles. The aisle leads to the altar to the west, and the entry to this chapel
+on the east.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21482
+D3
+~
+~
+0 0 21484
+S
+#21484
+{cAt the Altar{x~
+{yAs befits a small chapel, a pulpit rises only a short distance from the ground
+just beyond the far wall. Made from polished mahogany, it is only lightly
+decorated with carvings of a religious nature. A small, granite font stands
+just before it, next to a plain stone altar, the small puddle of water resting
+within barely covering the bottom. A set of wooden stairs, trimmed in a thin
+red carpet, leads to the top of the pulpit.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21483
+D4
+~
+~
+0 0 21485
+S
+#21485
+{cIn the Pulpit{x~
+{ySparsely furnished with a red carpet, a wrought iron lectern and a basic
+candelabra, the pulpit affords a good view of the chapel. The stained glass
+windows dapple the pews with varicolored hues in indiscriminate patterns,
+barely altering the sense of peace within this place. Few disturb this chapel,
+save only for the most necessary of religious observations.{x
+~
+0 0 0
+0
+D5
+~
+~
+0 0 21484
+S
+#21486
+{cStreet of Virtuosos{x~
+{yThe houses lining this section of the city are not of magely ownership, for
+they are plain buildings. However, much pride is taken in their upkeep with
+brass sconces polished brightly, and the stone steps scrubbed on a regular
+basis. The gardens are practical, with row upon row of vegetables in evidence,
+although an occasional flowerbed brightens the place up. With the wealth of the
+powerful mages to support the local economy, the craftsmen have a thriving
+trade, and can afford homes well beyond the means of the workers in other parts
+of the city.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21474
+D2
+~
+~
+0 0 21487
+D3
+~
+~
+0 0 21488
+S
+#21487
+{cA Craftsman's Workshop{x~
+{yWood shavings littering the floor have been swept into tidy piles, ready for
+sale as kindling. Several tools are arrayed in racks around the working area,
+centered around a large bench adorned with two different vices. Pots of glue
+and small piles of dowelling reside upon a shelf, while several planks of
+finely grained wood rest against a wall. Many examples of the carpenter's skill
+are available for purchase.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21486
+S
+#21488
+{cStreet of Virtuosos{x~
+{yPlain, solid buildings, complete with workshops, line the south side of this
+street. All of the buildings have signs outside, each with a painting relevant
+to the tasks performed inside. Most notable is one that advertises a picture of
+a statue, fronting the premises of a sculptor. From within this place comes the
+busy sound of a chisel hard at work.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21486
+D2
+~
+~
+0 0 21489
+D3
+~
+~
+0 0 21490
+S
+#21489
+{cThe Workshop of the Carver{x~
+{yHuge blocks of stone sit on the ground, roughly chiselled from the earth and
+transported here for their metamorphosis. Several finished pieces of the
+carver's art are arranged along the back wall awaiting collection, the
+figures varying from simple statues of humans to mounted knights and, oddly
+enough, a small statue of a baenlyr raising its head to strike. A half-finished
+statue rests in the middle of the workspace, amorphous in its roughly carved
+state and without any distinguishing features yet. Several granite gravestones
+rest against the western wall, all blank and awaiting use, while the eastern
+wall holds several racks containing a wide variety of tools.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21488
+S
+#21490
+{cStreet of Virtuosos{x~
+{yA building to the north resounds with the occasional dull thud of a muffled
+explosion, marring the otherwise normal atmosphere of the street. Rows of
+workshops, all active with trade and manufacture, line the southern edge of the
+street, serving the needs of the community. Chandlers, candlemakers, farriers
+and blacksmiths all line up in their places, apprentices ready to take people's
+orders.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21488
+D2
+~
+~
+0 0 21491
+D3
+~
+~
+0 0 21492
+S
+#21491
+{cCobblers of Gentry{x~
+{yFunctional in aspect and without any great attempts at frippery, this workplace
+is a haven for industry. No fewer than five apprentices crowd into the area,
+all furiously cutting, stitching and gluing leather into footwear of various
+styles. Racks of ready-made footwear of all varieties stand ready for customers
+to ponder over, and trade seems to be brisk, for the owner can afford to be
+absent and leave his staff to work by themselves.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21490
+S
+#21492
+{cJunction of the Sapid Virtuosos{x~
+{yIn the shadow of the huge watchtower that rises to the south, the road bends
+both north and east. The inside corner of the bend has a badly damaged curb
+where someone, presumably a driver of a heavy wagon, has taken the turning too
+sharply once too often. A small shop rests on the west, without customers and
+apparently out of stock.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21497
+D1
+~
+~
+0 0 21490
+D2
+~
+~
+0 0 21493
+D3
+~
+~
+0 0 21496
+S
+#21493
+{cThe Base of the Tower{x~
+{yThick stone walls and buttresses support the watchtower, with a narrow stairway
+winding its way round the inside to the top. The room has little in the way of
+furnishings. The few items of interest are barrels of water and preserved food,
+stored in case of siege. The heavy oak door is open for now, but a heavy wooden
+bar rests on a hinge ready to block all access from the streets.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21492
+D4
+~
+~
+0 0 21494
+S
+#21494
+{cHalfway up the Tower{x~
+{yHeavy stone blocks have been perfectly aligned to create the defensive walls,
+pierced regularly by arrow slits. A walkway runs around the inside of the tower
+at this height, allowing archers a good view from their thin openings of the
+entire surrounding area. Far below can be seen the heavy oaken door that allows
+access to this structure, while some steps lead up to a trapdoor that opens to
+the roof.{x
+~
+0 0 0
+0
+D4
+~
+~
+0 0 21495
+D5
+~
+~
+0 0 21493
+S
+#21495
+{cAn Observation Platform{x~
+{yOpen to the elements on all sides, the top of the tower is given some
+protection from the weather by a wooden canopy. A crenellated wall surrounds
+the tower top, allowing an excellent view of the surrounding countryside to
+both the west and the north, while the city can be seen in all its aspects to
+the east and to the south.{x
+~
+0 0 0
+0
+D5
+~
+~
+0 0 21494
+S
+#21496
+{cThe Shop of the Minor Diabolist{x~
+{yExtensive disarray greets the eye in this rather dingy shop. A few tattered
+signs declaring a "Sale" are left on the walls and window, but they seem to
+have been all too successful as the stock seems to have gone. A few price
+tickets for items are scattered on the counter, but the objects whose prices
+they once bore are gone, or never arrived. A dried-out quill and an empty till
+take up the rest of the space on the countertop.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21492
+S
+#21497
+{cStreet of the Sapid Inveiglement{x~
+{yThe road dips slightly for about a dozen feet, the victim of some form of
+subsidence deep under the surface. Extra drainage has been inserted to cope
+with any buildup of water, although the dip itself is but a few inches at most.
+A dull thudding noise reverberates around the street from the building to the
+east, contrasting sharply with the peace and quiet of the library opposite.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21500
+D1
+~
+~
+0 0 21499
+D2
+~
+~
+0 0 21492
+D3
+~
+~
+0 0 21498
+S
+#21498
+{cThe Library of Low Magicks{x~
+{yShelves upon shelves of thick books adorn the walls of this small, dimly lit
+library. Some of the books seem to quiver and vibrate slightly on their
+shelves, as though the magic contained within is trying to escape. Others lie
+still and silent, but glow with auras of red, gold, and blue, illuminating
+their neighbors in shimmering, otherworldly light.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21497
+S
+#21499
+{cThe Target Range{x~
+{yA well-marked red line denotes the barrier between safety and extreme danger.
+On the street side of the line, a group of apprentice mages wait their turn to
+attack a group of wooden targets with their new-found skills. A gap of some
+twenty feet of scorched and scarred flagstones then exists on the other side.
+At the far end of the room, against a blackened wall, rest a number of wooden
+targets of varying shapes and sizes. The targets are shaped into silhouettes of
+various creatures, including humans, ranging from very small rabbits and
+squirrels to large bears and dire wolves.{x
+~
+0 0 0
+0
+D3
+~
+~
+0 0 21497
+S
+#21500
+{cStreet of the Sapid Inveiglement{x~
+{yThe stones of the road are pitted in small sections, with a couple of
+spare ones lying in the gutter. This area of the street is rather quieter than
+either of the areas to the north and south, with all traffic here just passing
+through. An abandoned shop sits to the east, the door gaping open and
+unattended. Opposing this on the west is a short alley, barely wide enough for
+two carts to pass.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21503
+D1
+~
+~
+0 0 21502
+D2
+~
+~
+0 0 21497
+D3
+~
+~
+0 0 21501
+D4
+~
+~
+0 0 21575
+S
+#21501
+{cAlley of Gate{x~
+{yA large pair of double gates end this alley on the western side. Attended by
+some bored guards, they are obviously not used often, for on the other side
+lies the Forbidden Forest. Despite the low importance of the alley, the area is
+kept clean and tidy. The main area of the Wizard's Quarter is to the east, in the
+area known to the locals as the Sapids.{x
+~
+0 0 0
+0
+D1
+~
+~
+0 0 21500
+S
+#21502
+{cAn Abandoned Shop{x~
+{yAwaiting a new owner, the shop smells musty and somewhat stale. A few splinters
+have been swept into one corner with little enthusiasm, while the layer of dust
+on the floor has only been disturbed by a number of rodent trails. Brave
+spiders have erected webs in the rafters, yet their efforts seem to be more in
+optimism than any real sense.{x
+~
+0 0 0
+0
+D3
+~
+~
+0 0 21500
+S
+#21503
+{cStreet of Sapid Inveiglement{x~
+{yNarrower than many of the other streets in this area, the Mellows, as the
+locals refer to this area, are still more than wide enough for two carts to
+pass. Less lively than the market area in the north, these streets are home to
+the less popular, yet necessary, commercial establishments. The western side of
+the street is taken by a shop selling carpets, while the light sound of music
+comes from a shop to the east. A broad window allows a good view of several
+musical instruments in there.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 21506
+D1
+~
+~
+0 0 21505
+D2
+~
+~
+0 0 21500
+D3
+~
+~
+0 0 21504
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 21408 0 21408
+O 0 21409 0 21409
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#21300
+~
+#0
+
+#$

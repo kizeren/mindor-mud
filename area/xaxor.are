@@ -1,0 +1,73 @@
+#AREADATA
+Name New area~
+Builders Xaxor~
+VNUMs 20201 20300
+Credits [TAll ] Xaxor  ~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#20201
+{DA{xpproaching {Dt{xhe {DG{xates~
+{DA {xdirt path winds through a field of long grass.  {DT{xhe sounds of
+millions of crickets and the buzz of bees make the walk very peaceful. 
+{DT{xo the north stands a large steel gate, and a fairly tall wall forms a
+perimeter around what looks like an enormous cemetary.  {DT{xhere are
+strange footprints embeded in the dirt, they resemble human but with a
+little animal in them.  A smell of spring is in the air.  {DI{xts a very
+calming scent, but there is definitely something else more sinister in the
+air, something is waiting in the shadows to the north.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20202
+S
+#20202
+{DS{xteel {DG{xates {Do{xf {DM{xidian~
+{DA {xlarge steel gate is the only entrance to the area known as Midian. 
+{DT{xhe legend of this place tells of a city buried beneath, where creatures
+of great power and mystery live.  {DT{xwo large stone f 
+~
+0 524288 0
+D2
+~
+~
+0 0 20201
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

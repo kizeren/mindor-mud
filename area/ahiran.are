@@ -1,0 +1,292 @@
+#AREADATA
+Name New area~
+Builders Raiden~
+VNUMs 21001 21050
+Credits [TAll ] Ahiran  Elven Forest~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#21001
+Forrest Square~
+Ahhh, the center most part of the Elven Forrest.
+Small, light winds flow through the area with a soft whistle.
+Large bushes shake and tree leaves blow wiht the wind.
+Everything is quiet like there is nothing or noone here.
+~
+0 0 3
+D1
+~
+~
+0 0 21002
+S
+#21002
+Eastern Sector~
+This pathway is about six feet wide and has many scattered leaves on the
+ground.  Not much of a sign of life but a bunch of bushes shake rather much.
+The winds are calm and the air fills all the gaps not taken by trees or
+bushes.  
+~
+0 0 3
+D1
+~
+~
+0 0 21003
+D3
+~
+~
+0 0 21001
+S
+#21003
+Entrance to Elven Training~
+Here lies the entrance to the training facilities of the elven kingdom. 
+Every opstical must be completed to continue on to the next stage in this
+terrible place.  Each opstical gets harder and harder as you move further
+into the training area.  
+~
+0 0 0
+D1
+~
+~
+0 0 21004
+D3
+~
+~
+0 0 21002
+S
+#21004
+Elven Training Area Main Office~
+The area is filled with silent music that can barely be heard.  There is
+a large round wooden desk in the middle of the room.  The re are a few
+chairs in the room with a wield language written on them.  This area has no
+wind as if it was blocked by some strange force.  
+~
+0 0 0
+D1
+~
+~
+0 0 21005
+D3
+~
+~
+0 0 21003
+S
+#21005
+Beginers Training~
+This area has many blood stains on the ground and on a few trees.  Claw
+marks can be seen in the ground where a beast has been drug across the
+ground against its will.  Everything seems quiet maybe too quiet.  
+~
+0 0 0
+D0
+~
+~
+0 0 21006
+D1
+~
+~
+0 0 21008
+D2
+~
+~
+0 0 21007
+D3
+~
+~
+0 0 21004
+S
+#21006
+Beginners Mob Room~
+There is a little blood here with small pieces of flesh alying around. 
+Screams can be heard in the distance as the wind moves through the area. 
+The trees look like they have been slamed against with a large heavy object.
+~
+0 0 0
+D2
+~
+~
+0 0 21005
+S
+#21007
+Advanced Beginners Mob Room~
+This area is filled with blood everywhere.  No signs of life are found
+here.  The area is mainly bare except for all the blood.  Small moans of
+agony can be heard in the distance.  The wind is slightly moving through
+here with no problem.  
+~
+0 0 0
+D0
+~
+~
+0 0 21005
+S
+#21008
+Advanced Training~
+This room has plenty of blood all over the place.  Screams can be heard
+clearly but not enought to be in the same room.  Everything in this area is
+differet and not noticed before.  The trees are slanted and look like they
+are about to fall to the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 21009
+D1
+~
+~
+0 0 21011
+D2
+~
+~
+0 0 21010
+D3
+~
+~
+0 0 21005
+S
+#21009
+Advanced Mob Room~
+This room is very quiet perhaps too quiet.  The ground has a few leaves
+scattered all over the place.  The wing flows softly through here as if
+nothing was blocking its bath.  
+~
+0 0 0
+D2
+~
+~
+0 0 21008
+S
+#21010
+Meditation Chamber~
+The room is inside a strange invisible bubble that holds out the rain and
+wind.  The sound of birds chirping can be heard softly as to relax the mind.
+Trees are towering over you to block the sunlight from going straight into
+your eyes.  
+~
+0 0 0
+D0
+~
+~
+0 0 21008
+S
+#21011
+Path to Expert Training~
+This is a narrow path that leads to yet another group of training
+facilities.  Trees line both sides of the path and leaves are scattered
+along the path.  Small imprints in the ground show that someone has already
+been here.  
+~
+0 0 0
+D0
+~
+~
+0 0 21012
+D3
+~
+~
+0 0 21008
+S
+#21012
+Path to Expert Training~
+This is a narrow path that leads to yet another group of training
+facilities.  Trees line both sides of the path and leaves are scattered
+along the path.  Small imprints in the ground show that someone has already
+been here.  
+~
+0 0 0
+D0
+~
+~
+0 0 21013
+D2
+~
+~
+0 0 21011
+S
+#21013
+Expert training area~
+Screams are heard plain as day here and the wind blows gently through the
+area.  Bloody footprints can be seen in the ground here and leaves are
+scattered about.  
+~
+0 0 0
+D0
+~
+~
+0 0 21015
+D1
+~
+~
+0 0 21016
+D2
+~
+~
+0 0 21012
+D3
+~
+~
+0 0 21014
+S
+#21014
+Dark Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 21013
+S
+#21015
+Master Training~
+~
+0 0 0
+D2
+~
+~
+0 0 21013
+S
+#21016
+~
+~
+0 0 0
+D3
+~
+~
+0 0 21013
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

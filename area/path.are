@@ -1,0 +1,367 @@
+#AREADATA
+Name Path~
+Builders ~
+VNUMs 31200 31299
+Credits [ All ] Draconis Paths~
+Security 8
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#31200
+Outside city walls~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31201
+D2
+~
+~
+0 0 9669
+S
+#31201
+Outside city walls~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31202
+D2
+~
+~
+0 0 31200
+S
+#31202
+Outside city walls~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31203
+D2
+~
+~
+0 0 31201
+S
+#31203
+Outside city walls~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31204
+D2
+~
+~
+0 0 31202
+S
+#31204
+Outside northern wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31205
+D3
+~
+~
+0 0 31203
+S
+#31205
+Outside northern wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 9667
+D3
+~
+~
+0 0 31204
+S
+#31206
+Outside West Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 9669
+D2
+~
+~
+0 0 31214
+S
+#31207
+Outside Northern Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31208
+D3
+~
+~
+0 0 9667
+S
+#31208
+Outside northern wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31209
+D3
+~
+~
+0 0 31207
+S
+#31209
+Outside Northern Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31210
+D3
+~
+~
+0 0 31208
+S
+#31210
+Outside Northern Wall~
+~
+0 0 0
+0
+D2
+~
+~
+0 0 31211
+D3
+~
+~
+0 0 31209
+S
+#31211
+Outside Eastern Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31210
+D2
+~
+~
+0 0 31212
+S
+#31212
+Outside Eastern Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31211
+D2
+~
+~
+0 0 31213
+S
+#31213
+Outside Eastern Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31212
+D2
+~
+~
+0 0 9668
+S
+#31214
+Outside West Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31206
+D2
+~
+~
+0 0 31215
+S
+#31215
+Outside South Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31214
+D1
+~
+~
+0 0 31216
+S
+#31216
+Outside South Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31223
+D3
+~
+~
+0 0 31215
+S
+#31218
+Outside South Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31219
+D3
+~
+~
+0 0 9511
+S
+#31219
+Outside South Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31220
+D3
+~
+~
+0 0 31218
+S
+#31220
+Outside South Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31221
+D3
+~
+~
+0 0 31219
+S
+#31221
+Outside East Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31222
+D2
+~
+~
+0 0 31220
+S
+#31222
+Outside East Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 9670
+D2
+~
+~
+0 0 31221
+S
+#31223
+Outside South Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 9511
+D3
+~
+~
+0 0 31216
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

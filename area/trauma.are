@@ -1,0 +1,114 @@
+#AREADATA
+Name traumas area~
+Builders Trauma~
+VNUMs 21300 21399
+Credits trauma~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#21300
+Entrance~
+A large wooden door stands directly ahead.  This door has seen many
+faces, along with many moons.  Small faded numbers and letters are the only
+thing that catches your eyes.  
+~
+0 0 0
+D2
+~
+~
+0 0 21301
+S
+#21301
+No way out~
+Entering the building, the large wooden door sqeaks to a final slam shut.
+An echo of the slam goes down the hallway fading into space.  Another small
+{ydoor{2 is to the east of you, while the hallway continues to the south 
+~
+0 0 0
+D0
+~
+~
+0 0 21300
+D1
+~
+~
+0 0 21302
+D2
+~
+~
+0 0 21303
+S
+#21302
+Receptionist Desk~
+An antique desk sits in the middle of the floor that is surrounded by
+file cabinets, and stacks of papers that almost reach the ceiling.  Behind
+the desk sits a very odd man, picking his nose.  
+~
+0 0 0
+D3
+~
+~
+0 0 21301
+S
+#21303
+Gate~
+Now bars are the only thing seperating the mad house from the nut house. 
+On the eastern wall a locker is bolted securely.  The locker looks as if it
+was torn open.  
+~
+0 0 0
+D0
+~
+~
+0 0 21301
+D2
+~
+~
+0 0 21304
+S
+#21304
+~
+The gate behind you slams shut with a loud scream, then soon a crash follows it. As of now there are only two ways to go.
+~
+0 0 0
+D0
+~
+~
+0 0 21303
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

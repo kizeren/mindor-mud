@@ -1,0 +1,52 @@
+#AREADATA
+Name OPENAREA~
+Builders None~
+VNUMs 21300 21399
+Credits none~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#21300
+Entrance~
+A large wooden door stands directly ahead.  This door has seen many
+faces, along with many moons.  Small faded numbers and letters are the only
+thing that catches your eyes.  
+~
+0 0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

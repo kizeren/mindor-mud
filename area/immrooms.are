@@ -1,0 +1,423 @@
+#AREADATA
+Name Immortal Rooms~
+Builders ~
+VNUMs 55 99
+Credits [ Imm ] Shaun  Immortal Rooms~
+Security 0
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#55
+Puff~
+Puff~
+Puff, the fractal dragon, is contemplating a higher reality.
+~
+~
+human~
+Af 0 A A 0 0
+101 130 10d1000+1000 80d10+85 50d10+100 magic
+-60 -60 -60 -40
+BGKMO ABCEHIJKNOPSX ENP OY
+stand stand female 100000
+CZ 0 large unique
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 55 void~
+M GREET 57 100~
+M DEATH 56 100~
+#57
+Serving Girl~
+Mook's Serving Girl~
+Mook's serving girl is standing here.
+~
+This is Mook's serving girl...  Shes 5'2", black hair, green eyes, clad
+in black leather with a mask and a cape, she is here to serve Mook's every
+need, and it looks like Mook doesn't appreciate his slave being admired...  
+~
+human~
+AGJKabd 0 A A -1000 0
+102 60 12d12+20 12d12+20 12d12+20 none
+-90 -90 -90 -90
+S BCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand female 100000000
+0 0 small human
+F for AHMV
+F par ABCDEFGHIJK
+#60
+trainig dumy~
+training~
+Traing
+~
+~
+human~
+Af 0 0 A 0 0
+101 130 10d1000+1000 80d10+85 50d10+100 magic
+-60 -60 -60 -40
+BGKMO ABCEHIJKNOPSX ENP OY
+stand stand female 100000
+CZ 0 large unique
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 61 10~
+#62
+test mob~
+{CT{cest {BM{bob{x~
+A {CT{cest {BM{bob{ {Ris here.{x
+~
+Bla bla
+~
+human~
+A 0 A A 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#55
+sword of the dragons~
+{DS{ww{Wo{wr{Wd {wof the {DD{wr{Wa{wg{Wo{wn{Ds{x~
+A Sword of the Dragons is here.~
+mithril~
+weapon AGY AN
+sword 20 15 pierce 0
+101 40 200000 P
+A
+13 200
+A
+2 3
+A
+1 5
+A
+19 12
+A
+18 12
+#56
+dragon lance~
+{DD{wr{Wag{wo{Dn L{wa{Wn{wc{De{x~
+A dragon lance has been left here.~
+dragon bone~
+weapon AGY AN
+staff 20 20 thrust F
+101 60 200000 P
+A
+12 200
+A
+13 200
+A
+4 2
+A
+2 3
+A
+1 3
+A
+19 15
+A
+18 15
+#57
+shield mindor~
+{YS{Wh{wi{De{wl{Wd {wof {YM{Wi{wn{Dd{wo{Wr{x~
+The Shield of Mindor rests here.~
+mithril~
+armor AGY AJ
+80 80 80 80 0
+101 50 200000 P
+F
+A 0 0 c
+A
+12 300
+A
+13 300
+A
+5 5
+A
+19 10
+A
+18 10
+#58
+Velvet Futon Couch~
+{wa {MV{mel{Mv{me{Mt {mF{Mu{mto{Mn {mC{Mo{mu{Mc{mh{x~
+{wa {MV{mel{Mv{me{Mt {mF{Mu{mto{Mn {mC{Mo{mu{Mc{mh{w looks comfortable.~
+unknown~
+furniture 0 0
+100 100000 BEHK 200 200
+0 0 0 P
+#59
+Blade of Demise~
+{WT{wh{We {CB{cla{CD{ce {Wo{wf {DD{we{WM{wis{DE{x~
+{WT{wh{We {CB{cla{CD{ce {Wo{wf {DD{we{WM{wis{DE{w is h{We{wre.{x~
+diamond~
+weapon ABE AN
+exotic 30 30 none 0
+102 0 1000000 P
+#60
+Dragon Skull~
+{DD{wr{Wag{wo{Dn S{wk{Wu{wl{Dl{x~
+A dragon's skull has been left here.~
+dragon bone~
+armor AGY AE
+60 60 60 60 0
+101 20 200000 P
+A
+13 100
+A
+5 5
+A
+19 10
+A
+18 10
+#61
+Dragon claw~
+{DD{wr{Wag{wo{Dn{w's {DC{Wl{wa{Dw{x~
+A dragon's claw has been left here.~
+dragon bone~
+weapon AGY AN
+dagger 20 15 pierce 0
+101 30 200000 P
+A
+18 12
+A
+19 12
+A
+1 3
+A
+2 5
+A
+13 200
+#62
+Mindor Builders Guide~
+{wthe {WMindor Builders Guide{x~
+{wThe {WMindor Builders Guide{w is here collecting dust.~
+unknown~
+map 0 AO
+0 0 0 0 0
+1 1 1 P
+E
+mindor builders guide~
+{wThis book has many pages, {Wlook {w<{Wtopic{w> to read about that topic.{x
+ 
+{wPage 1  -  {WGetting Started{x
+~
+E
+getting started~
+~
+#63
+mindor leggins~
+{DD{wr{Wag{wo{Dn S{wc{Wal{we {DL{we{Wg{wg{Wi{wn{Wg{Ds{x~
+A pair of Mindor leggins have been left here.~
+mithril~
+armor AGY AF
+60 60 60 60 0
+101 30 200000 P
+#64
+Large Sofa~
+a {Wlarge sofa{x~
+A {Wlarge sofa{x sits here.~
+Rabbit's fur~
+furniture O 0
+100 1000000 EHK 100 100
+0 0 0 P
+#65
+scroll cure crit~
+scroll cure crit~
+A scroll of cure crit~
+unknown~
+scroll 0 AO
+25 'cure critical' 'cure critical' 'cure critical' 'cure critical'
+25 0 500 P
+#99
+quarter~
+a quarter~
+A quarter has been dropped here.~
+silver~
+treasure T AO
+0 0 0 0 0
+0 0 25 P
+#0
+
+
+
+#ROOMS
+#55
+Worship Area~
+~
+0 16392 4
+0
+D5
+~
+~
+0 0 3030
+S
+#56
+Jail~
+Jail time!  Must of done something bad to be in here.  Please, if you
+feel you have been inprisoned or wrongfully accused send a note to the gods
+explaining why you feel this what the accusation is and punishment and from
+whom.  
+~
+0 797701 0
+0
+S
+#57
+{^M{8ook's {^D{8omain{0~
+This is the room that Mook uses for...  Well, we won't get into that. 
+There are pillows, chains, whips and other miscellaneous leather objects
+lying everywhere.  In the corner he has a girl clad in black chained and
+ready for when he feels a need.  There is one exit in this room, but it
+doesn't look inviting.  
+~
+0 796165 0
+0
+D5
+~
+~
+0 0 3030
+O mook~
+S
+#58
+The King's Throne~
+I can kick shaun's ass.  Very very hard as well.  Sksksk sksk okei hdnm
+As you stepped further into the castle you reach the throne room of King
+Basdeo.  His throne is made of a brilliant and shiny black material you have
+not seen before in your travels.  King Basdeo raises his hand and says " Who
+Dares disturb my Harem time?"  Two half naked women step out of the shadows
+and grab you from behind.  King Basdeo says "You my friend have a lot of
+moxxy!  For this you shall be rewarded!"  King Basdeo smiles and says "You
+two ladies take this traveller off, clean him up and teach him a lesson"
+With hindsight and your infinite wisdom you realise this has been your best
+journey yet.  As you are walked off you hear the king say, "Ladies you may
+now fulfill your duties" 
+~
+0 4 0
+0
+M 9999 H 9999
+O Basdeo~
+S
+#59
+{cT{Ch{ce {DLai{wr {co{Cf {WM{wis{Dchie{wf{x~
+blah
+~
+0 549901 0
+0
+D1
+~
+beaded~
+1 0 61
+M -50 H -50
+O piton~
+S
+#60
+{RR{Ya{Ri{Yd{Re{Yn{R'{Ys {RO{Yf{Rf{Yi{Rc{Ye{x~
+This is Raiden's personal place to relax and enjoy life as it is.  Small
+screens lign the walls showing what is happening in the {DDark Forest{x.  A
+large desk sits in the center to the room covered in papers of applications
+from various people.  
+~
+0 0 0
+0
+D5
+~
+~
+0 0 3030
+M 31072 H 31072
+S
+#61
+{WT{wh{We {DS{wm{Do{wk{De {DR{woo{Dm{x~
+{DThough painted white, the walls are stained {yye{Yl{ylow{D from all the smoking
+done in this room.  {GG{gr{Ge{ge{Gn{D plush carpeting stretches from wall to wall,
+adding to the comfort here.{x{x  {MS{mtain{Ms{D cover everything, evidence of the wild
+parties thrown here.{x  
+~
+0 32768 0
+0
+D3
+~
+~
+1 0 59
+S
+#62
+{CT{cest {BR{boom{x~
+~
+0 4 0
+0
+S
+#63
+test room~
+~
+0 4 0
+0
+S
+#0
+
+
+
+#SPECIALS
+M 55 spec_breath_any
+M 60 spec_breath_any
+S
+
+
+
+#RESETS
+D 0 59 1 1
+D 0 61 3 1
+M 0 55 20 55 1
+M 0 57 1 57 1
+E 0 62 0 13
+O 0 64 0 60
+O 0 58 0 61
+M 0 62 1 62 1
+S
+
+
+
+#SHOPS
+57 0 0 0 0 0 100 100 0 24
+0
+
+
+
+#MOBPROGS
+#55
+say You wanna see the void?
+say Okay here you go.
+
+MOB TRANSFER $n 1
+
+~
+#56
+mob gecho The voice of Puff echos through out the land.
+mob gecho Voice, 'I have been killed by $n and I will have my revenge.'
+mob gecho Voice, 'The is not the last you will see of me.'
+mob gecho Voice, 'Let this be a lesson to all!'
+mob gecho Voice, 'I will get REVENGE!'
+~
+#57
+say Hello $n!
+say So wanna tango?
+mob delay
+emote loves to tango.
+dance
+~
+#60
+if name == "akmaro"
+say DIE AKMARO!!!!!
+~
+#61
+Say OK!
+
+
+MOB TRANSFER $n 63
+~
+#0
+
+#$

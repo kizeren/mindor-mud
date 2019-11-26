@@ -1,0 +1,66 @@
+#AREADATA
+Name New area~
+Builders Nemisis~
+VNUMs 32000 32099
+Credits [ ALL ] Shadowvale   Nemisis~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#32000
+Entrance to Shadowvale~
+The sky grows cloudy as you feel light drops of water land on your shoulder.
+Just ahead you see a muddy path leading to what appears to be a graveyard.
+A sign is nailed to a tree nearby along with a hangmans noose, makes you
+wonder if it is a good idea to continue.....
+~
+0 0 0
+D0
+~
+~
+0 0 32001
+S
+#32001
+~
+~
+0 0 0
+D2
+~
+~
+0 0 32000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

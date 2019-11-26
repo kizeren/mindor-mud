@@ -1,0 +1,69 @@
+#AREADATA
+Name Raiden's Mystery~
+Builders ~
+VNUMs 31350 31399
+Credits null~
+Security 1
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#31350
+Entrance to Phantom City~
+Everything seems quiet, almost too quiet.  The roads are cracked and
+almost seperated by huge gaps due to many years of erosion.  Most buildings
+in site are almost completely destroyed.  Signs of life in this city are
+gone and seem to have been this way for about 500 years.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 31351
+S
+#31351
+Main Street~
+~
+0 0 1
+0
+D2
+~
+~
+0 0 31350
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

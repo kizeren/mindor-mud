@@ -1,0 +1,514 @@
+#AREADATA
+Clan Halls~
+Builders ~
+VNUMs 16300 16399
+Credits [ ALL ] ALL   Clan Halls~
+Security 1
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#16301
+Vampiric Healer~
+{GV{Da{Gm{Dp{Gi{Dr{Ge {MHealer{x~
+A {GV{Da{Gm{Dp{Gi{Dr{Ge {MHealer{x is standing here
+~
+~
+human~
+ABGae 0 A A 0 0
+90 90 181d30+1819 90d10+85 30d3+50 smash
+-51 -51 -51 -32
+0 0 0 0
+stand stand male 0
+0 0 medium flesh
+F for AHMV
+F par ABCDEFGHIJK
+#16302
+Training Master~
+{DT{Gr{Da{Gi{Dn{Gi{Dn{Gg {RMaster{x~
+A {DT{Gr{Da{Gi{Dn{Gi{Dn{Gg {RMaster{x is here.
+~
+~
+human~
+ABGJKb 0 A A 0 0
+100 100 201d33+2021 100d10+85 33d3+55 none
+-58 -58 -58 -37
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16303
+Shopkeeper~
+{DS{Gh{Do{Gp{Dk{Ge{De{Gp{De{Gr{x~
+A {DS{Gh{Do{Gp{Dk{Ge{De{Gp{De{Gr{x is here.
+~
+~
+human~
+ABG 0 A A 0 0
+50 50 101d16+506 50d10+85 16d3+30 none
+-24 -24 -24 -14
+0 0 0 0
+stand stand male 0
+0 0 medium flesh
+F for AHMV
+F par ABCDEFGHIJK
+#16310
+Dark cleric~
+{WG{wora{Wz{w~
+{wA {DDark Cleric {wlurks about.{x
+~
+{wEven at average height and weight, {DG{wo{Wr{wa{Dz{w appears quite intimidating. 
+Long and tattered, his {Dblack robes{w cover his entire body, extending to the
+floor.  The {Dshadow{w his hood casts over his face doesn't mask his {ggreen{x
+illuminated {ge{Gy{ge{Gs{x.  
+ 
+~
+human~
+ABGace 0 A A -1000 0
+200 100 206d34+2021 100d11+95 34d2+74 none
+-62 -62 -62 -42
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16311
+Hamad GOS Clan Elder~
+{CH{cama{Cd{x~
+{CH{cama{Cd {DG{wO{DS {WC{wla{Wn {DE{wl{Wd{we{Dr{x is here
+~
+{CH{cama{Cd{w is a very tall, slender elf.  His aged face bears {Cc{calm{x {cey{Ce{cs{w,
+seemingly overwhelming with knowledge.  He is who the members of {DN{wo{Wcuo{wu{Ds{x
+come to with they're problems, and to learn new skills and techniques.  
+~
+human~
+ABGJKb J A A 1000 0
+110 200 500d100+5000 110d11+95 50d3+50 none
+-100 -100 -100 -100
+0 0 LQ R
+stand stand male 420
+AHMV ABCDEFGHIJK medium flesh
+#16312
+Exander Nocuous Equipment Manager~
+{WE{wxander{x~
+The {WE{wqu{Wi{Wpm{We{wnt {WM{wan{Wa{wge{Wr {wis here.{x
+~
+{wExander looks like a grumpy old man, his face is always contoured in a
+sneer.  He oversees Nocuous equipment management, for a price.{x  
+~
+human~
+ABG 0 A A 0 0
+100 50 101d16+506 50d10+85 16d3+30 none
+-24 -24 -24 -14
+0 0 0 0
+stand stand male 1000000
+0 0 medium flesh
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#16300
+boots of the vampire~
+{DB{Go{Do{Gt{Ds {Go{Df {Gt{Dh{Ge {D<{G<{D<{GV{Da{Gm{Dp{Gi{Dr{Ge{D>{G>{D>{x~
+{DB{Go{Do{Gt{Ds {Go{Df {Gt{Dh{Ge {D<{G<{D<{GV{Da{Gm{Dp{Gi{Dr{Ge{D>{G>{D>{x have been left lying here.~
+bat leather~
+armor 0 AG
+10 10 10 10 0
+50 10 1000 P
+A
+13 100
+A
+19 5
+A
+18 5
+#16301
+fountain of water~
+{gFo{Gu{Wnt{Ga{gin {Wof {BW{ba{Bt{be{Br{x~
+A {gFo{Gu{Wnt{Ga{gin {Wof {BW{ba{Bt{be{Br{x is here.~
+stone~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 P
+#16302
+vampire armor~
+{DA{Gr{Dm{Go{Dr {Go{Df {Gt{Dh{Ge {D<{G<{D<{GV{Da{Gm{Dp{Gi{Dr{Ge{D>{G>{D>{x~
+The {DA{Gr{Dm{Go{Dr {Go{Df {Gt{Dh{Ge {D<{G<{D<{GV{Da{Gm{Dp{Gi{Dr{Ge{D>{G>{D>{x have been dropped here.~
+unknown~
+armor 0 AD
+15 10 15 10 0
+60 20 1000 P
+A
+18 5
+A
+19 5
+A
+13 100
+#16303
+Leather Chair~
+a Big {DLeather{x Chair~
+A Big {DLeather{x Chair is here~
+Corinithan Leather~
+furniture 0 0
+1 20000 FIL 50 40
+0 0 0 R
+#16304
+mahogany desk~
+the {yM{Ya{yh{Yo{yg{Ya{yn{Yy {DD{re{Ds{rk{x~
+The {yM{Ya{yh{Yo{yg{Ya{yn{Yy {DD{re{Ds{rk{x is here.~
+unknown~
+furniture 0 0
+1 1000 D 100 100
+0 0 0 P
+#16305
+pants of the vampire~
+{DP{Ga{Dn{Gt{Ds {Go{Df {Gt{Dh{Ge {D<{G<{D<{GV{Da{Gm{Dp{Gi{Dr{Ge{D>{G>{D>{x~
+Some {DP{Ga{Dn{Gt{Ds {Go{Df {Gt{Dh{Ge {D<{G<{D<{GV{Da{Gm{Dp{Gi{Dr{Ge{D>{G>{D>{x have been left here.~
+rawhide~
+armor 0 AF
+10 10 10 10 0
+50 20 1000 P
+A
+13 100
+A
+18 5
+A
+19 5
+#16310
+Nocuous Boots of Stealth~
+{DN{wo{Wcuo{wu{Ds {WB{woot{Ws {wof {DSt{we{Wa{wl{Dth{x~
+{wSome {DN{wo{Wcuo{wu{Ds {WB{woot{Ws {wof {DSt{we{Wa{wl{Dth{w blend in with the surroundings.{x~
+unknown~
+armor 0 AG
+15 10 15 10 0
+50 10 2000 P
+A
+13 100
+A
+19 5
+A
+18 5
+#16311
+Nocuous Cloak of the Shadows~
+{DN{woc{Wu{wou{Ds {WCloak {wof the {DShadows{x~
+{wA {DN{woc{Wu{wou{Ds {WCloak {wof the {DShadows{w blends in with the surroundings.~
+unknown~
+armor ABCEG AD
+20 10 30 5 0
+60 20 2000 P
+A
+18 5
+A
+19 5
+A
+13 100
+#16312
+Nocuous Orb of Power~
+{DN{wo{Wcuo{wu{Ds {yO{Yr{yb {wof {RP{ro{Rw{re{Rr{x~
+{wAn {yO{Yr{yb {wradiates extreme power.{x~
+rawhide~
+armor EG AQ
+10 10 10 10 0
+50 20 2000 P
+A
+13 100
+A
+18 5
+A
+19 5
+#16313
+Fountain of Water~
+{WF{wo{Wu{wn{Wt{wa{Wi{wn of {BW{ca{Ct{ce{Br{x~
+{wA {WF{wo{Wu{wn{Wt{wa{Wi{wn spews forth clean {Bw{ca{Ct{ce{Br{w.{x~
+stone~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 P
+#16314
+Nocuous Tattoo~
+a {DN{wo{Wcuo{wu{Ws {WT{wa{Dtt{wo{Wo{x~
+A {DN{wo{Wcuo{wu{Ws {WT{wa{Dtt{wo{Wo{w somehow came off its owner.~
+ink~
+armor IY AI
+10 10 15 20 0
+75 30 2000 P
+A
+18 5
+A
+13 100
+A
+12 100
+#0
+
+
+
+#ROOMS
+#16300
+{DC{Ge{Dn{Gt{De{Gr {DR{Go{Do{Gm{x~
+~
+0 525320 0
+0
+D0
+~
+~
+0 0 16301
+D1
+~
+~
+0 0 16303
+D2
+~
+~
+0 0 16302
+D3
+~
+~
+0 0 16304
+D5
+~
+~
+0 0 3014
+C Vampiric Blood~
+S
+#16301
+{DH{Ge{Da{Gl{Di{Gn{Dg {GC{Dh{Ga{Dm{Gb{De{Gr{x~
+~
+0 525320 0
+0
+D2
+~
+~
+0 0 16300
+M 150 H 150
+C Vampiric Blood~
+S
+#16302
+{DT{Gr{Da{Gi{Dn{Gi{Dn{Gg {DC{Ge{Dn{Gt{De{Gr{x~
+~
+0 525320 0
+0
+D0
+~
+~
+0 0 16300
+C Vampiric Blood~
+S
+#16303
+{DC{Gl{Da{Gn {DS{Gh{Do{Gp{x~
+~
+0 525320 0
+0
+D3
+~
+~
+0 0 16300
+C Vampiric Blood~
+S
+#16304
+{GT{Dh{Ge {Do{Gf{Df{Gi{Dc{Ge{x~
+~
+0 525320 0
+0
+D1
+~
+~
+0 0 16300
+C Vampiric Blood~
+S
+#16305
+Darkness~
+This room is dark andhas a dragon logon on the wall.
+There is a portal in the middle of the room.
+There is atable and chairs in the far east of the room.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 16306
+S
+#16306
+Shopkeeper~
+There is a old man in this room selling supplies to the Flaming Dragons.
+There is a spell room to the east that can supply you with multiple spells.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 16307
+D2
+~
+~
+0 0 16305
+S
+#16307
+Potion Shop~
+This is the potion shop and you may buy spells for many preposes and 
+there is a table with spell books all over the place.
+There is a member of the Flaming Dragons readin about magic.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 16308
+D3
+~
+~
+0 0 16306
+S
+#16308
+~
+There is a sign in the room that shows where everything is. 
+You may go north to a dragon camp where other members are sleeping.
+You are in the center of the clan hall.
+~
+0 0 0
+0
+D2
+~
+~
+0 0 16309
+D3
+~
+~
+0 0 16307
+S
+#16309
+Clan hall temple~
+You are at the clan hall temple. 
+Flaming Dragons meeting place and there is a couple members leaving now.
+There is noa meeting right now so you can come back later.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 16308
+D5
+~
+~
+0 0 9615
+S
+#16310
+{wThe {DM{wee{Wt{wing{D R{woo{Dm{x~
+~
+0 525320 0
+0
+D5
+~
+~
+0 0 16311
+C gos~
+S
+#16311
+{wThe {WS{wan{Dctu{war{Wy{x~
+~
+0 34079752 0
+0
+D0
+~
+~
+1 0 16312
+D3
+~
+~
+1 0 16313
+D4
+~
+~
+0 0 16310
+M 150 H 150
+C gos~
+S
+#16312
+{WE{wq{Duipmen{wt St{Wo{wrage{x~
+~
+0 525320 0
+0
+D2
+~
+~
+1 0 16311
+C gos~
+S
+#16313
+{wThe {wT{Wr{wa{Dini{wn{Wg {wR{Doo{wm{x~
+~
+0 525320 0
+0
+D1
+~
+~
+1 0 16311
+D5
+~
+~
+0 0 16314
+C gos~
+S
+#16314
+{wThe {RB{rat{Rt{rle {RR{roo{Rm{x~
+~
+0 524288 0
+0
+D4
+~
+~
+0 0 16313
+C gos~
+S
+#0
+
+
+
+#SPECIALS
+M 16310 spec_cast_clan_adept
+S
+
+
+
+#RESETS
+M 0 16301 1 16301 1
+O 0 16301 0 16301
+M 0 16302 1 16302 1
+M 0 16303 1 16303 1
+G 0 16300 0
+G 0 16302 0
+G 0 16305 0
+O 0 16304 0 16304
+O 0 16303 0 16304
+O 0 16313 0 16310
+M 0 16310 1 16311 1
+M 0 16312 1 16312 1
+G 0 16310 0
+G 0 16311 0
+G 0 16312 0
+G 0 16314 0
+M 0 16311 1 16313 1
+S
+
+
+
+#SHOPS
+16302 0 0 0 0 0 100 100 0 23
+16303 9 0 0 0 0 100 100 0 23
+16312 5 9 33 8 10 50 150 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

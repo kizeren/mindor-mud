@@ -1,0 +1,1519 @@
+#AREADATA
+Umbar Village~
+Builders ~
+VNUMs 22000 22050
+Credits [70 110] Piton  Umbar Village~
+Security 0
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#22000
+Marshal~
+{WM{warsha{Wl{x~
+{WMarshal {wstands behind the counter, ready to do buisiness.{x
+~
+You see a half-elf sitting on a stool behind his counter.
+~
+human~
+ABY 0 A A 800 0
+110 110 227d37+3334 110d11+95 37d2+80 none
+-69 -69 -69 -47
+EFNU 0 0 0
+stand stand male 10000000
+AHMV ABCDEF tiny 0
+F par GHIJK
+#22001
+Nadera~
+{WN{wadera{x~
+{WN{wadera {xis ready for buisiness.
+~
+~
+human~
+ABGYd 0 A A 0 0
+110 110 227d37+3334 110d11+95 37d2+80 none
+-69 -69 -69 -47
+0 0 0 0
+stand stand none 1000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#22002
+Young Elven Slave~
+{WY{woung {WE{wlven {WS{wlave{x~
+A {WY{woung {WE{wlven {WS{wlave{x awaits command.
+~
+~
+human~
+AI 0 A A 0 0
+10 10 22d4+102 10d11+95 4d2+14 none
+1 1 1 3
+0 0 C D
+stand stand none 1000
+M ABCDHIJK medium unknown
+F for AHV
+F par EFG
+#22003
+Teenage Elven Slave~
+{WT{weenage {WE{wlven {WS{wlave{x~
+A {WT{weenage {WE{wlven {WS{wlave{x awaits command.
+~
+~
+human~
+AI 0 A A 0 0
+25 25 52d9+253 25d11+95 9d2+24 none
+-8 -8 -8 -3
+0 0 C D
+stand stand none 5000
+0 ABCDHIJK medium unknown
+F for AHMV
+F par EFG
+#22004
+Adult Elven Slave~
+{WA{wdult {WE{wlven {WS{wlave{x~
+An {WA{wdult {WE{wlven {WS{wlave{x awaits command.
+~
+~
+human~
+AI C A A 0 0
+50 50 104d17+506 50d11+95 17d2+40 none
+-27 -27 -27 -16
+0 0 C D
+stand stand none 5000
+0 ABCDHIJK medium unknown
+F for AHMV
+F par EFG
+#22005
+Young Human Slave~
+{GY{goung {GH{guman {GS{glave{x~
+A {GY{goung {GH{guman {GS{glave{x awaits command.
+~
+~
+human~
+AI 0 A A 0 0
+10 10 22d4+102 10d11+95 4d2+14 none
+1 1 1 3
+0 0 C D
+stand stand none 1000
+0 ABCDHIJK medium unknown
+F for AHMV
+F par EFG
+#22006
+Teenage Human Slave~
+{GT{geenage {GH{guman {GS{glave{x~
+A {GT{geenage {GH{guman {GS{glave{x awaits command.
+~
+~
+human~
+AI E A A 0 0
+25 25 52d9+253 25d11+95 9d2+24 none
+-8 -8 -8 -3
+0 0 C D
+stand stand none 5000
+0 ABCDHIJK medium unknown
+F for AHMV
+F par EFG
+#22007
+Adult Human Slave~
+{GA{gdult {GH{guman {GS{glave{x~
+An {GA{gdult {GH{guman {GS{glave{x awaits command.
+~
+~
+human~
+AI EH A A 0 0
+50 50 104d17+506 50d11+95 17d2+40 none
+-27 -27 -27 -16
+0 0 C D
+stand stand none 5000
+0 ABCDHIJK medium unknown
+F for AHMV
+F par EFG
+#22008
+an Alligator~
+{wan {GA{gl{Gl{gi{Gg{ga{Gt{go{Gr{x~
+{wan {GA{gl{Gl{gi{Gg{ga{Gt{go{Gr {woccupies the area.
+~
+~
+lizard~
+Ac 0 A A 1000 0
+107 105 1d1+8800 105d11+95 25d3+50 bite
+-66 -66 -66 -44
+M 0 EKL I
+stand stand male 800
+AGXc ACDEFHKQUV medium unknown
+#22009
+a thief~
+{wA {dthief{x~
+A suspicious looking character lurks about.
+~
+~
+human~
+AG N A A -1000 0
+105 110 1d1+8500 110d11+95 37d2+80 none
+-69 -69 -69 -47
+0 Q FP C
+stand stand male 5000
+0 AFGI medium unknown
+F for AHMV
+F par BCDEHJK
+#22010
+Barca Fish~
+{wa {DBarca Fi{ws{Dh{x~
+{wa {yfleSh {weating {DFish {wlooks agitated.{x
+~
+~
+human~
+A 0 A A -1000 0
+114 118 1d1+10000 118d11+95 40d2+86 bite
+-75 -75 -75 -51
+H 0 F C
+stand stand male 1000
+0 KX medium unknown
+F for AHMV
+F par ABCDEFGHIJ
+#22011
+a King Serpent~
+{wa {GK{gi{Gn{Yg {yS{Ye{yr{Yp{Ge{gn{Gt{x~
+{wa {GK{gi{Gn{Yg {yS{Ye{yr{Yp{Ge{gn{Gt{w is ready to pounce!
+~
+~
+human~
+AF HO A A -1000 0
+118 200 400d50+5000 118d11+95 40d2+86 digestion
+-100 -100 -100 -100
+FHM 0 CDEFGHILNOPS 0
+stand stand male 1000
+0 KX medium unknown
+F for AHMV
+F par ABCDEFGHIJ
+#22012
+Graznak~
+{WGraznak{x~
+{WGraznak{w sells or buys armor and weapons.{x
+~
+~
+human~
+ABG 0 A A 0 0
+100 100 206d34+2021 100d11+95 34d2+74 none
+-62 -62 -62 -42
+0 0 0 0
+stand stand male 10000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 22000 quest~
+M SPEECH 22001 scale~
+#22013
+Weary Hunter~
+{wa Weary {gHunter{x~
+{wa Weary {gHunter{w is asleep on the bed.{x
+~
+~
+human~
+ABG 0 A A -1000 0
+80 80 165d27+1617 80d11+95 27d2+60 punch
+-48 -48 -48 -32
+CI P F C
+sleep sleep male 1000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#22014
+receptionist~
+a receptionist~
+A receptionist is here.
+~
+~
+human~
+ABG 0 A A -1000 0
+114 118 1d1+13000 118d11+95 15d20+70 punch
+-75 -75 -75 -51
+I F D C
+stand stand female 5000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#22015
+Umbar Citizen~
+{wA {YC{yi{Yt{yi{Yz{ye{Yn {wof {WUmbar{x~
+{wA {YC{yi{Yt{yi{Yz{ye{Yn {wof {WUmbar{w is here.{x
+~
+~
+human~
+A N A A 1000 0
+103 118 1d1+8000 118d11+95 30d2+100 grep
+-75 -75 -75 -51
+0 F GKYZ H
+stand stand none 5000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#22016
+Amaro the Wizard~
+{wthe wizard, {WAmaro{x~
+{wThe wizard, {WAmaro{w is open for business.{x
+~
+~
+human~
+AB 0 A A 0 0
+101 101 208d34+2041 101d11+95 34d2+74 none
+-63 -63 -63 -42
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#22000
+a Hidden Passage~
+a {WH{wi{Wdd{we{Wn {wP{Wa{wss{Wa{wg{we{x~
+{x~
+unknown~
+portal 0 0
+0 0 0 22040 0
+15 0 0 P
+#22001
+a Dark Hole~
+a {DDark Hole{x~
+{x~
+unknown~
+portal 0 0
+0 0 0 22048 0
+15 0 0 P
+E
+hole~
+{wThe {Dhole {wlooks like it can be {Denter{wed.{x
+~
+#22002
+King Serpent Scale Helmet~
+{wa {GK{ging {GS{gerpen{Gt {GS{gcale {GH{gelme{Gt{x~
+{wa {GK{ging {GS{gerpen{Gt {GS{gcale {GH{gelme{Gt{w is here.~
+unknown~
+armor B AE
+30 25 28 32 0
+99 0 20000 P
+A
+18 10
+A
+19 10
+A
+13 200
+A
+12 200
+#22003
+scale2 King Serpent Scale~
+a {gKing Serpent Scale{x~
+A {gKing Serpent Scale{w is here.{x~
+scale~
+trash 0 AO
+0 0 0 0 0
+1 1 500 P
+#22004
+Mithril Spiked Leggings~
+some {DM{withri{Dl {wS{Dpike{wd {DL{wegging{Ds{x~
+Some {DM{withri{Dl {wS{Dpike{wd {DL{wegging{Ds{w are here.{x~
+unknown~
+armor 0 AF
+25 20 20 15 0
+70 5 50000 P
+A
+18 5
+A
+19 5
+A
+13 50
+A
+12 75
+#22005
+Some Mithril Spiked Gauntlets~
+{wSome {wM{Dithri{wl {DS{wpike{Dd {wG{Dauntlet{ws{x~
+{wSome {wM{Dithri{wl {DS{wpike{Dd {wG{Dauntlet{ws{w are here.~
+unknown~
+armor 0 AH
+25 20 20 15 0
+70 5 50000 P
+A
+18 5
+A
+19 5
+A
+13 50
+A
+12 75
+A
+2 3
+#22006
+The Gator Slayer~
+{wThe {GG{gato{Gr S{glaye{Gr{x~
+{wThe {GG{gato{Gr S{glaye{Gr{w is here.~
+unknown~
+weapon A AN
+exotic 12 12 wrath AD
+90 2 100000 P
+A
+13 100
+A
+1 1
+A
+18 4
+A
+19 3
+A
+2 2
+#22007
+Alligator Skin Backpack~
+{wAn {GA{gll{Gi{gga{Gt{gor S{Gki{gn {GB{gac{Gk{gpa{Gc{gk{x~
+{wAn {GA{gll{Gi{gga{Gt{gor S{Gki{gn {GB{gac{Gk{gpa{Gc{gk{w looks expensive.{x~
+unknown~
+container Y AK
+1000 AC 0 1000 100
+50 1 6000 P
+#22008
+Endless Decanter Water~
+an endless decanter of water~
+A decanter of water is here.~
+unknown~
+drink 0 AO
+10000 10000 'water' 0 0
+100 10 50000 P
+#22009
+bed~
+a bed~
+A bed is against the western wall.~
+unknown~
+furniture 0 0
+2 100000 BEHK 125 125
+1 0 0 P
+#22010
+red velvet traveler's blanket~
+{wa {RRed {MV{melve{Mt {RB{rla{Rn{rke{Rt{x~
+{wA {RRed {MV{melve{Mt {CT{craveler{w'{Cs {RB{rla{Rn{rke{Rt{w is here.~
+unknown~
+furniture GIY A
+5 50000 BEHLN 150 150
+1 1 3567 P
+#22011
+pile blankets~
+a pile of blankets~
+{x~
+unknown~
+container 0 P
+10000 0 0 1000 100
+0 0 200 P
+E
+pile blanket~
+A pile of blankets is here.  Most are dirty and torn, except for a red
+velvet travelers blanket.  
+~
+#22012
+Mithril Shield~
+a {DM{wi{Wthr{wi{Dl {WS{wh{Die{wl{Wd{x~
+{wa {DM{wi{Wthr{wi{Dl {WS{wh{Die{wl{Wd{w is here.~
+mithril~
+armor Y AJ
+20 15 20 20 0
+95 3 7534 P
+A
+19 3
+A
+18 3
+A
+13 100
+A
+20 -20
+#22013
+potpie pot pie~
+{ya b{Yi{yg {yp{Yo{yt p{Yi{ye{x~
+{ya b{Yi{yg {yp{Yo{yt p{Yi{ye{y has been left out.{x~
+food~
+food 0 A
+20 40 0 0 0
+1 20 22 P
+#22014
+ball fire~
+{ya B{Ya{yll {Yo{yf {RF{ri{Rr{re{x~
+{yA B{Ya{yll {Yo{yf {RF{ri{Rr{re{y burns wickedly.{x~
+shadow~
+light AGY A
+0 0 999 0 0
+90 10 20000 P
+A
+12 110
+A
+13 110
+A
+19 7
+A
+18 7
+#22015
+alligator tooth~
+{wan {GA{gll{Gi{gga{Gt{gor {GT{goo{Gt{gh{x~
+{wAn {GA{gll{Gi{gga{Gt{gor {GT{goo{Gt{gh{w is here.{x~
+unknown~
+weapon 0 AN
+exotic 15 15 bite H
+101 5 15000 P
+#22016
+Minor Scroll of Sanctuary~
+{wa minor scroll of {Wsanctuary{x~
+{wA minor scroll of {Wsanctuary{w is here.~
+unknown~
+scroll 0 AO
+25 'sanctuary' 'reserved' 'reserved' 'reserved'
+50 0 5000 P
+#22017
+Minor Potion of Healing~
+{wa minor potion of {Whealing{x~
+{wA minor potion of {Whealing{w is here.~
+unknown~
+potion 0 AO
+25 'cure light' 'reserved' 'reserved' 'reserved'
+50 0 5000 P
+#0
+
+
+
+#ROOMS
+#22000
+{yDirt Path{x~
+This path is oviously well traveled.  There are deep ruts in the compact
+dirt, cause by the horse drawn wagons traveling through.  Thin neglegted
+fields of grass lie to the east and west.  To the north small huts are
+visible, marking the edge of Umbar Village.  The path continues north to
+Umbar, and winds through the fields into the southern horizon.  
+~
+0 270336 2
+0
+D0
+~
+~
+0 0 22001
+D2
+~
+~
+0 0 22050
+S
+#22001
+{yDirt Path{x~
+This path is oviously well traveled.  There are deep ruts in the compact
+dirt, cause by the horse drawn wagons traveling through.  Thin neglegted
+fields of grass lie to the east and west.  To the north small huts are
+visible, marking the edge of Umbar Village.  The path continues north to
+Umbar, and winds through the fields into the southern horizon.  
+~
+0 270336 2
+0
+D0
+~
+~
+0 0 22002
+D2
+~
+~
+0 0 22000
+S
+#22002
+{yDirt Path{x~
+This path is oviously well traveled.  There are deep ruts in the compact
+dirt, cause by the horse drawn wagons traveling through.  Thin neglegted
+fields of grass lie to the east and west.  To the north small huts are
+visible, marking the edge of Umbar Village.  The path continues north to
+Umbar, and winds through the fields into the southern horizon.  
+~
+0 270336 2
+0
+D0
+~
+~
+0 0 22003
+D2
+~
+~
+0 0 22001
+S
+#22003
+{YS{youthern {YG{yat{Ye{x~
+{wSmall wooden {ygates{w to the north mark the entrance to {CU{cmbar {CV{cillage{w.  The
+sound of people and the pound of the horses hooves are always present during
+the day.  In the NorthWestern part of the village, a huge {yhut{w towers above
+everything in the area.  The path winds through the {gvalley{w in the south.  
+The Village Square is just to the north of the gates.
+~
+0 270336 2
+0
+E
+gates~
+The planks on the gate are from aged oak.  It is very sturdy, and will
+likely last a long time.  
+~
+E
+umbar village~
+Umbar Village is quite small, it survives from it's meager profit from
+out of town business.  
+~
+D0
+~
+gates~
+1 22000 22004
+D2
+~
+~
+0 0 22002
+S
+#22004
+{YS{youthern {YG{yat{Ye{x~
+{wSmall wooden {ygates{w to the south mark the exit to {CU{cmbar {CV{cillage{w.  The
+sound of people and the pound of the horses hooves are always present during
+the day.  In the NorthWestern part of the village, a huge {yhut{w towers above
+everything in the area.  The path winds through the {gvalley{w in the south.  
+The Village Square is just to the north of the gates.
+~
+0 270336 2
+0
+E
+gates~
+The planks on the gate are from aged oak.  It is very sturdy, and will
+likely last a long time.  
+~
+E
+umbar village~
+Umbar Village is quite small, it survives from it's meager profit from
+out of town business.  
+~
+D0
+~
+~
+0 0 22006
+D2
+~
+gates~
+1 22000 22003
+S
+#22005
+{yDirt Path{x~
+This is the market path.  Many different things necassary for traveling,
+hunting and other things of the sort are sold in the locally owned shops. 
+Congestion is heavy here on any normal day.  Many out of towners use Umbar
+Village as a supply stop.  To the west stands Marshal's general store,
+called the Trading Post.  The Village Square is slightly south of here.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 22007
+D2
+~
+~
+0 0 22006
+D3
+~
+~
+0 0 22021
+S
+#22006
+{YV{yillage {YS{yquar{Ye{x~
+Merchants and townfolk meet here on a regular basis, to trade and discuss
+they're day.  But most of the traffic is from out of towners, who travel
+here for the unique wares sold in the shops.  Masses of happily playing
+children populate the village square on a daily basis.  Even with all the
+out of town buisiness this village generates, it is obviously not wealthy,
+since all the locals are clad in the clothes of a beggar.  
+~
+0 263172 1
+0
+D0
+~
+~
+0 0 22005
+D1
+~
+~
+0 0 22011
+D2
+~
+~
+0 0 22004
+D3
+~
+~
+0 0 22016
+S
+#22007
+{yDirt Path{x~
+This is the market path.  Many different things necassary for traveling,
+hunting and other things of the sort are sold in the locally owned shops. 
+Congestion is heavy here on any normal day.  Many out of towners use Umbar
+Village as a supply stop.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 22008
+D2
+~
+~
+0 0 22005
+D3
+~
+~
+0 0 22049
+S
+#22008
+{yDirt Path{x~
+This is the market path.  Many different things necassary for traveling,
+hunting and other things of the sort are sold in the locally owned shops. 
+Congestion is heavy here on any normal day.  Many out of towners use Umbar
+Village as a supply stop.  To the east a titan woman runs a slave market. 
+The path runs north past the shops and south towards the square.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 22009
+D1
+~
+~
+0 0 22028
+D2
+~
+~
+0 0 22007
+D3
+~
+~
+0 0 22015
+S
+#22009
+{yDirt Path{x~
+The gates just north of here open to a path that leads to the Umbar
+Swamps.  The shops of the village stand south of here.  Though past the
+shops, this is still a high traffic area.  Mostly from the alligator hunters
+commuting between the village and the swamps.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 22010
+D2
+~
+~
+0 0 22008
+S
+#22010
+{YN{yorthern {YG{yat{Ye{x~
+Small wooden {ygates{x to the north mark the exit to Umbar Village.  On the
+other side is the Northern Path, it leads to the Umbar Swamps.  To the south
+are the shops of the village, even further is the Village Square.  Traffic
+is heavy here.
+~
+0 270336 2
+0
+E
+gates~
+The planks on the gate are from aged oak.  It is very sturdy, and will
+likely last a long time.  
+~
+D0
+~
+gates~
+1 0 22030
+D2
+~
+~
+0 0 22009
+S
+#22011
+..~
+~
+0 0 1
+0
+E
+sign~
+{wThe path to Umbar Grove is {RCLOSED{w.{x
+~
+D3
+~
+~
+0 0 22006
+S
+#22012
+..~
+~
+0 0 1
+0
+D1
+~
+~
+0 0 22013
+S
+#22013
+..~
+~
+0 0 1
+0
+D1
+~
+~
+0 0 22014
+D3
+~
+~
+0 0 22012
+S
+#22014
+..~
+~
+0 0 1
+0
+D3
+~
+~
+0 0 22013
+S
+#22015
+{MM{mag{Mi{mc S{Mh{mop{x~
+~
+0 0 1
+0
+D1
+~
+~
+0 0 22008
+S
+#22016
+{yDirt Path{x~
+This is the residential path, it leads west past all of the local's
+homes.  To the far west is the Grand Hut, the Inn of Umbar.  Nearby to the
+east is the Village Square.  
+~
+0 0 1
+0
+D1
+~
+~
+0 0 22006
+D3
+~
+~
+0 0 22017
+S
+#22017
+{yDirt Path{x~
+This is the residential path, it leads west past all of the local's
+homes.  To the far west is the Grand Hut, the Inn of Umbar.  To the
+east is the Village Square.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 22047
+D1
+~
+~
+0 0 22016
+D2
+~
+~
+0 0 22046
+D3
+~
+~
+0 0 22018
+S
+#22018
+{yDirt Path{x~
+This is the residential path, it leads west past all of the local's
+homes.  To the far west is the Grand Hut, the Inn of Umbar.  To the
+east is the Village Square.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 22045
+D1
+~
+~
+0 0 22017
+D3
+~
+~
+0 0 22019
+S
+#22019
+{yDirt Path{x~
+This is the residential path, it leads west past all of the local's
+homes.  Nearby to the west is the Grand Hut, the Inn of Umbar.  To the far
+east is the Village Square.  
+~
+0 0 1
+0
+D1
+~
+~
+0 0 22018
+D3
+~
+~
+0 0 22020
+S
+#22020
+{GE{gntrance to the {GG{grand {GH{gut{x~
+A ten foot archway designates the entrance to the Grand Hut.  From the
+outside, the hut appears very elegant.  It must have been the most expensive
+building constructed in this town.  It is massive in size, approximately
+twenty feet tall, and close to a thousand feet in diameter.  
+~
+0 0 1
+0
+D1
+~
+~
+0 0 22019
+D3
+~
+~
+0 0 22022
+S
+#22021
+{WT{wra{Dding P{wos{Wt{x~
+The cheapest materials that could be found were used in the construction
+of this shop.  The floor is covered in litter, as if it had never been
+cleaned.  Marshal is obviously a tight wad, he didn't even bother to install
+shelves for his goods.  Miscellaneous items lie in an unorganized pile in
+the corner of the hut.  A small opening leads east out of the store.  
+~
+0 1028 0
+0
+D1
+~
+~
+0 0 22005
+S
+#22022
+{GL{gobb{Gy{x~
+The interior walls of this massive lobby are decorated with many furs,
+pelts and the heads of various creatures.  Plaques depicting the greatest
+hunters to occupy this hut in the past years line the western wall.  The
+floor is dirt, but appears to be heavily maintained.  The hut is free from
+any trash or debris.  All hours of the day, merchants, hunters and
+travellers alike pay a small price to get some rest in one of the cozy rooms
+the Grand Hut offers.  A hallway leads the way west, to the rooms.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 22020
+D3
+~
+~
+0 0 22023
+S
+#22023
+{GH{gallway{x~
+A long hallway leads west past all of the rooms in the Inn.  It's
+ceilings reach an immense twenty feet high.  The narrow passage makes for
+congestion during peak business hours.  The way to the lobby is east.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 22026
+D1
+~
+~
+0 0 22022
+D2
+~
+~
+0 0 22027
+D3
+~
+~
+0 0 22024
+S
+#22024
+{GH{gallway{x~
+A long hallway leads west past all of the rooms in the Inn.  It's
+ceilings reach an immense twenty feet high.  The narrow passage makes for
+congestion during peak business hours.  The way to the lobby is east.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 22025
+D1
+~
+~
+0 0 22023
+S
+#22025
+{GP{grivat{Ge {GR{goo{Gm{x~
+This generic room lacks decoration, and is not heavy on furnishing.  Just
+a bed and a nightstand, no carpet or anything of the sort.  
+~
+0 4 0
+0
+D2
+~
+~
+0 0 22024
+M 125 H 125
+S
+#22026
+{GP{grivat{Ge {GR{goo{Gm{x~
+This generic room lacks decoration, and is not heavy on furnishing.  Just
+a bed and a nightstand, no carpet or anything of the sort.  
+~
+0 4 0
+0
+D2
+~
+~
+0 0 22023
+M 125 H 125
+S
+#22027
+{GP{grivat{Ge {GR{goo{Gm{x~
+This generic room lacks decoration, and is not heavy on furnishing.  Just
+a bed and a nightstand, no carpet or anything of the sort.  
+~
+0 4 0
+0
+D0
+~
+~
+0 0 22023
+M 125 H 125
+S
+#22028
+{WS{wlave Ma{Wrk{wet{x~
+This shabby hut is constructed of straw.  It's walls have gaping holes in
+them, allowing the weather to enter freely.  Sad voices drift in from the
+back room where Nadera keeps her slaves.  A doorless entryway stands to the
+west.  
+~
+0 5124 1
+0
+D3
+~
+~
+0 0 22008
+S
+#22029
+slave bin~
+~
+0 32772 0
+0
+S
+#22030
+{YN{yorthern {YG{yat{Ye{x~
+Small wooden {ygates{x to the south mark the entrance to Umbar Village.  On the
+other side is the Northern Path, it leads to the Umbar Swamps.  To the south
+are the shops of the village, even further is the Village Square.  Traffic
+is heavy here.
+~
+0 270336 2
+0
+E
+gates~
+The planks on the gate are from aged oak.  It is very sturdy, and will
+likely last a long time.  
+~
+D0
+~
+~
+0 0 22031
+D2
+~
+~
+1 0 22010
+S
+#22031
+{YN{yorthern {YP{yath{x~
+This well worn path is used to travel to the swamps, mostly by hunters. 
+But some tourists also venture to see them.  Large bushes of thorny vines
+line the way on either side.  Gigantic trees loom overhead keeping it quite
+dark.  
+~
+0 0 2
+0
+D0
+~
+~
+0 0 22032
+D2
+~
+~
+0 0 22030
+S
+#22032
+{YN{yorthern {YP{yath{x~
+This well worn path is used to travel to the swamps, mostly by hunters. 
+But some tourists also venture to see them.  Large bushes of thorny vines
+line the way on either side.  Gigantic trees loom overhead keeping it quite
+dark.  
+~
+0 0 2
+0
+D0
+~
+~
+0 0 22033
+D2
+~
+~
+0 0 22031
+S
+#22033
+{YN{yorthern {YP{yath{x~
+This well worn path is used to travel to the swamps, mostly by hunters. 
+But some tourists also venture to see them.  Large bushes of thorny vines
+line the way on either side.  Gigantic trees loom overhead keeping it quite
+dark.  
+~
+0 0 2
+0
+D0
+~
+~
+0 0 22034
+D2
+~
+~
+0 0 22032
+S
+#22034
+{YN{yorthern {YP{yath{x~
+This well worn path is used to travel to the swamps, mostly by hunters. 
+But some tourists also venture to see them.  Large bushes of thorny vines
+line the way on either side.  Gigantic trees loom overhead keeping it quite
+dark.  
+~
+0 0 2
+0
+D0
+~
+~
+0 0 22035
+D2
+~
+~
+0 0 22033
+S
+#22035
+{wEntrance to the {GU{gmb{yar {YS{ywa{gmp{Gs{x~
+With a dead end on the path leading north.  Two directions can be
+traveled from here.  East into the deadly swamps, or south back to the
+Village.  
+ 
+{wThere is a {WSIGN {where.{x
+~
+0 4 2
+0
+E
+sign~
+{y:{Y:{y:{RWARNING{y:{Y:{y:{W     The swamps to the east are VERY dangerous, only
+experienced hunters and guided tours should enter.{x  
+~
+D1
+~
+~
+0 0 22036
+D2
+~
+~
+0 0 22034
+S
+#22036
+{GU{gmb{yar {YS{ywa{gmp{Gs{x~
+Though abundant with life little can be seen in the murky waters of the
+swamp.  Thick, green, translucent slime floats in stringy globs at the
+surface.  A large variety of plants and shrubs show age with immense size. 
+A few giant trees grow sporatically here and there.  
+~
+0 0 6
+0
+D1
+~
+~
+0 0 22037
+D3
+~
+~
+0 0 22035
+S
+#22037
+{GU{gmb{yar {YS{ywa{gmp{Gs{x~
+Though abundant with life little can be seen in the murky waters of the
+swamp.  Thick, green, translucent slime floats in stringy globs at the
+surface.  A large variety of plants and shrubs show age with immense size. 
+A few giant trees grow sporatically here and there.  
+~
+0 0 6
+0
+D0
+~
+~
+0 0 22038
+D3
+~
+~
+0 0 22036
+S
+#22038
+{GU{gmb{yar {YS{ywa{gmp{Gs{x~
+Though abundant with life little can be seen in the murky waters of the
+swamp.  Thick, green, translucent slime floats in stringy globs at the
+surface.  A large variety of plants and shrubs show age with immense size. 
+A few giant trees grow sporatically here and there.  
+~
+0 0 6
+0
+D0
+~
+~
+0 0 22039
+D2
+~
+~
+0 0 22037
+S
+#22039
+{GU{gmb{yar {YS{ywa{gmp{Gs{x~
+Though abundant with life little can be seen in the murky waters of the
+swamp.  Thick, green, translucent slime floats in stringy globs at the
+surface.  A large variety of plants and shrubs show age with immense size. 
+{WFootprints{w lead into what appears as an impossible {Wpassage{w through the
+bushes.  
+~
+0 4 6
+0
+E
+footprints~
+Footprints lead into a hidden {Wpassage{w.{x
+~
+E
+passage~
+The {Wpassage{w looks like it can be {Wenter{wed.{x
+~
+D2
+~
+~
+0 0 22038
+S
+#22040
+{GU{gmb{yar {YS{ywa{gmp{Gs{x~
+Though abundant with life little can be seen in the murky waters of the
+swamp.  Thick, green, translucent slime floats in stringy globs at the
+surface.  A large variety of plants and shrubs show age with immense size. 
+A few giant trees grow sporatically here and there.  
+~
+0 0 6
+0
+D0
+~
+~
+0 0 22042
+D1
+~
+~
+0 0 22041
+D2
+~
+~
+0 0 22043
+D3
+~
+~
+0 0 22044
+D4
+~
+~
+0 0 22039
+S
+#22041
+{GU{gmb{yar {YS{ywa{gmp{Gs{x~
+Though abundant with life little can be seen in the murky waters of the
+swamp.  Thick, green, translucent slime floats in stringy globs at the
+surface.  A large variety of plants and shrubs show age with immense size. 
+A large {Dhole{w leads underground.{x  
+~
+0 4 6
+0
+D3
+~
+~
+0 0 22040
+S
+#22042
+{GU{gmb{yar {YS{ywa{gmp{Gs{x~
+Though abundant with life little can be seen in the murky waters of the
+swamp.  Thick, green, translucent slime floats in stringy globs at the
+surface.  A large variety of plants and shrubs show age with immense size. 
+A few giant trees grow sporatically here and there.  
+~
+0 0 6
+0
+D2
+~
+~
+0 0 22040
+S
+#22043
+{GU{gmb{yar {YS{ywa{gmp{Gs{x~
+Though abundant with life little can be seen in the murky waters of the
+swamp.  Thick, green, translucent slime floats in stringy globs at the
+surface.  A large variety of plants and shrubs show age with immense size. 
+A few giant trees grow sporatically here and there.  
+~
+0 0 6
+0
+D0
+~
+~
+0 0 22040
+S
+#22044
+{GU{gmb{yar {YS{ywa{gmp{Gs{x~
+Though abundant with life little can be seen in the murky waters of the
+swamp.  Thick, green, translucent slime floats in stringy globs at the
+surface.  A large variety of plants and shrubs show age with immense size. 
+A few giant trees grow sporatically here and there.  
+~
+0 0 6
+0
+D1
+~
+~
+0 0 22040
+S
+#22045
+{YS{ymall {YH{yu{Yt{x~
+Leaves, sticks, gravel and other types of debris litter the floor here. 
+The walls are splattered with various types of food, and have many holes in
+them.  One full size bed, and three childrens beds occupy the room. 
+Childrens toys are scattered all over the place.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 22018
+S
+#22046
+{YS{ymall {YH{yu{Yt{x~
+Oviously belonging to a poor family, this hut is quite simplistic.  There
+is nothing on the walls and little furniture.  A pile of blankets has been
+laid out in the northeastern corner of the room. 
+~
+0 0 0
+0
+D0
+~
+~
+0 0 22017
+S
+#22047
+{YS{ymall {YH{yu{Yt{x~
+There is a lack of decoration in this simple little hut.  Two beds occupy
+the east wall, obviously a small family lives here.  The enviroment is quite
+clean, without any hint of clutter.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 22017
+S
+#22048
+{RB{De{Ra{Ds{Rt{w'{Ds {ML{mai{Mr{x~
+~
+0 0 0
+0
+D4
+~
+~
+0 0 22041
+S
+#22049
+{WGraznak{w'{Ws {yArmor {wand {rWeaponry{x~
+This is the nicest shop in town.  Graznak's high profit margin is evident
+from the design of this hut.  Elegant decorations line the walls, and the
+soft hide of a large animal covers the floor.  
+ 
+T{where is a {Wnote{w posted on a bulletin board.{x
+~
+0 1024 0
+0
+E
+note~
+{wI am offering a {WQUEST{w, to hear it, just ask.
+ 
+If you have the {Wscale{x, just tell me.
+ 
+ 
+Graznak.
+~
+D1
+~
+~
+0 0 22007
+S
+#22050
+{yDirt Path{x~
+This path is oviously well traveled.  There are deep ruts in the compact
+dirt, cause by the horse drawn wagons traveling through.  Thin neglegted
+fields of grass lie to the east and west.  To the north small huts are
+visible, marking the edge of Umbar Village.  The path continues north to
+Umbar, and winds through the fields into the southern horizon.  
+~
+0 270336 2
+0
+D0
+~
+~
+0 0 22000
+D3
+~
+~
+0 0 349
+S
+#0
+
+
+
+#SPECIALS
+M 22009 spec_thief
+M 22011 spec_poison
+S
+
+
+
+#RESETS
+D 0 22003 0 1
+D 0 22004 2 1
+D 0 22010 0 1
+D 0 22030 2 1
+M 0 22015 10 22004 1
+M 0 22015 10 22006 1
+M 0 22015 10 22009 1
+M 0 22009 5 22010 1
+M 0 22015 10 22011 1
+M 0 22009 5 22011 1
+M 0 22016 1 22015 1
+G 0 22016 0
+G 0 22017 0
+M 0 22009 5 22019 1
+M 0 22000 1 22021 1
+G 0 22007 0
+G 0 22008 0
+G 0 22013 0
+G 0 22014 0
+M 0 22014 1 22022 1
+M 0 22015 10 22022 1
+O 0 22009 0 22025
+M 0 22013 3 22025 1
+O 0 22009 0 22026
+M 0 22013 3 22026 1
+O 0 22009 0 22027
+M 0 22013 3 22027 1
+M 0 22001 1 22028 1
+M 0 22002 1 22029 1
+M 0 22003 1 22029 1
+M 0 22004 1 22029 1
+M 0 22005 1 22029 1
+M 0 22006 1 22029 1
+M 0 22007 1 22029 1
+M 0 22009 5 22033 1
+M 0 22008 5 22037 1
+M 0 22010 10 22037 1
+M 0 22010 10 22038 2
+O 0 22000 0 22039
+M 0 22008 5 22040 1
+O 0 22001 0 22041
+M 0 22010 10 22042 2
+M 0 22010 10 22043 2
+G 0 22015 0
+M 0 22008 5 22044 1
+M 0 22010 10 22044 2
+M 0 22015 10 22045 1
+E 0 22012 0 11
+M 0 22015 10 22046 1
+O 0 22011 0 22046
+P 0 22010 20 22011 1
+M 0 22015 10 22047 1
+M 0 22011 1 22048 1
+G 0 22003 0
+M 0 22012 1 22049 1
+G 0 22004 0
+G 0 22005 0
+G 0 22006 0
+S
+
+
+
+#SHOPS
+22000 9 5 1 19 15 200 25 0 23
+22001 0 0 0 0 0 100 100 0 23
+22012 5 9 0 0 0 125 75 0 23
+22016 10 2 3 4 0 125 75 0 23
+0
+
+
+
+#MOBPROGS
+#22000
+say So $n, you wish to embark in the quest.
+say I am glad to hear that.
+say I have an order for a unique piece of equipment.
+say But I need a {gKing Serpent Scale{x from the Umbar Swamps.
+say The swamps are very dangerous so use extreme caution.
+say If you can bring me a scale, I will gladly forge you something from the extra material.
+~
+#22001
+if carries $n 'scale2'
+say I see you found the scale.
+mob force $n drop scale
+mob echoat $n Graznak takes the scale.
+mob echoaround $n Graznak takes the scale.
+mob purge scale
+mob oload 22002
+mob echoat $n Graznak quickly cuts what he needs from it.
+mob echoaround $n Graznak quickly cuts what he needs from the scale.
+mob echoat $n In no time Graznak forges a helmet from the leftovers.
+mob echoaround $n In no time Graznak forges a helmet from the leftovers.
+give helmet $n
+say Here you are $n.
+else
+say You do not have the scale $n
+endif
+~
+#0
+
+#$

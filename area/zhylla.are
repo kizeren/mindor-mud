@@ -1,0 +1,4991 @@
+#AREADATA
+Name Temple of Zhylla~
+Builders ~
+VNUMs 10600 10799
+Credits [20-30] Draconis~
+Security 8
+RepopMsg Did you hear something?~
+End
+
+
+
+#MOBILES
+#10600
+roe deer~
+a roe deer~
+A deer nibbles shyly at a leaf, watching you.
+~
+You can only watch with admiration the powerful muscles flickering across
+the roe's tense body.  She's not sure whether or not you'll attack; surely
+you wouldn't harm an innocent?  
+~
+dog~
+ACH N A A 0 0
+22 22 45d7+201 22d9+60 6d3+12 none
+-4 -4 -4 0
+CFH PX T FH
+stand stand female 0
+AGV ACDEFHK medium unknown
+F par JUV
+#10601
+a {Rred{x salamander~
+a {Rred{x salamander~
+A great {Rfiery{x red salamander watches you from the flowers.
+~
+This gigantic {rred{x salamander glares at you beadily, giving off waves
+of heat that don't affect the nearby flowers.  Its body is dark red, mottled
+with bright {Rcrimson{x and {Dblack{x.  Large wicked talons rent the ground
+as it shuffles.  
+~
+dragon~
+AB DJ AJ A 200 0
+25 25 52d9+255 25d11+95 9d2+26 none
+-8 -8 -8 -3
+CDM H BE FI
+stand stand none 500
+AHZ ACDEFKQUV medium fire
+F aff T
+F res H
+F par GHIJPX
+#10602
+white stag~
+a white stag~
+A huge white stag observes  you steadily.
+~
+This stag is absolutely tremendous; he has a sixteen point rack!  His
+body is pure, snowy white, with dark eyes that regard you curiously.  
+~
+dog~
+AB HN A A 1000 0
+25 25 52d9+253 25d11+95 9d2+24 chomp
+-8 -8 -8 -3
+H N TX EH
+stand stand male 0
+AGV ACDEFHJK medium flesh
+F par UV
+#10603
+{gGreen snake{x~
+a green snake~
+A green snake slithers across the ground.
+~
+~
+snake~
+A 0 A A 50 0
+21 21 43d7+191 21d9+60 6d3+12 none
+-3 -3 -3 0
+H 0 L I
+stand stand either 0
+AGXYc ADEFKLQVX small flesh
+#10604
+{CDragonfly{x~
+a {Cdragonfly{x~
+A {Cdragonfly{x darts around you.
+~
+Bright jewelled insects dance around you, hovering and darting and
+landing on you in blurs of shifting color.  
+~
+pixie~
+AH JT AJT A 20 0
+20 20 43d6+188 20d9+60 6d4+14 none
+-2 -2 -2 1
+FGH 0 BP Z
+stand stand none 0
+AHMV ACFKP small unknown
+F aff E
+F par BDEGHIJ
+#10605
+Deshdenu the Hermit~
+Deshdenu the hermit~
+The hermit Deshdenu tinkers with his herbal potions.
+~
+Old and wrinkled, Deshdenu has lost none of his feral swiftness.  He has
+the cunning and wiliness of a bear and the lithe ability of a deer, as well
+as the tenacity of a wolf.  Though he seems gentle, he is no man to be toyed
+with.  
+~
+human~
+ABZ H A A 0 0
+28 28 59d10+283 28d11+95 10d2+26 none
+-10 -10 -10 -5
+IJ BPX L 0
+stand stand male 700
+AHMV ABCDEFGHIJK medium unknown
+M GIVE 10602 10614~
+M GREET 10600 60~
+#10606
+Lone {Dgray{x wolf~
+a lone {Dgray{x wolf~
+The {Dgray{x wolf watches you closely.
+~
+This wolf, though not in a pack, is robust and healthy.  Her sleek glossy
+fur is the envy of every hunter; her pride the pride of a self-sufficient
+creature.  
+~
+dog~
+A 0 A A 300 0
+24 24 49d8+243 24d10+85 8d3+17 bite
+-6 -6 -6 -1
+H 0 B Y
+stand stand female 0
+AGV ACDEFHJKUV medium flesh
+#10607
+Wolf cub~
+a wolf cub~
+A wolf cub ambles along, nipping at its siblings.
+~
+This furry bundle of energy will one day grow up to be a fierce hunter;
+but for now, it has to learn how to walk without tripping on its nose.  
+~
+dog~
+A 0 A A 60 0
+20 20 41d6+182 20d9+60 5d4+12 none
+-2 -2 -2 1
+HN 0 0 0
+stand stand none 0
+AGV ACDEFHJKUV medium unknown
+#10608
+Thahsa, Priest of Zhylla~
+Thahsa~
+Thahsa, a priest of Zhylla, watches over the altar.
+~
+Thahsa's face is ageless, with clear green eyes that sparkle in the
+light.  A long emerald robe covers her, with a collar embroidered in white
+and yellow.  Her rich auburn hair is tied back loosely with a leather thong
+and strung with feathers and bone beads.  
+~
+human~
+AB 0 A A 0 0
+23 23 50d7+220 23d9+60 7d3+15 smash
+-4 -4 -4 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+M ACT 10601 drops~
+#10609
+Birchash the ranger~
+a ranger~
+Birchash, a ranger, kneels here in prayer.
+~
+This tall elf kneels gracefully in the pews, long sage-colored hair
+hiding his tanned face.  His hunting leathers are spotless and trim, and so
+is his much-used quarterstaff.  
+~
+elf~
+AB J AJ A 780 0
+24 24 50d9+243 24d11+95 9d2+23 thrust
+-8 -8 -8 -3
+IN 0 B Z
+stand sit male 0
+AHMV ABCDEFGHIJK medium unknown
+#10610
+a worshiper~
+a worshiper~
+A worshiper rests here.
+~
+Dressed in their finest, these worshipers have come from throughout the
+continent to pay their respects to the goddess of the forests.  
+~
+human~
+A 0 A A 0 0
+23 23 48d8+233 23d11+95 8d2+22 none
+-7 -7 -7 -2
+Q N 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#10611
+a farmer's wife~
+a farmer's wife~
+A farmer's wife eyes you speculatively before turning back to her daughter.
+~
+This woman has seen more births and deaths than any doctor or soldier. 
+Her wide apron is a testament to hearty living; it's worn and there are
+permanent stains, but it's well loved.  
+~
+human~
+AB 0 A A 600 0
+26 26 53d8+237 26d9+60 7d3+14 beating
+-6 -6 -6 -1
+C 0 0 0
+stand stand none 50
+AHMV ABCDEFGHIJK medium unknown
+#10612
+a little girl~
+a little girl~
+A little girl watches shyly behind her mother's apron.
+~
+This little brown-haired green-eyed girl is cute and shy, in her festival
+best and hiding behind her mother.  
+~
+human~
+AB 0 A A 0 0
+25 25 51d8+228 25d9+60 7d3+14 scratch
+-6 -6 -6 0
+0 0 0 0
+stand stand none 10
+AHMV ABCDEFGHIJK medium unknown
+#10613
+a black wolf~
+a black wolf~
+A black wolf stalks its prey.
+~
+A startlingly black face peers at you from the cover of the undergrowth
+with gleaming {Ygolden{C eyes.  {x 
+~
+dog~
+A 0 A A 80 0
+25 25 52d9+253 25d11+95 9d2+24 bite
+-8 -8 -8 -3
+H 0 EX J
+stand stand none 0
+AGV ACDEFHJKUV medium unknown
+#10614
+Knight Templar~
+a Knight Templar~
+A knight templar stands here, guarding the entrance.
+~
+These Templar Knights have been dedicated to the goddess of the forests,
+Zhylla.  Their tabards are dark greens and pale blue edged with silver, the
+crest of an oak leaf and antlers over their chests.  Though their
+expressions are impassive, they will not hesitate to assist those in need,
+nor will they hesitate to repulse those with intention to harm the temple.  
+~
+human~
+AB 0 A A 1000 0
+30 30 63d11+304 30d11+95 11d2+27 none
+-12 -12 -12 -6
+EFKTU B 0 0
+stand stand either 200
+AHMV ABCDEFGHIJK medium unknown
+M ACT 10603 gets~
+#10615
+a singer~
+a singer~
+A singer breathes out hymnals.
+~
+This singer looks like they're really into the chorus of this hymn. 
+Their eyes are closed and backs straight, singing straight from the heart.  
+~
+human~
+AB 0 A A 800 0
+23 23 47d7+210 23d9+60 6d3+13 none
+-4 -4 -4 0
+CNU T 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#10616
+a huntress~
+a huntress~
+A huntress murmurs prayers in the pews.
+~
+~
+human~
+A 0 A A 400 0
+24 24 59d8+222 24d9+60 8d3+15 slash
+-5 -5 -5 0
+JN P 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#10617
+an elven worshiper~
+an elven worshiper~
+An elven worshiper pays homage to his goddess.
+~
+It seems that humans and rangers aren't the only ones who favor Zhylla of
+the forests; elves from lands beyond have come to worship her as well. 
+However, it is only logical, as the elves are forest-dwellers.  
+~
+elf~
+A J AJ A 900 0
+24 24 50d9+243 24d11+95 9d2+23 none
+-8 -8 -8 -3
+0 0 B Z
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#10618
+Amara of Umbar~
+Amara of Umbar~
+Amara, an outlier of Umbar, prays here.
+~
+From far and wide over the continent come the worshipers to this temple. 
+Amara's fair hair and dark eyes are concentrated wholly on the adoration of
+her goddess; don't disturb her!  
+~
+human~
+A 0 A A 500 0
+20 20 42d7+203 20d11+95 7d2+20 none
+-5 -5 -5 -1
+IJ 0 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium unknown
+#10619
+a male acolyte~
+a male acolyte~
+An acolyte hurridly carries baskets of sacrificial goods.
+~
+This elven acolyte looks like he's in a rush- huffing, puffing, and
+towing around large baskets of fruit, eggs, and other produce.  
+~
+elf~
+A J AJ A 1000 0
+22 22 46d8+223 22d11+95 8d2+22 none
+-6 -6 -6 -2
+0 0 B Z
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#10620
+acolyte~
+a female acolyte~
+An acolyte smiles at you.
+~
+This acolyte is really quite pretty in her light green vestments.  She is
+obviously busy- her day is spent studying, cleaning, and serving the
+priests.  
+~
+human~
+A H A A 1000 0
+20 20 42d7+203 20d11+95 7d2+20 none
+-5 -5 -5 -1
+0 0 N 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium unknown
+#10621
+female acolyte~
+an elven acolyte~
+An elven acolyte looks up at you from her studies.
+~
+She's obviously very busy and has little time for the likes of you!  
+~
+elf~
+A J AJ A 1000 0
+26 26 53d8+237 26d9+60 7d3+14 none
+-6 -6 -6 -1
+Q 0 B Z
+stand stand female 100
+AHMV ABCDEFGHIJK medium unknown
+#10622
+a male acolyte~
+a male acolyte~
+An acolyte grimaces at you.
+~
+He doesn't seem too happy to be here- that, or he's just irritated to
+find you here!  This acolyte's robes are of a bluer shade of green than the
+girls' spring green.  
+~
+human~
+A 0 A A 900 0
+24 24 49d8+219 24d9+60 7d3+13 none
+-5 -5 -5 0
+JQ 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#10623
+a busy acolyte~
+a busy acolyte~
+A busy acolyte bustles past.
+~
+The acolyte hustles past you, taking care of the day-to-day chores that
+keep the temple running.  
+~
+human~
+A H A A 1000 0
+25 25 52d9+253 25d11+95 9d2+24 punch
+-8 -8 -8 -3
+Q 0 N 0
+stand stand either 50
+AHMV ABCDEFGHIJK medium unknown
+#10624
+Grendle, the monk librarian,~
+Grendle, the monk librarian,~
+Grendle, the monk librarian, glares at you from his desk.
+~
+A rather large-bodied man, especially for a half-elf, Grendle doesn't
+exactly look like the friendly sort.  His dark brows are knitted together in
+distaste as he watches you mill about his holy ground, as if you trailed in
+all manner of dirt and slime to desecrate the most divine of divinities.  
+~
+halfelf~
+AB HL AL A 1000 0
+32 32 67d11+324 32d11+95 11d2+28 wrath
+-13 -13 -13 -7
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#10625
+Akasha the scribe~
+Akasha the scribe~
+Akasha the scribe glances up at you from her text.
+~
+Akasha's short bronze wings flicker occasionally as she studies the large
+handwritten page before her, frowning in concentration.  Please don't
+interrupt!  
+~
+avian~
+A DFJLT ADFJLT A 500 0
+26 26 55d9+263 26d11+95 9d2+24 slash
+-9 -9 -9 -4
+0 0 J LQ
+stand stand female 100
+AHMV ABCDEFGHIJKP medium unknown
+#10626
+Reading acolyte~
+a reading acolyte~
+An acolyte is reading diligently.
+~
+This young acolyte is absorbed in some book- whether religious or a
+flight of fancy, it is impossible to tell.  
+~
+human~
+A 0 A A 700 0
+23 23 48d8+233 23d11+95 8d2+22 thwack
+-7 -7 -7 -2
+INQ 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#10627
+cooking acolyte~
+a cooking acolyte~
+A cooking acolyte wipes sweat from her forehead.
+~
+She's hot, sweaty, and all together too busy for you.  
+~
+human~
+AB 0 A A 1000 0
+25 25 52d9+253 25d11+95 9d2+24 thwack
+-8 -8 -8 -3
+NU 0 0 0
+stand stand female 50
+AHMV ABCDEFGHIJK medium unknown
+#10641
+Grendle, the librarian monk~
+Grendle, the librarian monk,~
+Grendle, the librarian monk, glares at you from his desk.
+~
+~
+human~
+A 0 A A 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10647
+Priest Nathanael~
+Priest Nathanael~
+Priest Nathanael writes busily at his desk.
+~
+This priest Nathanael certainly keeps himself busy; though quite muscular
+and bronze, the green-robed man is working furiously to complete some sort
+of courier message.  Perhaps it's to some wandering cleric or missionary on
+behalf of the High Priest.  
+~
+human~
+AB 0 A A 1000 0
+29 29 59d9+264 29d9+60 8d3+16 none
+-8 -8 -8 -2
+0 N 0 0
+stand stand male 300
+AHMV ABCDEFGHIJK medium unknown
+#10648
+High Priest Solaris~
+the High Priest Solaris~
+The High Priest Solaris is preparing for a ceremony.
+~
+Wait...  The High Priest is actually a...  Priestess?  The elven
+priestess has flowing azure hair that falls straight to her ankles, and
+cerulean eyes that sparkle with life.  Her turquoise robes are embroidered
+with spring-green leaves and white flowers, and bone bangles click around
+her wrists.  A holy symbol hangs from her neck, while around her waist hangs
+a coiled white leather whip.  
+~
+elf~
+AB J AJ A 1000 0
+30 30 61d10+273 30d9+60 9d3+16 divine
+-9 -9 -9 -3
+FIQ 0 B Z
+stand stand female 500
+AHMV ABCDEFGHIJK medium unknown
+#10650
+escaped acolyte~
+an escaped acolyte~
+An escaped acolyte blushes furiously as you burst in.
+~
+You've interrupted something you'd much rather forget- and you're not the
+only one!  
+~
+human~
+AB 0 A A 800 0
+24 24 50d9+243 24d11+95 9d2+23 punch
+-8 -8 -8 -3
+HN 0 0 0
+stand stand male 40
+AHMV ABCDEFGHIJK medium unknown
+#10651
+A beautiful girl~
+a beautiful girl~
+A beautiful girl hides herself behind the acolyte.
+~
+Just like her lover, this girl is wearing the bare necessities tacked
+only half-way on.  
+~
+human~
+AB 0 A A 600 0
+24 24 49d8+219 24d9+60 7d3+13 scratch
+-5 -5 -5 0
+HI 0 0 0
+stand stand female 45
+AHMV ABCDEFGHIJK medium unknown
+#10652
+a priest~
+a priest~
+A priest is hidden behind the veil of vines, waiting for your confession.
+~
+You can't really see any more of the priest than his silhouette- but you
+know that it is definitely male.  
+~
+human~
+ABZac HN A A 1000 0
+30 30 63d11+304 30d11+95 11d2+27 divine
+-12 -12 -12 -6
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#10673
+A shield mimic~
+a shield~
+A silver shield lies on the floor.
+~
+A shining silver shield lies on the floor.  Its surface doesn't seem to
+reflect anything but light, though...  
+~
+modron~
+AB J AJ A -1000 0
+25 25 52d9+253 25d11+95 9d2+24 none
+-8 -8 -8 -3
+IQR BMNPQ HIK 0
+stand stand none 10
+H ABCGHJK medium unknown
+#10678
+a furnace-tending monk~
+a furnace-tending monk~
+A monk tends the furnace.
+~
+This small, slim monk is covered in dark green fabrics, tending the
+heated furnace.  Just be glad you're not him.  
+~
+human~
+AB H A A 1000 0
+26 26 55d9+263 26d11+95 9d2+24 none
+-9 -9 -9 -4
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#10680
+Cleric Kestrel~
+the cleric Kestrel~
+The cleric Kestrel ponders the ripples in the pool.
+~
+Kestrel's long ebony hair, woven with feathers and leather cord, flows
+into a river down his back as he regards the patterns of water in the pool. 
+He brushes a strand behind his ear, revealing his elven heritage beyond the
+inherent fine-boned features; his tanned skin and calloused hands show that
+not only is he a healer, but a hunter as well.  His leathers say that
+perhaps he is a former ranger.  
+~
+elf~
+AB J AJ A 1000 0
+27 27 57d10+273 27d11+95 10d2+25 none
+-10 -10 -10 -4
+0 0 B Z
+stand stand none 200
+AHMV ABCDEFGHIJK medium unknown
+#10681
+A meditating acolyte~
+a meditating acolyte~
+An acolyte mediates on living peacefully in nature's hands.
+~
+The acolyte sits with legs crossed atop one of the mossy rocks, face
+serene and untroubled by secular chaos.  
+~
+human~
+AB 0 A A 800 0
+26 26 53d8+237 26d9+60 7d3+14 magic
+-6 -6 -6 -1
+0 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#10682
+Kesshi the Healer~
+Kesshi the Healer~
+Healer Kesshi tends to a patch of acrimony.
+~
+Healer Kesshi's long dove-gray wings are folded tightly against his back,
+the long pinfeathers occasionally brushing the ground as the tall avian
+bends to pluck a weed or examine a leaf.  His delicate and fine features
+remind you that the bones of a bird are hollow; but you're sure he has more
+than physical power up his green sleeves.  
+~
+avian~
+AB DFJLT ADFJLT A 1000 0
+29 29 61d10+293 29d11+95 10d2+26 none
+-11 -11 -11 -5
+FH 0 J LQ
+stand stand none 250
+AHMV ABCDEFGHIJKP medium unknown
+#10683
+A robin~
+a robin~
+A robin peers curiously at you, head cocked to one side.
+~
+~
+song bird~
+A T AT A 0 0
+24 24 50d9+243 24d11+95 9d2+23 peck
+-8 -8 -8 -3
+FH 0 0 0
+stand stand none 0
+AGW ACDEFHKP medium unknown
+#10684
+A cook~
+a cook~
+A cook brandishes her spoon at you.
+~
+This gnome woman is taller than the average female of her species- and
+she possesses five times the presence of an elf!  At a diminuitive five
+feet, you wonder if perhaps her father hadn't been human.  It seems that the
+gnomish love of science has been applied to the alchemical means of the
+culinary arts; she creates platters that make you feel famished just by the
+whiff of steam.  
+~
+gnome~
+AB J AJ A 700 0
+28 28 59d10+283 28d11+95 10d2+26 thwack
+-10 -10 -10 -5
+DE 0 P R
+stand stand female 100
+AHMV ABCDEFGHIJK medium unknown
+#10686
+Genesis gardener~
+a gardener~
+A gardener chops away at the weeds.
+~
+Genesis's eyes are fused intensely on the patch of dirt before him as he
+slashes away savagely at the weeds.  He is so absorbed in his task that he
+fails to notice the sweat dampened auburn hair falling from his slightly
+pointed ears.  
+~
+halfelf~
+AB L AL A 700 0
+24 24 50d9+243 24d11+95 9d2+23 none
+-8 -8 -8 -3
+0 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#10687
+a chestnut bay horse~
+a chestnut bay~
+A great chestnut bay crops grass in the shade of a tree.
+~
+This horse is well-groomed and well cared for; it is very happy here. 
+Its warm brown skin twitches to chase away a few irritating insects, as the
+light sheens down on the glossy and powerful muscles of its flanks.  
+~
+dog~
+AB 0 A A 200 0
+24 24 50d9+243 24d11+95 9d2+23 charge
+-8 -8 -8 -3
+CO 0 0 0
+stand stand none 0
+AGV ACDEFJKU medium unknown
+F off H
+F par HV
+#10688
+a goat~
+a goat~
+A goat looks longingly at your clothes... To EAT them!
+~
+It's big, it's gray, and it's hungry for anything you're wearing.  Keep
+your sleeves and pants out of reach.  
+~
+dog~
+AB 0 A A 200 0
+25 25 51d8+228 25d9+60 7d3+14 none
+-6 -6 -6 0
+HQ 0 0 0
+stand stand none 0
+AGV ACDEFJKU medium unknown
+F par HV
+#10689
+A stableboy~
+a stableboy~
+The stableboy looks up as you come in with an expression of mild curiosity.
+~
+The stableboy is at the moment lounging in the straw, all of his charges
+content for now.  He seems rather unconcerned with the world; his nap in the
+hay is enough for him.  
+~
+human~
+AB 0 A A 700 0
+23 23 48d8+233 23d11+95 8d2+22 none
+-7 -7 -7 -2
+0 0 0 0
+stand stand male 30
+AHMV ABCDEFGHIJK medium unknown
+#10690
+A large serpent~
+a large serpent~
+A large serpent has coiled around the base of an apple tree.
+~
+The serpent's golden eyes regard you lazily as it flicks its forked
+tongue back and forth.  It has no fear of you and feels no need to move; its
+venom is enough to protect it, and its thick muscles enough to squeeze you. 
+~
+snake~
+AB 0 A A -1000 0
+25 25 52d9+253 25d11+95 9d2+24 crush
+-8 -8 -8 -3
+MN H L I
+stand stand none 0
+AGXYc ADEFKLQVX large unknown
+#0
+
+
+
+#OBJECTS
+#10600
+{rDr{Ra{Wco{Rn{ris{x's {WFried Rice{x~
+some of {rDr{Ra{Wco{Rn{ris{x's {WFried Rice{x~
+Look at that steaming bowl of fried rice...~
+Rice~
+food G A
+-1 24 0 0 0
+0 0 0 P
+#10601
+deerskin leather~
+a deerskin~
+A crumpled pile of leather lies here.~
+leather~
+armor S AD
+8 8 8 7 0
+22 23 18 P
+#10602
+white antlers~
+a pair of {wwhite{x antlers~
+A set of antlers lie here.~
+antler~
+armor AIS AE
+9 9 9 8 0
+25 26 29 P
+#10603
+{Rred gem{x~
+a {Rred gem{x~
+A fiery {Rred gem{x was dropped here.~
+beryl~
+warp_stone ASY AO
+0 0 0 0 0
+25 1 632 P
+#10604
+iron-capped quarterstaff~
+an iron-capped quarterstaff~
+An iron-capped quarterstaff lies in the dust.~
+wood~
+weapon 0 AN
+polearm 3 11 thrust 0
+23 24 1580 P
+A
+18 1
+A
+3 1
+A
+4 1
+F
+A 0 0 C
+#10605
+gnarled staff~
+a gnarled staff~
+A gnarled staff was discarded here.~
+wood~
+staff G AO
+40 6 6 'calm' 0
+28 0 0 P
+#10606
+{Ggreen{x shawl~
+a {Ggreen{x shawl~
+A {Ggreen{x shawl was tossed carelessly to the ground.~
+unknown~
+armor I AK
+8 8 8 7 0
+22 23 18 P
+A
+13 20
+A
+3 1
+#10607
+bluestone altar~
+a bluestone altar~
+A bluestone altar sits in the center of the clearing.~
+stone~
+portal B P
+3 AD AD 10693 0
+20 200 0 P
+E
+altar~
+The low bluestone altar is a rough rectangle of shoulder height, rather
+too tall for anything to be placed properly upon it...  
+~
+#10608
+whitestone altar~
+a whitestone altar~
+An altar of white stone rests in the center of the clearing.~
+stone~
+container GSY P
+50 E 0 1 0
+20 200 0 P
+E
+altar~
+The altar glows softly in the light of the small clearing, its surface
+smooth as porcelain vase.  A low cylindar, the altar only reaches the
+priest's waist in height, but is wide enough for a young child to lie on.  
+~
+#10609
+necklace of wolf teeth~
+a necklace of wolf teeth~
+A necklace of teeth lies in the dust.~
+teeth~
+jewelry S AC
+0 0 0 0 0
+24 1 100 P
+A
+13 20
+A
+2 2
+A
+1 1
+#10610
+{mholey berries{x~
+some {mholey berries{x~
+Some purple {mberries{x are piled here.~
+unknown~
+food G A
+2 2 0 A 0
+21 1 10 P
+F
+A 0 0 D
+#10611
+Bow of Peerless Aim~
+a precise bow~
+A well-made bow waits to be strung.~
+unknown~
+weapon 0 AN
+exotic 3 10 charge D
+22 23 1460 P
+A
+19 1
+A
+18 2
+F
+A 0 0 F
+F
+A 0 0 D
+#10612
+{bblue mantle{x~
+a {bblue mantle{x~
+A wad of {bblue{x fabric was tossed here.~
+fabric~
+armor 0 AK
+9 9 9 8 0
+23 24 19 P
+A
+13 -10
+A
+12 30
+#10613
+wooden bangle~
+a wooden bangle~
+Some wooden bangles were left here.~
+unknown~
+armor 0 AM
+9 9 9 8 0
+23 24 19 P
+#10614
+wolf pelt~
+a wolf pelt~
+A wolf pelt looks warm and comfortable.~
+hide~
+armor 0 AL
+9 9 9 8 0
+24 25 28 P
+#10615
+red potion~
+a red potion~
+A red potion was left here.~
+unknown~
+potion 0 A
+40 'heal' 'bless' 'reserved' 'reserved'
+23 2 655 P
+#10616
+green potion~
+a green potion~
+A green potion was left carelessly.~
+unknown~
+potion A A
+30 'protection evil' 'cure light' 'detect hidden' 'reserved'
+23 2 700 P
+#10617
+steel spaudlers~
+a pair of steel spaudlers~
+Gleaming here in the light are a pair of steel spaudlers.~
+steel~
+armor 0 AI
+11 11 11 10 0
+30 31 26 P
+A
+19 1
+A
+1 2
+#10618
+a folding spear~
+a folding spear~
+An odd and ornate spear was thrust into the ground.~
+metal~
+weapon 0 AN
+polearm 3 13 stab D
+26 27 1840 P
+A
+18 1
+A
+2 1
+A
+19 2
+#10619
+soft boots~
+a pair of soft boots~
+A pair of soft-looking boots were left here.~
+unknown~
+armor 0 AG
+9 9 9 8 0
+23 24 19 P
+A
+5 1
+A
+14 70
+#10620
+brown leather gloves~
+a pair of brown leather gloves~
+Brown leather gloves await a new claimant.~
+leather~
+armor SY AH
+8 8 8 7 0
+22 23 18 P
+A
+12 10
+A
+2 2
+#10621
+a glittering anklet~
+a glittering anklet~
+A glittering anklet catches your eye.~
+metal~
+jewelry 0 AS
+0 0 0 0 0
+20 1 600 P
+A
+24 -3
+A
+2 2
+#10622
+a hunting dagger~
+a hunting dagger~
+A hunting dagger was left here.~
+iron~
+weapon 0 AN
+dagger 2 10 stab 0
+24 25 1250 P
+A
+18 1
+A
+19 1
+#10623
+linen sleeves~
+a pair of linen sleeves~
+Some linen sleeves gather dust.~
+unknown~
+armor 0 AI
+9 9 9 8 0
+25 26 29 P
+A
+13 15
+A
+4 2
+#10624
+leather cuirass~
+a leather cuirass~
+A leather cuirass rests here.~
+unknown~
+armor 0 AK
+8 8 8 7 0
+21 22 17 P
+A
+14 40
+A
+13 20
+A
+5 1
+#10625
+wooden altar~
+a wooden altar~
+A wooden altar holds the fruits of labor.~
+unknown~
+container 0 P
+0 0 0 0 0
+0 50 0 P
+#10626
+red pomegranates~
+red pomegranates~
+Some red pomegranates were set here.~
+unknown~
+food 0 A
+24 4 0 0 0
+20 0 0 P
+F
+A 0 0 Z
+#10627
+blackberries~
+the blackberries~
+Some blackberries lie in the dirt.~
+unknown~
+food 0 A
+12 3 0 0 0
+20 1 10 P
+F
+A 0 0 T
+#10628
+white sash~
+a white sash~
+A white sash lies in the dust.~
+unknown~
+armor 0 AL
+8 8 8 7 0
+20 21 16 P
+A
+12 20
+#10629
+freshwater pearl earring~
+a freshwater pearl earring~
+A pearl earring shines here.~
+pearl~
+jewelry S AT
+0 0 0 0 0
+23 1 200 P
+A
+3 3
+#10630
+onyx ring~
+an onyx ring~
+An onyx ring was left here.~
+unknown~
+jewelry GS AB
+0 0 0 0 0
+21 1 220 P
+A
+13 20
+F
+A 0 0 E
+#10631
+{Wsilver basin{x~
+a {Wsilver basin{x~
+A {Wsilver basin{x sits in the room's center.~
+unknown~
+drink Y AO
+-1 -1 'water' 0 0
+25 15 1000 P
+F
+A 0 0 T
+E
+basin~
+This gleaming basin occupied the center of the stone basin of the forest
+goddess Zhylla's temple.  Take care and beware; its guardians would be none
+too pleased with its theft.  
+~
+#10632
+blessed morningstar~
+a blessed morningstar~
+A divine morningstar was abandoned.~
+unknown~
+weapon I AN
+mace 3 10 smash A
+25 26 1520 P
+A
+18 1
+A
+19 1
+#10633
+bronze breastplate~
+a bronze breastplate~
+A bronze breastplate rusts away.~
+unknown~
+armor 0 AD
+9 9 9 8 0
+24 25 28 P
+A
+13 50
+A
+5 1
+#10634
+iron battleaxe~
+an iron battleaxe~
+An iron battleaxe calls for a new wielder.~
+iron~
+weapon 0 AN
+exotic 3 11 none 0
+24 25 1600 P
+A
+18 1
+A
+19 1
+A
+1 3
+#10635
+green robe~
+a green robe~
+A green robe was left here.~
+unknown~
+armor 0 AD
+0 0 0 0 0
+24 10 100 P
+A
+12 40
+A
+4 1
+#10636
+jade barrette~
+a jade barrette~
+A jade barrette was dropped here.~
+unknown~
+jewelry 0 AE
+0 0 0 0 0
+26 1 1000 P
+A
+13 20
+A
+5 2
+#10637
+woolen leggings~
+some woolen leggings~
+A pair of woolen leggings were left here.~
+wool~
+armor S AF
+9 9 9 8 0
+23 24 19 P
+#10638
+a grotto~
+a grotto~
+A small grotto allows...~
+stone~
+container 0 P
+50 0 0 5 0
+0 500 0 P
+E
+grotto~
+This grotto is just deep enough for the lovers to store trinkets and food
+away.  From the very rear comes a trickle of water that builds up and
+splashes into the pool below.  Ferns and mosses have created a natural
+cushion inside if they wish to hide from the rain; it is just tall enough to
+stand in.  
+~
+#10639
+pool~
+a pool~
+...water to collect in a deep pool.~
+stone~
+fountain 0 P
+-1 -1 'water' 0 0
+0 500 0 P
+#10640
+golden ring~
+a golden ring~
+A golden ring gleams in the light.~
+unknown~
+jewelry 0 AB
+0 0 0 0 0
+23 0 800 P
+A
+5 -1
+A
+18 3
+#10641
+desk~
+a desk~
+A desk rests beside the door.~
+wood~
+furniture 0 P
+0 100 0 0 0
+33 300 100 P
+E
+desk~
+This wooden desk is small and unassuming.  Several books stand on one
+corner, while another is weighted with a soapstone vase and a spray of
+dogwood flowers.    
+~
+#10642
+{ybronze robes{x~
+the {ybronze robes{x~
+Some {ybronze{x-coloured fabric lies in a heap.~
+unknown~
+armor S AK
+10 10 10 9 0
+26 5 200 P
+#10643
+{ybronze wings{x~
+{ybronze wings{x~
+{yBronze wings{x look forlorn without their owner.~
+unknown~
+armor AB AQ
+10 10 10 9 0
+27 28 31 P
+F
+A 0 0 T
+#10644
+venison~
+some venison~
+A haunch of venison steams here.~
+unknown~
+food 0 A
+16 9 0 0 0
+23 3 10 P
+#10645
+Hadia scroll~
+a Hadia scroll~
+A wrinkled and brittle scroll slowly begins to disintigrate.~
+unknown~
+scroll 0 AO
+30 'lightning bolt' 'lightning bolt' 'reserved' 'reserved'
+26 1 500 P
+#10646
+fantastic novel~
+a fantastic novel~
+Some fantasy novel has been trampled on.~
+unknown~
+scroll 0 0
+30 'shocking grasp' 'burning hands' 'reserved' 'reserved'
+23 1 350 P
+#10647
+whiteoak staff~
+a whiteoak staff~
+A white staff shimmers nearby.~
+unknown~
+staff A AO
+30 10 10 'protection evil' 0
+24 20 300 P
+#10648
+leather girth~
+a leather girth~
+A leather girth with convenient pockets has been left here.~
+leather~
+container S AL
+0 AC 0 10 0
+26 30 80 P
+A
+2 3
+A
+13 5
+#10649
+golden ring~
+a golden ring~
+A golden ring gleams in the light.~
+gold~
+jewelry 0 AB
+0 0 0 0 0
+23 0 800 P
+A
+5 -1
+A
+18 3
+#10650
+honeycake~
+a honeycake~
+A honeycake looks so tempting...~
+unknown~
+food 0 A
+60 3 0 0 0
+24 1 10 P
+#10651
+dark oak chest~
+a dark oak chest~
+A dark oak chest rests beneath the window.~
+wood~
+container 0 P
+0 AC 0 10 0
+20 100 0 P
+#10652
+a mossy boulder~
+a mossy boulder~
+A mossy boulder provides the perfect seat.~
+stone~
+furniture Y P
+2 400 E 100 100
+0 0 0 P
+#10653
+a {Bpa{Ctc{mhw{wor{Bk{x quilt~
+a {Bpa{Ctc{mhw{wor{Bk{x quilt~
+A {Bpa{Ctc{mhw{wor{Bk{x quilt was folded and left here.~
+unknown~
+furniture S A
+2 280 I 100 50
+0 5 100 P
+#10655
+{wwhite whip{x~
+a {wwhite{x whip~
+Someone left a {wwhite{x whip here.~
+unknown~
+weapon 0 0
+whip 2 13 whip G
+28 29 1555 P
+A
+5 1
+A
+19 1
+A
+18 2
+#10656
+{ce{Cl{ga{Gb{Co{cr{ga{Gt{ce{x robes~
+an {ce{Cl{ga{Gb{Co{cr{ga{Gt{ce{x robe~
+An {ce{Cl{ga{Gb{Co{cr{ga{Gt{ce{x robe looks luxuriously soft.~
+unknown~
+armor K AD
+11 11 11 10 0
+28 10 600 P
+A
+3 2
+A
+4 1
+A
+12 20
+#10660
+{Gholy symbol of Zhylla{x~
+a {Gholy symbol{x of Zhylla~
+A {Gholy symbol{x of Zhylla lies on the floor.~
+life~
+jewelry K AC
+0 0 0 0 0
+28 1 400 P
+A
+13 10
+A
+12 10
+#10668
+Ring of Oblivion~
+a Ring of Oblivion~
+A ring set with onyx hangs from a string.~
+unknown~
+jewelry CE AB
+0 0 0 0 0
+22 1 800 P
+F
+A 0 0 Y
+F
+A 0 0 R
+F
+A 0 0 A
+F
+A 0 0 K
+#10669
+Orb of Reflection~
+the Orb of Reflection~
+A demon orb sits in a velvet-lined box.~
+unknown~
+treasure AEJ AO
+0 0 0 0 0
+24 20 700 P
+F
+A 0 0 K
+A
+12 -50
+A
+13 -50
+#10670
+{ge{Gm{gb{Gr{go{Gi{gd{Ge{gr{Ge{gd{x robe~
+an {ge{Gm{gb{Gr{go{Gi{gd{Ge{gr{Ge{gd{x robe~
+An {ge{Gm{gb{Gr{go{Gi{gd{Ge{gr{Ge{gd{x robe has been left here.~
+unknown~
+armor 0 AK
+11 11 11 10 0
+28 29 24 P
+#10671
+elixer of body~
+the elixer of body~
+A gray-bottled elixer rests on the shelf.~
+unknown~
+potion 0 A
+30 'cure light' 'reserved' 'reserved' 'reserved'
+22 1 100 P
+A
+9 10
+#10672
+elixer of beauty~
+an elixer of beauty~
+A rose-bottled elixer rests on the shelf.~
+unknown~
+potion 0 A
+30 'change sex' 'bless' 'reserved' 'reserved'
+0 1 100 P
+#10673
+Blade of Despair~
+the {DBlade of Despair{x~
+A {Dgray{x blade lies here, vibrating.~
+unknown~
+weapon BCEY AN
+sword 3 11 slash C
+25 26 1620 P
+A
+1 1
+A
+19 1
+F
+A 0 0 K
+A
+18 2
+#10675
+Souleater~
+the red Souleater~
+A red longsword seems to draw the vitality from the air.~
+unknown~
+weapon Z AN
+sword 3 13 stab AC
+28 10 1880 P
+A
+19 1
+A
+18 3
+#10676
+soul-eater gem~
+a soul-eater gem~
+A large multifaceted blue gem glints inside its box.~
+unknown~
+warp_stone C AO
+0 0 0 0 0
+24 3 1000 P
+#10677
+swordthing~
+swordthing~
+Swordthing~
+unknown~
+trash Z AN
+0 0 0 0 0
+0 0 0 P
+#10678
+a pool~
+a pool~
+Spring water collects into a stone-lined pool.~
+unknown~
+fountain 0 P
+-1 -1 'water' 0 0
+20 500 0 P
+E
+pool~
+Water trickles from some invisible source into this pool, trickling a
+chuckle that makes this small grove feel welcoming.  You wish to stay here
+for a while, and listen to the sound of the water...  The pool is lined with
+river stones and fringed with reeds; a few lotuses and water hyacinths float
+across like exotic fish.  Blue and green flashes flirt below the water's
+surface, like marine fae.  
+~
+#10679
+doeskin leggings~
+a pair of doeskin leggings~
+Some pale doeskin leggings have been left here.~
+leather~
+armor 0 AF
+9 9 9 8 0
+24 25 28 P
+#10680
+robe of purity~
+a {Wwhite{x robe of purity~
+A pure {Wwhite{x robe lies in a heap.~
+unknown~
+armor AK AD
+9 9 9 8 0
+25 26 29 P
+A
+12 20
+A
+3 3
+#10681
+pinfeathers~
+some pinfeathers~
+Some pinfeathers lie here, strung together on a leather cord.~
+unknown~
+armor 0 AE
+11 11 11 10 0
+29 30 25 P
+A
+3 1
+#10682
+a red tomato~
+a red tomato~
+A red fruit hangs from a staked bush.~
+unknown~
+pill 0 0
+30 'cure light' 'cure poison' 'reserved' 'reserved'
+24 0 0 P
+#10683
+an orange pumpkin~
+a big orange pumpking~
+A big orange pumpkin catches your eye.~
+pumpkin guts~
+pill 0 A
+30 'calm' 'word of recall' 'reserved' 'reserved'
+20 10 30 P
+#10684
+the Omnifertal Hoe of Joden~
+the Omnifertal Hoe of Joden~
+A long hoe has been discarded.~
+unknown~
+weapon A AN
+polearm 3 11 chop E
+23 24 1580 P
+A
+18 1
+A
+19 1
+#10685
+a spray of gray herbs~
+a spray of gray herbs~
+A spray of gray herbs hangs from the shelves.~
+unknown~
+pill 0 A
+30 'stone skin' 'bless' 'reserved' 'reserved'
+23 1 20 P
+#10686
+an amber bottle~
+an amber bottle~
+An amber bottle glints in your eye.~
+glass~
+container 0 0
+10 AC 0 20 0
+20 1 40 P
+#10687
+sage green powder~
+some sage green powder~
+A pile of sage green powder shifts in the breeze.~
+unknown~
+pill 0 0
+30 'haste' 'giant strength' 'reserved' 'reserved'
+0 1 30 P
+#10690
+an apple of wisdom~
+an apple of wisdom~
+A ruby-colored apple gleams temptingly.~
+unknown~
+food 0 0
+100 20 0 A 0
+20 1 10 P
+F
+A 0 0 F
+F
+A 0 0 G
+F
+A 0 0 C
+#10691
+The tree of the wise fruit~
+a fruit tree~
+A great fruit tree has thrust its green crown above the rest of the orchard.~
+unknown~
+container 0 P
+50 0 0 10 0
+20 1000 0 P
+E
+tree~
+This huge tree is the largest in the orchard and probably the oldest. 
+Though ancient, its interwoven branches are thick and vital, holding the
+weight of a lightning-blue sky above the earth.  For a fruit tree, it's
+quite tall--a true oddity.  
+~
+#10692
+gala apples~
+some gala apples~
+20~
+unknown~
+food 0 A
+40 5 0 0 0
+0 0 0 P
+#10693
+green apples~
+a peck of green apples~
+A peck of green apples looks very crispy and tart.~
+unknown~
+pill 0 A
+30 'shield' 'armor' 'reserved' 'reserved'
+23 5 30 P
+#10694
+Vial of Rosameri Oil~
+a vial of rosameri oil~
+A vial of holy oil lies in the dust.~
+unknown~
+potion G AO
+30 'protection evil' 'bless' 'sanctuary' 'reserved'
+30 1 100 P
+#10695
+blackened skull~
+a blackened skull~
+A blackened skull grins madly at you.~
+unknown~
+staff 0 AO
+30 3 3 'resurrect' 0
+29 0 0 P
+#0
+
+
+
+#ROOMS
+#10600
+Shaded Path~
+A worn path runs south through the thick forest, whose boughs tangle
+overhead in a canopy of mosaic greens.  The light that filters through onto
+the surface of the dirt and pebble footpath is a kaleidoscopic wonder of
+emerald, peridot, jade, and malachite dapples that shift in the winds. 
+Flowers of all colors poke their faces through verdant undergrowth,
+brilliant gems belonging to all seasons.  You feel a sensation of quiet
+serenity, hearing birdsong and the cries of wildlife that indicate peace. 
+The chuckle of water running through stone drifts to your ears from further
+south on the trail, tempting you onward.  
+~
+0 1024 3
+0
+D2
+~
+~
+0 0 10601
+S
+#10601
+Shaded Path~
+The path continues south, and branches off slightly to the west, where
+you can see the silver shine of water flowing from a deep spring.  A fresh
+breeze dances through the leaves, carrying the scents of fruit tree blossoms
+and earthy loam.  Although the light is dim, the forest does not feel
+forbidding or unwelcoming.  Huge tree trunks testify the great age of this
+peaceful forest, their knotted roots stretching deep into the stony core.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 10600
+D2
+~
+~
+0 0 10602
+D3
+~
+~
+0 0 10616
+S
+#10602
+Shaded Path~
+North and south the trail runs between the trees, winding through the
+deep forest.  East, a fallen tree blocks the trail, though west the way is
+clear.  Creepers twine around the thick branches of deciduous hardwoods,
+their snake-like ends forming curtains where they have run rampant.  From
+the northwest comes the laughter of running water, a merry sound that
+mingles with animal calls from deeper in the forest.  
+~
+0 0 3
+0
+E
+tree~
+It looks as if this tree fell victim to the delicate attentions of a
+large bear.  Huge gashes were ripped out of the trunk and most of the bark
+was rubbed off.  Most of it has disintigrated, but still it stands to block
+your way.  
+~
+D0
+~
+~
+0 0 10601
+D1
+~
+~
+0 0 10603
+D2
+~
+~
+0 0 10605
+S
+#10603
+Shaded Path~
+This little trail runs west back to the main trail and on eastward, where
+you can hear yips and soft growls.  Some bluebells shine bold sapphire at
+the base of a tall maple, swaying gently.  A tiny spring, too small to even
+sip from, gurgles up from a cluster of rocks and runs away into the ground
+again.  
+~
+0 0 3
+0
+D1
+~
+~
+0 0 10604
+D3
+~
+~
+0 0 10602
+S
+#10604
+Den of a Lone Wolf~
+A low cave has been formed here by the tumbling of rough white boulders. 
+Its interior is dark but it stretches back and down, probably dug out by not
+only past residents but the current ones as well.  Its top has been
+camoflaged by growths of ferns and moss and grass that took advantage of the
+relative sun allowed by the absence of trees overhead; that selfsame sun
+warms the lounging furry bodies around you that barely prick their ears at
+your presence.  
+~
+0 0 3
+0
+D3
+~
+~
+0 0 10603
+S
+#10605
+Shaded Path~
+The path stretches on under the shade of ancient limbs and luscious
+greenery.  The flora blooming beneath the strong branches is that of all
+seasons; the crocus of spring flowers beside summer violets and autumn
+dragonhead.  From the south, you feel a warm tingle on your spine- a
+blessing and a promise of holy magic.  South on the path there is also an
+intersection that splits two ways.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 10602
+D2
+~
+~
+0 0 10606
+S
+#10606
+A Fork in the Path~
+West of this fork in the path you can see through the trees a sunlit
+clearing; east, a smaller path twines through an even darker portion of the
+forest, where little light pierces through the canopy.  The path also
+returns north.  Here the feeling of magic has grown much stronger; it is
+almost palpable in the east.  A small wooden sign has been hung on one of
+the branches, its carved script rough and almost archaic.  
+~
+0 0 3
+0
+E
+sign~
+Old and cracked, this sign has probably hung here for three Ages.
+The carved and rubbed out symbols indicate:
+ 
+West- Temple of Zhylla
+~
+D0
+~
+~
+0 0 10605
+D1
+~
+~
+0 0 10607
+D3
+~
+~
+0 0 10611
+S
+#10607
+Dark Forest~
+This tiny, dark trail winds through the forest like the curve in a great
+wyrm's spine.  Here, only tiny shafts of light can find their way through
+the dense leaves and branches above; it is almost impossible to see without
+a light.  The trees here are so close together that your shoulders can
+barely fit between them; the bark occasionally scores your arms and face. 
+The smell of decaying leaves is cloying and sticks to the back of your
+throat.  Giant ferns sway in your passing and sticks crack beneath your feet
+as you continue onward.  
+~
+0 1 3
+0
+D2
+~
+~
+0 0 10608
+D3
+~
+~
+0 0 10606
+S
+#10608
+Dark Forest~
+East a small clearing has long been hewn from the trees; the light stings
+your eyes as it lances through the spaces between the trees.  North the
+darkness thickens, but north is also the way out of the clausterphobic
+tightness.  The earth beneath your feet is springy from layers of rotting
+leaves; fern fronds sway in a slight breeze from the south.  
+~
+0 1 3
+0
+D0
+~
+~
+0 0 10607
+D1
+~
+~
+0 0 10609
+S
+#10609
+Lone Altar~
+The small clearing you emerge into is barely twenty paces across but
+allows you a sense of space.  Here you can finally see the sky above and the
+whole area is bathed in light; it is a definite relief from the cloistering
+atmosphere beneath the trees.  Short sweetgrass brushes your boots as you
+walk, the spicy scent of its crushed blades tickling your nose.  This area
+is obviously quite special and must be sacred; around the circumference,
+twelve tall bluestones have been arranged.  Even the air has a slight
+glimmer to it, and you can feel the magic in your lungs as you breathe.  
+~
+0 0 3
+0
+E
+bluestones~
+The bluestones give off an aura of electricity, as if touching them would
+shock you.  You feel their crackling energy by being within only a few yards
+of them; perhaps touching them wouldn't be a sound idea.  The twelve of them
+are arranged in a circle, like the twelve moon cycles of the year.  Their
+hard dusty blue surfaces glint here and there with the inclusion of mica
+chips.  
+~
+D2
+~
+~
+0 0 10610
+D3
+~
+~
+0 0 10608
+S
+#10610
+Deep Forest~
+Past this point there is no hope of making any further progress- you can
+only go back the way you came.  Here the trees are so thick that they seem
+to close about you and threaten to swallow you up and offer you to whatever
+god has blessed this place.  You can hear growls and whistles and clicks
+deeper within the primeval forest beyond, and the rustle of leaves and
+branches.  You think you hear the padding of feet, but you cannot be sure.  
+~
+0 1 3
+0
+D0
+~
+~
+0 0 10609
+S
+#10611
+Bright Clearing~
+You step into the clearing with a sense of relief as golden sunlight
+bathes you in its glow.  The grasses here are high around the dirt path,
+light green stems waving idly as the wind bends them thither.  South the
+little dirt path splits through the grass, and you think you can just make
+out the tops of white columns.  The path also stretches east and west,
+returning to the forest.  
+~
+0 0 3
+0
+D1
+~
+~
+0 0 10606
+D2
+~
+~
+0 0 10613
+D3
+~
+~
+0 0 10612
+S
+#10612
+Quiet Path~
+This trail is almost unnaturally silent, but you can sense no malevolence
+to make it so.  Even the birds' cries are muffled, and the sound of wind
+through the leaves is nonexistant, though you see plants sway.  You idly
+kick a small white stone; it bounces off silently, leaving a silver glimmer
+in its wake.  
+~
+0 0 3
+0
+D1
+~
+~
+0 0 10611
+D3
+~
+~
+0 0 10624
+S
+#10613
+Bright Clearing~
+Green grasses wave in the gentle wind, bowing this way and that.  A few
+lavender and white flowers peer up from the grasses, and sweetpeas twine
+around clumps to show their bright faces to the sun.  You can see the tops
+of gleaming white colomns to the south, brilliant in the light.  However,
+most of the view is blocked by the thick stand of grass, making it almost
+impossible to see beyond the next few steps in the grass.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 10611
+D2
+~
+~
+0 0 10614
+S
+#10614
+Gleaming Columns~
+The grasses have been totally cleared, leaving only a wide dusty area
+bordered by trees.  Tall white stone columns lance up from the ground,
+seemingly carved from boulders whose roots reach deep into the earth. 
+Perhaps it isn't quite correct to label them as columns; they narrow as they
+reach upward and flare outward into delicate rays, possibly even meant to be
+flowers if viewed from above.  Just south of you is a broad white staircase
+that leads into the welcoming confines of what seems to be a temple made of
+the same rock prevalent throughout this forest.  
+~
+0 0 3
+0
+E
+columns~
+The huge white columns reach above your head, holding up the sky.  The
+higher they reach the more narrow they become, carved as such to look as if
+they are taller than they really are.  The stone is the white native rock
+you have seen throughout the forest, faintly marbled with light touches of
+pearly gray.  Rays lance out from above, making strange lotus-like blossoms
+on the top.  
+~
+D0
+~
+~
+0 0 10613
+D2
+~
+~
+0 0 10615
+S
+#10615
+Stairway to Heaven~
+Broad white steps ascend into a comfortable foyer that is open to the
+elements.  Within the open-air enterance, wrought iron braziers hold steady
+green flames unaffected by wind and rain.  Yo.  Green flames that are
+unaffected by wind and rain.  To the south, a large archway leads directly
+into the heart of this temple, the Temple of Zhylla, Goddess of the
+Woodlands.  North you can see the six white pillars soaring into the bright
+skies, and you can see the dark green trees of the forest.  
+~
+0 0 0
+0
+E
+braziers~
+Green fire dances within the braziers, releasing no heat and making no
+sound as they burn the air, crackling silently.  If you look close enough,
+you think you can make out a winged humanoid form within.  
+~
+D0
+~
+~
+0 0 10614
+D2
+~
+~
+0 0 10630
+S
+#10616
+Shining Stream~
+Clear water gushes from a crack in a clump of white stones whose surfaces
+are mottled with moss and tiny white flowers.  It pours over round white
+riverstones, whose pebbled banks your feet crunch across.  Younger trees
+surround this river, flourishing in the light shining down onto the waters. 
+Reflections are scattered by the vibrant motions of water racing over and
+around stones, though here and there deeper parts of the water allow you to
+glimpse images of yourself only mildly distorted by the current.  In those
+places the silvery sides of minnows flash and gleam, and arthropods and
+newts hide beneath rocks.  
+~
+0 0 3
+0
+D1
+~
+~
+0 0 10601
+D3
+~
+~
+0 0 10617
+S
+#10617
+Shining Stream~
+Here the water's surface is calm and flat; sunlight glances off of it,
+contrasting with the shadows of leaves to create a misleading estimation of
+its true depth.  Small fish scatter as your own shadow passes over the
+stream, causing tiny ripples in the surface that warp your reflection into a
+surreal portrait.  
+~
+0 0 3
+0
+D1
+~
+~
+0 0 10616
+D2
+~
+~
+0 0 10618
+S
+#10618
+Shining Stream~
+The current has quickened here and depth is less; strands of grasses on
+the stream's narrow banks are twisted and braided playfully by the water as
+it rushes south to its final destination.  The shade provided by the trees
+overhead is pleasant, but the sunlight that peers through them is warm and
+far more welcome.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 10617
+D3
+~
+~
+0 0 10619
+S
+#10619
+Shining Stream~
+Now the stream courses recklessly through the forest, jostling over rocks
+and even carrying pebbles in its current.  White foam forms around rocks
+that jut from the water and swirls away again, creating random patterns of
+frothy lace.  The stream continues east and west, winding snake-like around
+on its course beneath the boughs.  
+~
+0 0 3
+0
+D1
+~
+~
+0 0 10618
+D3
+~
+~
+0 0 10620
+S
+#10620
+Shining Stream~
+The stream turns sharply south here, widening a little in its arc as it
+tumbles through.  The foam here is thicker as the water races far faster
+than before, carrying sticks and leaves along in the insatiable current.  A
+few other small streams have joined, strengthening the water's force. 
+Dragonflies dance giddily in the air, flashing gems of sapphire, emerald,
+and amethyst as they zip and hover around, occasionally alighting on you and
+shooting away just as quickly.  
+~
+0 0 3
+0
+D1
+~
+~
+0 0 10619
+D2
+~
+~
+0 0 10621
+S
+#10621
+Shining Stream~
+A small footbridge crosses the stream to the south.  Here the banks have
+risen sharply, forcing you to wade into the sharply cold water.  The water
+seeps into your boots, numbing your toes.  Tree branches lace over your
+head, once more blocking out the warm sunlight and splashing green onto the
+water you walk in.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 10620
+D2
+~
+~
+0 0 10622
+S
+#10622
+A Bridge Over the Stream~
+Half of a wide log has been laid over the stream, its rough hewn surface
+providing an unsteady bridge only slightly stabilized by a hand-railing
+tacked on to one side.  The stream rushes on beneath you, merrily oblivious.
+East and west the calm path continues, beneath the green leaves.  West is a
+patch of brilliant red firestalks, their sharp blossoms bright against the
+dark shades of brown and black.  
+~
+0 0 3
+0
+E
+bridge~
+This bridge looks rather unstable and slick, with the handrailing made of
+branches added on only as an afterthought.  The only anchor it has are a few
+stone blocks on either side that keep it from rolling precariously.  It is
+only a few handspans above the rushing water, making you wonder why they
+bothered building it at all.  The bridge itself was fashioned of a huge log
+cut in half and laid with the "flat" side upright.  
+~
+D0
+~
+~
+0 0 10621
+D1
+~
+~
+0 0 10624
+D2
+~
+~
+0 0 10623
+D3
+~
+~
+0 0 10625
+S
+#10623
+Shining Stream~
+Here the stream dives over a steep waterfall, cascading down a series of
+white stone ledges into a deep blue pool below.  You can't be sure, but
+there seems to be a cave below the largest of the ledges.  A few trees lean
+over the ridge, their hold precarious but advantageous over their brothers. 
+The wet moss makes it too slick to go further, though a gold gleam far
+beneath you beckons temptingly.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 10622
+S
+#10624
+Quiet Path~
+The silence of the trail is only interrupted by the splash of water from
+a creek to the west; there you can see a primitive bridge spanning its
+sides, to prevent any traveller from needing to wet their feet.  A few
+Solomon's Seals bob, their down-hanging blossoms fluttering against the
+feathery fronds of Yule ferns.  
+~
+0 0 3
+0
+D1
+~
+~
+0 0 10612
+D3
+~
+~
+0 0 10622
+S
+#10625
+Quiet Path~
+A large tree fell across this path long ago, knocking down others in the
+process.  It created a small cleaning where the sun could shine, allowing
+other saplings to take root.  Large wildflowers also took root, spreading
+their leaves and bright blossoms into the blessings of the sun, drinking in
+the light and water that was allowed to fall to them instead of being stolen
+by the huge trees.  Tall, spearlike flowers called "firestalks" bloom here
+with buds as red as flame.  
+~
+0 0 3
+0
+E
+firestalk~
+Vibrant red-orange buds sway gently beneath the trees, varying in height
+from waist to head.  The burning plumes are eye-drawing and remind you of
+the color of sunsets and hunter moons; their stunning brilliance almost
+outshines the marvellous creature that has made its home between them.  
+~
+E
+tree~
+The fallen tree was once a mammoth but is now half-rotten and host to all
+kinds of flora and fauna.  The middle caved in and you can see that it has
+become hollow, perhaps by an animal or merely the forces of nature.  
+~
+D1
+~
+~
+0 0 10622
+D3
+~
+~
+0 0 10626
+S
+#10626
+Quiet Path~
+West of here you can see a blot of light yellow obscured by the tree
+trunks.  A well-worn path also leads north.  You can still hear the faint
+sounds of the water through the path's strange stillness, as curious as that
+is.  The tingle of magic courses up and down your spine, causing the hairs
+on the back of your neck to tingle.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 10628
+D1
+~
+~
+0 0 10625
+D3
+~
+~
+0 0 10627
+S
+#10627
+Silent Altar~
+Beneath the tightly woven tree boughs are twelve bluestones arranged in a
+circle.  Their surfaces are cold to the touch, and as you pass their
+boundaries, you feel a cold chill bite at your flesh.  The bare earth is
+covered in dark green vines whose leaves give off a faintly peppery scent;
+here and there, the vines are dotted with small magenta berries that are
+probably poisonous.  Behind every fourth stone there stands a huge live oak,
+its deeply colored leaves preventing most of the sunlight from reaching the
+ground.  
+~
+0 0 3
+0
+E
+bluestones~
+These twelve boulders are like natural pillars or dulled claws reaching
+out of the earth.  The air around them is cold and they themselves feel as
+if flesh would freeze to them.  They are set equally apart in a large
+circle, just like one of the faery circles of legend.  
+~
+E
+oak~
+Twisted branches twine around each other tightly like huge snakes, so
+entangled that it would be impossible to seperate them.  These great oaks
+must be at least a hundred years old.  Each oak stands behind a bluestone,
+leaving three in all for this tiny grove in the forest.  
+~
+D1
+~
+~
+0 0 10626
+S
+#10628
+Worn Path~
+This oft-tred path is easier on the feet than the previous ones; no
+stones to bite through the soles of your boots, and it is flat enough to
+write upon.  Maples and elms seem to dominate this portion of the forest,
+their branches creaking occasionally.  It seems that here the preturnatural
+silence no longer exists, and that is comforting.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 10629
+D2
+~
+~
+0 0 10626
+S
+#10629
+Hallow Hermit~
+You can't be sure how you missed seeing this marvellous structure from
+the path, but you've an inkling that it had to do with the magic of the
+forest, the enchantments of an elemental.  This hideaway has been carved
+from the trunk of an unbelieveably huge living tree; and although it is
+small, you have every assurance from its inhabitant that it is quite
+comfortable.  The interior has been lovingly smoothed and coated with a
+preservant that sealed out bugs and moisture; the dirt floor is hard packed
+like stone.  Shelves line the walls, carefully bracketed to cause the least
+harm to the trees.  They are covered in strange relics and bones, as well as
+stone and birch containers of liquids and powdered concoctions.  
+~
+0 8 0
+0
+E
+shelves~
+The bleached forms of bones and feathers dangle from the wooden shelves
+like strange Yule ornaments.  Little silver bells and bits of grass clink
+together like wind chimes, tied to little bits of twine.  Some smooth
+polished rocks hold up a brief collection of books so old and abused that
+you can't read the covers.  Stone containers of powdered herbs also take up
+a large potion of the shelf space, and so does drying lavender and yew.  
+~
+D2
+~
+~
+0 0 10628
+S
+#10630
+Entry~
+The archway you have stepped into is just long enough to be considered a
+tunnel.  The white stone is carved into hundreds of intricate images and
+designs that depict Zhylla's reign as a goddess and her champions, as well
+as the denizens of the woodlands she protects.  Inlaid into the stone is
+soft antler ivory, fragrant red cedar, and dark mahogany, all softly
+polished to gleam like gems in the daylight.  Scents of apple-like incense
+drift into your nose and pull at you to go south, deeper into the temple.  
+~
+0 8 0
+0
+D0
+~
+~
+0 0 10615
+D2
+~
+~
+1 0 10631
+S
+#10631
+Aisle~
+Stepping into the church, you enter first into the area for open worship
+for those not of Zhylla's clergy.  Wooden pews line up to either side of
+you, some with farmers and woodcutters dozing, others with elven rangers
+murmering prayers.  Beyond the pews to the east and west you can see
+hallways that a few men and women walk in and out of; the pews also continue
+into the temple.  The temple is lit by cunningly placed skylights of
+transparent crystal that allow you to see the beautiful azure above.  The
+light is pure and clear, making the temple's interior glow with a natural
+magic its own.  Green vines trail along the white walls, which are inlaid
+with carved woods and soft stones.  A few trees have been planted within the
+building, their tops escaping through carefully carved holes in the roof.
+~
+0 8 0
+0
+E
+skylight~
+You see fluffy white clouds passing above you through the thick glass of
+the temple's skylights.  They have been placed in rectangles running north
+and south, lighting the white temple with strange shadows as the sun shifts.
+~
+D0
+~
+~
+1 0 10630
+D1
+~
+~
+0 0 10634
+D2
+~
+~
+0 0 10632
+D3
+~
+~
+0 0 10635
+S
+#10632
+Aisle~
+The temple smells reassuringly of wood, apples, and sage.  You can see a
+priest or two milling about the altars and the devoted, offering blessings
+and consolations.  A few acolytes scurry here and there, cleaning and
+polishing and carrying.  There are several singers standing on either side
+of the pulpit to your south, from where comes comforting, almost wordless
+hymns.  On either of your sides beyond the pews there are alcolves in the
+walls that are partially obscured by tapestries.  The plants within the
+temple make it seem as wild as the forest outside; though the vines and
+trees are well cared for, they are neither pruned nor forced to grow into
+unnatural forms.  
+~
+0 8 0
+0
+D0
+~
+~
+0 0 10631
+D1
+~
+~
+0 0 10633
+D2
+~
+~
+0 0 10637
+D3
+~
+~
+0 0 10636
+S
+#10633
+Pews~
+The pews around you have been highly polished, oiled regularly and well
+taken care of.  You can almost see your reflection in them.  This particular
+area is rather empty; only one or two worshipers whisper quiet prayers to
+the forest goddess here.  East of here, a beautifully woven silver and green
+tapestry obscures most of a passage.  A great live oak has spread its vast
+roots into the floor and its huge branches into the sky, its form symbolic
+for the mirror realities between this world and the world beyond.  
+~
+0 8 0
+0
+E
+oak~
+This vast oak stretches its boughs up and out, sheltering the temple and
+cradling the sky.  If what you know of trees is true, the roots match the
+branches- making this a tree that runs beneath half of the temple.  
+~
+E
+tapestry~
+A plush silver and green tapestry covers part of a hallway that leads
+east.  The weaving is a testament to someone's skill; you can barely
+determine the warp and weave over the breath-taking pattern of a stag
+battling a great serpent.  
+~
+D0
+~
+~
+0 0 10634
+D1
+~
+~
+0 0 10642
+D2
+~
+~
+0 0 10659
+D3
+~
+~
+0 0 10632
+S
+#10634
+Pews~
+Here the church is quite silent; you can barely even hear the light
+voices of the singing choir.  The pews gleam magnificently in the light, a
+testament to the devoted care of the acolytes.  You seem to be the only one
+in this little section.  It looks as if there is no set pattern to the
+worship times- this goddess's children come and go to praise her as they
+please.  A particularly large vine along the wall has bloomed, its vivid
+blue flower contrasted by small white-veined leaves that almost completely
+obscure the wall.  Its perfume overpowers the incense, but is not
+unpleasant.  East is a wide, open hallway that seems to lead into another
+chamber.  A few faithful carry in baskets laden with fruit and grain.  
+~
+0 8 0
+0
+D1
+~
+~
+0 0 10638
+D2
+~
+~
+0 0 10633
+D3
+~
+~
+0 0 10631
+S
+#10635
+Pews~
+Here a ranger kneels, his quiet prayer melodic and breathy.  The air here
+is cool and crisp from a breeze whispering through the archway behind you to
+the north; the feeling eases your spirits and lifts weariness and exhaustion
+from your shoulders like a ragged cloak.  A few acolytes circle around,
+polishing with spice-scented oils the tall wooden tripods that hold the odd
+green flames.  A few acolytes circle around, polishing with spice-scented
+oils the tall wooden tripods that hold the odd green lights.  A giant
+maple's roots penetrate strangely through the white stone as if it were no
+more than the forest soil outside.  Its boughs reach through the temple's
+ceiling, occasionally giving you a view of sky as winds high in the air toy
+with them.  
+~
+0 8 0
+0
+E
+maple~
+This mammoth tree is a prime example of its species, with broad green
+leaves and a straight thick trunk.  Its roots have grown through the white
+stone floor with no appearance of buckling, cracking, or erosion, as if it
+were merely reaching through ooze.  A large cut-out in the ceiling allows
+its branches to escape into the open sky, bringing in fresh air.  
+~
+D1
+~
+~
+0 0 10631
+D2
+~
+~
+0 0 10636
+D3
+~
+~
+0 0 10640
+S
+#10636
+Pews~
+These pews are some what more worn; no wonder, as this area has more
+people kneeling or even sleeping, strange as that is.  You would think that
+these wooden benches would be quite uncomfortable, but these secular folks
+prove otherwise.  To the west, a blue and gold tapestry conceals a shadowed
+passage; south, you can see more of the choir.  Bold green vines have spun
+up this wall, with huge emerald leaves and tiny hidden flowers the shape of
+stars.  
+~
+0 8 0
+0
+E
+tapestry~
+A thick blue and gold tapestry hangs partly over an alcove, hiding a
+small passageway.  The pattern itself is of a stream falling over rocks,
+with a turtle and several fish, as well as several iridescent dragonflies.  
+~
+E
+tapestry~
+~
+E
+pews~
+The thick lacquer of the pew has been rubbed down to the seasoned wood by
+wear and tear.  Someone doodled little birds on the back of the pew in front
+of you, as well as the words "Akmaro is a tree-hugger!"  
+~
+D0
+~
+~
+0 0 10635
+D1
+~
+~
+0 0 10632
+D2
+~
+~
+0 0 10660
+D3
+~
+~
+0 0 10649
+S
+#10637
+Pulpit~
+You mount a few green-carpeted steps to the pulpit, which is a
+stomach-high wooden stand covered in a green linen sheet embroidered with
+silver trees.  To either side of you, singers stand on elevated platforms,
+murmering the soothing hymns of Zhylla's temple.  In the southern wall there
+is a passage framed by two oaks and blue and green curtains; above you, the
+temple's high-domed ceiling has become nothing but a bubble of crystal-clear
+glass.  
+~
+0 8 0
+0
+D0
+~
+~
+0 0 10632
+D2
+~
+~
+1 0 10661
+S
+#10638
+Gift of the First Fruits~
+This hallway is really a stone lined path into the forest.  White stone
+arches cover the path at equal intervals, providing a sort of lattice work
+frame for trees and thick vines to twist around, making walls of living
+green.  The air smells of dark loam and honeysuckle; though not much light
+can penetrate the thick cover, you have no trouble seeing the chamber to the
+east, nor the temple to the west.  
+~
+0 8 0
+0
+D1
+~
+~
+0 0 10639
+D3
+~
+~
+0 0 10634
+S
+#10639
+Sacrificial Altar of the Lamb~
+Once more you are indoors, although this is more like a greenhouse than
+anything else.  Here the devoted of Zhylla leave their offerings- fruits,
+grains, herbs, eggs, and other foodstuffs, as well as beautifully carved
+statues of wood and stone, and baskets and weavings.  Acolytes scurry in and
+out, carrying offerings to gods only know where.  Others leave baskets and
+sheaves of things, saying a quiet few words in thankfulness or supplication,
+and then disappearing.  In each of the cardinal directions a vine has
+started along the wall, forming a lattice work that becomes more intricate
+as it reaches the domed ceiling, with multicolored flowers and deceptively
+simple leaves creating a fresco of natural wonder.  
+~
+0 8 0
+0
+D3
+~
+~
+0 0 10638
+S
+#10640
+Hall of the Unblemished~
+This hallway is little more than a path paved with white stones into the
+outdoors.  White stone archways have been built at even intervals, woven
+through like a lattice with vines and trees.  Wildflowers of yellow, pink,
+and violet bloom along the path, in the cracks between stones which you
+think may have been purposeful.  Here there is a cool, comforting breeze,
+crisp and clear.  West it seems there is a seperately built chamber; east,
+you can reenter the temple proper.  
+~
+0 8 0
+0
+D1
+~
+~
+0 0 10635
+D3
+~
+~
+0 0 10641
+S
+#10641
+Basin of True Cleansing~
+This chamber is detached from the whole of the temple, although except
+for the entrance, it is enclosed.  The inner walls are carved with
+painstaking designs of all the living plants and animals of the forests. 
+The pictures must be one of the wonders of Mindor; there is no way anything
+now living could have done such exquisite work.  In the center of the room
+is sunk a wide, deep basin; the stone is dark gray where dry, but a soft
+black where wet.  A bronze grate lies in the bottom, opened and closed by
+two slim chains that reach to hooks on the walls.  If one pulls the northern
+chain, the grate would open; if one pulled the southern, it would close.  A
+clever device.  
+~
+0 8 0
+0
+D1
+~
+~
+0 0 10640
+S
+#10642
+White Halls~
+The green and silver tapestry that concealed this entryway was quite soft
+to the touch.  This hallway is wide and well-lit by the wall sconces and
+their magical flames.  Carvings adorn the white walls, telling the tales of
+Zhylla in word and picture that were lovingly carved by some devoted
+artisan.  Vines decorate the walls like living curtains, and fruit-bearing
+plants peer out of tiny niches, offering you the sweetness of the rich
+earth.  South of here is a carved door; east, the hall continues, and west
+is back to the pews.  
+~
+0 8 0
+0
+D1
+~
+~
+0 0 10644
+D2
+The southern door was carved in the image of a dancing naiad with lapis
+lazuli hair and rose quartz eyes.  Her amethyst smile is enigmatic and her
+expression joyful and forgiving.  
+~
+~
+0 0 10643
+D3
+~
+~
+0 0 10633
+S
+#10643
+Confessional~
+As you step into the chamber you see that this is indeed the temple's
+confessional, where devotees come to lay bare their sins against their
+goddess.  The room is soothing, with a floor of soft moss and a small stream
+burbling over round gray stones.  A large boulder seems to serve as a seat;
+dividing the domed room in half is a delicately woven sheet of thin living
+vines that barely even reveals the silhouette of the one behind it.  On this
+half of the room, you can see three windows in the curved ceiling that allow
+light to pour through.  
+~
+0 1049608 0
+0
+E
+stream~
+A tiny stream gurgles up from a crack in the southern wall, skipping over
+rocks black and shiny with wetness.  Tiny white flowers have grown to one
+side, and a large fern trails its fronds in the water.  
+~
+E
+boulder~
+Large and gray, the boulder rests in the partially moss-covered stone
+floor, looking as if it had been deliberately placed.  The bottom is etched
+with runes you cannot understand, but brushing your finger across them, they
+gleam with azure and turquoise.  
+ 
+"{BMo{Cr{bs {cP{Cr{Bi{wn{cc{Bip{Ci{bum {BE{Cs{ct{x"
+~
+D0
+~
+~
+0 0 10642
+S
+#10644
+White Halls~
+Vines curtain the carved walls, allowing peeks of carved white stone and
+lace-like script between thick green ropes and leaves.  A swath of white
+flowers has bloomed here, creating a delicate foamy carpet.  A large table
+of script tells the story of Zhylla's children, who spread the seeds of the
+living plants throughout the world.  A carved door blocks the entrance to a
+southern room; east is the end of the hallway, and west is back to the
+corridor's opening.  
+~
+0 8 0
+0
+D1
+~
+~
+0 0 10646
+D2
+~
+~
+1 0 10645
+D3
+~
+~
+0 0 10642
+S
+#10645
+Priest Chambers~
+It seems that whoever lives within this room is absent.  However, it has
+a definite female touch about it.  The bed is comfortable and fairly plain,
+though the thick quilt has roses embroidered across it and the bedposts are
+flowerbuds.  A scarlet rug covers the floor, and a small wooden wardrobe
+holds the priestess's vestments.  Beneath the window stands a red marble
+sculpture of Zhylla, and at the foot of the bed is a dark oak chest.  Near
+the door there is a clean desk.  
+~
+0 8 0
+0
+E
+rug~
+This rug is deep and plush, and you sink about three inches when you step
+on it.  The color is as bright as red wine and richer than freshly-spilled
+blood.  
+~
+E
+sculpture~
+The red marble is veined profusely with amber and violet, as well as
+spotted with milky quartz.  Skillfully made, the sculptor took pains to make
+the likeness as perfect as possible; perhaps he or she was touched by the
+goddess.  
+~
+D0
+~
+~
+1 0 10644
+S
+#10646
+White Halls~
+Two small trees frame an intricately carved door to the east, shadowing
+it with willow-like branches of small, frothy leaves that cascade to the
+floor.  Blue-eyed grasses have sprung up in the floor, their bright colors
+adding to the wild beauty of the temple.  South of you is another door, and
+west is the way back to the temple proper. 
+~
+0 8 0
+0
+E
+east~
+This door is framed by two small (relatively speaking) trees with frothy
+jade leaves.  The door itself is made of cream-colored stone and set with
+malachite in the pattern of a huge oak.  At the base of the oak is a peacock
+inlaid with mother-of-pearl and labradorite.  
+~
+D1
+~
+~
+1 0 10648
+D2
+~
+~
+1 0 10647
+D3
+~
+~
+0 0 10644
+S
+#10647
+Priest Chambers~
+The priest in this room is definitely male.  A plush blue rug covers the
+floor, simple in weave but beautiful.  A bed lies beneath the window, piled
+with warm furs and quilts.  It seems as though celebacy is not a required
+practice of this religion; a door joins this chamber to the western one,
+though you cannot open it.  A footlocker holds many of the man's worldly
+possessions, and a tall wardrobe holds his garb.  
+~
+0 8 0
+0
+E
+door~
+The door to the west remains closed despite any measures you take to open
+it; obviously some intricate lock or mighty divine spell bars it from your
+hands.  
+~
+E
+wardrobe~
+This wardrobe was constructed of red pine; it is simple but well-made,
+with the fitting of a master carpenter.  
+~
+E
+footlocker~
+Built of some dark brown wood, the footlocker is held closed only by a
+simple iron latch.  Inside it holds some rough clothes and toys; obviously
+treasured things of childhood.  Beneath the clothes is a small note.  
+~
+E
+note~
+This note has been here a long time.  The paper is wadded and old,
+something precious with unsteady handwriting.  It reads: 
+ 
+"I love you."
+~
+E
+bed~
+It looks as if someone else has been sharing this man's blankets; he
+hasn't troubled himself to remake his bed, and there are two distinct
+impressions on its surface.  
+~
+D0
+~
+~
+1 0 10646
+S
+#10648
+High Priest's Suite~
+The High Priest's suite is a large, round chamber.  In the apex of the
+domed roof there is a skylight, allowing the sun's rays to warm the room. 
+In each of the cardinal directions a tree grows, trees not quite large
+enough to go through the roof.  A small pond bubbles in the center of the
+room, with colorful fish darting about tiny waterplants.  A folding screen
+of carved oak conceals a small plain bed and a wardrobe.  Next to the
+wardrobe is a stack of decorative boxes trimmed in gold, a gift from some
+far-off city.  Covering the floor is a hand-woven rug of faded green,
+probably some relic from childhood.  
+~
+0 8 0
+0
+E
+trees~
+The four trees are large and healthy, whispering as moving currents of
+air toy with their leaves.  {wRest a while...  In our serene surrender... 
+{x North is a white-skinned birch, and south a wide oak.  East is a red
+maple, while west you see a huge elm.  
+~
+E
+folding~
+This oak folding screen was masterfully carved into displaying a stalking
+heron among rushes; the ability that went into the piece is amazing.  
+~
+E
+screen~
+This oak folding screen was masterfully carved into displaying a stalking
+heron among rushes; the ability that went into the piece is amazing.  
+~
+E
+pond~
+Tiny blue and green gravel line the bottom of the pond, winking up at
+you.  Large round stones, gray and black, line the upper portions, gleaming
+softly in the light.  Gold, red, and white fish dart about beneath the
+surface, shyly hiding under lotus flowers and other water plants as your
+shadow crosses the water.  
+~
+D3
+~
+~
+1 0 10646
+S
+#10649
+Narrow Corridor~
+The blue and gold tapestry blocks much of the sunlight of the main
+temple, although sconces on the wall light the narrow passage with magical
+fire.  Many acolytes walk though the hall, busily cleaning and carrying, as
+well as studying devotionals as they go.  One of the skills advocated by
+this priesthood must be the ability to multitask.  To the south is a plain
+pine door; west, you can see more of these doors.  The pews are to the east.
+~
+0 8 0
+0
+E
+sconces~
+Magical green flames dance in these white stone sconces, hoving just
+above where the wood of a torch should rest.  
+~
+D1
+~
+~
+0 0 10636
+D2
+~
+~
+0 0 10650
+D3
+~
+~
+0 0 10651
+S
+#10650
+Acolyte's Room~
+The acolytes' rooms are small but not uncomfortable.  Two bunkbeds are on
+either side of the room, which has a skylight in the ceiling to allow the
+pure light of the sun and moon into the chamber.  Between the southern wall
+and the bunkbeds there are two desks with holy texts, scrolls, parchments,
+and quills scattered across them in varying degrees of organization.  In the
+southern wall there is a partially opened window.  A little bit of dirt has
+been scattered on the stone floor beneath it.  
+~
+0 8 0
+0
+E
+window~
+The ingenius device of a sliding glass window looks as if it has been
+abused.  It is halfway open, and the lower seal has been rubbed almost flat.
+Craning your head out, you see that someone has been using it to get in and
+out of the temple- for shame!  
+~
+E
+floor~
+Dirt has been scattered on the bare white floor just beneath the window.  
+~
+D0
+~
+~
+0 0 10649
+D2
+~
+~
+1 0 10655
+S
+#10651
+Narrow Corridor~
+This hall is simply adorned, with elegant and smooth carvings to the wall
+depicting the goddess and her symbols.  There is also script on the wall,
+telling of her story and her deeds.  Acolytes give you curious looks as you
+pass; they wonder why you have come into their sanctum.  It seems that not
+many come in here who haven't been ordained.  South of you is an uncarved
+pine door; the corridor ends to the west, but you can go back to the pews to
+the east.  
+~
+0 8 0
+0
+D1
+~
+~
+0 0 10649
+D2
+~
+~
+0 0 10652
+D3
+~
+~
+0 0 10653
+S
+#10652
+Acolyte's Room~
+The acolytes' chamber is neither too small nor too large.  Though
+austere, it is quite comfortable.  A home-made blue and gray rug covers the
+floor to cushion the effects of drafts; green and blue curtains hide part of
+the view of the southern window.  The skylight above you allows the pure
+light of the sun and moon of Mindor to grace the room.  Between twin
+bunkbeds and the southern wall there are two desks covered in translations
+and letters.  
+~
+0 8 0
+0
+E
+window~
+What view there is of part of an over-grown wall is blocked by wild yew
+trees.  
+~
+E
+desks~
+Piles of papers and letters cover most of the wood of these desks.  Many
+are covered in arcane divine runes, and some in scripts that look more like
+artwork than letters.  However, there are some humble communiques written in
+the common hand.  
+~
+D0
+~
+~
+0 0 10651
+S
+#10653
+Narrow Corridor~
+The southern door is open, giving you a good peek into that room.  The
+wall sconces here are quite a bit brighter, to compensate for the lack of
+natural light.  Here the carvings of the goddess speak of her past
+champions, their spiralling script drawing your eyes across the story like
+string.  A few flowers bloomed in wall niches, smiling at you like pixies. 
+The hallway ends here; the only way out is east.  
+~
+0 8 0
+0
+D1
+~
+~
+0 0 10651
+D2
+~
+~
+0 0 10654
+S
+#10654
+Linen Storage~
+This is a rather large linen closet.  It contains the sacred raiments,
+tapestries, spreads, and tabards of the temple and its vestments.  The
+closet also holds stacks of white and green acolyte robes and stoles,
+towels, sheets, blankets, quilts, and so forth.  The shelves are thick and
+made of wood; the way they melt into the wall, you have an inkling that they
+may be of living matter.  
+~
+0 8 0
+0
+E
+shelves~
+These things are burgeoning with sheets and towels and napkins and all
+the trappings of linen-housekeeping.  You see embroidered pieces and quilted
+ones, as well as patched and stained pieces- even a shelf solely devoted to
+rags.  
+~
+D0
+~
+~
+0 0 10653
+S
+#10655
+Secret Yew's Passage~
+The escape from the acolyte's room was a little tight, but you have made
+it into a secret path hidden by the branches of yew trees.  It seems the
+little tunnel created by the spicy-scented tree is oft used, for there is a
+clearly visible path between the closely planted trunks.  You can go back
+through the acolyte's window in the north, or continue to the trail's end to
+the west.  
+~
+0 0 3
+0
+D0
+~
+~
+1 0 10650
+D3
+~
+~
+0 0 10656
+S
+#10656
+Secret Yew's Passage~
+You wonder how long this trail has been in use, for the trunks of the old
+yews have been polished to a sheen from the rubbing contact of the acolytes'
+furtive romps.  The trail continues west, or you can go back east into the
+acolyte chambers.  
+~
+0 0 3
+0
+D1
+~
+~
+0 0 10655
+D3
+~
+~
+0 0 10657
+S
+#10657
+Secret Yew's Passage~
+A white ribbon has been tied to the stump of a branch here; you can hear
+laughter and gasps from the east, joyous giggling and comments just under
+the level of coherence in your ears.  The trail widens a bit, and you can
+make out a clearing.  Return east to the chambers, or continue west and see
+what happens.  
+~
+0 0 3
+0
+D1
+~
+~
+0 0 10656
+D3
+~
+~
+0 0 10658
+S
+#10658
+Lover's Tryst~
+It seems you have interrupted a rendezvous in progress.  This tiny gap in
+the forest is perfect for secret affairs; the yews are so dense around it
+that no one would ever guess such a clearing existed.  A tiny spring has
+collected into a grotto pool that allows the lovers to swim and play; the
+grass is soft and sweet, and the sun is warm and welcoming.  
+~
+0 0 3
+0
+E
+pool~
+You can see your reflection!
+~
+D1
+~
+~
+0 0 10657
+S
+#10659
+Choral~
+Here on an elevated platform sing several choral members.  It seems
+several of them either were or are acolytes.  North you return to the pews,
+and west you can see the pulpit.  
+~
+0 8 0
+0
+D0
+~
+~
+0 0 10633
+S
+#10660
+Choral~
+Here on an elevated platform sing several choral members.  It seems
+several of them either were or are acolytes.  North you return to the pews,
+and east you can see the pulpit.  
+~
+0 8 0
+0
+D0
+~
+~
+0 0 10636
+S
+#10661
+Place of Repentants~
+This narrow hall connects the temple's worship area with its library. 
+There is a sconce on either side of the wall to light your way.  The walls
+and floor of the passage are smooth and slick to the touch, like ice.  South
+you enter the library, while north you return to the temple's pulpit.  
+~
+0 8 0
+0
+D0
+~
+~
+1 0 10637
+D2
+~
+~
+0 0 10662
+S
+#10662
+Great Library~
+Walking into the library, you are overwhelmed by the sheer array of
+books.  Pure white flames burn in magical sconces, for no one would dare
+take true flame nor candle in here, where the smoke could damage precious
+texts.  The white floor is covered in a blue carpet, and thick vines form
+supports for desks and cushioned chairs.  Acolytes work side by side at
+translations with hooded monks and priests, pouring over thick tomes and
+ancient scrolls at the tables in the center of the library.  Everything is
+neat and orderly, so any book can be found exactly where it should be.  
+~
+0 8 0
+0
+D0
+~
+~
+0 0 10661
+D1
+~
+~
+0 0 10663
+D2
+~
+~
+0 0 10665
+D3
+~
+~
+0 0 10667
+S
+#10663
+Great Library~
+These books are the dry dust of history.  Battle lore, speeches, figures,
+death lists, and dictionaries of arms fill these shelves, as well as
+politics, massacres, grand sacrifices, and dreams.  Not many seem to come
+here, but at the east wall the carpet has been flattened.  A vine has crept
+up the side of the bookcase, tickling you with soft leaves.  
+~
+0 8 0
+0
+D1
+~
+~
+1 0 10668
+D2
+~
+~
+0 0 10664
+D3
+~
+~
+0 0 10662
+S
+#10664
+Great Library~
+Between the bookcases you can find a wide array of tomes.  This area
+seems to be dedicated to natural life- no surprise that a fourth of Zhylla's
+library would be.  You find books of mammalian anatomy, wildflowers,
+homeopathy, herbs, fish, pressed leaves and flowers.  Sketches of wildlife
+and landscapes fill the books here, as well as beautiful illuminated texts. 
+A cool current of air brushes your ankles, coming from the south.  The
+carpet on the floor here seems quite worn; many people must have come to
+this area.  
+~
+0 8 0
+0
+D0
+~
+~
+0 0 10663
+D3
+~
+~
+0 0 10665
+S
+#10665
+Great Library~
+As you walk in the wide aisle between shelves, your eyes pass over the
+large desks covered in books, scrolls, and grimiores.  These people are
+obviously dedicated.  There is a large locked door to the south, of white
+stone with a round seal carved into at head height.  In all other
+directions, the library continues.  There is a desk to one side of the door,
+where a particularly librarian-like monk glares at you while stacking books
+left behind by non-organizationally minded acolytes.  There are no skylights
+inside of the great library for fear of the sunlight damaging brittle paper
+and parchment.  
+~
+0 8 0
+0
+D0
+~
+~
+0 0 10662
+D1
+~
+~
+0 0 10664
+D2
+~
+~
+1 0 10679
+D3
+~
+~
+0 0 10666
+S
+#10666
+Great Library~
+This section is really popular- flights of fancy, romances, adventurer's
+tales, and horror stories line the shelves.  It seems they were put here for
+the singular purpose of encouraging the young acolytes to read.  However,
+you see several monks darting furtively about here, and not all of them are
+putting books away.  East you can see the librarian glaring in your
+direction...  Stay out of his way! West a door leads out of the library and 
+into a garden; would you go out and enjoy yourself for a time?
+~
+0 8 0
+0
+D0
+~
+~
+0 0 10667
+D1
+~
+~
+0 0 10665
+D3
+~
+~
+1 0 10680
+S
+#10667
+Great Library~
+Illuminated manuscripts and repositories of religious iconography fill
+this section of the library.  A few grimoires and books of magic have also
+found their way in, summing up a neat shelf of their own.  The blue carpet
+has been rubbed down to the nub on the west wall, near where a sconce lights
+the area.  A few acolytes are putting tomes away or getting some out.  
+~
+0 8 0
+0
+D1
+~
+~
+0 0 10662
+D2
+~
+~
+0 0 10666
+D3
+~
+~
+1 0 10673
+S
+#10668
+The Hidden Ways~
+This tight passageway was obviously not made for comfort!  As you squeeze
+between rough walls, your clothes are covered in slimy green moss and algae.
+It seems the priesthood didn't want this area discovered; it would have been
+wiser not to enter.  Eastward you enter into a chamber; west, you can return
+to the library.  
+~
+0 8 0
+0
+D1
+~
+~
+0 0 10669
+D3
+~
+~
+1 0 10663
+S
+#10669
+Of Great Power~
+In this stark room, power hums like a struck harp chord.  You can feel it
+vibrating your bones and rattling in your chest, thrilling along your nerves
+in a bittersweet crescendo.  The white floor and walls are covered in runes
+only visible from the corner of your eyes.  Things of great power hang from
+racks and line the walls, some resting on shelves or hidden within bottles
+and boxes.  You want badly to satisfy your curiosity by opening one of these
+containers, but who knows what could be released if you did...?  
+~
+0 8 0
+0
+D1
+~
+~
+0 0 10670
+D2
+~
+~
+0 0 10672
+D3
+~
+~
+0 0 10668
+S
+#10670
+An Aelixer~
+Aelixers of eternal life have been promised throughout the aeons to those
+who would seek them.  However, few of them delivered upon those solemn
+oaths- many gave the surprised wishers eternal undeath or worse, an eternal
+life in a crumbling body.  Others made the drinkers or wearers into soulless
+puppets, if not killing them outright.  These accursed potions have found
+their ways into the hands of Zhylla's devoted priests, who dedicatedly
+destroy them without succumbing to their own desires for life and happiness.
+Beware to any who seek for ever in such a tiny package- will you live
+eternally in pain, or paint your name in time for all to see?  
+~
+0 8 0
+0
+D2
+~
+~
+0 0 10671
+D3
+~
+~
+0 0 10669
+S
+#10671
+All That Glitters~
+All that glitters is not gold, and all that is precious does not shine. 
+Jewels and gold encrusted swords, shields, and mirrors lie ready to entrap
+those who adore them in a gilded cage, a reminder of the stories of the
+pitiable Narcissus and his admirer, Echo.  These items have captured the
+souls of would-be owners for centuries, draining their lives and cursing
+them to commit murder, steal, betray, and die for naught.  You shudder,
+feeling their oily taint, but their beauty causes your eyes and hands to
+linger.  
+~
+0 8 0
+0
+D0
+~
+~
+0 0 10670
+D3
+~
+~
+0 0 10672
+S
+#10672
+To a Cold Dungeon~
+A cold draft rises around your ankles, a kiss of lifeless damp air that
+promises decay and loneliness.  This must be where they take the horribly
+powerful items- down into a grave that will drain the energy away into
+nothingness once again.  The dark gray-stone lined hole in the ground is a
+staircase that disappears into the bowels of the earth, chill and heavy. 
+You hope that such is never your fate- for once you have reached the
+pinnacle of a mountain, there is no other place to go but down.  
+~
+0 8 0
+0
+D0
+~
+~
+0 0 10669
+D1
+~
+~
+0 0 10671
+S
+#10673
+The Hidden Ways~
+This tight passageway was obviously not made for comfort!  As you squeeze
+between rough walls, your clothes are covered in slimy green moss and algae.
+It seems the priesthood didn't want this area discovered; it would have been
+wiser not to enter.  Westward the passage widens and the darkness lifts;
+eastward you may return to the library.  
+~
+0 8 0
+0
+D1
+~
+~
+1 0 10667
+D3
+~
+~
+0 0 10674
+S
+#10674
+To Great Power~
+The hallway widens and the amount of slime lessens until you are walking
+through a corridor smooth and dry, through which two burly trolls could walk
+shoulder to shoulder.  Windows find their way into the passage on the north
+wall, providing light.  East you can go back into the tight hall, but west
+you can feel the hum and throb of power...  
+~
+0 8 0
+0
+D1
+~
+~
+0 0 10673
+D3
+~
+~
+0 0 10675
+S
+#10675
+Of Gods and Demons~
+You step into a huge chamber filled with all manner of items of all
+descriptions and appearances.  The one thing they all have in common is an
+aura exuding power and evil; you find yourself drawn to them, desiring them.
+They have been carefully stacked and labelled, waiting for their turn of
+destruction.  It seems that not only is the priesthood of Zhylla protecting
+her sacred forest, but it is also using the library as a shield to procure
+and destroy negative artifacts.  The walls and floor are of pure white stone
+etched with holy symbols, seals, and channels to capture the evil force of
+the items and canalize it into pure white energy.  No acolytes come into
+this chamber, for the temptation to take the items and be possessed by them
+is to strong, too much of an irresistable taint.  Only the ordained and
+purified may enter here.  
+~
+0 8 0
+0
+D1
+~
+~
+0 0 10674
+D2
+~
+~
+0 0 10678
+D3
+~
+~
+0 0 10676
+S
+#10676
+The Possessed~
+Huge grimoires, sceptres, swords, and other items have been carefully
+categorized onto shelves and sealed containers, resting on silk and other
+energy-muffling devices.  Some of these have been possessed by great spirits
+and demons whose desire is to contribute to the fall of creation and to
+destroy all those living.  Others wish to live on the mortal plane, but
+could find no fleshy vessel suitable for their souls.  Glowing runes and
+sigils encircle the most powerful of these beautiful items, bedecked in
+glittering jewels and precious metals.  You feel drawn to these, as your
+darkest wants are tapped by the spirits, to help them escape, to give you
+your fondest dreams...  
+~
+0 8 0
+0
+D1
+~
+~
+0 0 10675
+D2
+~
+~
+0 0 10677
+S
+#10677
+And Haunted~
+Electric chills arc their way up your spine and into the base of your
+skull, making you shudder unwillingly.  This space is so cold that
+goosebumps rise along your arms.  Books, weapons, trinkets- all these are
+cursed items, haunted by long-dead souls who hunger to avenge themselves on
+the living out of hate and envy.  Some wish to possess and damn other bodies
+to hell; some remain out of a sadistic desire, or an inability to release
+themselves from the sorrow and pain of their former lives.  These items wait
+for exorcism.  From some you can hear moaning and humming.  
+~
+0 8 0
+0
+D0
+~
+~
+0 0 10676
+D1
+~
+~
+0 0 10678
+S
+#10678
+For a Fiery Furnace~
+Bulging from the south wall is a large clay-fronted furnace that releases
+skin-tightening heat in powerful waves.  Stacks of items surround it,
+waiting to be fed to purifying flames blessed to release the cursed spirits
+within.  Urns of ash stand to one side, waiting to be prayed over and
+released into sanctified ground, the remains of those evil things that are
+brought to this chamber.  
+~
+0 8 2
+0
+D0
+~
+~
+0 0 10675
+D3
+~
+~
+0 0 10677
+S
+#10679
+Concealed Stair~
+Sneaking past the librarian was hardly a small task.  It seems as if he
+had eyes...  Everywhere.  Now that you have, you may come to regret it. 
+This small room, with its cramped and narrow staircase, is made of gray
+stone made black by moisture you hear dripping from the ceiling and can see
+through your light running down the walls and trickling over the cracks in
+the masonry.  You may go down the staircase or head north through the hidden
+door and hope the librarian doesn't catch you.  
+~
+0 8 0
+0
+D0
+~
+~
+1 0 10665
+D5
+~
+~
+0 0 10693
+S
+#10680
+Verdant Contemplation~
+Stepping out of the rather stifling library, you take a deep breath of
+fresh air.  Aaah, the clearness- a great improvement over the stuffiness of
+the books.  You have entered a comfortable grove of oak trees, a seeming
+favorite of the clergy.  Short blue-green grass, bluets, and moss grow
+beneath the trees and on the bark, with occasional sprinkles of lavender,
+yellow, and white.  East you may return to the temple confines; west and
+south you can enjoy Zhylla's bounty.  
+~
+0 0 3
+0
+D1
+~
+~
+1 0 10666
+D2
+~
+~
+0 0 10683
+D3
+~
+~
+0 0 10681
+S
+#10681
+A Temptor's Whisper~
+A pool gurgles joyously up from some unknown source, creating a relaxing
+atmosphere.  Large mossy stones provide comfortable seats for meditators,
+dry and soft.  The air is comfortably cool here, though warm where shafts of
+sunlight reach through the fingers of the trees.  Fruit-bearing bushes and
+passionflower have been encouraged to grow here; after all, one cannot
+ponder the mysteries of the universe with a growling stomach.  A large
+outcropping of gray-veined white stone has provided the perfect place for a
+pitcher-plant to grow, its red-traced bloom reminding one that with beauty
+comes a price.  
+~
+0 0 2
+0
+D1
+~
+~
+0 0 10680
+D2
+~
+~
+0 0 10682
+S
+#10682
+The Healer's Vine~
+The earth has been cleared to form a small kitchen garden as well as a
+live herbalist's pantry.  Sheep's tongue, John's wort, nightshade, and
+foxglove have been planted here, as well as willow, for its underbark's
+pain-killing properties.  You can smell basil and sage and chives; overall,
+you can see thyme and rosemary.  You feel quite at ease here; the atmosphere
+is mellow and you find yourself dozing off.  
+~
+0 0 2
+0
+D0
+~
+~
+0 0 10681
+D1
+~
+~
+0 0 10683
+D2
+~
+~
+0 0 10686
+S
+#10683
+A Home of Green Life~
+An elaborate garden has been formed of nature's wild art.  Towering
+grasses shiver in the air, while clematis and ivy are espaliered against the
+broad trunks of elms.  Vast stone tumbles have become home to delicate
+flowers and succulents and trickle tiny springs through the garden where
+newts and salamanders and toads hide.  Bright violet monkshood proudly
+proclaims its place, while vain snake's lace lounges lissomly in social
+clusters.  South you can see a small building, while north you return to the
+garden's entrance.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 10680
+D3
+~
+~
+0 0 10682
+S
+#10684
+Harvest Grains~
+You've discovered the temple's outdoor kitchen!  Since it is far too hot
+to keep an oven inside the temple, the kitchen was put outside in the
+garden, a practical decision.  The interior is stiflingly warm and makes
+your pores weep; but the scent of baking bread and frying squash makes your
+mouth water.  You also smell freshwater fish cooking and venison roasting. 
+The clergy seems to have nothing against carnivorism.  
+~
+0 8 0
+0
+D1
+~
+~
+1 0 10685
+D3
+~
+~
+1 0 10686
+S
+#10685
+Watershed~
+Here an underground spring was dug into, creating a well and a cool
+storage area for roots, canned foods, and fruits.  The stone add-on to the
+wooden construction of the kitchen is dark and actually quite dry; you
+suspect something like magic at work in that respect.  The packed dirt floor
+is slightly uneven beneath your feet, causing strange patterns through the
+soles of your boots.  Shelves of preserved food and dried herbs meet your
+inspection.  
+~
+0 8 0
+0
+D3
+~
+~
+1 0 10684
+S
+#10686
+A Soylent Dream~
+Rows and rows of vegetables have been planted here.  You see okra,
+lettuce, greens, corn, squash...  Orange pumpkins peek their heads out at
+you from beneath huge leaves.  Aren't they supposed to ripen in autumn? 
+Mustard greens have taken over a majority of the tilled earth; obviously,
+for some unfathomable reason, they're a favorite.  Bright red and yellow
+fruits catch your attention; they've been staked up, for the fruit is too
+heavy for the bushy vine it grows on.  From the east wafts the smell of
+cooking meat and baking bread; it's enough to make your stomach growl!  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 10682
+D1
+~
+~
+1 0 10684
+D2
+~
+~
+0 0 10690
+D3
+~
+~
+0 0 10687
+S
+#10687
+Warm Pastures~
+Here you've come to a fenced in pasture where a few cows and goats are
+kept for their milk; and when guests come, their horses range this paddock
+as well.  It's comfortably warm, with a cool and clean pool for the
+livestock to drink from and dustbowls to wallow in.  A small grove of trees
+provides shade for lazy naps.  West is the stable, and east is the vegetable
+garden.  
+~
+0 0 2
+0
+D1
+~
+~
+0 0 10686
+D3
+~
+~
+0 0 10688
+S
+#10688
+A Traveller's Steed~
+This small barn-like structure houses the horses of visitors and
+messengers as well as the cows of the temple.  It's warm and dry, and
+comparatively clean thanks to the efforts of acolytes.  The sharp scent of
+livestock still makes your nose cringe, though.  Thick layers of straw have
+been placed over the dirt, periodically replaced to keep parasites from
+becoming a difficulty.  East you can return to the paddock.  
+~
+0 8 0
+0
+D1
+~
+~
+0 0 10687
+S
+#10689
+A Bountiful Larder~
+Butter, cheese, milk, and eggs are cradled carefully by woven rush
+baskets.  Steaming loaves of bread are wrapped in cloth, and bowls of
+filling cool to be placed into pies.  This is where the best of the kitchen
+work is done- after all, who wants to be stuck in the ovens?  North are
+those very same ovens, and west you can see trees through the doorless
+entry.  
+~
+0 8 0
+0
+D3
+~
+~
+0 0 10690
+S
+#10690
+Orchard~
+East of here you see a wooden building streaming all sorts of people
+carrying food, while south you see fields of green grain.  North is a patch
+of vegetable crops.  You stand within a meticulously tended grove of fruit
+trees, particularly apple and, oddly, fig and pomegranate.  It's cool and
+comfortable, and you see that you can take a seat on any of the carefully
+formed limbs.  Here the air smells sweet, like decaying leaves.  West is
+another entrance into the kitchens.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 10686
+D1
+~
+~
+0 0 10689
+D2
+~
+~
+0 0 10691
+S
+#10691
+Golden Fields~
+Here in the tall green grasses you can see the orchard to the north. 
+However, you feel as if you could be lost within the field.  Wind plays with
+the stems like waves on the ocean, tossing them back in forth in swells and
+tides.  You smell the sharp odor of whatever manure they use to fertilize
+with; perhaps it's a bad idea to go further.  
+~
+0 0 2
+0
+D0
+~
+~
+0 0 10690
+D1
+~
+~
+0 0 10692
+S
+#10692
+Golden Fields~
+Here in the tall green grasses you can see the kitchen to the north. 
+However, you feel as if you could be lost within the field.  Wind plays with
+the stems like waves on the ocean, tossing them back in forth in swells and
+tides.  You smell the sharp odor of whatever manure they use to fertilize
+with; perhaps it's a bad idea to go further.  
+~
+0 0 2
+0
+D0
+~
+~
+0 0 10689
+D3
+~
+~
+0 0 10691
+S
+#10693
+To Seal the Past~
+You have descended into the mildewed depths of the temple's crypt.  Above
+you, a secret door has slammed closed, not allowing you to leave these
+confines.  There must be a way out!  The three doors around you are all
+closed and by appearance locked and sealed with nigh infallible magic.  All
+three are thick water-blackened stone as well.  The air in the underground
+crypt is stale and musty.  
+~
+0 9 0
+0
+D1
+~
+~
+4 0 10694
+D2
+~
+~
+4 0 10696
+D3
+~
+~
+4 0 10695
+S
+#10694
+Oils and Balms~
+Heavy vapors of preservatives, holy anointments, and sacred balms assault
+your nostrils.  You can smell camphor and myrhh as well as other
+nose-deadening scents; thick glass decanters and large glossy boxes of the
+insturments of post-death are stacked upon pedastals of differing heights,
+each containter individual.  
+~
+0 9 0
+0
+D3
+~
+~
+4 0 10693
+S
+#10695
+Urns~
+Shelves of urns line much of this dank chamber.  There is, oddly,
+absolutly no odor to this room at all- as if it were totally sterilized.  On
+the other half of the wall is a stack of skulls that reach up to the
+ceiling.  The oldest are bright, gleaming white, while the newer are still
+yellowed and not quite properly bleached.  This way of honoring the dead
+saves the space needed for the forest; the bodies are buried and then, after
+several years, disinterred and incinerated, with all but the skull's ashes
+being sent back to relatives or friends.  
+~
+0 9 0
+0
+D1
+~
+~
+4 0 10693
+S
+#10696
+A Watery Grave~
+The darkness swallows you up into its monstrous gullet, squeezing you and
+constricting you into a tight knot of tension.  You can only tell the walls
+by the bare bit your illumination can bounce back from the masonry; dark
+shadows brush your flesh and make you shiver.  It's cold and damp, and you
+can hear the lap of water against stone and the gently horrifying whisper of
+its rush through the narrowness of stone walls.  Tendrils of solid moisture
+grasp at you and snare you until you realize that these are only the
+subterranean roots of the trees above you.  
+~
+0 9 0
+0
+D0
+~
+~
+4 0 10693
+D1
+~
+~
+1 0 10697
+D2
+~
+~
+0 0 10699
+D3
+~
+~
+1 0 10698
+S
+#10697
+Dusty Crypt~
+You've found yourself in a dusty, nasty, and moldy crypt.  It must be one
+of the older ones- the locks were rusted off and it was only a simple matter
+of pushing the stone door over.  In the center of the room lies a large
+stone sarcophagus, with others stood along the wall behind it.  Several
+statues and other items have been left here as offerings to the soul in the
+afterlife.  
+~
+0 9 0
+0
+D3
+~
+~
+1 0 10696
+S
+#10698
+Dusty Crypt~
+You've found yourself in a dusty, nasty, and moldy crypt.  It must be one
+of the older ones- the locks were rusted off and it was only a simple matter
+of pushing the stone door over.  In the center of the room lies a large
+stone sarcophagus, with others stood along the wall behind it.  Several
+statues and other items have been left here as offerings to the soul in the
+afterlife.  
+~
+0 9 0
+0
+D1
+~
+~
+1 0 10696
+S
+#10699
+A Watery Grave~
+Roots brush your shoulders as you shove through the obsidian waters in
+your boat.  All you can see to be sure there is even water under there is
+silvery reflections from your choked light.  The sides of the boat
+occasionally bump the tight walls, scraping and giving you a jolt.  East and
+west you see heavy stone doors, leading to gods know where.  
+~
+0 9 7
+0
+D0
+~
+~
+0 0 10696
+D1
+~
+~
+1 0 10700
+D2
+~
+~
+0 0 10704
+D3
+~
+~
+1 0 10702
+S
+#10700
+A Templar's Work~
+Here the eartly remains of a high-ranking priest's bodyguards have been
+put to watchful rest.  Their spirits remain in this chamber, making the air
+quite colder than it had been in the passage.  Spindly roots hang from the
+ceiling, twining around the standing stone coffins and the weapons at
+attention along the walls.  The damp mustiness in here makes you need to
+cough violently, but, alas...  East you see a strong stone door leading to
+the next chamber, and west you may enter the passage.  
+~
+0 9 0
+0
+D1
+~
+~
+1 0 10701
+D3
+~
+~
+1 0 10699
+S
+#10701
+Sacred Rest~
+In the center of the room a large stone sarcophagus, seemingly carved out
+of the living rock, dominates the damp chamber.  A {rrose{x seal has been
+carved into this coffin, its form trapped within a perfect circle.  Two
+beautiful sculptures stand to either side- one a graceful robed woman with a
+pure {Wcrystal{x globe in her hands, the other a wistful looking man leaning on
+a {Ygold{x-topped quarterstaff.  Roots have mostly hidden the friezes on the
+walls; you can't make them out between ravages of plant and water.  
+~
+0 9 0
+0
+D3
+~
+~
+1 0 10700
+S
+#10702
+A Templar's Work~
+Two sturdy stone coffins, carved from the walls of stone, stand on either
+side of the door to your east.  Thick roots frame them and have pushed the
+once-sealed covers ajar.  Your light bounces off armor and weapons that must
+have been enchanted; otherwise, they would have rusted and tarnished to
+dust.  West you can return to the narrow, wet passage.  
+~
+0 9 0
+0
+D1
+~
+~
+1 0 10699
+D3
+~
+~
+0 0 10703
+S
+#10703
+Sacred Rest~
+In the center of the room, a large glass-covered coffin holds a body
+inside.  On either side a statue stands, hands joined together above the
+coffin.  You feel intense magic in the room; not unfriendly, but definitely
+protective of whomever is in the glass coffin.  The room is dark but
+amazingly enough, dry.  No roots have penetrated the stone interior, whose
+smooth walls are oddly free of decoration.  Besides the statues and the
+coffin, nothing else resides within.  
+~
+0 9 0
+0
+D1
+~
+~
+0 0 10702
+S
+#10704
+A Watery Grave~
+The further you go, the thicker the roots and the more ornate, though
+worn, the carvings on the stone doors become.  It seems there were once
+faces and names on the rock, but time has made them disappear.  Where your
+light washes against the black walls, you see lines of deposit in different
+levels.  How odd...  East and west you see more doors.  
+~
+0 9 7
+0
+D0
+~
+~
+0 0 10699
+D1
+~
+~
+1 0 10705
+D2
+~
+~
+0 0 10711
+D3
+~
+~
+1 0 10708
+S
+#10705
+Unreal Guard~
+Six stone statues of strong warriors, male and female, guard this narrow
+chamber into the hallowed crypt beyond.  Three on either side, a woman to a
+man, are so close that their raised weapons cross above your head to form an
+arch-covered path.  The weapons glint coldly in your light; they are the
+only metal present in the room.  The carved door to your east beckons, but
+do you truly wish to incite the wrath of these guardians?  
+~
+0 9 0
+0
+D1
+~
+~
+1 0 10706
+D3
+~
+~
+1 0 10704
+S
+#10706
+Children of the Gods~
+At first glance you are taken aback- there is no stone coffin in this
+room!  However, upon closer inspection, you note a carved bronze plate in
+the floor, six feet in length and wide enough for a man's shoulders.  The
+priest here must be set into the stone.  Several precious vases have been
+left here, as well as a few golden busts atop marble pedestals.  A tattered
+rug has been hung on the east wall.  A breeze flutters its edges, emerging
+from some invisible crack.  
+~
+0 9 0
+0
+D1
+~
+~
+1 0 10707
+D3
+~
+~
+1 0 10705
+S
+#10707
+Relics of Ages Passed~
+What has passed is the past- so say the ancient relics in this room. 
+Oddly, they're perfectly clean- not a speck of dirt mars the gleaming
+surfaces of crystalline creations and electrum jewels.  The enchantments are
+heavy here; you have a hard time even touching the artifacts, let alone
+picking them up.  The owners- the protectors- obviously wanted to take no
+risks on graverobbers defiling this site.  Perhaps that is why the Temple
+was built atop it.  
+~
+0 9 0
+0
+D3
+~
+~
+1 0 10706
+S
+#10708
+Unreal Guard~
+You feel a ghostly presence shiver up your spine as you enter this room. 
+Perhaps it wouldn't be wise to disturb the rest of the sworn warriors
+entombed here.  Suits of gleaming armor stand along the walls, their weapons
+held at the ready to defend.  The room is black with moisture; only a few
+handspans above the floor, you see a white deposit from flooding.  It
+doesn't seem to have ruined the metal armor at all, however.  Perhaps there
+is more to the invisible presence here than you can see.  
+~
+0 9 0
+0
+D1
+~
+~
+1 0 10704
+D3
+~
+~
+1 0 10709
+S
+#10709
+Children of the Gods~
+Two priests' bodies were mummified and placed in this chamber of the
+crypt under the guard of those loyal knights in the western room.  Their
+twin sarcophagus bear their carved likenesses on the lid- one a woman, one a
+man, with stone hands joining them even after death.  Gleaming silver
+statues stand along the east wall, wearing robes and expressions of serene
+joy.  The black walls shine with moisture; you can hear an occasional drip,
+as well as see the shadows of roots above you.  A few have even grown on the
+floor.  
+~
+0 9 0
+0
+D1
+~
+~
+1 0 10708
+D3
+~
+~
+1 0 10710
+S
+#10710
+Relics of Ages Future~
+This tiny room holds several artifacts of power, almost screaming for you
+to reach out and seize them.  The room is bone dry and covered in a thick
+layer of dust and energy; many priests must have spent their years casting
+wards over it for the effect to be so palpable.  The walls are the dark gray
+of the dry stone this crypt was dug from; the protections must extend far
+into the thick bedrock.  Not even the roots have invaded its sanctity.  
+~
+0 9 0
+0
+D1
+~
+~
+1 0 10709
+S
+#10711
+A Watery Grave~
+As you fight your way through thickening roots it hits you- those lines
+along the walls are from flooding.  The roots are even beginning to fight
+you back, dragging at you...  East and west you see more doors, and south
+the roots are even more densely packed.  The water beneath you gurgles
+slightly, here where more waves reflect light back into your sight.  
+~
+0 9 7
+0
+D0
+~
+~
+0 0 10704
+D1
+~
+~
+3 0 10712
+D2
+~
+~
+0 0 10726
+D3
+~
+~
+3 0 10719
+S
+#10712
+Crossed Swords~
+Passing through the doors, you are met with a singularly peculiar sight
+that draws your attention away from the rest of the room.  Before you, at
+head height, two crossed swords have been frozen in the air.  Try as you
+might, you can find no physical device which holds them there- no powerful
+lodestones, no strings, no invisible stands.  This leaves magic as the only
+alternative.  As you walk, they ghost ahead of you, shadowing your steps. 
+It may not be wise to invade the sanctity of this place any further.  The
+room is otherwise unremarkable, beside the fact that there are no seams in
+the walls where roots come through and have made thick trunks in the
+corners.  
+~
+0 9 0
+0
+D1
+~
+~
+1 0 10713
+D3
+~
+~
+3 0 10711
+S
+#10713
+Lethal Advice~
+Passing the other guardians was the easy part, it seems.  You hear a low
+moan and a creak as soon as the stone door slams shut behind you.  The
+clanging song of chains ringing off a reel grates into your ears.  Two
+wooden walls are fast approaching you, with stakes to close the deal, or
+ordeal, of your life.  There are no hidden doors to save you, nor any refuge
+to be found in the blind stone ceiling- what are you going to do now,
+adventurer?  
+~
+0 9 0
+0
+D1
+~
+~
+1 0 10714
+D3
+~
+~
+1 0 10712
+S
+#10714
+Dreaming the Dead~
+A deadly lethargy settles over you as you enter this room; you feel
+yourself slow, your footsteps grow heavy and leaden.  Even sound seems
+prolonged and wearied in the dense air, as if time were slowing and with it
+light and sensation.  The walls are smooth and rippled, mirror-like surfaces
+reflecting warped visions of yourself back at you like your image on water
+in a half remembered dream.  Perhaps you'll just...  Lie down, and take a
+rest.  
+~
+0 9 0
+0
+D1
+~
+~
+0 0 10715
+D3
+~
+~
+1 0 10713
+S
+#10715
+Dark Passage~
+You hear slithering and skittering sounds in the all-absorbing darkness
+of the cramped passage.  Drip, drip, drip...  Water dribbles from the
+ceiling and down to the floor, soaking you from foot to knee.  Things
+beneath the murk's unbreachable surface brush by your legs; slimy, long
+things that sometimes stop to coil.  Roots under the black stillness hobble
+you and loop around your feet, making it almost impossible to move easily. 
+Other roots, some large and small, brush your face like the silken fingers
+of cobwebs, leaving ooze blood-black in your light.  
+~
+0 9 0
+0
+D0
+~
+~
+0 0 10716
+D3
+~
+~
+0 0 10714
+S
+#10716
+Dark Passage~
+You can barely see the area in which you entered; northward the tight
+passage narrows on into infinity.  The clammy water laps at your thighs,
+creeping up into fabric and leather, making clothing cling uncomfortably. 
+It will take forever to get out of metal armor and risks ruining supplies. 
+The air is dank and smothering, making you yearn for the freedom of open
+skies.  Oppressive pitch-blackness presses in on all sides, fingers of roots
+grasping at you crookedly and slithering things beneath the water nipping
+gently at you.  
+~
+0 9 0
+0
+D0
+~
+~
+0 0 10717
+D2
+~
+~
+0 0 10715
+S
+#10717
+Dark Passage~
+Through the darkness and over the blood-warm waters you see a glimmer of
+light.  Though clutching roots may hold you back you feel the undeniable
+urge to flee into the bright comfort of whatever is to the north in that
+pulsing solar yellow.  The water is up to your waist now, but you feel it
+begin to rise to the north; south, though, you can only see the unpierceable
+pitch.  
+~
+0 9 0
+0
+D0
+~
+~
+0 0 10718
+D2
+~
+~
+0 0 10716
+S
+#10718
+Sage~
+This room is clean, dry, and thankfully well-lit.  After the suffocation
+of the passage in here, you should be rather grateful.  The room itself is
+rather barren; its form, however, is odd, that of a triangle, with a tripod
+and green flame at each point.  In the center is a green rug that seems
+brand new; upon it is a small black stand.  You can see something atop the
+stand- what would that be?  
+~
+0 9 0
+0
+D2
+~
+~
+0 0 10717
+S
+#10719
+Broken Vambrace~
+Roots have created bars as strong as iron running from the ceiling to the
+floor in this room, like a prison cell.  They block your further
+exploration; if you want past them, it looks like you'll have to fight. 
+Almost all of the stone of the room's founding has been strangled by scaley
+roots; they trip you, grasp at you, tangle around you.  West is the most
+blockage; east you can escape into the main hall.  
+~
+0 9 0
+0
+D1
+~
+~
+3 0 10711
+D3
+~
+~
+0 0 10720
+S
+#10720
+Keen Dagger~
+The walls and ceiling of this room are lined with daggers; even the floor
+has regular spikes spaced exactly two paces apart from each other like a
+gridwork of pins.  The silvered blades glint coldly in the light; the stone
+spikes on the floor brush against your boots from time to time.  You feel
+another presence in this clammy room; what is out there?  A few roots have
+crept in through the ceiling, bunching around the daggers above.  Something
+clatters to the floor behind you; a dagger has fallen.  
+~
+0 9 0
+0
+D1
+~
+~
+0 0 10719
+D3
+~
+~
+0 0 10721
+S
+#10721
+Seeing the Soul~
+Stepping into this humid chamber, you are assaulted by the smell of
+ancient herbs moulding away and rotting wood.  This tiny crypt had once held
+several precious artifacts, but they've obviously decomposed from the
+ravages of water.  However, this apartment is untouched by the ever-present
+roots- thank the gods for that.  In the center of the room, a rusted metal
+sarcophagus protects the remains of some great priestess.  A white orb rests
+in the west wall, somehow partially absorbed into the stone.  
+~
+0 9 0
+0
+D1
+~
+~
+0 0 10720
+D3
+~
+~
+0 0 10722
+S
+#10722
+Tight Walls~
+The dry gray floor slants up slightly, drawing you northward into
+darkness.  Cracks run along the stone, as well as filaments of roots
+pressing through with every advantage they can strangle.  There are unlit
+sconces in the walls; this was once a used corridor, perhaps.  Several have
+disintegrated, however, leaving only holes in the rock.  
+~
+0 9 0
+0
+D0
+~
+~
+0 0 10723
+D1
+~
+~
+0 0 10721
+S
+#10723
+Tight Walls~
+Shadows dispelled by the light creep around you, chilling you to the
+core.  They writhe and claw like living things, with cold twisted hands
+reaching out to snuff out the living.  The stone is frigid and your expelled
+breath plumes into fog; a hard breeze rips through the narrow corridor from
+the north, pushing you.  The slant in the floor has increased and a few
+roots have made their way around the ground's blocks.  
+~
+0 9 0
+0
+D0
+~
+~
+0 0 10724
+D2
+~
+~
+0 0 10722
+S
+#10724
+Tight Walls~
+The floor is smooth and slippery here, the angle having risen
+dramatically.  Roots provide footholds and purchase for you to continue;
+north, you see what may be a chamber, and south are crawling shadows.  
+~
+0 9 0
+0
+D0
+~
+~
+0 0 10725
+D2
+~
+~
+0 0 10723
+S
+#10725
+Gift~
+The walls and floor of the round chamber are made of some strange rouge
+stone whose surface is rough and cracked.  Beneath a rude green-lit
+chandelier is a white altar, on which something gold glitters.  
+~
+0 9 0
+0
+D2
+~
+~
+0 0 10724
+S
+#10726
+A Watery Grave~
+There is either a wall to the south completely covered in roots or the
+wooden snakes have completely blocked off the rest of the underground and
+underwater tomb.  Is this a subterranean sea, you wonder to yourself, or
+does it merely deepen into a hidden wellspring so far that it seems so? 
+This crypt may even be older than the temple itself- it wasn't an uncommon
+practice to build holy structures atop ancient consecrated ground.  East and
+west you see the most decorated doors yet, with what seems to be bronze and
+other soft metals dissolved across their surfaces.  
+~
+0 9 7
+0
+D0
+~
+~
+0 0 10711
+D1
+~
+~
+3 0 10727
+D3
+~
+~
+3 0 10730
+S
+#10727
+Razhiel~
+This chamber's floor is covered in moving water, making the roots beneath
+it seem as if they're moving.  The clear water is ice cold and four feet
+deep, effectively soaking you.  The wall above the water is uneroded, but
+beneath has been eaten away by a handspan.  
+~
+0 9 0
+0
+D1
+~
+~
+0 0 10728
+D3
+~
+~
+3 0 10726
+S
+#10728
+Clearing~
+This room is lozenge-shaped, with a white circle in the center of the
+uneven stone floor.  The stone smells wet but any water from the western
+room has disappeared; there aren't even puddles on the damp floor.  A thin
+layer of grime coats the walls, from what you cannot tell.  
+~
+0 9 0
+0
+D1
+~
+~
+0 0 10729
+D3
+~
+~
+0 0 10727
+S
+#10729
+The Scepter of Zhylla~
+Yet another round chamber; the stone walls are dry and dusty, but
+moisture collects on the walls from ventiliation shafts in the floor that
+lead down into moist darkness.  Three alcolves, equidistant from each other,
+house small statues of Zhylla, a priest, and a treant.  The floor dips
+slightly in the middle, forming a bowl.  In the center floats a polished
+wooden staff, capped with something that looks suspiciously like a live
+tree.  
+~
+0 9 0
+0
+D3
+~
+~
+0 0 10728
+S
+#10730
+Kadomon~
+In the center of the room a large channel has been dug to drain the water
+from the chamber.  You can hear it gushing down some hidden shaft to the
+south; where it goes, though, nobody knows.  The mildewy reek makes
+breathing unpleasant, as well as the thick layer of dirt where a portion of
+the southern wall caved under the pressure of thick roots.  West you see a
+door that leads further into the crypt.  
+~
+0 9 0
+0
+D1
+~
+~
+3 0 10726
+D3
+~
+~
+0 0 10731
+S
+#10731
+Adam~
+Large tarnished bronze plates have been set into the walls, reaching from
+floor to blackened ceiling.  There are eight of them in all, bodies of
+long-dead priests and prophets.  On each is the sigil of a {wlily{x; these
+must have been sacred over all clergy when this underground crypt was built.
+Further west you see another door, while east you can return to the main
+passage.  
+~
+0 9 0
+0
+D1
+~
+~
+0 0 10730
+D3
+~
+~
+0 0 10732
+S
+#10732
+A God's Bones~
+The walls of this gray room are streaked with patterns of cream white,
+like the bones of something long dead.  Six of these ivory stripes lead to
+the center of the chamber, where a round rose-colored orb lies.  A shaft of
+light from a white disc in the ceiling illuminates it, making strange
+ghostly figures as motes of dust travel in the disturbed air.  
+~
+0 9 0
+0
+D1
+~
+~
+0 0 10731
+S
+#0
+
+
+
+#SPECIALS
+M 10601 spec_breath_fire
+M 10608 spec_cast_mage
+M 10614 spec_guard
+M 10621 spec_cast_cleric
+M 10622 spec_cast_cleric
+M 10623 spec_cast_cleric
+M 10624 spec_cast_cleric
+M 10625 spec_cast_mage
+M 10627 spec_cast_cleric
+M 10647 spec_cast_cleric
+M 10648 spec_cast_cleric
+M 10650 spec_cast_cleric
+M 10652 spec_cast_cleric
+M 10678 spec_cast_mage
+M 10680 spec_cast_cleric
+M 10681 spec_cast_cleric
+M 10682 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 10630 2 1
+D 0 10631 0 1
+D 0 10637 2 1
+D 0 10644 2 1
+D 0 10645 0 1
+D 0 10646 1 1
+D 0 10646 2 1
+D 0 10647 0 1
+D 0 10648 3 1
+D 0 10650 2 1
+D 0 10655 0 1
+D 0 10663 1 1
+D 0 10665 2 2
+D 0 10666 3 1
+D 0 10667 3 1
+D 0 10668 3 1
+D 0 10673 1 1
+D 0 10680 1 1
+D 0 10684 3 1
+D 0 10686 1 1
+D 0 10693 1 2
+D 0 10693 2 2
+D 0 10693 3 2
+D 0 10694 3 2
+D 0 10695 1 2
+D 0 10696 1 1
+D 0 10696 3 1
+D 0 10697 3 1
+D 0 10698 1 1
+D 0 10699 1 2
+D 0 10699 3 2
+D 0 10700 1 2
+D 0 10700 3 2
+D 0 10701 3 2
+D 0 10702 1 2
+D 0 10704 1 2
+D 0 10704 3 2
+D 0 10705 1 1
+D 0 10705 3 2
+D 0 10706 1 1
+D 0 10706 3 1
+D 0 10707 3 1
+D 0 10708 1 2
+D 0 10708 3 1
+D 0 10709 1 1
+D 0 10709 3 1
+D 0 10710 1 1
+D 0 10711 1 2
+D 0 10711 3 2
+D 0 10712 1 2
+D 0 10712 3 2
+D 0 10713 1 1
+D 0 10713 3 2
+D 0 10714 3 1
+D 0 10719 1 2
+D 0 10726 1 2
+D 0 10726 3 2
+D 0 10727 3 2
+D 0 10730 1 2
+M 0 10600 1 10602 1
+E 0 10601 0 5
+M 0 10606 1 10604 1
+G 0 10609 0
+M 0 10607 3 10604 1
+M 0 10600 1 10606 1
+E 0 10601 0 5
+M 0 10603 1 10607 1
+M 0 10608 1 10609 1
+E 0 10612 0 12
+E 0 10613 0 15
+E 0 10613 0 14
+O 0 10608 0 10609
+M 0 10613 1 10610 1
+E 0 10614 0 5
+M 0 10600 1 10610 1
+E 0 10601 0 5
+M 0 10603 1 10611 1
+M 0 10600 1 10612 1
+E 0 10601 0 5
+M 0 10604 1 10618 1
+M 0 10604 1 10620 1
+M 0 10601 1 10625 1
+E 0 10603 0 17
+O 0 10610 0 10627
+O 0 10607 0 10627
+M 0 10602 1 10628 1
+E 0 10602 0 6
+M 0 10605 1 10629 1
+E 0 10605 0 17
+E 0 10606 0 12
+M 0 10614 4 10630 2
+E 0 10617 0 10
+E 0 10618 0 16
+M 0 10614 4 10630 2
+E 0 10617 0 10
+E 0 10618 0 16
+M 0 10623 6 10631 1
+E 0 10637 0 7
+E 0 10635 0 5
+M 0 10617 1 10632 1
+M 0 10623 6 10633 1
+E 0 10637 0 7
+M 0 10618 1 10633 1
+E 0 10623 0 10
+E 0 10624 0 12
+M 0 10617 1 10633 1
+E 0 10620 0 8
+E 0 10622 0 16
+M 0 10612 1 10634 1
+M 0 10611 1 10634 1
+M 0 10609 1 10635 1
+E 0 10620 0 9
+E 0 10604 0 16
+M 0 10616 1 10636 1
+M 0 10623 6 10638 1
+M 0 10619 3 10638 3
+M 0 10619 3 10638 3
+M 0 10619 3 10638 3
+E 0 10630 0 1
+M 0 10620 2 10639 2
+E 0 10629 0 23
+M 0 10620 2 10639 2
+E 0 10628 0 13
+O 0 10625 0 10639
+P 0 10626 1 10625 1
+P 0 10627 1 10625 1
+M 0 10614 4 10641 2
+E 0 10633 0 5
+E 0 10624 0 16
+M 0 10614 4 10641 2
+E 0 10617 0 10
+E 0 10632 0 16
+O 0 10631 0 10641
+M 0 10652 1 10643 1
+O 0 10652 0 10643
+O 0 10651 0 10645
+P 0 10653 1 10651 1
+M 0 10623 6 10646 1
+E 0 10635 0 5
+M 0 10647 1 10647 1
+E 0 10670 0 12
+M 0 10648 1 10648 1
+E 0 10660 0 3
+E 0 10656 0 5
+E 0 10655 0 16
+M 0 10623 6 10649 1
+M 0 10621 1 10650 1
+E 0 10636 0 6
+M 0 10622 4 10651 2
+E 0 10635 0 5
+M 0 10622 4 10651 2
+E 0 10635 0 5
+M 0 10622 4 10652 1
+E 0 10635 0 5
+M 0 10623 6 10653 1
+M 0 10622 4 10653 1
+E 0 10635 0 5
+M 0 10623 6 10654 1
+E 0 10637 0 7
+M 0 10651 1 10658 1
+M 0 10650 1 10658 1
+O 0 10639 0 10658
+O 0 10638 0 10658
+P 0 10640 1 10638 1
+M 0 10615 6 10659 3
+M 0 10615 6 10659 3
+M 0 10615 6 10659 3
+E 0 10621 0 22
+E 0 10621 0 21
+M 0 10615 6 10660 3
+M 0 10615 6 10660 3
+M 0 10615 6 10660 3
+E 0 10620 0 9
+E 0 10619 0 8
+M 0 10615 1 10660 1
+M 0 10625 1 10662 1
+E 0 10642 0 12
+G 0 10645 0
+E 0 10643 0 5
+M 0 10626 4 10664 2
+M 0 10626 4 10664 2
+E 0 10647 0 17
+M 0 10624 1 10665 1
+O 0 10641 0 10665
+M 0 10626 4 10667 1
+G 0 10646 0
+O 0 10668 0 10669
+O 0 10669 0 10669
+O 0 10672 0 10670
+O 0 10671 0 10670
+M 0 10673 1 10671 1
+O 0 10673 0 10671
+O 0 10675 0 10675
+O 0 10676 0 10676
+M 0 10678 1 10678 1
+O 0 10678 0 10681
+M 0 10680 1 10681 1
+M 0 10681 2 10681 2
+E 0 10679 0 7
+M 0 10681 2 10681 2
+E 0 10680 0 5
+M 0 10682 1 10682 1
+E 0 10681 0 10
+M 0 10683 2 10683 1
+O 0 10650 0 10684
+O 0 10650 0 10684
+M 0 10627 4 10684 2
+M 0 10627 4 10684 2
+P 0 10687 1 10686 1
+O 0 10686 0 10685
+O 0 10685 0 10685
+O 0 10682 0 10686
+O 0 10683 0 10686
+M 0 10686 1 10686 1
+E 0 10684 0 16
+M 0 10688 1 10687 1
+M 0 10687 1 10687 1
+M 0 10689 1 10688 1
+O 0 10644 0 10689
+M 0 10627 4 10689 2
+M 0 10627 4 10689 2
+M 0 10684 1 10689 1
+E 0 10648 0 13
+O 0 10691 0 10690
+P 0 10693 1 10691 1
+P 0 10692 1 10691 1
+M 0 10690 1 10690 1
+G 0 10690 0
+M 0 10683 2 10690 1
+O 0 10694 0 10694
+O 0 10695 0 10695
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#10600
+say 'Ello, advent'r. It's been a while since I've 'ad visitors.
+say I've a favor to ask. Find for me a wolf pelt, an' I'll give you a somethin to get you through hard times.
+mob echo $i grins toothily.
+~
+#10601
+say The forest's spirit is grateful, $n.
+mob oload 10611
+give bow $n
+mob purge berries
+~
+#10602
+say My thanks, $n.
+mob oload 10615
+give red $n
+mob oload 10616
+give green $n
+~
+#10603
+mob echo $I snarls at you as you take the basin.
+say Heresy!
+mob kill $n
+~
+#0
+
+#$

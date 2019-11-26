@@ -1,0 +1,1799 @@
+#AREADATA
+Name Nelo's area~
+Builders ~
+VNUMs 40200 40299
+Credits [LOCK] Nelo's Area Unkown~
+Security 1
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#40200
+a {WSp{wir{Wit{x of Mindor~
+a {WSp{wir{Wit{x of Mindor~
+A {WSp{wir{Wit {xof Mindor greets you.
+~
+Standing before you is the essance of a once huge white dragon.  Almost
+translucent the voice of this spirit is almost intoxicating.  
+~
+whitedragon~
+AGMUc CDEHJNT AJT A 0 0
+101 101 208d34+2041 101d11+95 34d2+74 divine
+-63 -63 -63 -42
+0 CDL BEN FI
+sit sit none 0
+AHZ ACDEFGHIJKPQUVX huge unknown
+M SPEECH 40201 knock knock~
+M SPEECH 40200 hello~
+#40201
+a {WSp{wir{Wit{x of Mindor~
+a {WSp{wir{Wit{x of Mindor~
+A {WSp{wir{Wit{x of Mindor sits here.
+~
+Standing before you is the essance of a once huge white dragon.  Almost
+translucent the voice of this spirit is almost intoxicating.  
+~
+whitedragon~
+AGMUc CDEHJNT AJT A 0 0
+101 101 208d34+2041 101d11+95 34d2+74 divine
+-63 -63 -63 -42
+0 CDL BEN FI
+sit sit none 0
+AHZ ACDEFGHIJKPQUVX huge unknown
+M SPEECH 40203 complete~
+M GRALL 40202 100~
+#40203
+a {WSp{wir{Wit{x of Mindor~
+a {WSp{wir{Wit{x of Mindor~
+A {WSp{wir{Wit{x of Mindor sits here awating your request.
+~
+~
+dragon~
+ABMUc CDEHJNT AJT A 0 0
+101 101 208d34+2041 101d11+95 34d2+74 divine
+-63 -63 -63 -42
+0 CD BEH FI
+sit sit none 0
+AHZ ACDEFGHIJKPQUVX huge unknown
+M SPEECH 40205 complete~
+M SPEECH 40204 movement~
+#40204
+a {YG{yu{wi{Wl{wd{yM{Ya{ys{wt{We{wr{x~
+a {YG{yu{wi{Wl{wd{yM{Ya{ys{wt{We{wr{x~
+A {YG{yu{wi{Wl{wd{yM{Ya{ys{wt{We{wr{x sits here waiting for YOU.
+~
+~
+dragon~
+ABGKMc CDEHJNT AJT A 0 0
+101 101 208d34+2041 101d11+95 34d2+74 divine
+-63 -63 -63 -42
+0 CD BEH FI
+sit sit none 0
+AHZ ACDEFGHIJKPQUVX huge unknown
+#40205
+a {MG{mu{wi{Wl{wd{mM{Ma{ms{wt{We{wr{x~
+a {MG{mu{wi{Wl{wd{mM{Ma{ms{wt{We{wr{x~
+A {MG{mu{wi{Wl{wd{mM{Ma{ms{wt{We{wr{x sits here waiting for YOU.
+~
+~
+dragon~
+ABGJMc CDEHJOT AJT A 0 0
+101 101 208d34+2041 101d11+95 34d2+74 divine
+-63 -63 -63 -42
+0 CD BEH FI
+sit sit none 0
+AHZ ACDEFGHIJKPQUVX huge unknown
+#40206
+a Weapons Master~
+a {bW{Be{wa{Wp{wo{Bn{bs {8Master{x~
+A {bW{Be{wa{Wp{wo{Bn{bs {8Master{x stands here.
+~
+~
+dragon~
+ABGMUc JT ACDEHJNT A 0 0
+101 101 208d34+2041 101d11+95 34d2+74 divine
+-63 -63 -63 -42
+0 CD BEH FI
+sit sit male 0
+AHZ ACDEFGHIJKPQUVX huge unknown
+M GRALL 40208 100~
+#40207
+a Priest~
+a {cP{Cr{wi{We{ws{Ct{x~
+A {cP{Cr{wi{We{ws{Ct{x sits here.
+~
+~
+whitedragon~
+AB JT AJT A 0 0
+101 101 208d34+2041 101d11+95 34d2+74 divine
+-63 -63 -63 -42
+0 CDL BEN FI
+stand stand male 0
+AHZ ACDEFGHIJKPQUVX medium unknown
+M SPEECH 40206 help~
+#40208
+a shopkeeper~
+a {GS{gh{wo{WpKee{wp{ge{Gr{x~
+A {GS{gh{wo{WpKee{wp{ge{Gr{x limps towards you.
+~
+~
+whitedragon~
+ABc JT AJT A 0 0
+108 108 223d37+3271 108d11+95 37d2+79 divine
+-68 -68 -68 -46
+0 CDL BEN FI
+stand stand male 10000
+AHZ ACDEFGHIJKPQUVX huge unknown
+#40209
+a healer~
+a {Ch{ce{wa{Wl{we{cr{x~
+A {Ch{ce{wa{Wl{we{cr{x sits here meditating.
+~
+~
+whitedragon~
+ABa JT AJT A 0 0
+101 101 208d34+2041 101d11+95 34d2+74 divine
+-63 -63 -63 -42
+0 CDL BEN FI
+sit sit none 0
+AHZ ACDEFGHIJKPQUVX huge unknown
+#40210
+a High Priest~
+a {WH{wi{8g{wh {WP{wr{8i{we{Ws{wt of {8Davion {RR{raven{RB{rlade{x~
+A {WH{wi{8g{wh {WP{wr{8i{we{Ws{wt of {8Davion {RR{raven{RB{rlade{x stands here waiting for you to shake his hand.
+~
+~
+whitedragon~
+ABGMUc JT AJT A 0 0
+107 107 221d36+3241 107d11+95 36d2+78 divine
+-67 -67 -67 -45
+0 CDL BEN FI
+stand stand male 0
+AHZ ACDEFGHIJKPQUVX medium unknown
+M GRALL 40207 100~
+#0
+
+
+
+#OBJECTS
+#40200
+a {WSc{who{Wol{x Portal~
+a {WSc{who{Wol{x Portal~
+A {WSc{who{Wol{x Portal is here waiting for you to {WENTER{x.~
+unknown~
+portal AB P
+0 0 0 0 0
+0 9999 0 P
+#40201
+a {Ygo{yld{Yen{x key~
+a {Ygo{yld{Yen{x key~
+A {ygolden{x key lies here.~
+unknown~
+key 0 AO
+0 0 0 0 0
+1 0 0 P
+#40202
+a fountain~
+a {Cf{co{bu{Bn{bt{ca{Ci{cn{x~
+A {Cf{co{bu{Bn{bt{ca{Ci{cn{x is here for you to drink from.~
+unknown~
+fountain 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#40203
+a healing pool~
+a {gh{Ge{wa{Wl{wi{Gn{gg {8pool{x~
+A {gh{Ge{wa{Wl{wi{Gn{gg {8pool{x is here for you to use.~
+unknown~
+furniture 0 0
+100 10000 CFIL 500 400
+0 0 0 P
+#40220
+a newbie issue axe~
+(no short description)~
+(no description)~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#40221
+a newbie issue flail~
+(no short description)~
+(no description)~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#40222
+a newbie issue polearm~
+(no short description)~
+(no description)~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#40223
+a newbie issue spear~
+(no short description)~
+(no description)~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#40224
+a newbie issue whip~
+(no short description)~
+(no description)~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#40225
+a newbie issue dagger~
+(no short description)~
+(no description)~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#40226
+a newbie issue mace~
+(no short description)~
+(no description)~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#40227
+a newbie issue sword~
+(no short description)~
+(no description)~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#40228
+a newbie issue light~
+(no short description)~
+(no description)~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#40229
+a newbie issue floater~
+(no short description)~
+(no description)~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#40230
+a newbie issue shield~
+(no short description)~
+(no description)~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#40231
+a pair of newbie issue sleeves~
+(no short description)~
+(no description)~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#40232
+a pair of newbie issue gloves~
+(no short description)~
+(no description)~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#40233
+a newbie issue bracer~
+(no short description)~
+(no description)~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#40234
+a pair of newbie issue leggings~
+(no short description)~
+(no description)~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#40235
+a newbie issue shirt~
+(no short description)~
+(no description)~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#40236
+a newbie issue belt~
+(no short description)~
+(no description)~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#40237
+a newbie issue ring~
+(no short description)~
+(no description)~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#40238
+a pair of newbie issue boots~
+(no short description)~
+(no description)~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#40239
+a newbie issue cloak~
+(no short description)~
+(no description)~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#40240
+a newbie issue helmet~
+(no short description)~
+(no description)~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#40241
+a newbie issue pack~
+a {cnewbie{x issue pack~
+A {cnewbie{x issue pack lies here.~
+leather~
+container G A
+10000 0 0 1000 0
+0 1 0 P
+#40299
+mudschool pearl~
+{YM{yu{wd{WS{wc{yh{Yo{yo{wl {WPearl{x~
+A {YM{yu{wd{WS{wc{yh{Yo{yo{wl {WPearl{x lies here.~
+gold~
+armor AB AO
+100 100 100 100 0
+1 1 100 P
+A
+13 100
+A
+12 100
+A
+14 100
+#0
+
+
+
+#ROOMS
+#40200
+Entrance to Mindor School of Mudding~
+Welcome to Mindor School of Mudding.  Here you will learn many of the
+skills that you will need to survive in the Realm of Mindor.  Many of the
+things you will learn here are things that you will NEED to know to play
+this game.  In the next few rooms we will explain to you the basics of
+mudding and define some of the terms we use such as RP.  
+Try some basic commands... type {xsay hello{y.{x
+~
+0 8196 0
+0
+S
+#40201
+Room of Channels~
+There are several ways to communicate within Mindor.  Help channels will
+give you a list of all the ways in which you can converse with others.  Go
+ahead and try a few of them.  You should have already used say or you would
+not be here.  
+~
+0 8192 0
+0
+D0
+~
+~
+0 0 40202
+S
+#40202
+Room of the Roleplayer~
+You are now standing in a small room.  You can see all the program from
+the code that runs the game running behind glass walls.  As you try to read
+what the code is doing you notice that parts of it accually flash to
+pictures and you can see dungeons, plains, and other parts of the realm.  We
+all know they are not real but {wroleplaying{y is a necessity of the realm. 
+Roleplaying is when you pretend to be part of the midevil realm.  Just try
+your best and if you have any problems just ask...  People will usually help
+you.  
+~
+0 8196 0
+0
+D2
+~
+~
+0 0 40201
+S
+#40203
+Room of Directions~
+You are standing in the middle of a small room that has openings in all
+directions.  You can see clearly through all the doorways, which seem to
+have nothing through the other side.  If you need help with movement at any
+time just type say {wmovement{y.{x
+~
+0 8196 0
+0
+D0
+~
+~
+0 0 40205
+D1
+~
+~
+0 0 40207
+D2
+~
+~
+0 0 40209
+D3
+~
+~
+0 0 40211
+D6
+~
+~
+0 0 40206
+D7
+~
+~
+0 0 40208
+D8
+~
+~
+0 0 40210
+D9
+~
+~
+0 0 40204
+S
+#40204
+NorthWestern Room~
+You are standing in the northwestern room of the Hall of Directons.
+~
+0 8196 0
+0
+D1
+~
+~
+0 0 40205
+D2
+~
+~
+0 0 40211
+D7
+~
+~
+0 0 40203
+S
+#40205
+Northern Room~
+You are standing in the northern room in the Hall of Directions.
+~
+0 8196 0
+0
+D1
+~
+~
+0 0 40206
+D2
+~
+~
+0 0 40203
+D3
+~
+~
+0 0 40204
+S
+#40206
+NorthEastern Room~
+You are standing in the northeastern room in the Hall of Directions.
+~
+0 8196 0
+0
+D2
+~
+~
+0 0 40207
+D3
+~
+~
+0 0 40205
+D8
+~
+~
+0 0 40203
+S
+#40207
+Eastern Room~
+You are standing in the eastern room of the Hall of Directions.
+~
+0 8196 0
+0
+D0
+~
+~
+0 0 40206
+D2
+~
+~
+0 0 40208
+D3
+~
+~
+0 0 40203
+S
+#40208
+SouthEastern Room~
+You are standing in the southeastern room of the Hall of Directions.
+~
+0 8196 0
+0
+D0
+~
+~
+0 0 40207
+D3
+~
+~
+0 0 40209
+D9
+~
+~
+0 0 40203
+S
+#40209
+Southern Room~
+You are now standing in the southern most room in the Hall of Directions.  
+~
+0 8196 0
+0
+D0
+~
+~
+0 0 40203
+D1
+~
+~
+0 0 40208
+D3
+~
+~
+0 0 40210
+S
+#40210
+SouthWestern Room~
+You are now standing in the southwestern most room in the Hall of Directions.
+~
+0 8196 0
+0
+D0
+~
+~
+0 0 40211
+D1
+~
+~
+0 0 40209
+D6
+~
+~
+0 0 40203
+S
+#40211
+Western Room~
+You are standing in the western room in the Hall of Directions
+~
+0 8196 0
+0
+D0
+~
+~
+0 0 40204
+D1
+~
+~
+0 0 40203
+D2
+~
+~
+0 0 40210
+S
+#40212
+Hallway of Gold~
+As you walk farther into this corridor you realize that the entire hall
+itself is made from a gold which you have never seen before.  The walls
+glitter by the torch light and its almost blinding.  
+~
+0 8196 0
+0
+D0
+~
+~
+0 0 40213
+S
+#40213
+Hallway of Gold~
+As you walk farther into this corridor you realize that the entire hall
+itself is made from a gold which you have never seen before.  The walls
+glitter by the torch light and its almost blinding.  
+~
+0 8196 0
+0
+D1
+~
+~
+0 0 40214
+D2
+~
+~
+0 0 40212
+S
+#40214
+Hallway of Gold~
+As you walk farther into this corridor you realize that the entire hall
+itself is made from a gold which you have never seen before.  The walls
+glitter by the torch light and its almost blinding.  
+~
+0 8196 0
+0
+D1
+~
+~
+0 0 40215
+D3
+~
+~
+0 0 40213
+S
+#40215
+"T" in the Hallway of Gold~
+This room differs from the rest of the hall.  There are pictures on the
+walls here of what seem to be past teachers and trainers of the Mindor
+School of Mudding.  There is a sign on the wall directly in front of you... 
+Perhaps you should {wread{y the sign.  {x {Y{yThere is a small door above you.  
+~
+0 8196 0
+0
+E
+sign~
+The sign has two arrows on it:
+{R<--- {WNorth {R--- {GGuildmaster {gof {GPracticing
+{R--- {WSouth {R---> {GGuildmaster {gof {GTraining{x
+~
+D0
+~
+~
+0 0 40216
+D2
+~
+~
+0 0 40217
+D3
+~
+~
+0 0 40214
+D4
+~
+~
+1 0 40218
+S
+#40216
+Guildmasters Room~
+As you walk into this room you see many weapons and devices around the
+room that you would assume are used to hone your skills.  In the center of
+the room you can see what looks like a very powerful monk sitting in the
+center of the room waiting for you.  
+~
+0 8196 0
+0
+D2
+~
+~
+0 0 40215
+S
+#40217
+Guildmasters Room~
+As you walk into this room you notice all sorts of contraptions that seem
+to alter your mind, body, and endurance.  There is a rigid looking monk
+standing in the corner eyeballing you.  
+~
+0 8196 0
+0
+D0
+~
+~
+0 0 40215
+S
+#40218
+Small Corridor~
+This small corridor is so crammed that you can hardly fit yourself
+through it.  The jagged edges cut and bruise your skin.  Hopefully this
+journey is worth the pain.  
+~
+0 8196 0
+0
+D6
+~
+~
+0 0 40219
+S
+#40219
+Small Corridor~
+As you work your way through the corridor it expands a little allowing
+you to stand and look around.  You can hear the faint sound of weapons
+clashing and people yelling as you move forward.  
+~
+0 8196 0
+0
+D1
+~
+~
+0 0 40220
+D8
+~
+~
+0 0 40218
+S
+#40220
+Small Corridor~
+As you get closer to what seems to be the sound of war almost, the pit of
+your stomach knots up and you feel almost sick to your stomach.  To the
+north you can see shadows of figures fighting for some reason unknown to
+you.  
+~
+0 8196 0
+0
+D0
+~
+~
+0 0 40222
+D3
+~
+~
+0 0 40219
+S
+#40221
+~
+~
+0 4 0
+0
+S
+#40222
+Weapon Masters Room~
+You have reached the sound of all this noise.  Once you step through the
+hole that leads to this room the man stops.  You at this point notice that
+he was fighting nothing at all...  Or so it seems.  He steps closer to you
+as if eyeballing.  
+~
+0 8196 0
+0
+D2
+~
+~
+0 0 40220
+S
+#40223
+Monster Prison~
+You are standing inside the huge monster prison in Mindor School.
+~
+0 8192 0
+0
+D1
+~
+~
+0 0 40232
+D6
+~
+~
+0 0 40230
+D7
+~
+~
+0 0 40224
+S
+#40224
+Monster Prison~
+You are standing inside the huge monster prison in Mindor School.
+~
+0 8192 0
+0
+D0
+~
+~
+0 0 40232
+D1
+~
+~
+0 0 40235
+D6
+~
+~
+0 0 40231
+D7
+~
+~
+0 0 40225
+D9
+~
+~
+0 0 40223
+S
+#40225
+Monster Prison~
+You are standing inside the huge monster prison in Mindor School.
+~
+0 8192 0
+0
+D0
+~
+~
+0 0 40235
+D6
+~
+~
+0 0 40226
+D9
+~
+~
+0 0 40224
+S
+#40226
+Monster Prison~
+You are standing inside the huge monster prison in Mindor School.
+~
+0 8192 0
+0
+D0
+~
+~
+0 0 40234
+D3
+~
+~
+0 0 40235
+D6
+~
+~
+0 0 40227
+D8
+~
+~
+0 0 40225
+D9
+~
+~
+0 0 40231
+S
+#40227
+Monster Prison~
+You are standing inside the huge monster prison in Mindor School.
+~
+0 8192 0
+0
+D3
+~
+~
+0 0 40234
+D8
+~
+~
+0 0 40226
+D9
+~
+~
+0 0 40228
+S
+#40228
+Monster Prison~
+You are standing inside the huge monster prison in Mindor School.
+~
+0 8192 0
+0
+D2
+~
+~
+0 0 40234
+D3
+~
+~
+0 0 40233
+D7
+~
+~
+0 0 40227
+D8
+~
+~
+0 0 40231
+D9
+~
+~
+0 0 40229
+S
+#40229
+Monster Prison~
+You are standing inside the huge monster prison in Mindor School.
+~
+0 8192 0
+0
+D0
+~
+~
+2 40201 40236
+D2
+~
+~
+0 0 40233
+D7
+~
+~
+0 0 40228
+D8
+~
+~
+0 0 40230
+S
+#40230
+Monster Prison~
+You are standing inside the huge monster prison in Mindor School.
+~
+0 8192 0
+0
+D1
+~
+~
+0 0 40233
+D2
+~
+~
+0 0 40232
+D6
+~
+~
+0 0 40229
+D7
+~
+~
+0 0 40231
+D8
+~
+~
+0 0 40223
+S
+#40231
+Sanctuary of the Prison~
+You are standing in the one safe spot in the prison...  All around you
+there are wails and screams from the many prisoners in this place.  There is
+a priest in the room and if you ask for {whelp{y he may just help you with
+your quest to find the key.  {x 
+~
+0 8196 0
+0
+D0
+~
+~
+0 0 40233
+D1
+~
+~
+0 0 40234
+D2
+~
+~
+0 0 40235
+D3
+~
+~
+0 0 40232
+D6
+~
+~
+0 0 40228
+D7
+~
+~
+0 0 40226
+D8
+~
+~
+0 0 40224
+D9
+~
+~
+0 0 40230
+S
+#40232
+Monster Prison~
+You are standing inside the huge monster prison in Mindor School.
+~
+0 8192 0
+0
+D0
+~
+~
+0 0 40230
+D1
+~
+~
+0 0 40231
+D2
+~
+~
+0 0 40224
+D3
+~
+~
+0 0 40223
+S
+#40233
+Monster Prison~
+You are standing inside the huge monster prison in Mindor School.
+~
+0 8192 0
+0
+D0
+~
+~
+0 0 40229
+D1
+~
+~
+0 0 40228
+D2
+~
+~
+0 0 40231
+D3
+~
+~
+0 0 40230
+S
+#40234
+Monster Prison~
+You are standing inside the huge monster prison in Mindor School.
+~
+0 8192 0
+0
+D0
+~
+~
+0 0 40228
+D1
+~
+~
+0 0 40227
+D2
+~
+~
+0 0 40226
+D3
+~
+~
+0 0 40231
+S
+#40235
+Monster Prison~
+You are standing inside the huge monster prison in Mindor School.
+~
+0 8192 0
+0
+D0
+~
+~
+0 0 40231
+D1
+~
+~
+0 0 40226
+D2
+~
+~
+0 0 40225
+D3
+~
+~
+0 0 40224
+S
+#40236
+Large Marble Corridor~
+As you approach the end of the school you are standing in a HUGE marble
+hallway.  There are gold accents all along the wall as the weave of magic
+seems to have been inlayed in the walls themselves.  There is a small note
+on the wall that may be of some help.  
+~
+0 8196 0
+0
+E
+note~
+There are several commands which we never had a chance to speak of.... they are the auto commands.
+Typing auto by itself will show you a list of the uses.
+~
+D0
+~
+~
+0 0 40237
+D2
+~
+~
+2 0 40229
+S
+#40237
+Large Marble Corridor~
+As you approach the end of the school you are standing in a HUGE marble
+hallway.  There are gold accents all along the wall as the weave of magic
+seems to have been inlayed in the walls themselves.  
+~
+0 8196 0
+0
+D0
+~
+~
+0 0 40238
+D2
+~
+~
+0 0 40236
+S
+#40238
+Large Marble Corridor~
+As you approach the end of the school you are standing in a HUGE marble
+hallway.  There are gold accents all along the wall as the weave of magic
+seems to have been inlayed in the walls themselves.  
+~
+0 8196 0
+0
+D0
+~
+~
+0 0 40239
+D2
+~
+~
+0 0 40237
+S
+#40239
+Large Marble Corridor~
+As you approach the end of this massive hall you can hear the small
+hussle of movement up ahead.  There is bright torch light coming just ahead
+of you.  The smell of fresh food and the sound of a running spring makes
+your stomach turn as you realize that you havent eaten or drank anything
+during your tour through the school.  
+~
+0 8196 0
+0
+D0
+~
+~
+0 0 40240
+D2
+~
+~
+0 0 40238
+S
+#40240
+A Huge Marble Dome~
+You have finnaly reached the sanctuary of the the school.  There are
+people all around you stitting and chatting.  You have just enough time to
+take a {wdrink{y out of the fountain before you notice there is a shop to
+purchase more supplies at and a small bathouse to the east to heal your
+wounds at.  
+~
+0 8196 0
+0
+D0
+~
+~
+0 0 40243
+D1
+~
+~
+0 0 40242
+D2
+~
+~
+0 0 40239
+D3
+~
+~
+0 0 40241
+S
+#40241
+Mudschool Shop~
+This room is very poorly lit.  As you walk in the candle light flickers
+off the walls and shelves with an eerie glow that sends a shiver down your
+spine.  The walls seem to move as the light dances around you.  The
+shopkeeper slowly makes his way towards you in a slow limp.  
+~
+0 8196 0
+0
+D1
+~
+~
+0 0 40240
+S
+#40242
+Small Bath-House~
+This room has a HUGE hole carved in the ceiling that allows the light of
+some sorts pour through it.  You can almost feel your wounds closing as you
+walk into this room.  There is a small pool for you to {wrest in{y or even
+{wsleep in{y.  {x 
+~
+0 8196 0
+0
+D3
+~
+~
+0 0 40240
+S
+#40243
+HUGE Golden Corridor~
+You are now standing in the hall that leads to the creator of the school
+itself.  The halls are made of pure gold and seem to have arcane engravings
+in them.  
+~
+0 8196 0
+0
+D0
+~
+~
+0 0 40244
+D2
+~
+~
+0 0 40240
+S
+#40244
+HUGE Golden Corridor~
+You are now standing in the hall that leads to the creator of the school
+itself.  The halls are made of pure gold and seem to have arcane engravings
+in them.  
+~
+0 8196 0
+0
+D0
+~
+~
+0 0 40245
+D2
+~
+~
+0 0 40243
+S
+#40245
+++**-**++ Graduation Room ++**-**++~
+You are now standing at the alter of the creator himself.  Davion does
+not seem to be here but his High Priest is here complete your graduation
+from the Mindor School of Mudding.  
+~
+0 9732 0
+0
+S
+#40246
+Newbie Arena~
+~
+0 4 0
+0
+D1
+~
+~
+0 0 40247
+D2
+~
+~
+0 0 40259
+S
+#40247
+Newbie Arena~
+~
+0 4 0
+0
+D1
+~
+~
+0 0 40248
+D2
+~
+~
+0 0 40260
+D3
+~
+~
+0 0 40246
+S
+#40248
+Newbie Arena~
+~
+0 4 0
+0
+D1
+~
+~
+0 0 40249
+D2
+~
+~
+0 0 40261
+D3
+~
+~
+0 0 40247
+S
+#40249
+Newbie Arena~
+~
+0 4 0
+0
+D1
+~
+~
+0 0 40250
+D2
+~
+~
+0 0 40262
+D3
+~
+~
+0 0 40248
+S
+#40250
+Newbie Arena~
+~
+0 4 0
+0
+D1
+~
+~
+0 0 40251
+D2
+~
+~
+0 0 40263
+D3
+~
+~
+0 0 40249
+S
+#40251
+Newbie Arena~
+~
+0 4 0
+0
+D2
+~
+~
+0 0 40252
+D3
+~
+~
+0 0 40250
+S
+#40252
+Newbie Arena~
+~
+0 4 0
+0
+D0
+~
+~
+0 0 40251
+D2
+~
+~
+0 0 40253
+D3
+~
+~
+0 0 40263
+S
+#40253
+Newbie Arena~
+~
+0 4 0
+0
+D0
+~
+~
+0 0 40252
+D3
+~
+~
+0 0 40254
+S
+#40254
+Newbie Arena~
+~
+0 4 0
+0
+D0
+~
+~
+0 0 40263
+D1
+~
+~
+0 0 40253
+D3
+~
+~
+0 0 40255
+S
+#40255
+Newbie Arena~
+~
+0 4 0
+0
+D0
+~
+~
+0 0 40262
+D1
+~
+~
+0 0 40254
+D3
+~
+~
+0 0 40256
+S
+#40256
+Newbie Arena~
+~
+0 4 0
+0
+D0
+~
+~
+0 0 40261
+D1
+~
+~
+0 0 40255
+D3
+~
+~
+0 0 40257
+S
+#40257
+Newbie Arena~
+~
+0 4 0
+0
+D0
+~
+~
+0 0 40260
+D1
+~
+~
+0 0 40256
+D3
+~
+~
+0 0 40258
+S
+#40258
+Newbie Arena~
+~
+0 4 0
+0
+D0
+~
+~
+0 0 40259
+D1
+~
+~
+0 0 40257
+S
+#40259
+Newbie Arena~
+~
+0 4 0
+0
+D0
+~
+~
+0 0 40246
+D1
+~
+~
+0 0 40260
+D2
+~
+~
+0 0 40258
+S
+#40260
+Newbie Arena~
+~
+0 4 0
+0
+D0
+~
+~
+0 0 40247
+D1
+~
+~
+0 0 40261
+D2
+~
+~
+0 0 40257
+D3
+~
+~
+0 0 40259
+S
+#40261
+Newbie Arena~
+~
+0 4 0
+0
+D0
+~
+~
+0 0 40248
+D1
+~
+~
+0 0 40262
+D2
+~
+~
+0 0 40256
+D3
+~
+~
+0 0 40260
+S
+#40262
+Newbie Arena~
+~
+0 4 0
+0
+D0
+~
+~
+0 0 40249
+D1
+~
+~
+0 0 40263
+D2
+~
+~
+0 0 40255
+D3
+~
+~
+0 0 40261
+S
+#40263
+Newbie Arena~
+~
+0 4 0
+0
+D0
+~
+~
+0 0 40250
+D1
+~
+~
+0 0 40252
+D2
+~
+~
+0 0 40254
+D3
+~
+~
+0 0 40262
+S
+#40264
+Main Hallway of Mindor School of Mudding~
+~
+0 4 0
+0
+D0
+~
+~
+0 0 40266
+D2
+~
+~
+0 0 40267
+D3
+~
+~
+0 0 40265
+S
+#40265
+Before Mudschool Newbie Arena~
+~
+0 4 0
+0
+D1
+~
+~
+0 0 40264
+D3
+~
+~
+1 0 40252
+S
+#40266
+Healer of Mindor Mudschool~
+~
+0 4 0
+0
+D2
+~
+~
+0 0 40264
+S
+#40267
+Trainer of Mindor Mudschool~
+~
+0 4 0
+0
+D0
+~
+~
+0 0 40264
+S
+#40277
+~
+~
+0 4 0
+0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 40215 4 1
+D 0 40229 0 1
+D 0 40236 2 1
+D 0 40265 3 1
+M 0 40200 1 40200 1
+M 0 40201 1 40202 1
+M 0 40203 1 40203 1
+M 0 40204 1 40216 1
+M 0 40205 1 40217 1
+M 0 40206 1 40222 1
+M 0 40207 1 40231 1
+O 0 40202 0 40240
+M 0 40208 1 40241 1
+M 0 40209 1 40242 1
+O 0 40203 0 40242
+M 0 40210 1 40245 1
+S
+
+
+
+#SHOPS
+40208 19 17 22 1 15 100 100 1 24
+0
+
+
+
+#MOBPROGS
+#40200
+say Hello $n, Welcome to Mindor School of Mudding. Please enjoy your stay here.
+MOB ECHO The spirit leans in and whispers to you, "{WJust say {CKNOCK KNOCK{W to get in.{x"
+~
+#40201
+MOB ECHO With a snap of the fingers the Spirit transfers $n inside the school walls.
+MOB TRANSFER $n 40201
+~
+#40202
+say Greetings $n. When you are completed with this portion of the school just say complete.
+~
+#40203
+say Any further questions reguarding Roleplay and Channels can be asked of other players or immortals.
+say Enjoy your stay $n.
+MOB ECHO Again, With a snap of the fingers $n is transferd forward through the school.
+MOB TRANSFER $n 40203
+~
+#40204
+say To move within Mindor you must type the direction which you want to go. For example....
+say To go north you must type the letter 'N' (same for all cardnal directions). If you 
+say Want to go southwest it is basically the same ... the letters 'SW'. (TURN SPEEDWALK OFF)
+say When done just say {Wcomplete{Y and I will move you forward.{x
+~
+#40205
+say Well done. And forward you will go.
+MOB ECHO With a snap of the fingers the Spirit transfers $n forward.
+MOB TRANSFER $n 40212
+~
+#40206
+MOB CAST iceshield $n
+MOB CAST shockshield $n
+MOB CAST fireshield $n
+MOB CAST sanctuary $n
+MOB CAST heal $n
+MOB CAST heal $n
+MOB CAST heal $n
+MOB CAST heal $n
+say There you go little one.
+~
+#40207
+say Congradulations $n. May your stay here at Mindor be filled with wealth and good health.
+say Take this pearl as a token of our thanks that you have taken the time to hone your skills.
+MOB OLOAD 40299
+give pearl $n
+MOB GECHO The world pauses as $n passes through the gates of Mindor School of Mudding.
+MOB TRANSFER $n 40264
+~
+#40208
+if ispc $n
+if carries $n 40241
+say Nice to see you again $n.
+Break
+endif
+mob oload 40220
+mob oload 40221
+mob oload 40222
+mob oload 40223
+mob oload 40224
+mob oload 40225
+mob oload 40226
+mob oload 40227
+mob oload 40228
+mob oload 40229
+mob oload 40230
+mob oload 40231
+mob oload 40232
+mob oload 40233
+mob oload 40233
+mob oload 40234
+mob oload 40235
+mob oload 40236
+mob oload 40237
+mob oload 40237
+mob oload 40238
+mob oload 40239
+mob oload 40239
+mob oload 40240
+mob oload 40241
+put all pack
+say Here is your pack of equipment.
+give pack $n
+~
+#0
+
+#$

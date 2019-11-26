@@ -1,0 +1,703 @@
+#AREADATA
+Ent Woods~
+Builders ~
+VNUMs 31100 31119
+Credits [30 35] Akmaro  Ent Woods~
+Security 6
+RepopMsg ~
+End
+
+
+
+#MOBILES
+#31100
+wise old ent tree~
+a wise old ent~
+A wise old ent is here, mixing herbs in a bowl.
+~
+This treant is gigantic!  He stands easily fifteen feet tall.  He hums a
+small tune to himself while mixing herbs and stirring potions.  
+~
+human~
+AB FGHJ A A 0 0
+40 20 5d25+4000 10d10+10 3d10+2 crush
+-4 -1 -1 0
+CDF B IKN HJK
+stand stand male 50000
+H ABCDEGHIK huge unknown
+F for AMV
+F par FJ
+#31101
+healer treant ancient~
+an ancient treant healer~
+An ancient treant healer is here, tending to the wounded.
+~
+This treant is of an age that one cannot even begin to comprehend.  No
+doubt she was a sapling at the very dawn of the Second Age.  
+~
+human~
+ABQae FJ A A 0 0
+150 14 20d10+4000 100d100+1000 3d10+2 none
+-4 -4 -4 -4
+0 BLQ FI HK
+stand stand female 7000
+H ABCDEGIK huge unknown
+F for AMV
+F par FHJ
+#31102
+treant ent gardener~
+a treant gardener~
+A treant gardener is here, attending to the saplings.
+~
+This treant is of an enormous size.  It is given the important task of
+watching over the young saplings.  
+~
+human~
+AB FJ A A 800 0
+40 12 20d10+600 10d10+50 2d8+5 crush
+-10 -7 -7 -2
+CDF BLQ 0 H
+stand stand either 630
+H ABCDEGHIK huge unknown
+F for AMV
+F par FJ
+#31103
+treant old gardener~
+an old treant gardener~
+An old treant gardener is here, attending to the saplings.
+~
+This treant is of gargantuan size!  They have the very important task of
+tending to the saplings.  
+~
+human~
+AB FJ A A 800 0
+40 14 20d10+600 10d10+50 2d8+5 crush
+-10 -7 -7 -2
+CDF BLQ 0 H
+stand stand either 655
+H ABCDEGHIK huge unknown
+F for AMV
+F par FJ
+#31104
+treant ent drummer~
+a treant drummer~
+A treant drummer is here, playing music for the forest spirits.
+~
+This treant is of a formidable size.  His job is to play the Ancient
+Songs so that the spirits of the forest can hear.  
+~
+human~
+AB FJ A A 800 0
+46 15 20d10+680 10d10+50 2d10+8 crush
+-11 -8 -8 -3
+CDF LQ 0 H
+stand stand male 2100
+H ABCDEGHIK huge unknown
+F for AMV
+F par FJ
+#31105
+elder tree treant ent~
+the Elder Tree~
+The Elder Tree is here, listening to the music of the forest.
+~
+This is perhaps the oldest sentient being in the entire known world, and
+wise beyond mortal understanding.  
+~
+human~
+AB FGHJ A A 0 0
+52 16 20d10+1000 20d20+100 2d8+8 crush
+-12 -9 -9 -4
+CDF LQ 0 H
+stand stand male 3260
+H ABCDEGHIK giant unknown
+F for AMV
+F par FJ
+#31106
+shopkeeper treant greenleaf~
+Greenleaf~
+Greenleaf is here, offering various wares for sale.
+~
+Greenleaf is a large treant, although he looks fairly younger than the
+others in the village.  
+~
+human~
+AB FJ A A 0 0
+40 14 20d10+4000 10d10+100 3d12+3 crush
+-4 -2 -2 0
+0 BLQ FI HJK
+stand stand male 60000
+H ABCDEGHIK huge unknown
+F for AMV
+F par FJ
+#31108
+treant villager ent tree~
+a treant villager~
+A treant villager is here, enjoying a walk around town.
+~
+This treant is very large, easily fifteen feet tall.  Their bark skin
+offers a natural protection, the strength of ents is well known throughout
+the lands.  
+~
+human~
+A FJ A A 750 0
+40 11 20d5+700 10d10+100 2d6+6 crush
+-10 -7 -7 -2
+CDF BLQ FI HJK
+stand stand either 400
+H ABCDEGHIK huge unknown
+F for AMV
+F par FJ
+#31109
+treant ent warrior~
+a treant warrior~
+A treant warrior is here, patrolling the village.
+~
+The treant warrior is a mighty soldier, not to be trifled with.  It
+stands at least seventeen feet tall.  
+~
+human~
+AT FJ A A 800 0
+43 14 10d20+900 10d10+100 2d9+5 punch
+-10 -7 -7 -2
+CDF BLQ FI HJK
+stand stand male 810
+H ABCDEGHIK huge unknown
+F for AMV
+F par FJ
+#0
+
+
+
+#OBJECTS
+#31100
+red potion bubbling~
+a bubbling red potion~
+A bubbling red potion is here, lying on the ground.~
+unknown~
+potion G AO
+30 'giant strength' '' '' ''
+30 10 800 P
+E
+bubbling~
+On the side of this bubbling red potion is a label marked in beautiful
+script handwriting: Potion of Giant Strength.  
+~
+E
+red~
+On the side of this bubbling red potion is a label marked in beautiful
+script handwriting: Potion of Giant Strength.  
+~
+E
+potion~
+On the side of this bubbling red potion is a label marked in beautiful
+script handwriting: Potion of Giant Strength.  
+~
+#31101
+sparkling white potion bless~
+a sparkling white potion~
+A sparkling white potion lies discarded on the ground.~
+unknown~
+potion G AO
+30 'bless' '' '' ''
+30 10 1200 P
+E
+sparkling~
+On the side of this sparkling white potion is a label marked in beautiful
+script handwriting: Potion of Bless.  
+~
+E
+white~
+On the side of this sparkling white potion is a label marked in beautiful
+script handwriting: Potion of Bless.  
+~
+E
+potion~
+On the side of this sparkling white potion is a label marked in beautiful
+script handwriting: Potion of Bless.  
+~
+#31102
+frothing blue potion~
+a frothing blue potion~
+A frothing blue potion lies forgotten on the ground.~
+unknown~
+potion G AO
+30 'sanctuary' '' '' ''
+30 10 3600 P
+E
+frothing~
+On the side of this frothing blue potion is a label marked in beautiful
+script handwriting: Potion of Sanctuary.  
+~
+E
+blue~
+On the side of this frothing blue potion is a label marked in beautiful
+script handwriting: Potion of Sanctuary.  
+~
+E
+potion~
+On the side of this frothing blue potion is a label marked in beautiful
+script handwriting: Potion of Sanctuary.  
+~
+#31103
+glowing yellow potion~
+a glowing yellow potion~
+A glowing yellow potion has been discarded here.~
+unknown~
+potion AG AO
+80 'frenzy' '' '' ''
+30 10 5000 P
+E
+glowing~
+On the side of a glowing yellow potion is a label marked in beautiful
+script handwriting: Potion of Frenzy.  
+~
+E
+yellow~
+On the side of a glowing yellow potion is a label marked in beautiful
+script handwriting: Potion of Frenzy.  
+~
+E
+potion~
+On the side of a glowing yellow potion is a label marked in beautiful
+script handwriting: Potion of Frenzy.  
+~
+#31104
+spirit forest~
+the Spirit of the Forest~
+The spirit of the forest is here, contained within a gnarled wooden ball~
+spirit~
+armor GKSY AQ
+10 10 10 15 0
+45 10 7800 P
+A
+19 5
+A
+3 2
+A
+4 2
+A
+13 35
+A
+12 75
+#31105
+wooden sturdy oak shield~
+a sturdy oak shield~
+A sturdy oak shield is left here on the ground.~
+wood~
+armor 0 AJ
+12 10 12 6 0
+40 60 6200 P
+A
+5 1
+A
+13 35
+#31106
+sturdy oak club adorned spikes~
+a sturdy oak club adorned with spikes~
+A sturdy oak club is here, left forgotten on the ground.~
+wood~
+weapon 0 AN
+mace 7 6 crush 0
+40 54 8600 P
+A
+18 2
+A
+19 3
+#31107
+vine whip spiked thorns~
+a vine whip spiked with thorns~
+A thorny vine whip lies here.~
+vine~
+weapon 0 AN
+whip 7 5 whip 0
+40 24 6800 P
+A
+19 2
+A
+18 2
+A
+2 2
+#31108
+burnished oak helmet~
+a burnished oak helmet~
+A burnished oak helmet lies carded on the ground~
+wood~
+armor 0 AE
+6 4 7 3 0
+45 32 4500 P
+A
+18 2
+A
+13 12
+#31109
+burnished oak greaves~
+a pair of burnished oak greaves~
+A pair of burnished oak greaves have been carelessly left here.~
+unknown~
+armor 0 AF
+6 5 8 4 0
+45 35 4800 P
+A
+18 2
+A
+13 8
+#31110
+a burnished oak bangle~
+a burnished oak bangle~
+A burnished oak bangle has been discarded here.~
+wood~
+armor 0 AM
+4 5 6 3 0
+45 21 3200 P
+A
+18 2
+A
+13 6
+#0
+
+
+
+#ROOMS
+#31100
+Entrance to the Ent Woods~
+All around you tall, thick trees tower far above you.  From somewhere
+within the woods, the sound of a drum beating can be heard reverberating
+through the forest.  The Ent Woods lie to the north, and the Forest of Enrel
+lies to the south.  
+~
+0 4 3
+0
+D0
+~
+~
+0 0 31101
+D2
+~
+~
+0 0 31055
+S
+#31101
+Ent woods~
+Thick woods surround you on all sides except the east, where there is a
+small trail.  The trail looks as if though branches of some sort were raked
+over it to obscure some sort of tracks.  
+~
+0 0 3
+0
+D1
+~
+~
+0 0 31102
+D2
+~
+~
+0 0 31100
+S
+#31102
+Ent Woods~
+The trees seem to sway back and forth, perhaps blown by the wind?  It is
+surprising how each tree looks as if it has two branches resembling hands. 
+The heart of the Ent Woods lies to the north.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31103
+D3
+~
+~
+0 0 31101
+S
+#31103
+Ent Woods~
+The sound of a beating drum can clearly be heard here.  The trees here
+seem to be growing thicker together, and the wind rustling through their
+leaves makes an ominous sounding hiss.  The path continues north.  
+~
+0 4 3
+0
+D0
+~
+~
+0 0 31104
+D2
+~
+~
+0 0 31102
+S
+#31104
+Entrance to the Ent Village~
+Before you is the entrance to the Ent village.  Hollowed out trees and
+wooden huts are strewn about haphazardly.  A drum beats from the north as
+the treant folk go about their business.  There is a hollowed out tree to
+the east.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31106
+D1
+~
+~
+0 0 31105
+D2
+~
+~
+0 0 31103
+S
+#31105
+Treant Potion Shop~
+This shop has been expertly crafted from a dead oak.  Bark salves and
+bubbling potions adorn the wooden shelves here, all formed without the use
+of tools, as using a tool against a tree is strictly forbidden by the Ents. 
+~
+0 1032 0
+0
+D3
+~
+~
+0 0 31104
+S
+#31106
+Ent Village~
+Several young trees are here, carefully attended to by the Ents to make
+sure they grow up strong and healthy.  Paths lead in all directions.  East
+and west will take you to the gardens, while south leads out of the Ent
+village.  The northern path will take you to the Elder Tree.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31111
+D1
+~
+~
+0 0 31109
+D2
+~
+~
+0 0 31104
+D3
+~
+~
+0 0 31107
+S
+#31107
+Ent Village~
+Many different trees grow here, some young treants although most are
+simple oaks and redwoods.  To the north is a large hollowed out tree, and to
+the west lie the gardens.  The middle of the Ent Village lies to the east.  
+~
+0 4 3
+0
+D0
+~
+~
+0 0 31115
+D1
+~
+~
+0 0 31106
+D3
+~
+~
+0 0 31108
+S
+#31108
+Treant Gardens~
+Young saplings are here, each day carefully attended to by the treant
+folk to make sure they become sentient beings later in their life.  Bees
+buzz around the garden lazily, landing on the inviting flowers, while
+butterflies flutter around.  All of nature seems at harmony in this place.  
+~
+0 0 3
+0
+D1
+~
+~
+0 0 31107
+S
+#31109
+Ent Village~
+All different kinds of trees grow here, although most are not treants but
+rather non-sentient trees.  The Treant Gardens lie to the east while the
+middle of Ent Village lies to the west.  
+~
+0 4 3
+0
+D1
+~
+~
+0 0 31110
+D3
+~
+~
+0 0 31106
+S
+#31110
+Treant Gardens~
+Many young saplings are here, watched every day under the close scrutiny
+of the treant folk to make sure they become sentient in later developement. 
+Flowers are here blooming, and the scent of lilacs and carnations floats on
+the air.  
+~
+0 0 3
+0
+D3
+~
+~
+0 0 31109
+S
+#31111
+Ent Village~
+As you head north the trees seem to become older and more weather-worne
+with age.  The rhythmatic beating of a drum has an almost hypnotic spell.  
+~
+0 4 3
+0
+D1
+~
+~
+1 0 31112
+D2
+~
+~
+0 0 31106
+D3
+~
+~
+0 0 31113
+S
+#31112
+The Healing Tree~
+The inside of this gigantic oak tree has been hollowed out for use as a
+healing house for the treants.  Soft moss lines the floor, and aromatic
+herbs fill the air.  Pinetree salves and powders made from aspen trees line
+a small cubbyhole in the side of the tree, convenient for storing medicines
+in.  A strange but pleasant tingling fills your body.  
+~
+0 1032 3
+0
+D3
+~
+~
+1 0 31111
+M 300 H 110
+S
+#31113
+Path to the Elder Tree~
+The beating of drums becomes even louder here, drowning out all other
+sounds.  The trees surrounding you seem to possess a timeless quality, their
+age is indiscriminate.  To the north is the Elder Tree.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31114
+D1
+~
+~
+0 0 31111
+S
+#31114
+The Ancestor's Garden~
+A circle of trees is distinguished from the rest by the sheer enormity of
+their size and agelessness of their appearance.  These are the Elder Trees
+of the past, now become one with the forest.  
+~
+0 0 3
+0
+D0
+~
+~
+0 0 31116
+D2
+~
+~
+0 0 31113
+S
+#31115
+The Broken Branch~
+A large branch of the tree is broken here, creating a roof to keep out
+the elements.  Other trees and branches are lashed together with vines to
+make the room slightly larger.  All sorts of weapons and armor made entirely
+from wood fallen from the trees is here.  
+~
+0 1032 0
+0
+D2
+~
+~
+0 0 31107
+S
+#31116
+The Home of the Elder Tree~
+This is the home of the Elder Tree, perhaps the wisest creature in the
+known world.  The Elder Trees live for countless centuries, until they hear
+the beckoning of the forest and become a normal tree.  Then the great cycle
+begins anew as the new Elder Tree listens to the music of the tree, and
+learns wisdom from it.  
+~
+0 0 3
+0
+D2
+~
+~
+0 0 31114
+S
+#0
+
+
+
+#SPECIALS
+M 31101 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 31111 1 1
+D 0 31112 3 1
+M 0 31108 10 31104 1
+M 0 31100 1 31105 1
+G 0 31103 0
+G 0 31102 0
+G 0 31101 0
+G 0 31100 0
+M 0 31109 10 31106 1
+M 0 31108 10 31107 1
+M 0 31102 1 31108 1
+M 0 31108 10 31109 1
+M 0 31103 1 31110 1
+M 0 31101 1 31112 1
+M 0 31109 10 31113 1
+M 0 31104 1 31114 1
+M 0 31106 1 31115 1
+G 0 31106 0
+G 0 31107 0
+G 0 31105 0
+M 0 31105 1 31116 1
+G 0 31104 0
+S
+
+
+
+#SHOPS
+31100 26 10 0 0 0 100 70 0 23
+31106 5 9 0 0 0 100 70 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

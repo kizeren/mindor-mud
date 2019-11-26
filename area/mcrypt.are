@@ -1,0 +1,253 @@
+#AREADATA
+Name Muraelor's crypt~
+Builders Nimbus~
+VNUMs 20601 20750
+Credits [TAll ] Nimbus~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#20601
+Near A Humble Looking Home~
+~
+0 0 0
+D0
+~
+~
+0 0 20602
+S
+#20602
+Outside The House~
+~
+0 0 0
+D0
+~
+~
+1 0 20603
+D2
+~
+~
+0 0 20601
+S
+#20603
+The Living Room~
+~
+0 0 0
+D0
+~
+~
+0 0 20609
+D1
+~
+~
+0 0 20608
+D2
+~
+~
+1 0 20602
+D3
+~
+~
+1 0 20604
+S
+#20604
+The Dining Table~
+~
+0 0 0
+D1
+~
+~
+1 0 20603
+D3
+~
+~
+0 0 20605
+S
+#20605
+The Kitchen~
+~
+0 0 0
+D0
+~
+~
+0 0 20606
+D1
+~
+~
+0 0 20604
+S
+#20606
+By The Sinks~
+~
+0 0 0
+D1
+~
+~
+0 0 20607
+D2
+~
+~
+0 0 20605
+S
+#20607
+The Storage Room~
+~
+0 0 0
+D3
+~
+~
+0 0 20606
+S
+#20608
+By The Fireplace~
+~
+0 0 0
+D3
+~
+~
+0 0 20603
+S
+#20609
+A Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 20610
+D2
+~
+~
+0 0 20603
+S
+#20610
+End Of The Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 20614
+D2
+~
+~
+0 0 20609
+D3
+~
+~
+0 0 20611
+S
+#20611
+Entrance To The Bedroom~
+~
+0 0 0
+D1
+~
+~
+0 0 20610
+D3
+~
+~
+0 0 20612
+S
+#20612
+By The Bed~
+~
+0 0 0
+D0
+~
+~
+0 0 20613
+D1
+~
+~
+0 0 20611
+S
+#20613
+The Closet~
+~
+0 0 0
+D2
+~
+~
+0 0 20612
+S
+#20614
+Stairs To The Cellar~
+~
+0 0 0
+D3
+~
+~
+0 0 20610
+D5
+~
+~
+0 0 20615
+S
+#20615
+In The Cellar~
+~
+0 0 0
+D0
+~
+~
+0 0 20616
+D4
+~
+~
+0 0 20614
+S
+#20616
+By Some Wine Racks~
+~
+0 0 0
+D2
+~
+~
+0 0 20615
+S
+#20617
+Along A Dark Passage~
+~
+0 0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 20602 0 1
+D 0 20603 2 1
+D 0 20603 3 1
+D 0 20604 1 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

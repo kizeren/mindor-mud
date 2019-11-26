@@ -1,0 +1,722 @@
+#AREADATA
+Negasty~
+Builders ~
+VNUMs 40300 40399
+Credits [LOCK] New Area~
+Security 1
+RepopMsg A bell chimes~
+End
+
+
+
+#MOBILES
+#40300
+Zanthor~
+Zanthor~
+Zanthor seems to be 6' 9" tall, with black hair and brown eyes.  He seems to be very large, and cheery.
+~
+Zanthor seems to be 6' 9" tall, with black hair and brown eyes.  He seems to be very large, and cheery.
+~
+human~
+ABG 0 0 A 0 0
+99 10 1d20+5 0d0+0 1d6+10 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40301
+Sarah~
+desc Sarah~
+This lady seems to be the Inn keeper here.
+~
+~
+human~
+A 0 0 A 0 0
+59 100 1d3+2 1d6+10 1d20+9 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#40302
+Benther~
+Benther~
+Benther
+~
+~
+human~
+A 0 0 A 0 0
+69 -1 15d20+50 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#40303
+{gDrake{x~
+{gDrake{x seems to be floating here.~
+{gDrake{x seems to be floating here.
+~
+~
+blackdragon~
+ABf JT 0 A 0 0
+99 99 199d33+1999 99d10+85 33d3+54 none
+-57 -57 -57 -36
+0 L BEH OS
+stand stand male 0
+AGHZ ACDEFGHIJKPQUVX medium unknown
+#0
+
+
+
+#OBJECTS
+#40300
+An{y Orb {Wof{g Alteration{x~
+an{y Orb {Wof{g Alteration{x~
+An{y Orb {Wof{g Alteration{x lies here shifting.~
+Mithril~
+weapon ACEGIPSUY AN
+exotic 15000 15000 divine ABCDEGH
+105 0 0 P
+A
+1 50
+A
+2 50
+A
+3 50
+A
+4 50
+A
+5 50
+A
+17 500
+A
+18 5000
+A
+19 5000
+A
+20 50
+A
+13 5000
+A
+12 5000
+A
+17 -500
+A
+17 -500
+#40301
+A{b Holy{R Helm {Wof{g Nathandin{x~
+a{b Holy{R Helm {Wof{g Nathandin{x~
+A{b Holy{R Helm {Wof{g Nathandin{x lies here.~
+Obsidian~
+armor ABCEJL AE
+99999 99999 99999 99999 0
+100 0 0 P
+A
+20 5000
+A
+19 5000
+A
+18 5000
+A
+17 -5000
+A
+5 5000
+A
+4 5000
+A
+3 5000
+A
+1 5000
+#40302
+A{b Black Cloak {Wof{b Hiding{x~
+a{b Black Cloak {Wof{b Hiding{x~
+A{b Black Cloak {Wof{b Hiding{x lies here.~
+unknown~
+armor AE AC
+99999 99999 99999 99999 0
+1 1 20 P
+A
+19 5000
+A
+18 5000
+A
+17 -5000
+A
+13 5000
+A
+12 5000
+A
+5 5000
+A
+4 5000
+A
+3 5000
+A
+2 5000
+A
+1 5000
+#40303
+{b Chest Plate of Defense {w~
+{bChest Plate of Defense{w~
+{b(Chest Plate of Defense) {wThis chest plate is made from pure Diamonds and Obsidian.~
+Obsidian/ Diamonds~
+armor ABCEJLY AK
+3567 33384826 4392828 2147483647 0
+100 20 999990 P
+A
+20 5000
+A
+5 5000
+A
+4 5000
+A
+3 5000
+A
+2 5000
+A
+17 -5000
+A
+1 5000
+#40304
+A{b Gauntlet {Wof{y Strength{x~
+a{b Gauntlet {Wof{y Strength{x~
+A{b Gauntlet {Wof{y Strength{x lies here.~
+Obsidian~
+armor ABCEJLY AM
+50000 50000 50000 50000 0
+100 15 0 P
+#40310
+no name~
+(no short description)~
+(no description)~
+Mercurey~
+potion 0 AL
+105 'reserved' 'reserved' 'reserved' 'reserved'
+105 0 0 P
+#40312
+A{y Golden{b Ring {wof{g Negasty{x~
+a{g {yGolden{b Ring {Wof{g Negasty{x~
+A{g {yGolden{b Ring {Wof{g Negasty{x lies here.~
+Obsidian~
+jewelry ABCJLY AB
+0 0 0 0 0
+100 1 0 P
+A
+19 50
+A
+3 500
+A
+2 500
+A
+5 500
+A
+1 500
+A
+17 31072
+#40313
+orb dragonorb~
+the Gold Dragon Orb~
+Ban~
+oldstyle~
+staff GKL AO
+14 4 4 'heal' 0
+33 300 9000 P
+A
+3 1
+A
+4 2
+#40314
+A{b Wand of Magic Missile{x~
+a wand of magic missiles~
+A {bWand of Magic Missile{x lies here.~
+wood~
+wand G AO
+4 10 10 'magic missile' 0
+3 10 320 P
+E
+wand~
+It has a little note that says 'point this end at target'.
+~
+#40315
+{rGnarled Staff{x~
+a gnarled staff~
+A gnarled staff is here.~
+oldstyle~
+weapon 0 AN
+exotic 1 9 pound 0
+9 150 730 P
+#40316
+{rRing of Protection{x~
+a ring of protection~
+an enchanted ring of protection sits on the floor.~
+silver~
+treasure G AB
+0 0 0 0 0
+15 10 640 P
+A
+20 -1
+A
+17 -2
+E
+ring~
+It's a silver ring set with a gleaming moonstone.
+~
+#40317
+{gScroll of Cancellation{x~
+a scroll of cancellation~
+{gScroll of Cancellation{x is here.~
+vellum~
+scroll G AO
+15 'cancellation' '' '' ''
+17 10 1190 P
+E
+scroll~
+Use this scroll to remove magical curses.
+~
+#0
+
+
+
+#ROOMS
+#40300
+Negasty's Town Center~
+As you walk into the center, you see trees all over.  The grass is lush with green.  Above you, you notice that their is no roof.  You see exits to the {r SOUTH, NORTH, EAST, WEST.{y
+~
+0 0 0
+0
+D0
+~
+~
+0 0 40301
+D1
+~
+~
+0 0 40312
+S
+#40301
+Road~
+As you walk along the cobble stone pathed path, you notice several shops to either side of you.  You see the road continue further.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 40302
+D2
+~
+~
+0 0 40300
+S
+#40302
+Road~
+As you walk along the cobble stone pathed path, you notice several shops to either side of you.  You see the road continue further.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 40305
+D1
+~
+~
+0 0 40304
+D2
+~
+~
+0 0 40301
+D3
+~
+~
+0 0 40303
+S
+#40303
+Wizardry~
+You see that the walls are filled with literature.  Scroll's lye on top of shelves, on desk's, and on the floor.  You can here mumbling from the other room.  It seems to get louder as a blackdragon appears floating in the air.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 40302
+S
+#40304
+Armory~
+Here you see walls upon walls filled with armor.  Through the planks of the wood celing, the sun is shining down upon the armor, making it almost impossible to see.  To one end of the room, you notice a man pounding a hammer into something.
+~
+0 0 0
+0
+D3
+~
+~
+0 0 40302
+S
+#40305
+Road~
+As you walk along the cobble stone pathed path, you notice several shops to either side of you.  You see the road continue further.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 40308
+D1
+~
+~
+0 0 40307
+D2
+~
+~
+0 0 40302
+D3
+~
+~
+0 0 40306
+S
+#40306
+Banidor's Black Smith~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 40305
+S
+#40307
+Gen's Tavern~
+~
+0 0 0
+0
+D3
+~
+~
+0 0 40305
+S
+#40308
+Road~
+As you walk along the cobble stone pathed path, you notice several shops to either side of you.  You see the road continue further.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 40309
+D2
+~
+~
+0 0 40305
+S
+#40309
+Negasty's North Gate~
+Your standing inside the North Gate of Negasty. As you look out onto 
+the horizon past the Gate itself you see a huge dying forest. A small
+path leads {@North{x towards the entrance of the evil looking forest.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 40311
+D2
+~
+~
+0 0 40308
+D3
+~
+~
+0 0 40310
+S
+#40310
+North West Gate Tower~
+As you walk into the tower, you can't seem to see anything other than the stairs leading upward.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 40309
+D4
+~
+~
+0 0 40322
+S
+#40311
+North East Gate Tower~
+As you walk into the tower, you can't seem to see anything other than the stairs leading upward.
+~
+0 0 0
+0
+D3
+~
+~
+0 0 40309
+D4
+~
+~
+0 0 40316
+S
+#40312
+Road~
+As you walk along the cobble stone pathed path, you notice several shops to either side of you.  You see the road continue further.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 40313
+D3
+~
+~
+0 0 40300
+S
+#40313
+Road~
+As you walk along the cobble stone pathed path, you notice several shops to either side of you.  You see the road continue further.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 40314
+D2
+~
+~
+0 0 40315
+D3
+~
+~
+0 0 40312
+S
+#40314
+Sarah's Inn~
+As you walk into the Inn you notice that people are sitting at tables and are getting drunk.  On an empty table you see a bottle of Vodka.  To the other side of the room, you see a large lady standing behind a counter.
+~
+0 0 0
+0
+D3
+~
+~
+0 0 40313
+S
+#40315
+Al's Food Market~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 40313
+S
+#40316
+~
+~
+0 4 0
+0
+D4
+~
+~
+0 0 40317
+D5
+~
+~
+0 0 40311
+S
+#40317
+~
+~
+0 4 0
+0
+D4
+~
+~
+0 0 40318
+D5
+~
+~
+0 0 40316
+S
+#40318
+~
+~
+0 4 0
+0
+D4
+~
+~
+0 0 40319
+D5
+~
+~
+0 0 40317
+S
+#40319
+~
+~
+0 4 0
+0
+D4
+~
+~
+0 0 40320
+D5
+~
+~
+0 0 40318
+S
+#40320
+~
+~
+0 4 0
+0
+D4
+~
+~
+0 0 40321
+D5
+~
+~
+0 0 40319
+S
+#40321
+Top of North Gate~
+From here you can see the whole town.  Many people are running from here to there.  To the outside of the city, you see the evil dead Forest.
+~
+0 4 0
+0
+D3
+~
+~
+0 0 40327
+D5
+~
+~
+0 0 40320
+S
+#40322
+~
+~
+0 4 0
+0
+D4
+~
+~
+0 0 40323
+D5
+~
+~
+0 0 40310
+S
+#40323
+~
+~
+0 4 0
+0
+D4
+~
+~
+0 0 40324
+D5
+~
+~
+0 0 40322
+S
+#40324
+~
+~
+0 4 0
+0
+D4
+~
+~
+0 0 40325
+D5
+~
+~
+0 0 40323
+S
+#40325
+~
+~
+0 4 0
+0
+D4
+~
+~
+0 0 40326
+D5
+~
+~
+0 0 40324
+S
+#40326
+~
+~
+0 4 0
+0
+D4
+~
+~
+0 0 40327
+D5
+~
+~
+0 0 40325
+S
+#40327
+Top of North Gate~
+From here you can see the whole town.  Many people are running from here to there.  To the outside of the city, you see the evil dead Forest.
+~
+0 4 0
+0
+D1
+~
+~
+0 0 40321
+D5
+~
+~
+0 0 40326
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 40303 1 40303 1
+E 0 40312 0 17
+E 0 40313 0 17
+E 0 40314 0 17
+M 0 40302 1 40306 1
+M 0 40300 1 40323 1
+S
+
+
+
+#SHOPS
+40300 0 0 0 0 0 100 100 0 23
+40301 0 0 0 0 0 100 100 0 23
+40303 3 10 33 4 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

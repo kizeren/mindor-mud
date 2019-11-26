@@ -1,0 +1,2303 @@
+#AREADATA
+Name Desperation~
+Builders ~
+VNUMs 100 299
+Credits [LOCK] Open~
+Security 9
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#100
+Outside the Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 101
+D1
+~
+~
+0 0 151
+S
+#101
+Outside the Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 102
+D2
+~
+~
+0 0 100
+S
+#102
+Outside the Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 103
+D2
+~
+~
+0 0 101
+S
+#103
+Outside the Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 104
+D2
+~
+~
+0 0 102
+S
+#104
+{wOutside the {DWe{wst{We{wr{Dn G{wat{We{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 105
+D1
+~
+gate~
+1 0 177
+D2
+~
+~
+0 0 103
+S
+#105
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 106
+D2
+~
+~
+0 0 104
+S
+#106
+Outside the Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 107
+D3
+~
+~
+0 0 105
+S
+#107
+Outside the Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 108
+D2
+~
+~
+0 0 106
+S
+#108
+Outside the Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 109
+D2
+~
+~
+0 0 107
+S
+#109
+Outside the Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 110
+D2
+~
+~
+0 0 108
+S
+#110
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 111
+D2
+~
+~
+0 0 109
+S
+#111
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 112
+D3
+~
+~
+0 0 110
+S
+#112
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 113
+D3
+~
+~
+0 0 111
+S
+#113
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 114
+D3
+~
+~
+0 0 112
+S
+#114
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 115
+D3
+~
+~
+0 0 113
+S
+#115
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 116
+D3
+~
+~
+0 0 114
+S
+#116
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 117
+D3
+~
+~
+0 0 115
+S
+#117
+{wOutside the {DNo{wrt{Wh{wer{Dn G{wa{Wt{we{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 152
+D1
+~
+~
+0 0 118
+D2
+~
+gate~
+1 0 156
+D3
+~
+~
+0 0 116
+S
+#118
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 119
+D3
+~
+~
+0 0 117
+S
+#119
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 120
+D3
+~
+~
+0 0 118
+S
+#120
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 121
+D3
+~
+~
+0 0 119
+S
+#121
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 122
+D3
+~
+~
+0 0 120
+S
+#122
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 123
+D3
+~
+~
+0 0 121
+S
+#123
+Oustside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 124
+D3
+~
+~
+0 0 122
+S
+#124
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 125
+D3
+~
+~
+0 0 123
+S
+#125
+Outside the Wall~
+~
+0 0 0
+0
+D2
+~
+~
+0 0 126
+D3
+~
+~
+0 0 124
+S
+#126
+Outside the Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 125
+D2
+~
+~
+0 0 127
+S
+#127
+Outside the Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 126
+D2
+~
+~
+0 0 128
+S
+#128
+Outside the Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 127
+D2
+~
+~
+0 0 129
+S
+#129
+Outside the Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 128
+D2
+~
+~
+0 0 130
+S
+#130
+{wOutside the {DEa{wst{We{wr{Dn G{wat{We{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 129
+D1
+~
+~
+0 0 179
+D2
+~
+~
+0 0 131
+D3
+~
+gate~
+1 0 170
+S
+#131
+Outside the Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 130
+D2
+~
+~
+0 0 132
+S
+#132
+Outside the Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 131
+D2
+~
+~
+0 0 133
+S
+#133
+Outside the Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 132
+D2
+~
+~
+0 0 134
+S
+#134
+Outside the Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 133
+D2
+~
+~
+0 0 135
+S
+#135
+Outside the Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 134
+D3
+~
+~
+0 0 136
+S
+#136
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 135
+D3
+~
+~
+0 0 137
+S
+#137
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 136
+D3
+~
+~
+0 0 138
+S
+#138
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 137
+D3
+~
+~
+0 0 139
+S
+#139
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 138
+D3
+~
+~
+0 0 140
+S
+#140
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 139
+D3
+~
+~
+0 0 141
+S
+#141
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 140
+D3
+~
+~
+0 0 142
+S
+#142
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 141
+D3
+~
+~
+0 0 143
+S
+#143
+{wOutside the {DSo{wut{Wh{wer{Dn G{wat{We{x~
+~
+0 0 0
+0
+E
+gate~
+Tall and broad, this gate will require some effort to open.  The wooden
+pannels are battered and broken.  Rusty hinges show evidence of old age.  
+~
+D0
+~
+gate~
+1 0 164
+D1
+~
+~
+0 0 142
+D3
+~
+~
+0 0 144
+S
+#144
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 143
+D3
+~
+~
+0 0 145
+S
+#145
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 144
+D3
+~
+~
+0 0 146
+S
+#146
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 145
+D3
+~
+~
+0 0 147
+S
+#147
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 146
+D3
+~
+~
+0 0 148
+S
+#148
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 147
+D3
+~
+~
+0 0 149
+S
+#149
+Outside the Wall~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 150
+D1
+~
+~
+0 0 148
+S
+#150
+Outside the Wall~
+~
+0 0 0
+0
+D2
+~
+~
+0 0 149
+D3
+~
+~
+0 0 151
+S
+#151
+Outside the Wall~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 150
+D3
+~
+~
+0 0 100
+S
+#152
+Northern Road~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 153
+D2
+~
+~
+0 0 117
+S
+#153
+Northern Road~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 154
+D2
+~
+~
+0 0 152
+S
+#154
+Northern Road~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 155
+D2
+~
+~
+0 0 153
+S
+#155
+Northern Road~
+~
+0 0 0
+0
+D2
+~
+~
+0 0 154
+S
+#156
+{wInside the {DNo{wrt{Wh{wer{Dn G{wa{Wt{we{x~
+~
+0 0 0
+0
+D0
+~
+gate~
+1 0 117
+D1
+~
+~
+0 0 214
+D2
+~
+~
+0 0 157
+D3
+~
+~
+0 0 180
+S
+#157
+{DM{wa{Wi{Dn {wand {DV{wo{Wr{wa{Dn{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 156
+D1
+~
+~
+0 0 221
+D2
+~
+~
+0 0 158
+S
+#158
+{DM{wa{Wi{Dn S{wtr{We{we{Dt{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 157
+D2
+~
+~
+0 0 159
+S
+#159
+{DM{wa{Wi{Dn {wand {DI{wz{Wn{wa{Dc{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 158
+D2
+~
+~
+0 0 160
+D3
+~
+~
+0 0 193
+S
+#160
+{DM{wa{Wi{Dn {wand {DD{wi{Wn{wa{Dr{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 159
+D1
+~
+~
+0 0 178
+D2
+~
+~
+0 0 161
+D3
+~
+~
+0 0 171
+S
+#161
+{DM{wa{Wi{Dn S{wtr{We{we{Dt{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 160
+D2
+~
+~
+0 0 162
+S
+#162
+{DM{wa{Wi{Dn S{wtr{We{we{Dt{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 161
+D2
+~
+~
+0 0 163
+S
+#163
+{DM{wa{Wi{Dn {wand {DS{wa{Wn{wt{Di{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 162
+D1
+~
+~
+0 0 229
+D2
+~
+~
+0 0 164
+D3
+~
+~
+0 0 213
+S
+#164
+{wInside the {DSo{wut{Wh{wer{Dn G{wat{We{x~
+~
+0 0 0
+0
+E
+gate~
+Tall and broad, this gate will require some effort to open.  The wooden
+pannels are battered and broken.  Rusty hinges show evidence of old age.  
+~
+D0
+~
+~
+0 0 163
+D2
+~
+gate~
+1 0 143
+S
+#165
+{wEast {WF{wirs{Wt{w and {DD{wi{Wn{wa{Dr{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 224
+D1
+~
+~
+0 0 166
+D2
+~
+~
+0 0 225
+D3
+~
+~
+0 0 178
+S
+#166
+{DD{wi{Wn{wa{Dr {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 167
+D3
+~
+~
+0 0 165
+S
+#167
+{wEast {WS{wecon{Wd{w and {DD{wi{Wn{wa{Dr{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 235
+D1
+~
+~
+0 0 168
+D2
+~
+~
+0 0 236
+D3
+~
+~
+0 0 166
+S
+#168
+{DD{wi{Wn{wa{Dr {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 169
+D3
+~
+~
+0 0 167
+S
+#169
+{wEast {WT{whir{Wd{w and {DD{wi{Wn{wa{Dr{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 242
+D1
+~
+~
+0 0 170
+D2
+~
+~
+0 0 243
+D3
+~
+~
+0 0 168
+S
+#170
+{wInside the {DEa{wst{We{wr{Dn G{wat{We{x~
+~
+0 0 0
+0
+D1
+~
+gate~
+1 0 130
+D3
+~
+~
+0 0 169
+S
+#171
+{DD{wi{Wn{wa{Dr {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 160
+D3
+~
+~
+0 0 172
+S
+#172
+{wWest {WF{wirs{Wt{w and {DD{wi{Wn{wa{Dr{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 192
+D1
+~
+~
+0 0 171
+D2
+~
+~
+0 0 203
+D3
+~
+~
+0 0 173
+S
+#173
+{DD{wi{Wn{wa{Dr {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 172
+D3
+~
+~
+0 0 174
+S
+#174
+{wWest {WS{wecon{Wd{w and {DD{wi{Wn{wa{Dr{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 190
+D1
+~
+~
+0 0 173
+D2
+~
+~
+0 0 202
+D3
+~
+~
+0 0 175
+S
+#175
+{DD{wi{Wn{wa{Dr {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 174
+D3
+~
+~
+0 0 176
+S
+#176
+{wWest {WT{whir{Wd{w and {DD{wi{Wn{wa{Dr{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 188
+D1
+~
+~
+0 0 175
+D2
+~
+~
+0 0 194
+D3
+~
+~
+0 0 177
+S
+#177
+{wInside the {DWe{wst{We{wr{Dn G{wat{We{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 176
+D3
+~
+gate~
+1 0 104
+S
+#178
+{DD{wi{Wn{wa{Dr {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 165
+D3
+~
+~
+0 0 160
+S
+#179
+east road~
+~
+0 0 0
+0
+D3
+~
+~
+0 0 130
+S
+#180
+{DA{wc{Wn{wa{Ds {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 156
+D3
+~
+~
+0 0 181
+S
+#181
+{wWest {WF{wirs{Wt{w and {DA{wc{Wn{wa{Ds{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 180
+D2
+~
+~
+0 0 210
+D3
+~
+~
+0 0 182
+S
+#182
+{DA{wc{Wn{wa{Ds {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 181
+D3
+~
+~
+0 0 183
+S
+#183
+{wWest {WS{wecon{Wd{w and {DA{wc{Wn{wa{Ds{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 182
+D2
+~
+~
+0 0 208
+D3
+~
+~
+0 0 184
+S
+#184
+{DA{wc{Wn{wa{Ds {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 183
+D3
+~
+~
+0 0 185
+S
+#185
+{wWest {WT{whir{Wd{w and {DA{wc{Wn{wa{Ds{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 184
+D2
+~
+~
+0 0 186
+S
+#186
+{wWest {WT{whir{Wd{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 185
+D2
+~
+~
+0 0 187
+S
+#187
+{wWest {WT{whir{Wd{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 186
+D2
+~
+~
+0 0 188
+S
+#188
+{wWest {WT{whir{Wd{w and {DI{wz{Wn{wa{Dc{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 187
+D1
+~
+~
+0 0 189
+D2
+~
+~
+0 0 176
+S
+#189
+{DI{wz{Wn{wa{Dc {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 190
+D3
+~
+~
+0 0 188
+S
+#190
+{wWest {WS{wecon{Wd{w and {DI{wz{Wn{wa{Dc{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 209
+D1
+~
+~
+0 0 191
+D2
+~
+~
+0 0 174
+D3
+~
+~
+0 0 189
+S
+#191
+{DI{wz{Wn{wa{Dc {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 192
+D3
+~
+~
+0 0 190
+S
+#192
+{wWest {WF{wirs{Wt{w and {DI{wz{Wn{wa{Dc{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 211
+D1
+~
+~
+0 0 193
+D2
+~
+~
+0 0 172
+D3
+~
+~
+0 0 191
+S
+#193
+{DI{wz{Wn{wa{Dc {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 159
+D3
+~
+~
+0 0 192
+S
+#194
+{wWest {WT{whir{Wd{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 176
+D2
+~
+~
+0 0 195
+S
+#195
+{wWest {WT{whir{Wd{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 194
+D2
+~
+~
+0 0 196
+S
+#196
+{wWest {WT{whir{Wd {wand {DS{wa{Wn{wt{Di{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 195
+D1
+~
+~
+0 0 198
+D3
+~
+~
+0 0 197
+S
+#197
+{DS{wa{Wn{wt{Di {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 196
+S
+#198
+{DS{wa{Wn{wt{Di {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 199
+D3
+~
+~
+0 0 196
+S
+#199
+{wWest {WS{wecon{Wd {wand {DS{wa{Wn{wt{Di{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 201
+D1
+~
+~
+0 0 207
+D2
+~
+~
+0 0 200
+D3
+~
+~
+0 0 198
+S
+#200
+{wWest {WS{wecon{Wd{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 199
+S
+#201
+{wWest {WS{wecon{Wd{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 202
+D2
+~
+~
+0 0 199
+S
+#202
+{wWest {WS{wecon{Wd{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 174
+D2
+~
+~
+0 0 201
+S
+#203
+{wWest {WF{wirs{Wt{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 172
+D2
+~
+~
+0 0 204
+S
+#204
+{wWest {WF{wirs{Wt{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 203
+D2
+~
+~
+0 0 205
+S
+#205
+{wWest {WF{wirs{Wt {wand {DS{wa{Wn{wt{Di{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 204
+D1
+~
+~
+0 0 213
+D2
+~
+~
+0 0 206
+D3
+~
+~
+0 0 207
+S
+#206
+{wWest {WF{wirs{Wt{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 205
+S
+#207
+{DS{wa{Wn{wt{Di {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 205
+D3
+~
+~
+0 0 199
+S
+#208
+{wWest {WS{wecon{Wd{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 183
+D2
+~
+~
+0 0 209
+S
+#209
+{wWest {WS{wecon{Wd{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 208
+D2
+~
+~
+0 0 190
+S
+#210
+{wWest {WF{wirs{Wt{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 181
+D2
+~
+~
+0 0 211
+S
+#211
+{wWest {WF{wirs{Wt{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 210
+D2
+~
+~
+0 0 192
+S
+#213
+{DS{wa{Wn{wt{Di {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 163
+D3
+~
+~
+0 0 205
+S
+#214
+{DA{wc{Wn{wa{Ds {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 215
+D3
+~
+~
+0 0 156
+S
+#215
+{wEast {WF{wirs{Wt{w and {DA{wc{Wn{wa{Ds{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 216
+D2
+~
+~
+0 0 222
+D3
+~
+~
+0 0 214
+S
+#216
+{DA{wc{Wn{wa{Ds {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 217
+D3
+~
+~
+0 0 215
+S
+#217
+{wEast {WS{wecon{Wd{w and {DA{wc{Wn{wa{Ds{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 218
+D2
+~
+~
+0 0 231
+D3
+~
+~
+0 0 216
+S
+#218
+{DA{wc{Wn{wa{Ds {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 219
+D3
+~
+~
+0 0 217
+S
+#219
+{wEast {WT{whir{Wd{w and {DA{wc{Wn{wa{Ds{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 220
+D2
+~
+~
+0 0 233
+D3
+~
+~
+0 0 218
+S
+#220
+{DA{wc{Wn{wa{Ds {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D3
+~
+~
+0 0 219
+S
+#221
+{DV{wo{Wr{wa{Dn {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 222
+D3
+~
+~
+0 0 157
+S
+#222
+{wEast {WF{wirs{Wt{w and {DV{wo{Wr{wa{Dn{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 215
+D1
+~
+~
+0 0 230
+D2
+~
+~
+0 0 223
+D3
+~
+~
+0 0 221
+S
+#223
+{wEast {WF{wirs{Wt{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 222
+D2
+~
+~
+0 0 224
+S
+#224
+{wEast {WF{wirs{Wt{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 223
+D2
+~
+~
+0 0 165
+S
+#225
+{wEast {WF{wirs{Wt{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 165
+D2
+~
+~
+0 0 226
+S
+#226
+{wEast {WF{wirs{Wt{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 225
+D2
+~
+~
+0 0 227
+S
+#227
+{wEast {WF{wirs{Wt {wand {DS{wa{Wn{wt{Di{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 226
+D1
+~
+~
+0 0 238
+D2
+~
+~
+0 0 228
+D3
+~
+~
+0 0 229
+S
+#228
+{wEast {WF{wirs{Wt{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 227
+S
+#229
+{DS{wa{Wn{wt{Di {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 227
+D3
+~
+~
+0 0 163
+S
+#230
+{DV{wo{Wr{wa{Dn {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 231
+D3
+~
+~
+0 0 222
+S
+#231
+{wEast {WS{wecon{Wd{w and {DV{wo{Wr{wa{Dn{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 217
+D1
+~
+~
+0 0 232
+D2
+~
+~
+0 0 234
+D3
+~
+~
+0 0 230
+S
+#232
+{DV{wo{Wr{wa{Dn {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 233
+D3
+~
+~
+0 0 231
+S
+#233
+{wEast {WT{whir{Wd{w and {DV{wo{Wr{wa{Dn{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 219
+D2
+~
+~
+0 0 241
+D3
+~
+~
+0 0 232
+S
+#234
+{wEast {WS{wecon{Wd{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 231
+D2
+~
+~
+0 0 235
+S
+#235
+{wEast {WS{wecon{Wd{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 234
+D2
+~
+~
+0 0 167
+S
+#236
+{wEast {WS{wecon{Wd{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 167
+D2
+~
+~
+0 0 237
+S
+#237
+{wEast {WS{wecon{Wd{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 236
+D2
+~
+~
+0 0 239
+S
+#238
+{DS{wa{Wn{wt{Di {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 239
+D3
+~
+~
+0 0 227
+S
+#239
+{wEast {WS{wecon{Wd {wand {DS{wa{Wn{wt{Di{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 237
+D1
+~
+~
+0 0 248
+D2
+~
+~
+0 0 240
+D3
+~
+~
+0 0 238
+S
+#240
+{wEast {WS{wecon{Wd{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 239
+S
+#241
+{wEast {WT{whir{Wd{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 233
+D2
+~
+~
+0 0 242
+S
+#242
+{wEast {WT{whir{Wd{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 241
+D2
+~
+~
+0 0 169
+S
+#243
+{wEast {WT{whir{Wd{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 169
+D2
+~
+~
+0 0 244
+S
+#244
+{wEast {WT{whir{Wd{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 243
+D2
+~
+~
+0 0 245
+S
+#245
+{wEast {WT{whir{Wd {wand {DS{wa{Wn{wt{Di{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 244
+D1
+~
+~
+0 0 246
+D2
+~
+~
+0 0 247
+D3
+~
+~
+0 0 248
+S
+#246
+{DS{wa{Wn{wt{Di {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D3
+~
+~
+0 0 245
+S
+#247
+{wEast {WT{whir{Wd{x~
+~
+0 0 0
+0
+D0
+~
+~
+0 0 245
+S
+#248
+{DS{wa{Wn{wt{Di {DA{wve{Wn{wu{De{x~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 245
+D3
+~
+~
+0 0 239
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 104 1 1
+D 0 117 2 1
+D 0 130 3 1
+D 0 143 0 1
+D 0 156 0 1
+D 0 164 2 1
+D 0 170 1 1
+D 0 177 3 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

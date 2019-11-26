@@ -1,0 +1,1943 @@
+#AREADATA
+Nornir~
+Builders ~
+VNUMs 4300 4399
+Credits [ ALL ] Akasha  Nornir~
+Security 1
+RepopMsg Did you hear that?~
+End
+
+
+
+#MOBILES
+#4300
+Trainer~
+a trainer~
+A trainer is waiting.
+~
+~
+human~
+ABf 0 0 A 0 0
+101 130 10d1000+1000 80d10+85 50d10+100 magic
+-60 -60 -60 -40
+BGKMO ABCEHIJKNOPSX ENP OY
+stand stand female 100000
+CZ 0 large unique
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 4303 100~
+M SPEECH 4301 train~
+#4301
+Trainee~
+a level 50 trainee~
+A level 50 Trainee.
+~
+~
+human~
+A 0 0 A 0 0
+50 50 101d16+506 50d10+85 16d3+30 slash
+-24 -24 -24 -14
+0 0 0 0
+stand stand none 0
+0 0 medium skin
+F for AHMV
+F par ABCDEFGHIJK
+#4302
+Trainee~
+a level 10 trainee~
+A level 10 Trainee.
+~
+~
+human~
+A 0 0 A 0 0
+10 10 21d3+102 10d10+85 3d3+10 slash
+2 2 2 4
+0 0 0 0
+stand stand none 0
+0 0 medium skin
+F for AHMV
+F par ABCDEFGHIJK
+#4303
+a guard~
+a nornir guard~
+A Nornir guard stands here.
+~
+~
+satyr~
+ABG CFG ACFG A 0 0
+20 20 41d6+203 20d10+85 6d3+15 none
+-3 -3 -3 0
+0 H M NS
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#4304
+Trainee~
+a level 20 trainee~
+A level 20 Trainee
+~
+~
+human~
+A 0 0 A 0 0
+20 20 41d6+203 20d10+85 6d3+15 slash
+-3 -3 -3 0
+0 0 0 0
+stand stand none 0
+0 0 medium skin
+F for AHMV
+F par ABCDEFGHIJK
+#4305
+Trainee~
+a level 30 trainee~
+A level 30 Trainee.
+~
+~
+human~
+A 0 0 A 0 0
+30 30 61d10+304 30d10+85 10d3+20 slash
+-10 -10 -10 -4
+0 0 0 0
+stand stand none 0
+0 0 medium skin
+F for AHMV
+F par ABCDEFGHIJK
+#4306
+Trainee~
+a level 40 trainee~
+A level 40 Trainee.
+~
+~
+human~
+A 0 0 A 0 0
+40 40 81d13+405 40d10+85 13d3+25 slash
+-17 -17 -17 -9
+0 0 0 0
+stand stand none 0
+0 0 medium skin
+F for AHMV
+F par ABCDEFGHIJK
+#4307
+Selchez~
+Selchez~
+A counter person is selling magical potions.
+~
+~
+human~
+ABG 0 A A 0 0
+110 110 221d36+3334 110d10+85 36d3+60 none
+-64 -64 -64 -41
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 4307 100~
+#4308
+Trainee~
+a level 60 trainee~
+A level 60 Trainee
+~
+~
+human~
+A 0 0 A 0 0
+60 60 121d20+1213 60d10+85 20d3+35 none
+-30 -30 -30 -18
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4309
+Trainee~
+a level 70 trainee~
+A level 70 Trainee.
+~
+~
+human~
+A 0 0 A 0 0
+70 70 141d23+1415 70d10+85 23d3+40 slash
+-37 -37 -37 -22
+0 0 0 0
+stand stand none 0
+0 0 medium skin
+F for AHMV
+F par ABCDEFGHIJK
+#4310
+a temple guard~
+a temple guard~
+A temple guard stands here.
+~
+~
+centaur~
+ABG 0 A A 0 0
+110 110 221d36+3334 110d10+85 36d3+60 divine
+-64 -64 -64 -41
+BCDGH ABQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK large unknown
+M GREET 4310 100~
+#4311
+a healer~
+a healer~
+A temple healer is here.
+~
+~
+elf~
+ABGZae J AJ A 0 0
+110 110 221d36+3334 110d10+85 36d3+60 none
+-64 -64 -64 -41
+0 0 B Z
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 4300 100~
+#4312
+a bank tellar~
+a bank tellar~
+A bank tellar is standing here.
+~
+~
+human~
+ABG 0 A A 0 0
+110 110 221d36+3334 110d10+85 36d3+60 none
+-64 -64 -64 -41
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4313
+Keble~
+Keble~
+Keble is reading some books.
+~
+~
+avian~
+ABGJKb DFJLT ADFJLT A 0 0
+109 109 219d36+3301 109d10+85 36d3+59 none
+-64 -64 -64 -41
+0 0 J LQ
+stand stand male 0
+AHMV ABCDEFGHIJKP medium flesh
+#4314
+Liertor~
+Liertor~
+Liertor is looking to server up some drinks.
+~
+~
+human~
+ABG 0 A A 0 0
+109 110 221d36+3334 110d10+85 36d3+60 none
+-64 -64 -64 -41
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4315
+Trainee~
+a level 80 trainee~
+A level 80 Trainee.
+~
+~
+human~
+A 0 0 A 0 0
+80 80 161d26+1617 80d10+85 26d3+45 slash
+-44 -44 -44 -28
+0 0 0 0
+stand stand none 0
+0 0 medium skin
+F for AHMV
+F par ABCDEFGHIJK
+#4316
+Trainee~
+a level 90 trainee~
+A level 90 Trainee.
+~
+~
+human~
+A 0 0 A 0 0
+90 90 181d30+1819 90d10+85 30d3+50 slash
+-51 -51 -51 -32
+0 0 0 0
+stand stand none 0
+0 0 medium skin
+F for AHMV
+F par ABCDEFGHIJK
+#4317
+Trainee~
+a level 100 trainee~
+A level 100 Trainee.
+~
+~
+human~
+A 0 0 A 0 0
+100 100 201d33+2021 100d10+85 33d3+55 slash
+-57 -57 -57 -37
+0 0 0 0
+stand stand none 0
+0 0 medium skin
+F for AHMV
+F par ABCDEFGHIJK
+#4321
+a shop keeper~
+a shop keeper~
+A shop keeper
+~
+~
+human~
+ABG 0 A A 0 0
+100 100 201d33+2021 100d10+85 33d3+55 none
+-58 -58 -58 -37
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4325
+a jeweler~
+a jeweler~
+A jeweler is standing behind the counter.
+~
+~
+human~
+ABG 0 A A 0 0
+110 110 221d36+3334 110d10+85 36d3+60 none
+-64 -64 -64 -41
+0 0 0 0
+stand stand none 2147483647
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4326
+Kren~
+Kren~
+A counter clerk is waiting for an order.
+~
+~
+human~
+ABG 0 A A 0 0
+110 110 221d36+3334 110d10+85 36d3+60 none
+-64 -64 -64 -41
+0 0 0 0
+stand stand male 1000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4327
+statue~
+adept of {WKizeren{x~
+An adept of {WKizeren{x stands before you.
+~
+~
+dragon~
+ABG JT AJT A 0 0
+109 109 219d36+3301 109d10+85 36d3+59 none
+-64 -64 -64 -41
+0 0 BEH FI
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX medium unknown
+#4331
+Maxtor~
+Maxtor~
+Maxtor is showing travelors to thier rooms.
+~
+~
+giant~
+ABG 0 A A 0 0
+109 109 219d36+3301 109d10+85 36d3+59 none
+-64 -64 -64 -41
+0 0 HI JP
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 4331 100~
+M BRIBE 4332 10000~
+#4340
+mortician~
+a mortician~
+A mortician is here.
+~
+~
+avian~
+ABG DFJLT ADFJLT A 0 0
+109 109 219d36+3301 109d10+85 36d3+59 none
+-64 -64 -64 -41
+0 0 J LQ
+stand stand none 0
+AHMV ABCDEFGHIJKP medium unknown
+#4346
+A cult member~
+a cult member~
+A chanting cult member is here.
+~
+~
+halforc~
+A Da Aa A 0 0
+90 90 181d30+1819 90d10+85 30d3+50 none
+-51 -51 -51 -32
+CU ABH CD NP
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#4349
+A cult member~
+a cult member~
+A chanting cult member is here.
+~
+~
+halforc~
+A a Aa A 0 0
+90 90 181d30+1819 90d10+85 30d3+50 none
+-51 -51 -51 -32
+CU ABH CD NP
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#4370
+Trainer~
+a trainer~
+A trainer is waiting.
+~
+~
+human~
+ABf 0 0 A 0 0
+101 130 10d1000+1000 80d10+85 50d10+100 magic
+-60 -60 -60 -40
+BGKMO ABCEHIJKNOPSX ENP OY
+stand stand female 100000
+CZ 0 large unique
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 4304 100~
+M SPEECH 4302 50~
+M SPEECH 4311 10~
+M SPEECH 4312 20~
+M SPEECH 4313 30~
+M SPEECH 4314 40~
+M SPEECH 4315 60~
+M SPEECH 4321 70~
+M SPEECH 4322 80~
+M SPEECH 4323 90~
+M SPEECH 4324 100~
+#4399
+Puff~
+Puff~
+Puff, the fractal dragon, is contemplating a higher reality.
+~
+~
+human~
+A 0 A A 0 0
+80 130 10d1000+1000 80d10+85 50d10+100 magic
+-60 -60 -60 -40
+BGKMO ABC ENP OY
+stand stand female 1000
+CZ 0 large unique
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#4302
+bench~
+a bench~
+A {Wwhite{x granite bench is here.~
+granite~
+furniture 0 0
+3 1000 E 150 150
+0 0 0 P
+#4303
+jewelled bag~
+a jewelled encrusted potion bag~
+A jewelled encrusted potion bag has been left here.~
+jewels~
+container 0 AO
+1000 A 0 0 0
+5 100 4000 P
+#4304
+herbs~
+some herbs~
+Some herbs were left here.~
+unknown~
+pill 0 AO
+10 'heal' '' '' ''
+10 5 1000 P
+#4305
+potion speed~
+a potion of speed~
+A potion of speed.~
+glass~
+potion 0 AO
+5 'haste' '' '' ''
+10 5 2000 P
+#4306
+potion bless~
+a potion of blessings~
+A potion of blessings.~
+glass~
+potion 0 AO
+10 'bless' '' '' ''
+10 5 2000 P
+#4307
+potion sanc~
+a potion of sanctuary~
+A potion of sanctuary.~
+glass~
+potion A AO
+20 'sanctuary' '' '' ''
+5 5 2000 P
+#4308
+green drink~
+a {Ggreen{x drink~
+A {Ggreen{x drink sits here.~
+glass~
+potion A AO
+30 'detect magic' 'detect hidden' 'detect invis' 'reserved'
+5 5 3000 P
+#4309
+firebreather shot~
+a firebreather shot~
+A firebreather shot glass has been left here.~
+glass~
+drink 0 AO
+1 1 'firebreather' 0 0
+0 1 20 P
+#4310
+flowers~
+some flowers~
+Some flowers are growing here.~
+grass~
+food 0 AO
+10 4 0 0 0
+0 2 0 P
+#4311
+absinthe shot~
+a absinthe shot~
+A absinthe shot glass has been left here.~
+unknown~
+drink 0 AO
+1 1 'absinthe' 0 0
+0 0 20 P
+#4312
+Nornir beer~
+a Nornir beer~
+A Nornir beer has been left here.~
+aluminum~
+drink 0 AO
+4 4 'beer' 0 0
+0 2 10 P
+#4313
+fountain~
+a fountain~
+A fountain is here.~
+stone~
+fountain 0 0
+1000 1000 'water' 0 0
+0 0 0 P
+#4314
+jukebox~
+a {Cjuke{Mbox{x~
+A {CJ{cuke{Mb{mox{x is waiting to be played.~
+wood~
+jukebox 0 0
+0 0 0 0 0
+0 0 0 P
+#4315
+nornir chain ankle~
+a Nornir ankle chain~
+A Nornir ankle chains has been left here.~
+metal~
+armor B AS
+10 10 10 10 0
+20 1 2000 P
+#4316
+zodiac symbol ear earring~
+a zodiac symbol~
+A earring in the shape of a zodiac sign has been left here.~
+unknown~
+armor 0 AT
+10 10 10 10 0
+20 1 2000 P
+A
+6 0
+A
+18 3
+A
+13 30
+#4317
+dagger water~
+a {Bwater{x dagger~
+A water puddle floats here in the shape of a dagger.~
+water~
+weapon 0 AN
+dagger 4 10 chill 0
+40 41 2110 P
+A
+19 3
+A
+18 3
+#4318
+pendant wind~
+a {Bpendant {xof {Gwind{x~
+A {Bpendant {xof {Gwind{x lies here.~
+wind~
+armor B AC
+8 8 8 7 0
+20 21 16 P
+#4319
+chair~
+a chair~
+An old wooden and well crafted chair is here.~
+wood~
+furniture 0 0
+1 700 E 0 0
+0 0 1000 P
+#4320
+bench~
+a bench~
+A well crafted wooden bench is here.~
+wood~
+furniture 0 0
+4 700 E 0 0
+0 0 3000 P
+#4321
+bed~
+a bed~
+A very soft and large bed is here.~
+wood~
+furniture 0 0
+2 400 K 250 250
+0 0 10000 P
+#4322
+frame~
+a picture frame~
+A wooden picture frame hangs here.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 0 1000 P
+#4323
+stargate~
+stargate~
+A stargate is buzzing here.~
+titanium~
+portal 0 0
+0 0 0 1 0
+0 0 0 P
+#4324
+anklet~
+{Rf{Br{Ca{Yc{Wt{Ma{Gl{x anklet~
+Puff's anklets have been dropped here.~
+fractal~
+armor B AS
+26 26 26 25 0
+70 71 66 P
+#4325
+pit donpit~
+the donation pit~
+A small shallow well is here.~
+~
+container O 0
+10000 0 0 10000 0
+0 0 0 P
+E
+pit~
+This is where you put money and items to help other travelers.
+~
+#4326
+robe~
+a cult robe~
+A robe of the burning cult has been left here.~
+unknown~
+armor EJ AD
+33 33 33 32 0
+90 91 94 P
+#4327
+dagger~
+a {Rbloody{x dagger~
+An occult dagger has been left here.~
+unknown~
+weapon 0 0
+dagger 10 13 slash 0
+95 96 5635 P
+A
+18 8
+A
+19 8
+#4328
+pentagram~
+a pentagram pendant~
+A pentagram pendant lies here.~
+gold~
+armor EJ AC
+34 34 34 33 0
+95 96 91 P
+A
+13 100
+A
+13 10
+#4397
+portal~
+a portal~
+A portal to the cross roads hovers here.~
+unknown~
+portal 0 0
+0 0 0 3502 0
+0 0 0 P
+#4398
+key~
+a jewel lined key~
+A jewel lined key to the gate of Nornir has been left here.~
+gold~
+room_key H AO
+0 0 0 0 0
+1 2 1000000 P
+#4399
+fish~
+a fish~
+A fish has been left here.~
+fish~
+food 0 AO
+3 10 0 0 0
+1 5 20 P
+#0
+
+
+
+#ROOMS
+#4300
+Under a dock~
+The docks of Nornir are freshly build and still smell of saw dust.  The
+glistening sun bounces off the Dragon Sea of the east to light up the new
+docks.  
+~
+0 0 1
+0
+D3
+~
+~
+0 0 4220
+D4
+~
+~
+0 0 4301
+S
+#4301
+On a dock~
+Standing on the newly built dock the extends to the east into the town. 
+The dock hasn't been here that long for the paint still smells fresh.  There
+is a ladder that has been built on to the western end of the dock to alow
+for boats to access the dock.  
+~
+0 0 1
+0
+D1
+~
+~
+0 0 4302
+D5
+~
+~
+0 0 4300
+S
+#4302
+On a road~
+The road leads to the western gates of Nornir.  The road has freshly laid
+bricks and very well maintained.  There is alot of noise coming from the
+city to the east and the docks to the west.  There is a nice bench here for
+passerbys to sit on.  
+~
+0 0 1
+0
+D1
+~
+~
+0 0 4303
+D3
+~
+~
+0 0 4301
+S
+#4303
+Western Gates of Nornir~
+Massive gates made of white granite stone, are open to all outsiders
+travelling into the city of Nornir.  The sound of of buzy citizens echo off
+the doors.  There are solid brass lanterns hanging from the posts the
+connect the gates to the granite walls.  The shrubs around the gates and
+road are kept neatly cut.  The sky is free from obstructions and can be very
+enjoyable on pleasent afternoons.  
+~
+0 0 1
+0
+D1
+~
+~
+0 0 4304
+D3
+~
+~
+0 0 4302
+S
+#4304
+Sistrine road~
+The road of Sistrine, is a lightly travelled road for the city is still
+under construction.  To the north seems to be most of the towns attractions.
+A few shops and dinners are to the north.  To the souht is a very quiet part
+of the town, not many people have reason to go this way.  
+~
+0 262144 1
+0
+D0
+~
+~
+0 0 4305
+D2
+~
+~
+0 0 4316
+D3
+~
+~
+0 0 4303
+S
+#4305
+Sistrine road~
+Sistrine road is a very buzy place during festivals.  The wall of the
+city to the left is made of white polished granite.  There is an empty lot
+to the right for future expansion of buildings.  The sky is clearly visible
+from here.  
+~
+0 262144 1
+0
+D0
+~
+~
+0 0 4306
+D1
+~
+~
+0 0 4328
+D2
+~
+~
+0 0 4304
+S
+#4306
+Sistrine road~
+The main road in this part of town isn't very well traveled.  The
+comoners booths from the north don't come down this way much unless a very
+large activity is coming to the city.  The building to the east is flying a
+purple flag and has a potion symbol carved into the front of the granite.  
+~
+0 262144 1
+0
+D0
+~
+~
+0 0 4308
+D1
+~
+~
+0 0 4307
+D2
+~
+~
+0 0 4305
+D3
+~
+~
+0 0 4326
+S
+#4307
+Apothecary~
+This room is full of shelves on every wall, all containing various
+potions of every kind.  Rainbow-hued potions lie next to bubbling
+concoctions.  The shop is cluttered and a little small, but it looks as
+though the owner does pretty good business.  
+~
+0 262144 0
+0
+D3
+~
+~
+0 0 4306
+S
+#4308
+Sistrine road~
+The market square of Nornir is full of activities from morning to nite. 
+The commoners come to this square to set up thier little makshift booths to
+sell home-made goods.  There are a couple of granite buildings around this
+area flying thier house flags.  To the west the building is flying the a
+golden flag, and has a big engraved insignia of a donomination symbol in the
+front of it.  
+~
+0 262144 1
+0
+D0
+~
+~
+0 0 4313
+D1
+~
+~
+0 0 4309
+D2
+~
+~
+0 0 4306
+D3
+~
+~
+0 0 4312
+S
+#4309
+Temple road~
+The temple road is marked with holy symbols on both sides.  They seem to
+be etched in what is old granite stones made into a fence like structure. 
+The path is lightly travled and neatly cleaned.  The sky is some what
+exposed throught the high trees that grow behind the tranite stones. 
+Continue to the east for the temple and back west for the commoners square. 
+~
+0 262144 1
+0
+D1
+~
+~
+0 0 4310
+D3
+~
+~
+0 0 4308
+S
+#4310
+Temple road~
+The temple road is one of the more busier streets.  With all the people
+coming to worship and pray at the temple.  The flags from the main stree are
+visible even from the temple.  The temple flys a blue flag and has a holy
+symbols etched into the granite sides of all the walls.  There are many
+flowers surrounding this part of the path and clear up to the entrance. 
+There is a beautifully decorated fountain in the middle of the path.  To the
+south is the Nornir library.  
+~
+0 262144 1
+0
+D0
+~
+~
+0 0 4311
+D1
+~
+~
+0 0 4329
+D2
+~
+~
+0 0 4315
+D3
+~
+~
+0 0 4309
+D4
+~
+~
+0 0 700
+D5
+~
+~
+0 0 4351
+S
+#4311
+Healer's temple~
+Standing at the base of the temple alter.  The alter is made of a
+polished white granite stone.  The floor which the alter stands on is made
+of a shiny marble.  The walls are made of the same marble as the floor, but
+the roof is made of a gold like substance.  There are some finely craft
+stiars to the back of the temple.  There's alot of chanting and what sounds
+to be worship songs coming from up there.  
+~
+0 263168 0
+0
+D1
+~
+~
+0 0 4352
+D2
+~
+~
+0 0 4310
+D4
+~
+~
+0 0 4327
+S
+#4312
+Nornir bank~
+A large gold chandelier hangs from the cathedral ceiling of this well
+established financial institution.  The walls are decorated with tapestries
+and murals depicting old gentlemen in finely tailored suits and garments
+showing off their wealth with prosperous-like poses.  Shadows dance as the
+flames from the lobby fireplace dance with the occasional draft emitting
+from the main doors as patrons enter and exit the bank.  Several caged
+windows line the northern walls providing protection to the loyal employees
+that work here.  The air is filled the with the odor of greed and
+prosperity.  A welcome sign hangs from the front desk.  
+~
+0 33816576 0
+0
+E
+sign~
+Welcome to Nornir bank where all banking needs can be met.  Our staff is
+always friendly, neat and on time.  Please see one of our staff members.  
+~
+E
+welcome~
+Welcome to Nornir bank where all banking needs can be met.  Our staff is
+always friendly, neat and on time.  Please see one of our staff members.  
+~
+D1
+~
+~
+0 0 4308
+S
+#4313
+Northern gates~
+The gates are made of white polished granite and look extremly heavy. 
+The trail leading north turns to dirt right out side the gates.  There's
+alot of noise from the travelers coming and going from this spot.  To the
+south is the main square for Nornir.  To the east is a pub where most of the
+commoners hang out at nite fall.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 4400
+D1
+~
+~
+0 0 4314
+D2
+~
+~
+0 0 4308
+D3
+~
+~
+0 0 4325
+S
+#4314
+The pub~
+The pub is a fun and noisey place to hang out.  Many of drinks are served
+here in a nite.  All the local towns people gather here on the festival
+nites for some good drinks.  There is a {Wsign{x on the wall.  The walls in
+the pub are marked with wanted signs and old relicts.  The floor is made of
+a hard oak that has alot of wear and tear on it.  
+~
+0 0 0
+0
+D3
+~
+~
+0 0 4313
+D5
+~
+~
+0 0 16310
+S
+#4315
+Nornir library~
+Welcome to the Nornir library.  The floors are made of oak wood slats and
+the books shelves reach up four stories with a ladder connecting them all. 
+There is a wooden desk in the center of the room with books stacked upon it.
+There are ancient scrolls scattered around the desk.  There are no windows
+in the room for fear that the sunlight could damage the books.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 4310
+S
+#4316
+Sistrine road~
+Sisterine road heading to the homes of Nornir.  This side of town is one
+of the more guarded streets.  Alot of the adventurers come here to buy homes
+and to start familys and to show off wealth.  All the lawns are nicly kept,
+and alot of decorations scatter through out the yards and on the sides of
+the homes.  The street is nicly cleaned and made of the finest white brick
+money can buy.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 4304
+D1
+~
+~
+0 0 4319
+D2
+~
+~
+0 0 4317
+D3
+~
+~
+0 0 4320
+S
+#4317
+Sistrine road~
+Sisterine road heading to the homes of Nornir.  This side of town is one
+of the more guarded streets.  Alot of the adventurers come here to buy homes
+and to start familys and to show off wealth.  All the lawns are nicly kept,
+and alot of decorations scatter through out the yards and on the sides of
+the homes.  The street is nicly cleaned and made of the finest white brick
+money can buy.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 4316
+D1
+~
+~
+0 0 4321
+D2
+~
+~
+0 0 4318
+D3
+~
+~
+0 0 4322
+S
+#4318
+Sistrine road~
+Sisterine road heading to the homes of Nornir.  This side of town is one
+of the more guarded streets.  Alot of the adventurers come here to buy homes
+and to start familys and to show off wealth.  All the lawns are nicly kept,
+and alot of decorations scatter through out the yards and on the sides of
+the homes.  The street is nicly cleaned and made of the finest white brick
+money can buy.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 4317
+D1
+~
+~
+0 0 4323
+D3
+~
+~
+0 0 4324
+S
+#4319
+Saffron's Home~
+You stand at the edge of a peaceful clearing in the middle of a small 
+forest.  At your feet a gently gurgling brook winds it's way around 
+the perimeter of the field.  As you step across the waters, the soft sound 
+of a flute embraces your soul and draws you ever nearer.  Surveying the 
+clearing you notice several beautiful quilts are spread across the carpet 
+of bright green grass.  The reds, yellows, and blues of the patchwork 
+seem to glow in the warm sunlight.  At the far end of the field, a large 
+white hammock is tied between two oaks.  It sways to and fro in the 
+breeze, as if rocking someone to sleep.  Walking closer, you notice a 
+fleece blanket draped across the hammock's edge.    
+~
+0 0 0
+0
+D3
+~
+~
+0 0 4316
+S
+#4320
+Lys's Home~
+This home is kept neat with weapons lining the walls and magical armor
+carefully stored.  It belongs to a great gladiator who likes a quiet rest
+after many long battles.  Many trophies can be seen about but take care not
+to disturb them.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 4316
+S
+#4321
+An Abandoned Home~
+~
+0 16778240 0
+0
+D3
+~
+~
+0 0 4317
+S
+#4322
+An Abandoned Home~
+~
+0 16777216 0
+0
+D1
+~
+~
+0 0 4317
+S
+#4323
+An Abandoned Home~
+~
+0 16777216 0
+0
+D3
+~
+~
+0 0 4318
+S
+#4324
+An Abandoned Home~
+~
+0 16777216 0
+0
+D1
+~
+~
+0 0 4318
+S
+#4325
+Nornir jewlers~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 4313
+S
+#4326
+Kren's Armor~
+The sound of hammering metal grows louder as you enter the armory.  Young
+boys run to and fro carrying buckets of water and coal.  A few dwarves work
+on sections of armor in the back of the shop, their hammers working too fast
+to follow.  The walls are adorned with all of Kren's prize creations.  Here
+you can purchase suits of armor meant to keep monsters from hacking you into
+little pieces.  
+~
+0 120 0
+0
+D1
+~
+~
+0 0 4306
+S
+#4327
+Temple of Kizeren~
+You find yourself standing in front of the altar within the temple of
+Kizeren.  The modest temple is painted white with a few ornaments for
+decoration.  A line of wooden pews allow passers-by to sit down and offer
+their prayers to their god or find peace in a busy world.  Flickering
+candles which are on the ends of the altar cast a shallow light. 
+~
+0 202899464 0
+0
+D5
+~
+~
+0 0 4311
+M 200 H 200
+S
+#4328
+Nornir portal room~
+Portal linking to all the lands float around this room.
+Choose one and 'enter' it to go to a destination.
+~
+0 8 0
+0
+D3
+~
+~
+0 0 4305
+S
+#4329
+Eastern road~
+A wide path leads down the eastern side of the city.  There is a white
+small fence traveling the path.  There are some planted flowers here and
+there to accent the features of the coblestone road.  The path continues to
+the east and west.  There is a inn to the north.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 4331
+D1
+~
+~
+0 0 4330
+D2
+~
+~
+0 0 4340
+D3
+~
+~
+0 0 4310
+S
+#4330
+Eastern road~
+The old stone road fades off into the east, and is not travelled often. 
+There are strange rumors of a haunted museum, where people have went and not
+returned.  There is a donation room to the north.  
+~
+0 0 1
+0
+D0
+~
+~
+0 0 4339
+D1
+~
+~
+0 0 30350
+D3
+~
+~
+0 0 4329
+S
+#4331
+Maxtor's inn~
+Humble little hole in the wall, Maxtor's inn a good quiet place for wiery
+travelors to come to and rest up.  The walls are decorated with many
+pictures, but no windows.  The floor carpet is actually made of bear skin
+sewen together.  There is a small fireplace on the western wall.  There is a
+{Wsign{x on the wall.  
+~
+0 263176 0
+0
+E
+sign~
+A room costs 100 gold for as long as you need it.
+ 
+~
+D2
+~
+~
+0 0 4329
+S
+#4332
+Main hallway~
+The hallway only goes for a couple of room.  There are small rooms east
+and west that offer a perfect nites sleep.  The hallway has a long darkgreen
+carpet down the center of it.  The walls have a dark coloured wood and gold
+lighting fixtures hanging from them.  The ceiling is not much to look at
+just some decoration of sorts around where the walls meet the ceiling.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 4333
+D2
+~
+~
+0 0 4331
+S
+#4333
+Main hallway~
+The hallway only goes for a couple of room.  There are small rooms east
+and west that offer a perfect nites sleep.  The hallway has a long darkgreen
+carpet down the center of it.  The walls have a dark coloured wood and gold
+lighting fixtures hanging from them.  The ceiling is not much to look at
+just some decoration of sorts around where the walls meet the ceiling.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 4336
+D1
+~
+~
+0 0 4335
+D2
+~
+~
+0 0 4332
+D3
+~
+~
+0 0 4334
+S
+#4334
+Small room~
+Small simple room.  No windows and very dark coloured paint on the walls.
+There is nothing here but a small wooden bed.  There is a small light
+fixture on the ceiling and a small rug on the wooden floor.  
+~
+0 1049088 0
+0
+D1
+~
+~
+0 0 4333
+S
+#4335
+Small room~
+Small simple room.  No windows and very dark coloured paint on the walls.
+There is nothing here but a small wooden bed.  There is a small light
+fixture on the ceiling and a small rug on the wooden floor.  
+~
+0 1049088 0
+0
+D3
+~
+~
+0 0 4333
+S
+#4336
+Main hallway~
+The hallway only goes for a couple of room.  There are small rooms east
+and west that offer a perfect nites sleep.  The hallway has a long darkgreen
+carpet down the center of it.  The walls have a dark coloured wood and gold
+lighting fixtures hanging from them.  The ceiling is not much to look at
+just some decoration of sorts around where the walls meet the ceiling.  There
+is small stained glass window that is permanetly sealed to the north of you
+so that noise can not penatrate it.  There are a couple of plants resting on
+a inn tables in both corners of the hallway here.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 4338
+D2
+~
+~
+0 0 4333
+D3
+~
+~
+0 0 4337
+S
+#4337
+Small room~
+Small simple room.  No windows and very dark coloured paint on the walls.
+There is nothing here but a small wooden bed.  There is a small light
+fixture on the ceiling and a small rug on the wooden floor.  
+~
+0 1049088 0
+0
+D1
+~
+~
+0 0 4336
+S
+#4338
+Small room~
+Small simple room.  No windows and very dark coloured paint on the walls.
+There is nothing here but a small wooden bed.  There is a small light
+fixture on the ceiling and a small rug on the wooden floor.  
+~
+0 1049088 0
+0
+D3
+~
+~
+0 0 4336
+S
+#4339
+Donation area~
+This is a good place to look for lost equipment or other things
+travellers may have dropped while passing through.  There is a donation pit
+in the center of this field with high grass covering around most of the
+area.  No visible trees in the area can be seen, but there is a tree line
+far north in the distance.  
+~
+0 67896320 2
+0
+D2
+~
+~
+0 0 4330
+S
+#4340
+City Morgue~
+Boy does it smell here.  There are many body parts laying around from the
+dead corpses.  There is a vault in the wall where all the frozen stiffs are
+kept.  The big table in the middle of the room where the mortician does he
+dirty work.  There is a tray on the table with alot of bloody instruments on
+it.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 4329
+D5
+~
+grate~
+1 0 4341
+S
+#4341
+Underneath the morge~
+A small damp and very dark room beneath the city morgue.  There is a very
+musty smell from the water that leaks through the grate.  Not much to see,
+just some plain dirt walls on all sides.  There is a small crack in the wall
+east, looks like someone could fit if they where willing to try.  
+~
+0 8193 0
+0
+D1
+~
+~
+0 0 4342
+D4
+~
+grate~
+1 0 4340
+S
+#4342
+Muddy caverness opening~
+Muddy opening to a small cavern.  Water trickles by from the room to the
+west has almost formed a little stream.  There is a thick mist floating
+through the air here, making the ground, walls and ceiling very soft to the
+touch.  
+~
+0 8193 0
+0
+D0
+~
+~
+0 0 4343
+D3
+~
+~
+0 0 4341
+S
+#4343
+Muddy cavern~
+Following the small trickle of water, which now leads down a opening in
+this room.  The mist grows thicker now, there is a ladder leading down the
+opening that seems to have been formed from the water.  There is a small
+sound of chanting coming from the opening.  
+~
+0 8193 0
+0
+D2
+~
+~
+0 0 4342
+D5
+~
+~
+0 0 4344
+S
+#4344
+Grand opening~
+There is a large opening to the north.  The opening is made of a brick
+type door way.  Light escapes from the cracks around the door.  The mist is
+very light in this room.  The small stream is collecting in this room and
+seems to be draning through a tiny hole in the floor.  
+~
+0 8193 0
+0
+D0
+~
+~
+1 0 4345
+D4
+~
+~
+0 0 4343
+S
+#4345
+Cult room~
+This is a very well lite room, big candles hang from the cieling and
+stand in the southern corners.  There are benches around the room.  There is
+a book case on the northern wall with books scattered all over the floor
+near the shelves.  There, what sounds to be, chanting coming from the east
+of here.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 4346
+D2
+~
+~
+1 0 4344
+S
+#4346
+Cult room~
+This is the main gathering place for the underground occult.  Many sharp
+knives used for sacrafices hang on the walls still dripping with blood. 
+There is a center table full of burning candles in the center of the room. 
+There are more book cases surrnding the remaining walls.  A large black
+curtain is hanging to the south.  
+~
+0 8192 0
+0
+D2
+~
+~
+0 0 4347
+D3
+~
+~
+0 0 4345
+S
+#4347
+Cult room~
+The smell of blood encases the room.  There are black candles in just
+about every spot of the room.  A large wooden table is in the center of the
+room, sharp knifes sit around the outside of the table with fresh blood
+still on them.  Chanting comes from the east in a low tone.  The ceiling is
+lined with the skulls of the victims from the cult.  
+~
+0 8192 0
+0
+D0
+~
+~
+0 0 4346
+D1
+~
+~
+0 0 4348
+S
+#4348
+Cult room~
+The smell of blood encases the room.  There are black candles in just
+about every spot of the room.  A large wooden table is in the center of the
+room, sharp knifes sit around the outside of the table with fresh blood
+still on them.  Chanting comes from the east in a low tone.  The ceiling is
+lined with the skulls of the victims from the cult.  
+~
+0 8192 0
+0
+D1
+~
+~
+0 0 4349
+D3
+~
+~
+0 0 4347
+S
+#4349
+Cultist bedroom~
+Heads from various types of animals line the walls.  The light on the
+cieling is made of skeleton remains, and the hands of the skeleton hold
+large red candles.  The walls have ritualistic writting on them.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 4350
+D3
+~
+~
+0 0 4348
+S
+#4350
+Priest room~
+High priests room is scattered with bloody items, from daggers to
+clothing.  Many of once alive but now dead remains are piled in the corner,
+eminaiting a foul stench.  The bed clothing is made of human remains and the
+ceiling is decorated in goblin hide.  Dangling on the walls are what once
+seem to be orc skin.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 4349
+S
+#4351
+Teleport Room~
+Varoomm!!!!!!!!!! Your Gone!
+~
+0 0 2
+2
+D4
+~
+~
+0 0 4310
+S
+#4352
+test room~
+Test room.
+~
+0 0 0
+0
+D3
+~
+~
+0 0 4311
+S
+#4353
+Training Room.~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 4370
+S
+#4354
+Training Room.~
+~
+0 0 0
+0
+D3
+~
+~
+0 0 4370
+S
+#4355
+Nornir Training Halls.~
+Welcome to the Nornir halls of training.  The training rooms are all
+around pick one and try not to die.  
+
+
+~
+0 4 0
+0
+D1
+~
+~
+0 0 4356
+D2
+~
+~
+0 0 4370
+D3
+~
+~
+0 0 4357
+S
+#4356
+Training Room.~
+~
+0 0 0
+0
+D3
+~
+~
+0 0 4355
+S
+#4357
+Training Room.~
+~
+0 0 0
+0
+D1
+~
+~
+0 0 4355
+S
+#4370
+Nornir Training Halls.~
+Welcome to the Nornir halls of training.  The training rooms are all
+around pick one and try not to die.  
+
+
+~
+0 4 0
+0
+D0
+~
+~
+0 0 4355
+D1
+~
+~
+0 0 4354
+D3
+~
+~
+0 0 4353
+S
+#0
+
+
+
+#SPECIALS
+M 4300 spec_breath_any
+M 4327 spec_breath_any
+M 4370 spec_breath_any
+M 4399 spec_breath_any
+S
+
+
+
+#RESETS
+D 0 4340 5 1
+D 0 4341 4 1
+O 0 4302 0 4302
+M 0 4303 2 4303 1
+M 0 4307 1 4307 1
+G 0 4307 0
+G 0 4306 0
+G 0 4305 0
+G 0 4304 0
+G 0 4303 0
+G 0 4308 0
+M 0 4310 1 4310 1
+O 0 4310 0 4310
+O 0 4313 0 4310
+M 0 4311 1 4311 1
+M 0 4312 1 4312 1
+O 0 4314 0 4314
+M 0 4314 1 4314 1
+G 0 4309 0
+G 0 4311 0
+G 0 4312 0
+M 0 4313 1 4315 1
+M 0 4325 1 4325 1
+G 0 4398 0
+M 0 4326 1 4326 1
+G 0 4315 0
+G 0 4316 0
+G 0 4317 0
+G 0 4318 0
+M 0 4327 1 4327 1
+M 0 4399 10 4327 1
+E 0 4324 0 21
+E 0 4324 0 22
+O 0 4397 0 4328
+O 0 4323 0 4328
+M 0 4331 1 4331 1
+O 0 4321 0 4334
+O 0 4321 0 4335
+O 0 4321 0 4337
+O 0 4321 0 4338
+O 0 4325 0 4339
+M 0 4340 1 4340 1
+M 0 4346 3 4346 2
+E 0 4326 0 3
+M 0 4349 1 4349 1
+E 0 4327 0 16
+E 0 4328 0 4
+M 0 4300 1 4352 1
+M 0 4370 4 4353 1
+M 0 4370 4 4354 1
+M 0 4370 4 4356 1
+M 0 4370 4 4357 1
+S
+
+
+
+#SHOPS
+4307 0 0 0 0 0 100 100 0 23
+4311 0 0 0 0 0 100 100 0 23
+4312 0 0 0 0 0 100 100 0 23
+4313 0 0 0 0 0 100 100 0 23
+4314 0 0 0 0 0 100 100 0 23
+4321 9 5 10 32 0 100 100 0 23
+4325 8 30 32 33 0 100 100 0 23
+4326 9 5 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#4300
+bow
+say Hello. What can I do for you?
+~
+#4301
+MOB TRANSFER $n 4370
+~
+#4302
+MOB MLOAD 4301
+ 
+~
+#4303
+Say Hello!
+Say Looking to train?
+Say Just say the word and I will transfer you.
+~
+#4304
+say Please wait a moment while I purge the room.
+MOB PURGE 
+say Room purged!
+say What leve mob would you like to train on?
+say 10, 20, 30, 40, 50, 60, 70, 80, 90?
+Say All you have to do is say the number.
+~
+#4307
+say Hello $n.  What may I get you?
+ 
+~
+#4310
+say $n, don't go down!  Don't go down!!!!!
+~
+#4311
+MOB MLOAD 4302
+~
+#4312
+MOB MLOAD 4304
+~
+#4313
+MOB MLOAD 4305
+~
+#4314
+MOB MLOAD 4306
+~
+#4315
+MOB MLOAD 4308
+~
+#4317
+MOB MLOAD 4317
+~
+#4318
+MOB LOAD 4309
+~
+#4319
+MOB MLOAD 4315
+~
+#4320
+MOB MLOAD 4316
+~
+#4321
+MOB MLOAD 4309
+~
+#4322
+MOB MLOAD 4315
+~
+#4323
+MOB MLOAD 4316
+~
+#4324
+MOB MLOAD 4317
+~
+#4331
+say Hello $N, how may I help you?
+~
+#4332
+say Let me show you to your room $n.
+say Follow me please.
+mob transfer $n 4332
+~
+#0
+
+#$

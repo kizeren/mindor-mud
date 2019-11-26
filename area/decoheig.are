@@ -1,0 +1,910 @@
+#AREADATA
+Name Decorum Heights~
+Builders ~
+VNUMs 31300 31349
+Credits [35-60] Yeo    Decorum Heights~
+Security 1
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#31300
+gladiator purple decorum~
+{MG{ml{Ma{md{Mi{ma{Mt{mo{Mr {mo{Mf {mt{Mh{me {MP{mu{Mr{mp{Ml{me {MD{me{Mc{mo{Mr{mu{Mm{x~
+{CA {MG{ml{Ma{md{Mi{ma{Mt{mo{Mr {mo{Mf {mt{Mh{me {MP{mu{Mr{mp{Ml{me {MD{me{Mc{mo{Mr{mu{Mm{C is present.{x
+~
+Clad in all purple, this warrior stands proud and ready to
+defend his hall.
+~
+human~
+Ac 0 A A 0 0
+70 80 25d10+1000 1d100+1 5d8+11 none
+-25 -25 -25 -10
+BCDEFHIKN B 0 0
+stand stand either 1000
+E ABCDEFGIJK large unknown
+F for AHMV
+F par H
+#31301
+wizard blue decorum~
+{BW{bi{Bz{ba{Br{bd {Bo{bf {Bt{bh{Be {bB{Bl{bu{Be {bD{Be{bc{Bo{br{Bu{bm{x~
+{CA {BW{bi{Bz{ba{Br{bd {Bo{bf {Bt{bh{Be {bB{Bl{bu{Be {bD{Be{bc{Bo{br{Bu{bm{C is present.{x
+~
+Clad in all blue, this wizard stands proud and ready to
+defend his hall.
+~
+human~
+Ac 0 A A 0 0
+71 83 25d10+1100 1d100+3000 5d8+13 none
+-25 -25 -25 -11
+0 B 0 0
+stand stand either 1100
+E ABCDEFGHIJK medium unknown
+F for AHMV
+#31302
+mercenary green decorum~
+{GM{ge{Gr{gc{Ge{gn{Ga{gr{Gy {go{Gf {gt{Gh{ge {GG{gr{Ge{ge{Gn {gD{Ge{gc{Go{gr{Gu{gm{x~
+{CA {GM{ge{Gr{gc{Ge{gn{Ga{gr{Gy {go{Gf {gt{Gh{ge {GG{gr{Ge{ge{Gn {gD{Ge{gc{Go{gr{Gu{gm {Cis present.{x
+~
+Clad in all green, this mercenary stands proud and ready to
+defend his hall.
+~
+human~
+Ac 0 A A 0 0
+72 86 25d10+1200 1d100+1 5d8+15 none
+-25 -25 -25 -12
+0 B 0 0
+stand stand either 1200
+0 ABCDEFGHIJK medium unknown
+F for AHMV
+#31303
+priest white decorum~
+{WP{wr{Wi{we{Ws{wt {Wo{wf {Wt{wh{We {wW{Wh{wi{Wt{we {WD{we{Wc{wo{Wr{wu{Wm{x~
+{CA {WP{wr{Wi{we{Ws{wt {Wo{wf {Wt{wh{We {wW{Wh{wi{Wt{we {WD{we{Wc{wo{Wr{wu{Wm{C is present.{x
+~
+Clad in all white, this priest stands proud and ready to
+defend his hall.
+~
+human~
+Ac 0 A A 0 0
+73 89 25d10+1300 1d100+4000 5d9+17 magic
+-25 -25 -25 -13
+0 B 0 0
+stand stand male 1300
+0 ABCDEFGHIJK medium unknown
+F for AHMV
+#31304
+lich red decorum~
+{RL{ri{Rc{rh {Ro{rf {Rt{rh{Re {rR{Re{rd {RD{re{Rc{ro{Rr{ru{Rm{x~
+{CA {RL{ri{Rc{rh {Ro{rf {Rt{rh{Re {rR{Re{rd {RD{re{Rc{ro{Rr{ru{Rm{C is present.{x
+~
+Clad in all red, this lich stands proud and ready to
+defend his hall.
+~
+human~
+Ac 0 A A 0 0
+74 92 25d10+1400 1d100+4000 5d9+19 magic
+-25 -25 -25 -12
+0 B 0 0
+stand stand either 1400
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#31305
+Color King~
+{RC{Go{Bl{Mo{wr {gK{Yi{Cn{Rg{x~
+{CThe {RC{Go{Bl{Mo{wr {gK{Yi{Cn{Rg {Cis present.{x
+~
+~
+human~
+AB 0 A A 0 0
+100 100 201d33+1819 100d9+60 31d3+50 none
+-30 -30 -30 -20
+BEH AB 0 0
+stand stand male 10000
+G ABCDEFGHIJK medium unknown
+F for AHMV
+#0
+
+
+
+#OBJECTS
+#31300
+pond pool~
+a crystal blue pond~
+{CA crystal blue pond is here.{x~
+unknown~
+portal 0 P
+0 0 0 31305 0
+0 0 0 P
+#31301
+Shade color sword~
+{wShades {yof {CC{Bo{Rl{wo{Gr {WSword{x~
+A sword forged with many different colors lies here.~
+unknown~
+weapon AB AN
+dagger 8 10 stab DE
+30 31 1890 P
+A
+18 8
+A
+19 8
+A
+19 2
+A
+18 2
+#31302
+golden coin decorum~
+{YGolden Coin of Decorum Heights{x~
+A wierd looking coin is here.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#31305
+jacuzzi~
+jacuzzi~
+A magnificant looking jacuzzi is here for your pleasure.~
+unknown~
+furniture 0 0
+10 10000 CFIL 1000 1000
+0 0 0 P
+#31320
+sword enlightment~
+{GEnlightment Sword{x~
+A mysterious sword lying here lightens the room.~
+light~
+weapon ABCEMY AN
+sword 15 15 slice DEH
+80 5 0 P
+F
+A 0 0 Db
+A
+1 2
+A
+18 15
+A
+19 10
+#31349
+engagement ring~
+{WPlatinum Engagement Ring{x {Minscribed, {C"Be Mine!"{x~
+An special platinum engagement ring made for Moose.~
+Mysterious~
+armor AHMNSUYZ AB
+0 0 0 0 0
+1 0 0 P
+A
+4 2
+A
+3 2
+#0
+
+
+
+#ROOMS
+#31300
+{CCyan Pit{x~
+{wThe sand underfoot lets off a distrubingly eerie cyan glow of light, a
+reflection of the sunlight through the blood stained clouds.  All around
+sand dunes flows up and down in a rollercoaster of waste land.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31301
+D2
+~
+~
+0 0 6113
+S
+#31301
+{CCyan Pit{x~
+{wThe sand underfoot lets off a distrubingly eerie cyan glow of light, a
+reflection of the sunlight through the blood stained clouds.  All around
+sand dunes flows up and down in a rollercoaster of waste land.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31302
+D2
+~
+~
+0 0 31300
+S
+#31302
+{CCyan Pit{x~
+{wThe sand underfoot lets off a distrubingly eerie cyan glow of light, a
+reflection of the sunlight through the blood stained clouds.  All around
+sand dunes flows up and down in a rollercoaster of waste land.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31303
+D2
+~
+~
+0 0 31301
+S
+#31303
+{CCyan Pit{x~
+{wThe sand underfoot lets off a distrubingly eerie cyan glow of light, a
+reflection of the sunlight through the blood stained clouds.  All around
+sand dunes flows up and down in a rollercoaster of waste land.{x
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31304
+D2
+~
+~
+0 0 31302
+S
+#31304
+{CAn Siptemo{x~
+{wBefore the calm cool water of this siptemo are many tall palm trees, their
+leaves blowing gently in the wind.  The water is crystal clear and seems to
+show a depth beyond the physical ties of this plane, almost as if there was
+something past it... {x
+~
+0 0 0
+0
+D2
+~
+~
+0 0 31303
+S
+#31305
+Misty Cooridor~
+Mist swirls around in a whirlpool type form in the center of the room,
+making sight nearly impossible.  It flows in from the south from a source
+still unknown.
+~
+0 0 0
+0
+D2
+~
+~
+0 0 31306
+S
+#31306
+Misty Corridor~
+The faint sound of dripping water can be heard off in the distance as
+well as the whistle of wind as it rushes through the corridor, sweeping the
+mist along with it as it swirls away. 
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31305
+D2
+~
+~
+0 0 31307
+S
+#31307
+Bend in the Corridor~
+The flickering light from a solitary candle illuminates the room just
+enough to see that it meets a dead end, except for a smaller hallway that
+branches off to the west and continues onward into darkness.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31306
+D3
+~
+~
+0 0 31308
+S
+#31308
+Before the Staircase~
+Smooth black stairs spiral upward and seem to disapear in the dim
+lighting of the room which is barely even enough to see.  Mist flows down
+the stairs and is swept off down the hallway.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31307
+D4
+~
+~
+0 0 31309
+S
+#31309
+Second Floor Staircase~
+Smooth black stairs spiral upward and seem to disapear in the dim
+lighting of the room which is barely even enough to see.  Mist flows down
+the stairs and is swept off down the hallway.
+~
+0 4 0
+0
+D0
+~
+~
+0 0 31312
+D2
+~
+~
+0 0 31310
+D4
+~
+~
+0 0 31313
+D5
+~
+~
+0 0 31308
+S
+#31310
+Second Floor Hallway~
+Torches line the walls and burn a {Mp{mu{Mr{mp{Ml{mi{Ms{mh{x flame, illuminating the hallway and setting shadows
+to dance about on the floor. Pictures of dragons and beasts of unknown origin decorate the
+mist flows through this hallway.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31309
+D2
+~
+~
+0 0 31311
+S
+#31311
+Second Floor Hallway~
+Torches line the walls and burn a {Mp{mu{Mr{mp{Ml{mi{Ms{mh{x flame, illuminating the hallway and setting shadows
+to dance about on the floor. Pictures of dragons and beasts of unknown origin decorate the
+mist flows through this hallway.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31310
+D2
+~
+~
+0 0 31312
+S
+#31312
+Second Floor Hallway~
+Torches line the walls and burn a {Mp{mu{Mr{mp{Ml{mi{Ms{mh{x flame, illuminating the hallway and setting shadows
+to dance about on the floor. Pictures of dragons and beasts of unknown origin decorate the
+mist flows through this hallway.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31311
+D2
+~
+~
+0 0 31309
+S
+#31313
+Third Floor Staircase~
+Smooth black stairs spiral upward and seem to disapear in the dim
+lighting of the room which is barely even enough to see.  Mist flows down
+the stairs and is swept off down the hallway.
+~
+0 4 0
+0
+D1
+~
+~
+0 0 31314
+D3
+~
+~
+0 0 31317
+D4
+~
+~
+0 0 31318
+D5
+~
+~
+0 0 31309
+S
+#31314
+Third Floor Hallway~
+Torches line the walls and burn a {Bb{bl{Bu{be{x flame, illuminating the
+hallway and setting shadows to dance about on the floor.  Pictures of mages
+and wizards of vast power and unknown origin decorate the walls as the mist
+flows through this hallway.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31315
+D3
+~
+~
+0 0 31313
+S
+#31315
+Third Floor Hallway~
+Torches line the walls and burn a {Bb{bl{Bu{be{x flame, illuminating the
+hallway and setting shadows to dance about on the floor.  Pictures of mages
+and wizards of vast power and unknown origin decorate the walls as the mist
+flows through this hallway.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31316
+D3
+~
+~
+0 0 31314
+S
+#31316
+Third Floor Hallway~
+Torches line the walls and burn a {Bb{bl{Bu{be{x flame, illuminating the
+hallway and setting shadows to dance about on the floor.  Pictures of mages
+and wizards of vast power and unknown origin decorate the walls as the mist
+flows through this hallway.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31317
+D3
+~
+~
+0 0 31315
+S
+#31317
+Third Floor Hallway~
+Torches line the walls and burn a {Bb{bl{Bu{be{x flame, illuminating the
+hallway and setting shadows to dance about on the floor.  Pictures of mages
+and wizards of vast power and unknown origin decorate the walls as the mist
+flows through this hallway.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31313
+D3
+~
+~
+0 0 31316
+S
+#31318
+Fourth Floor Staircase~
+Smooth black stairs spiral upward and seem to disapear in the dim
+lighting of the room which is barely even enough to see.  Mist flows down
+the stairs and is swept off down the hallway.
+~
+0 4 0
+0
+D0
+~
+~
+0 0 31319
+D2
+~
+~
+0 0 31323
+D4
+~
+~
+0 0 31324
+D5
+~
+~
+0 0 31313
+S
+#31319
+Fourth Floor Hallway~
+Torches line the walls and burn a {Gg{gr{Ge{ge{Gn{x flame, illuminating
+the hallway and setting shadows to dance about on the floor.  Pictures of
+giants and titans, huge in size decorate the walls as the mist flows through
+this hallway.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31320
+D2
+~
+~
+0 0 31318
+S
+#31320
+Fourth Floor Hallway~
+Torches line the walls and burn a {Gg{gr{Ge{ge{Gn{x flame, illuminating
+the hallway and setting shadows to dance about on the floor.  Pictures of
+giants and titans, huge in size decorate the walls as the mist flows through
+this hallway.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31321
+D2
+~
+~
+0 0 31319
+S
+#31321
+Fourth Floor Hallway~
+Torches line the walls and burn a {Gg{gr{Ge{ge{Gn{x flame, illuminating
+the hallway and setting shadows to dance about on the floor.  Pictures of
+giants and titans, huge in size decorate the walls as the mist flows through
+this hallway.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31322
+D2
+~
+~
+0 0 31320
+S
+#31322
+Fourth Floor Hallway~
+Torches line the walls and burn a {Gg{gr{Ge{ge{Gn{x flame, illuminating
+the hallway and setting shadows to dance about on the floor.  Pictures of
+giants and titans, huge in size decorate the walls as the mist flows through
+this hallway.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31323
+D2
+~
+~
+0 0 31321
+S
+#31323
+Fourth Floor Hallway~
+Torches line the walls and burn a {Gg{gr{Ge{ge{Gn{x flame, illuminating
+the hallway and setting shadows to dance about on the floor.  Pictures of
+giants and titans, huge in size decorate the walls as the mist flows through
+this hallway.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31318
+D2
+~
+~
+0 0 31322
+S
+#31324
+Fifth Floor Staircase~
+Smooth black stairs spiral upward and seem to disapear in the dim
+lighting of the room which is barely even enough to see.  Mist flows down
+the stairs and is swept off down the hallway.
+~
+0 4 0
+0
+D1
+~
+~
+0 0 31325
+D3
+~
+~
+0 0 31328
+D4
+~
+~
+0 0 31329
+D5
+~
+~
+0 0 31318
+S
+#31325
+Fifth Floor Hallway~
+Torches line the walls and burn a {Ww{wh{Wi{wt{We{x flame, illuminating the hallway and setting
+shadows to dance about on the floor. Pictures of mystical creatures, ranging from unicorns
+to beautiful lake nymphs adorn the walls as mist flows through the hallway.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31326
+D3
+~
+~
+0 0 31324
+S
+#31326
+Fifth Floor Hallway~
+Torches line the walls and burn a {Ww{wh{Wi{wt{We{x flame, illuminating the hallway and setting
+shadows to dance about on the floor. Pictures of mystical creatures, ranging from unicorns
+to beautiful lake nymphs adorn the walls as mist flows through the hallway.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31327
+D3
+~
+~
+0 0 31325
+S
+#31327
+Fifth Floor Hallway~
+Torches line the walls and burn a {Ww{wh{Wi{wt{We{x flame, illuminating the hallway and setting
+shadows to dance about on the floor. Pictures of mystical creatures, ranging from unicorns
+to beautiful lake nymphs adorn the walls as mist flows through the hallway.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31328
+D3
+~
+~
+0 0 31326
+S
+#31328
+Fifth Floor Hallway~
+Torches line the walls and burn a {Ww{wh{Wi{wt{We{x flame, illuminating the hallway and setting
+shadows to dance about on the floor. Pictures of mystical creatures, ranging from unicorns
+to beautiful lake nymphs adorn the walls as mist flows through the hallway.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 31324
+D3
+~
+~
+0 0 31327
+S
+#31329
+Sixth Floor Staircase~
+Smooth black stairs spiral upward and seem to disapear in the dim
+lighting of the room which is barely even enough to see.  Mist flows down
+the stairs and is swept off down the hallway.
+~
+0 4 0
+0
+D0
+~
+~
+0 0 31330
+D2
+~
+~
+0 0 31333
+D4
+~
+~
+0 0 31334
+D5
+~
+~
+0 0 31324
+S
+#31330
+Sixth Floor Hallway~
+Torches line the walls and burn a {Rr{re{Rd{x flame, illuminating the
+hallway and setting shadows to dance about on the floor.  Pictures of
+mystical creatures, from beautiful elven women to warrior kings in battle
+adorn the walls as mist flows through the hallway.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31331
+D2
+~
+~
+0 0 31329
+S
+#31331
+Sixth Floor Hallway~
+Torches line the walls and burn a {Rr{re{Rd{x flame, illuminating the
+hallway and setting shadows to dance about on the floor.  Pictures of
+mystical creatures, from beautiful elven women to warrior kings in battle
+adorn the walls as mist flows through the hallway.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31332
+D2
+~
+~
+0 0 31330
+S
+#31332
+Sixth Floor Hallway~
+Torches line the walls and burn a {Rr{re{Rd{x flame, illuminating the
+hallway and setting shadows to dance about on the floor.  Pictures of
+mystical creatures, from beautiful elven women to warrior kings in battle
+adorn the walls as mist flows through the hallway.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31333
+D2
+~
+~
+0 0 31331
+S
+#31333
+Sixth Floor Hallway~
+Torches line the walls and burn a {Rr{re{Rd{x flame, illuminating the
+hallway and setting shadows to dance about on the floor.  Pictures of
+mystical creatures, from beautiful elven women to warrior kings in battle
+adorn the walls as mist flows through the hallway.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31329
+D2
+~
+~
+0 0 31332
+S
+#31334
+{G)()(Void)()(~
+{YC{Go{Rl{Co{Rr{Ge{Wd {Ymist gathers from all the hallways....
+~
+0 4 0
+0
+D4
+~
+~
+0 0 31335
+D5
+~
+~
+0 0 31329
+S
+#31335
+{G---Void---{x~
+{YAll the {Rc{Go{Wl{Co{Mr{Gs {WSwIrL {Caround {Yhere in {BI{bnf{Wi{wni{Bt{by{Y...
+~
+0 0 0
+0
+D0
+~
+~
+0 0 31336
+D4
+~
+~
+0 0 31337
+D5
+~
+~
+0 0 31334
+S
+#31336
+{GDeep In the Void{x~
+{YThe colors of the void has sucked everything that comes near here. 
+~
+0 4 0
+0
+S
+#31337
+{GThe End...And Beginning of Time{x~
+{YGathering {Wup {Yand {Raround the {Gm{Yi{Ms{Wt{Cs {Ycollect.........{x
+~
+0 0 0
+0
+D5
+~
+~
+0 0 31335
+S
+#0
+
+
+
+#SPECIALS
+M 31301 spec_cast_mage
+M 31302 spec_thief
+S
+
+
+
+#RESETS
+O 0 31300 0 31304
+M 0 31300 12 31310 4
+M 0 31300 12 31311 4
+E 0 31301 0 17
+M 0 31300 12 31312 4
+M 0 31301 16 31314 4
+M 0 31301 16 31315 4
+M 0 31301 16 31316 4
+M 0 31301 16 31317 4
+M 0 31302 20 31319 4
+M 0 31302 20 31320 4
+M 0 31302 20 31321 4
+M 0 31302 20 31322 4
+M 0 31302 20 31323 4
+M 0 31303 16 31325 4
+M 0 31303 16 31326 4
+M 0 31303 16 31327 4
+M 0 31303 16 31328 4
+M 0 31304 16 31330 4
+M 0 31304 16 31331 4
+M 0 31304 16 31332 4
+M 0 31304 16 31333 4
+M 0 31305 1 31337 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

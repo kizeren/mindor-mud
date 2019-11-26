@@ -1,0 +1,65 @@
+#AREADATA
+Name Empty Area~
+Builders None~
+VNUMs 700 899
+Credits none~
+Security 1
+End
+
+
+
+#MOBILES
+#700
+A Gate Guard~
+a Gate Guard~
+A Gate Guard stands here watching the entrance.
+~
+~
+titan~
+AB DVa 0 -1000 0
+150 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB D HN
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#757
+fountain spring~
+a magical spring~
+A Magical spring lies in the centre of the room.~
+air~
+fountain AB 0
+0 0 'water' 0 0
+0 10000 0 P
+#0
+
+
+
+#ROOMS
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

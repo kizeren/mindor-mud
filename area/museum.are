@@ -1,0 +1,440 @@
+#AREADATA
+Name Living Museum~
+Builders ~
+VNUMs 30300 30350
+Credits [80 99] Kizeren  Living Museum~
+Security 1
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#30309
+A ghost~
+a ghost~
+A ghost is floating nearby.
+~
+~
+dragon~
+ABFG JT AJT A 1000 0
+109 109 219d36+3301 109d10+85 36d3+59 none
+-64 -64 -64 -41
+0 C BEH FI
+stand stand none 3000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#30312
+Elderly man~
+An elderly man~
+An elderly man is resting here.
+~
+~
+halfling~
+ABG CHU AU A 0 0
+110 118 243d40+5000 118d11+200 40d2+86 none
+-75 -75 -75 -51
+CDHKNO 0 LQ S
+stand stand male 0
+ACHMV ABCDEFGHIJK medium unknown
+#30314
+Cave man~
+A cave man~
+A cave man is resting here.
+~
+~
+halfling~
+ABG U AU A 0 0
+110 110 227d37+3334 110d11+95 37d2+80 slice
+-69 -69 -69 -47
+CDHKNO 0 LQ S
+stand stand male 0
+ACHMV ABCDEFGHIJK medium flesh
+#0
+
+
+
+#OBJECTS
+#30311
+painting~
+a painting~
+{x~
+paint~
+portal 0 0
+0 0 0 30312 0
+0 0 0 P
+#30312
+suit~
+a black suit~
+A very nice pressed black suit is here.~
+cloth~
+armor 0 AD
+38 38 38 37 0
+105 106 109 P
+A
+19 10
+A
+18 10
+A
+12 150
+A
+13 150
+#30313
+painting~
+a painting~
+{x~
+paint~
+portal 0 0
+0 0 0 30314 0
+0 0 0 P
+#30314
+Stone axe~
+a stone axe~
+A stone axe has been dropped here.~
+wood~
+weapon 0 AN
+axe 20 12 slice A
+1 111 6300 P
+A
+19 10
+A
+18 10
+#0
+
+
+
+#ROOMS
+#30300
+A road~
+A slightly worn trail leads off west and east.
+~
+0 0 4
+0
+D1
+~
+~
+0 0 30301
+D3
+~
+~
+0 0 30350
+S
+#30301
+A road~
+A slightly worn trail leads off west and east.
+~
+0 0 4
+0
+D1
+~
+~
+0 0 30302
+D3
+~
+~
+0 0 30300
+S
+#30302
+A road~
+A mountain cliff stand before you.  The cliff looks to be only couple
+stories high.  Various types of plant life grow out from the side.  It is
+easily scalable due to the jagged shapped rocks that stick out from the
+side.  
+~
+0 0 4
+0
+D3
+~
+~
+0 0 30301
+D4
+~
+~
+0 0 30303
+S
+#30303
+Mountain side~
+The rock face of the mountain has many rock sticking out for easy access
+to the top or for climbing back down.  Some small plant life clings to the
+side of the cliff and make use of the sun light that strikes it durning the
+day.  
+~
+0 0 5
+0
+D4
+~
+~
+0 0 30304
+D5
+~
+~
+0 0 30302
+S
+#30304
+Path~
+The vegetation here is at a low growth point.  Doesn't get very high and
+stays low enough to see the building off to the east.  The vegetation is
+made up of brilliant colored grass and shrubs that also outline the path
+leading east and back down the cliff.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 30305
+D5
+~
+~
+0 0 30303
+S
+#30305
+Field~
+The grass plain goes on for as far as the eye can see in all directions. 
+Shades of yellow, green and reds shine off the grass as the wind blows.  The
+path is lined with little white flowers on both the left and right sides. 
+The sky is comlete unblocked from view.  Would be a good place to come for a
+picinc.  To the east you can see what is a rather large building.  
+~
+0 0 2
+0
+D1
+~
+~
+0 0 30306
+D3
+~
+~
+0 0 30304
+S
+#30306
+Building~
+As the field ends and leads up to the building, the colours seem to dull
+out.  The grass turns more of a yellowshi color and has a straw look to it. 
+The path leads right up to the door of the building, which has been left
+open.  
+~
+0 0 0
+0
+D1
+~
+~
+0 0 30307
+D3
+~
+~
+0 0 30305
+S
+#30307
+The doorway~
+The door way leading in is made of a black wood that is of unknown orign.
+The door itself is made of an solid oak type wood.  The path leads back to
+the west or east to enter the building.  
+
+~
+0 0 0
+0
+D1
+~
+~
+0 0 30308
+D3
+~
+~
+0 0 30306
+S
+#30308
+Main room~
+You are the main greeting room for all visitors of this grand building. 
+There is a black carpet leading east farther into the halls.  A grand
+chandelier hangs from the ceiling.  The walls are that of the black wood and
+has been taken very well care of.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 30309
+D1
+~
+~
+0 0 30310
+D3
+~
+~
+0 0 30307
+S
+#30309
+Storage room~
+Small little closet doesn't really have much to offer you.  Just some
+dust bunnies and junk laying around on the floor.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 30308
+S
+#30310
+Grand Room~
+The main room of the grand room is pretty empty.  There is a great light
+comeing from the cieling.  The carpet is made of red velvet carpet.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 30311
+D2
+~
+~
+0 0 30313
+D3
+~
+~
+0 0 30308
+S
+#30311
+Grand Room~
+North side of the grand room is decorated with a large painting that is
+hand tailored using the finest gold and platinum.  The picture is a painting
+of one of the previous owners before the meusem was transformed.  The figure
+in the painting is that of an elderly gentlemen and is wearing a black suit
+and standing in an open field.  The cieling is mirrored for a very
+extrodinary visual effect.  The floor is covered in red velvet carpet and
+has been kept tidy over the years.  
+~
+0 0 0
+0
+E
+painting~
+A beutiful painting of an elderly gentlemen.
+~
+D2
+~
+~
+0 0 30310
+D6
+~
+~
+0 0 30315
+D10
+~
+~
+0 0 30312
+S
+#30312
+Inside the painting~
+You have stepped inside the painting.  The walls are solid gold and
+silver plating.  There is a bright light of unknown origin coming from the
+cieling and is so bright that the reflection from the gold and silver make
+the room almost impossible to concentrate.  
+~
+0 0 0
+0
+D11
+~
+~
+0 0 30311
+S
+#30313
+Grand Room~
+A grand painting is hanging on the wall.  The painting is of a
+prehistoric cave man.  The painting is set in a far off east type setting
+with many of colorful trees and plant life.  The rest of the room is just as
+beutiful from the bright light eminating from the cieling that is also made
+of gold and trimmed in silver.  The walls are also decorated in the gold but
+the designs that are made of silver are that of the theme of the painting. 
+The floor is lined with the crush velvet carpet.  
+~
+0 0 0
+0
+D0
+~
+~
+0 0 30310
+D10
+~
+~
+0 0 30314
+S
+#30314
+Inside the painting~
+Entering into a far off land variety of shapes and colors come from all
+directions and the bright glow from the sky is making it almost impoissible
+to make out true shapes.  
+~
+0 0 0
+0
+D11
+~
+~
+0 0 30313
+S
+#30315
+Grand Room~
+North side of the grand room is decorated with a large painting that is
+hand tailored using the finest gold and platinum.  The picture is a painting
+of one of the previous owners before the meusem was transformed.  The figure
+in the painting is that of an elderly gentlemen and is wearing a black suit
+and standing in an open field.  The cieling is mirrored for a very
+extrodinary visual effect.  The floor is covered in red velvet carpet and
+has been kept tidy over the years.  
+~
+0 0 0
+0
+E
+painting~
+A beutiful painting of an elderly gentlemen.
+~
+D8
+~
+~
+0 0 30311
+S
+#30350
+A road~
+A slightly worn trail leads off west and east.
+~
+0 0 4
+0
+D1
+~
+~
+0 0 30300
+D3
+~
+~
+0 0 4330
+S
+#0
+
+
+
+#SPECIALS
+M 30312 spec_breath_any
+S
+
+
+
+#RESETS
+M 0 30309 1 30309 1
+M 0 30312 1 30312 1
+E 0 30312 0 5
+M 0 30314 1 30314 1
+E 0 30314 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

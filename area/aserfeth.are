@@ -1,0 +1,556 @@
+#AREADATA
+Name Aserfeth~
+Builders Mook~
+VNUMs 21201 21299
+Credits [TALL ] Mook  Aserfeth~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#21201
+{3A dirt path{0~
+To the west you see Aserfeth, the elven city.  To the east lies a path.  
+~
+0 4 0
+D1
+~
+~
+0 0 21202
+D3
+~
+~
+0 0 21203
+S
+#21202
+{3A dirt path{0~
+Trees line a dirt path leading south and west.  
+~
+0 0 0
+D2
+~
+~
+0 0 8951
+D3
+~
+~
+0 0 21201
+S
+#21203
+{3a small clearing{0~
+Several {2trees{0, wider than most cities in the area tower above this place,
+with many bridges stretched between the {2trees{0.  This area is magical, and it
+vibrates with all the life.  Paths lead in all the cardinal directions, with
+east leaving the city.  
+~
+0 0 0
+E
+trees~
+These trees tower above everything else.  Bridges at many different
+heights stretch between them, and high up there is a bustle of activity.  
+~
+D0
+~
+~
+0 0 21204
+D1
+~
+~
+0 0 21201
+D2
+~
+~
+0 0 21206
+D3
+~
+~
+0 0 21220
+S
+#21204
+{3A path around the city{0~
+~
+0 0 0
+D0
+~
+~
+0 0 21205
+D2
+~
+~
+0 0 21203
+D3
+~
+~
+0 0 21219
+S
+#21205
+{yA path around the city~
+~
+0 0 0
+D2
+~
+~
+0 0 21204
+D3
+~
+~
+0 0 21218
+S
+#21206
+{yA path around the city~
+~
+0 0 0
+D0
+~
+~
+0 0 21203
+D2
+~
+~
+0 0 21207
+D3
+~
+~
+0 0 21221
+S
+#21207
+{yA path around the city~
+~
+0 0 0
+D0
+~
+~
+0 0 21206
+D3
+~
+~
+0 0 21208
+S
+#21208
+{yA path around the city~
+~
+0 0 0
+D0
+~
+~
+0 0 21221
+D1
+~
+~
+0 0 21207
+D3
+~
+~
+0 0 21209
+S
+#21209
+{yA path around the city~
+~
+0 0 0
+D0
+~
+~
+0 0 21222
+D1
+~
+~
+0 0 21208
+D3
+~
+~
+0 0 21210
+S
+#21210
+{yA path around the city~
+~
+0 0 0
+D0
+~
+~
+0 0 21223
+D1
+~
+~
+0 0 21209
+D3
+~
+~
+0 0 21211
+S
+#21211
+{yA path around the city~
+~
+0 0 0
+D0
+~
+~
+0 0 21212
+D1
+~
+~
+0 0 21210
+S
+#21212
+{yA path around the city~
+~
+0 0 0
+D0
+~
+~
+0 0 21213
+D1
+~
+~
+0 0 21223
+D2
+~
+~
+0 0 21211
+S
+#21213
+{yA path around the city~
+~
+0 0 0
+D0
+~
+~
+0 0 21214
+D1
+~
+~
+0 0 21224
+D2
+~
+~
+0 0 21212
+S
+#21214
+{yA path around the city~
+~
+0 0 0
+D0
+~
+~
+0 0 21215
+D1
+~
+~
+0 0 21225
+D2
+~
+~
+0 0 21213
+S
+#21215
+{yA path around the city~
+~
+0 0 0
+D1
+~
+~
+0 0 21216
+D2
+~
+~
+0 0 21214
+S
+#21216
+{3A path around the city~
+~
+0 0 0
+D1
+~
+~
+0 0 21217
+D2
+~
+~
+0 0 21225
+D3
+~
+~
+0 0 21215
+S
+#21217
+{yA path around the city~
+~
+0 0 0
+D1
+~
+~
+0 0 21218
+D2
+~
+~
+0 0 21226
+D3
+~
+~
+0 0 21216
+S
+#21218
+{yA path around the city~
+~
+0 0 0
+D1
+~
+~
+0 0 21205
+D2
+~
+~
+0 0 21219
+D3
+~
+~
+0 0 21217
+S
+#21219
+{yNear a Tree~
+~
+0 0 0
+D0
+~
+~
+0 0 21218
+D1
+~
+~
+0 0 21204
+D2
+~
+~
+0 0 21220
+D3
+~
+~
+0 0 21226
+D4
+~
+~
+0 0 21228
+S
+#21220
+{yOn a path between some trees.~
+~
+0 0 0
+D0
+~
+~
+0 0 21219
+D1
+~
+~
+0 0 21203
+D2
+~
+~
+0 0 21221
+D3
+~
+~
+0 0 21227
+S
+#21221
+{yNear a Tree~
+~
+0 0 0
+D0
+~
+~
+0 0 21220
+D1
+~
+~
+0 0 21206
+D2
+~
+~
+0 0 21208
+D3
+~
+~
+0 0 21222
+S
+#21222
+{yNear a Tree~
+~
+0 0 0
+D0
+~
+~
+0 0 21227
+D1
+~
+~
+0 0 21221
+D2
+~
+~
+0 0 21209
+D3
+~
+~
+0 0 21223
+S
+#21223
+{yNear a Tree~
+~
+0 0 0
+D0
+~
+~
+0 0 21224
+D1
+~
+~
+0 0 21222
+D2
+~
+~
+0 0 21210
+D3
+~
+~
+0 0 21212
+S
+#21224
+{yOn a path between some trees.~
+~
+0 0 0
+D0
+~
+~
+0 0 21225
+D1
+~
+~
+0 0 21227
+D2
+~
+~
+0 0 21223
+D3
+~
+~
+0 0 21213
+S
+#21225
+{yNear a Tree~
+~
+0 0 0
+D0
+~
+~
+0 0 21216
+D1
+~
+~
+0 0 21226
+D2
+~
+~
+0 0 21224
+D3
+~
+~
+0 0 21214
+S
+#21226
+{yA Large Clearing~
+~
+0 0 0
+D0
+~
+~
+0 0 21217
+D1
+~
+~
+0 0 21219
+D2
+~
+~
+0 0 21227
+D3
+~
+~
+0 0 21225
+S
+#21227
+{yA Large Clearing~
+~
+0 0 0
+D0
+~
+~
+0 0 21226
+D1
+~
+~
+0 0 21220
+D2
+~
+~
+0 0 21222
+D3
+~
+~
+0 0 21224
+S
+#21228
+{yOn the Side of a Tree~
+~
+0 0 0
+D1
+~
+~
+0 0 21229
+D5
+~
+~
+0 0 21219
+S
+#21229
+{yIn a Tree~
+~
+0 0 0
+D3
+~
+~
+0 0 21228
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

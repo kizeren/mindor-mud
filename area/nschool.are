@@ -1,0 +1,1072 @@
+#AREADATA
+Name Newbie School~
+Builders ~
+VNUMs 700 899
+Credits [01 05] Akmaro  New School~
+Security 9
+RepopMsg The guildmaster is waiting on you.~
+End
+
+
+
+#MOBILES
+#700
+Mud School Guildmaster~
+a Mindor Guildmaster~
+A Mindor Guildmaster is here, ready to give equipment to adventurers.
+~
+~
+human~
+ABGJKQTb 0 A A 1000 0
+103 10 1d1+999 1d1+999 2d4+30 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+M SPEECH 704 polearm~
+M SPEECH 705 dagger~
+M SPEECH 708 spear~
+M SPEECH 707 axe~
+M SPEECH 706 mace~
+M SPEECH 700 pack~
+M GRALL 702 100~
+M SPEECH 703 sword~
+#701
+a sparring partner~
+{wa {Ws{wparring {Wp{wartne{Wr{x~
+{wa {Ws{wparring {Wp{wartne{Wr{w wants to practice fighting with you.
+~
+The sparring partner is just about your size!
+~
+school monster~
+ABU 0 A A 0 0
+1 0 1d1+7 1d1+99 1d3+0 claw
+10 10 10 10
+0 AB 0 C
+stand stand none 10
+AMV ABCDEFHJKQU medium 0
+#702
+Aton~
+Aton~
+Aton is here, healing weary travelers.
+~
+Aton, the god of the academy.  A force not to be messed with.
+~
+human~
+ABU 0 A A 0 0
+109 0 1d1+7 1d1+99 1d3+0 claw
+10 10 10 10
+0 AB 0 C
+stand stand none 10
+AHMV ABCDEFGHIJKQU medium 0
+#703
+a sparring partner~
+{wa {Ws{wparring {Wp{wartne{Wr{x~
+{wa {Ws{wparring {Wp{wartne{Wr{w wants to practice fighting with you.
+~
+The sparring partner is just about your size!
+~
+school monster~
+ABU 0 A A 0 0
+3 0 1d1+7 1d1+99 1d3+0 claw
+10 10 10 10
+0 AB 0 C
+stand stand none 10
+AMV ABCDEFHJKQU medium 0
+#704
+Mudschool Healer~
+{wa {GM{gudschool {GH{geale{Gr{x~
+{wA {GM{gudschool {GH{geale{Gr{w is here.{x
+~
+~
+human~
+ABGUa 0 A A 0 0
+110 110 227d37+3334 110d11+95 37d2+80 none
+-69 -69 -69 -47
+0 0 0 0
+stand stand none 1
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#717
+Osiris~
+Osiris~
+Osiris is here teaching his students.
+~
+~
+human~
+ABGK 0 0 A 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium flesh
+#720
+Ranger~
+Ranger~
+A ranger is practicing and destroying things.
+~
+~
+human~
+ABH 0 0 A 0 0
+3 4 1d6+1 0d0+0 1d6+2 slice
+0 0 0 0
+0 0 0 0
+stand stand female 200
+AHMV ABCDEFGHIJK small flesh
+#0
+
+
+
+#OBJECTS
+#700
+Newbie Issue Helmet~
+{CN{cewbie {CH{celmet{x~
+A {CN{cewbie {CH{celmet{x lies here on the ground.~
+steel~
+armor 0 AE
+2 2 2 1 0
+1 20 0 P
+A
+18 1
+#701
+Newbie Issue Cloak~
+a {CN{cewbie {CC{cloak{x~
+A {CN{cewbie {CC{cloak{x is on the ground.~
+leather~
+armor 0 AC
+1 1 1 0 0
+1 20 0 P
+A
+12 10
+#702
+Newbie Issue Boots~
+{CN{cewbie {CB{coots{x~
+A pair of {CN{cewbie {CB{coots{x is left here on the ground.~
+leather~
+armor 0 AG
+1 1 1 0 0
+1 10 0 P
+A
+14 10
+#703
+Newbie Issue Ring~
+{CN{cewbie {CR{cing{x~
+A {CN{cewbie {CR{cing{x has been carelessly left here.~
+steel~
+armor 0 AB
+1 1 1 1 0
+1 10 0 P
+A
+19 1
+#704
+Newbie Issue Belt~
+{CN{cewbie {CB{celt{x~
+A {CN{cewbie {CB{celt{x lies here on the ground.~
+leather~
+armor 0 AL
+1 1 1 0 0
+1 10 0 P
+A
+18 1
+#705
+Newbie Issue shirt~
+{CN{cewbie {CS{chirt{x~
+A newbie shirt lies here.~
+leather~
+armor 0 AD
+1 1 1 0 0
+1 12 0 P
+A
+13 10
+#706
+newbie issue leggings~
+{CN{cewbie {CL{ceggings{x~
+A pair of {CN{cewbie {CL{ceggings{x lies here.~
+steel~
+armor 0 AF
+2 2 2 2 0
+1 20 0 P
+A
+18 1
+#707
+Newbie Issue bracer~
+{CN{cewbie {CB{cracer{x~
+A {CN{cewbie {CB{cracer{x is left here on the ground.~
+steel~
+armor 0 AM
+2 2 2 2 0
+1 15 0 P
+A
+18 1
+#709
+Newbie Issue Gloves~
+{CN{cewbie {CG{cloves{x~
+A pair of {CN{cewbie {CG{cloves{x are left here.~
+leather~
+armor 0 AH
+1 1 1 0 0
+1 10 0 P
+A
+2 1
+#710
+Newbie Issue Sleeves~
+{CN{cewbie {CS{cleeves{x~
+Some {CN{cewbie {CS{cleeves{x lie on the ground.~
+leather~
+armor 0 AI
+1 1 1 0 0
+1 10 0 P
+A
+18 1
+#711
+Newbie Issue Shield~
+{CN{cewbie {CS{chield{x~
+A {CN{cewbie {CS{chield{x lies carelessly on the ground.~
+steel~
+armor 0 AJ
+3 3 3 3 0
+1 30 0 P
+A
+5 1
+#712
+newbie float stone~
+{CN{cewbie {CS{ctone{x~
+A {CN{cewbie {CS{ctone{x floats here.~
+stone~
+armor 0 AQ
+0 0 0 0 0
+1 2 0 P
+A
+12 10
+#713
+Newbie Issue Light~
+{CN{cewbie {CL{cight{x~
+A {CN{cewbie {CL{cight{x illuminates the area.~
+light~
+light 0 A
+0 0 999 0 0
+1 10 0 P
+A
+3 1
+#714
+newbie sword~
+{CN{cewbie {CS{cword{x~
+A {CN{cewbie {CS{cword{x is on the ground.~
+steel~
+weapon 0 AN
+sword 2 3 slash 0
+1 40 0 P
+A
+19 1
+A
+18 1
+#715
+Newbie Potion~
+{wa {GN{gewbie {GP{gotion{x~
+{wA {GN{gewbie {GP{gotion{w is here.{x~
+(null)~
+potion BD AO
+5 'heal' 'reserved' 'reserved' 'reserved'
+1 100 2 R
+#716
+newbie staff~
+{CN{cewbie {CS{ctaff{x~
+A {CN{cewbie {CS{ctaff{x lies here.~
+wood~
+weapon 0 AN
+polearm 2 3 thwack F
+1 20 0 P
+A
+12 20
+#717
+newbie dagger~
+{CN{cewbie {CD{cagger{x~
+A {CN{cewbie {CD{cagger{x lies on the ground.~
+steel~
+weapon 0 AN
+dagger 2 2 pierce 0
+1 25 0 P
+A
+2 1
+A
+18 1
+#718
+newbie mace~
+{CN{cewbie {CM{cace{x~
+A {CN{cewbie {CM{cace{x is left carelessly on the ground.~
+steel~
+weapon 0 AN
+mace 1 6 pound 0
+1 50 0 P
+A
+12 10
+A
+18 1
+#719
+newbie axe~
+{CN{cewbie {CA{cxe{x~
+A {CN{cewbie {CA{cxe{x is collecting dust on the ground.~
+steel~
+weapon 0 AN
+axe 2 5 cleave F
+1 50 0 P
+A
+1 1
+A
+19 1
+#720
+newbie spear~
+{CN{cewbie {CS{cpear{x~
+A {CN{cewbie {CS{cpear{x lies forgotten on the ground.~
+steel~
+weapon 0 AN
+staff 2 4 thrust F
+1 45 0 P
+A
+1 1
+A
+18 2
+#721
+newbie pack~
+{CN{cewbie {CP{cack{x~
+A {CN{cewbie {CP{cack{x has been discard here.~
+leather~
+container 0 AOY
+500 0 0 20 1
+1 10 0 P
+#757
+fountain spring~
+a magical spring~
+A Magical spring lies in the centre of the room.~
+(null)~
+none ADE AB
+0 0 0 0 0
+0 100 655360000 R
+#760
+ankle~
+test ankle~
+Test ankle~
+metal~
+armor 0 AS
+0 0 0 0 0
+0 0 0 P
+#761
+test ear~
+test ear~
+Test ear~
+metal~
+armor 0 AT
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#700
+Entrance to Mud School~
+This is the entrance to the Mindor Academy.  Go north to go through the
+academy.  If you have been here before and want to go directly to the arena,
+go south.  There is a sign on the wall, {Glook sign{x {yto read it.  
+~
+0 132104 0
+0
+E
+sign~
+{yTo receive some gear to wear first type {csay pack {yto receive 
+armor and then type {csay and the type of weapon (i.e. sword, 
+dagger, and so on){y.{x
+ 
+~
+D0
+~
+~
+0 0 702
+D2
+~
+~
+0 0 701
+D7
+~
+~
+0 0 3744
+S
+#701
+Mindor Academy steps~
+"Upon the great steps of the Mindor Academy," reads a sign posted
+on a pole at the base of the steps.  These great steps rise up
+to 20 rows.  At the top of the steps, is a great wooden door and
+is the entrance to the academy.
+
+
+This is the starting point for all great adventures that enter
+Mindor.  You may bypass this academy and go straight to recall
+or choose to enrich yourself with knowledge from these great
+rooms.  If recall is choosen, it is possible to return
+back to this room by typeing "newbiezone".
+~
+0 132108 0
+0
+E
+scroll~
+{wThis scroll is several pages long. (LOOK Page{W#{w){x
+{w(For example. {WLOOK Page1{w, would show you the contents of page {W1{w.{x
+ 
+{wPage{W1  -  Color
+{wPage{W2  -  Directions
+{wPage{W3  -  Configuration{x
+{wPage{W4  -  Configuration(part2){x
+~
+E
+page3~
+{WConfiguration
+ 
+{WAuto Commands
+{wCertain things can be done automatically if you have it set.
+They are listed below, to toggle each option just type the name of it.
+(Example. Typing {WAutoAssist{w will toggle {Wautoassist on{w/{Woff{w)
+ 
+{WAutolist  : {wList all automatic actions
+{WAutoloot  : {wTake all equipment from dead mobiles {r({RRECOMMENDED{r)
+{WAutogold  : {wTake all gold from dead mobiles {r({RRECOMMENDED{r)
+{WAutosac   : {wSacrifice dead monsters, only with {Wautoloot on {r({RRECOMMENDED{r)
+{WAutoexit  : {wDisplay room exits upon entering a room {r({RRECOMMENDED{r)
+{WAutosplit : {wSplit up spoils from combat among youonlygroup members
+{WAutoassist: {wMakes you help group members in combat
+{WAutostore : {wSaves all tells during combat
+{WAutopeek  : {wWill show inventory during a look <char> (with the peek skill)
+ 
+{WBRIEF COMPACT
+{wBrief {wand {Wcompact{w help set your display options for the game. Typing {Wbrief
+{wtoggles {Won {wand {Woff {wthe showing of room descriptions when you move around
+(considerably reducing the text to be processed), and typing {Wcompact{w 
+removes the extra blank line before your prompt.{x
+~
+E
+page2~
+{WDirections
+ 
+{wThere are 6 major directions.
+{WNorth{w, {WSouth{w, {WEast{w, {WWest{w, {WUp{w, and {WDown{w.
+{wDirections can be abbreviated as well. ({WN{w,{WS{w,{WE{w,{WW{w,{WU{w,{WD{w){x
+ 
+There are a couple other types of movement as well.
+{WEnter{w- Used to go through different types of portals in the world.{x
+{WRecall{w- Used to transport your character back to {WRECALL{w {w(A safe room in the main city){x
+ 
+{wTo see the exits for the room you are in, and where they lead, Type {WEXITS{x
+~
+E
+page1~
+{WColor{w
+ 
+{wTo turn {WANSI{w color mode on, type {WCOLOR{w.{x
+{wTo list the available {Wcolors {wand {Wchannels{w type {WCOLOR LIST{w.{x
+To set your default color, type {WColor #{w, where # is the number of the color.
+To set the color for a channel type {Wcolor {w<{Wchannel{w> {w<{W#{w>{x
+ 
+For more detailed help with colors, type {WHelp Color{w.{x
+~
+E
+book~
+{wThis book has several pages, to read them simply type {WLOOK {gPage{G#{w.
+{W({wFor example. {WLOOK Page1{w, would show you the contents of {Wpage 1{w.{x
+ 
+{gPage{G1  {W-  {YC{yolor
+{gPage{G2  {W-  {YD{yirections
+{gPage{G3  {W-  {YC{yonfiguration{x
+~
+E
+page4~
+{WConfiguration Continued{w....
+ 
+{WLONG{w
+The {WLONG{w command will affect the way you see special flags on other
+characters and equipment.  With the long flag set, you will see the
+flags much as you do on other muds, most of them as (Aura)'s.
+Without the long flag (default), you will see any flags within
+a much shorter table.  See '{WHELP FLAGS{w' for the shorter tables.
+{WCOMBINE
+{wWith the combine flag set, multiples of the same items will be grouped.
+(Instead of having a pie twice, it will appear as (2)pie)
+ 
+{WPROMPT{w      : With out an argument will turn your prompt on or off.
+{WPROMPT ALL{w  : Will give you the standard "<hits mana moves>" prompt.
+{WPROMPT {w<{W%*{w> : Where the %* are the various variables you may set yourself.
+{WHELP PROMPT {w: To see the prompt variables.
+ 
+{WNoloot{w   : With this on, your corpse cannot be looted.
+{WNosummon{w : With this on, you cannot be summoned.
+{WNofollow{w : With this on, others cannot follow you.{x
+~
+D0
+~
+~
+0 0 700
+S
+#702
+Grand Forum~
+The forum is the place where newbies of all the great cities come to
+rest.  The great Aton stands here healing all weary adventurers.
+There is a great deal of ancient inscriptions on the walls
+and many of benches to rest on.  Massive water fountain takes up
+most of the center and coins line the bottom from people who
+make wishes to the gods.
+~
+0 9228 0
+0
+D0
+~
+~
+0 0 703
+D2
+~
+~
+0 0 700
+S
+#703
+Choice Room~
+The choice room is where to decide if practicing moments is required.
+If it is then continue to the east.  If killing is something the
+traveler would first do then go to the west. But be warned choices 
+can lead one down the wrong path.
+~
+0 9228 0
+0
+D1
+~
+~
+0 0 704
+D2
+~
+~
+0 0 702
+D3
+~
+~
+0 0 716
+S
+#704
+Learning how to move~
+There are a many directions to move in the land of Mindor.
+North, East, South, and West.  And Northeast, Northwest, 
+Southeast and Southwest.  You can all do Inside and Outside.
+To practice type the direction that you would like to move in.  
+And don't forget Up or Down is still a choice. As you can tell
+there are many of directions that you can encounter in Mindor.
+To bypass this return west. 
+~
+0 132108 0
+0
+E
+scroll~
+{WCommunication
+ 
+{wTo talk to someone in the same room as you, use the {WSAY{w command.
+({WSay hi everyone!{w) This may be abbriviated with {W'{w ({W'hi everyone!{w)
+ 
+To talk to someone privately use the {WTELL{w command.
+({WTell {w<{Wperson{w> <{Wmessage{w>) ({WTell Sam hi!{w)
+ 
+There are numerous channels you can use for global communication as well.
+To see a list of these, type {WCHANNELS{w.
+ 
+{WQUIET  {w- Type this to enter Quiet Mode, you will only hear says and emotes.
+{WNOTELL {w- Toggle tells on/off
+{WWHO    {w- This will display a list of everyone logged in the game.{x
+~
+D0
+~
+~
+0 0 707
+D1
+~
+~
+0 0 709
+D2
+~
+~
+0 0 708
+D3
+~
+~
+0 0 703
+D4
+~
+~
+0 0 705
+D5
+~
+~
+0 0 706
+D6
+~
+~
+0 0 710
+D7
+~
+~
+0 0 713
+D8
+~
+~
+0 0 712
+D9
+~
+~
+0 0 711
+D10
+~
+~
+0 0 714
+D11
+~
+~
+0 0 715
+S
+#705
+Up Room~
+You learned how to go up.
+Type down to go back from which you came.
+~
+0 132108 0
+0
+E
+page5~
+~
+E
+scroll~
+{wThis scroll is several pages long. ({WLOOK Page#{w) to read each page
+(For example. {WLOOK Page1{w, would show you the contents of {Wpage 1{w.
+ 
+{wPage{W1  -  Inventory
+{wPage{W2  -  Equipment
+{wPage{W3  -  Containers
+{wPage{W4  -  Others{x
+~
+E
+page1~
+{WInventory Manipulation
+ 
+{wType {WINV {wor {WINVENTORY {wto see the contents of your inventory
+{wTo see more about an item type {WEXAMINE {w<{Witem{w>
+{wTo see more detail, {WCAST {w'{WIDENTIFY{w' {w({WRequires Identify spell{w)
+{wTo drop an item type {WDROP {w<{Witem{w>
+To pick up an item in the room:
+{WGET {w<{Witem{w> or {WGET ALL{w to get everything in the room
+
+~
+E
+page2~
+{wType {WEQ {wor {WEQUIPMENT {wto see what you are wearing
+{wType {WWEAR {w<{Witem{w>     to equip Armor
+{wType {WWIELD {w<{Wweapon{w>  to wield a weapon
+{wType {WREMOVE {w<{Witem{w>   to unequip an item
+{wType {WREMOVE ALL{w      to unequip all items
+{wType {WCOMPARE {w<{Witem{w>  to compare an inventory item to one you wear
+~
+E
+page3~
+{WLOOK IN {w<{Wcontainer{w>             to see the contents of a container
+{w
+{WGET {w<{Witem{w> {WFROM {w<{Wcontainer{w>     to get an item from a container
+{WGET ALL FROM {w<{Wcontainer{w>        to get everything from a container
+{WGET ALL.{w<{Witem{w> {WFROM {w<{Wcontainer{w> to get all multiples of an item from a container
+{w 
+{WPUT {w<{Witem{w> {WINSIDE {w<{Wcontainer{w>   to put an item inside a container
+{WPUT ALL IN {w<{Wcontainer{w>          to put your entire inventory into a container
+{WPUT ALL.{w<{Witem{w> {WIN {w<{Wcontainer{w>   to get all multiples of an item from a container
+{WOPEN{w/{WCLOSE {w<{Wcontainer{w>          Open/Close {Wcloseable{w containers{x
+~
+E
+page4~
+{WDrink Containers
+{WDRINK {w<{Wcontainer{w> or {WDRINK {w<{Wliquid{w> to drink from a container
+{WPOUR {w<{Wcontainer{w> {WINTO {w<{Wcontainer{w>   to pour liquid from one container to another
+{WPOUR {w<{Wcontainer{w> {WOUT{w                to empty a container
+{WFILL {w<{Wcontainer{w>                    to fill a container from a fountain
+ 
+{WFood
+{WEAT {w<{Wfood{w> to eat food from your inventory
+{w 
+{WMagical Items
+{WRECITE {w<{Wscroll{w>           Use the spell a scroll contains
+{WRECITE {w<{Wscroll{w> <{Wtarget{w>  to recite a scroll on a target
+{WBRANDISH {w<{Wtarget{w>         use the spell on a staff
+{WQUAFF {w<{Wpotion{w>            to drink a potion
+{WRECITE {w<{Wscroll{w> <{Wtarget{w>  to use a scroll
+{WZAP {w<{Wtarget{w>              to zap a target with a wand
+{WZAP   {w                    during battle to zap your opponent{x
+~
+D5
+~
+~
+0 0 704
+S
+#706
+Down Room~
+You learned how to go down.
+Type up to go back from which you came.
+~
+0 132100 0
+0
+E
+scroll~
+{wThis scroll is several pages long. ({WLOOK Page#{w)
+{w(For example. {WLOOK Page1{w, would show you the contents of page 1.
+ 
+{wPage{W1  -  Training and Practicing
+{wPage{W2  -  Battle
+{wPage{W3  -  Using Skills and Spells{x
+~
+E
+page1~
+{WTraining
+{wType {WTRAIN{w at a {WGUILDMASTER{w to see what attributes you can train.
+{WTrain {w<{Wattribute{w> to train an attribute. <{Wstr int wis dex con hp mana move{w>.
+ 
+For new characters, it is wise to train {WCON {wand {WWIS{w first.
+As Constitution will help you gain more hitpoints when you level,
+and Wisdom will help you gain more practices.
+ 
+{WPracticing
+Type {WPrac{w to see the skills/spells you can currently practice.
+{WPractice {w<{Wskill{w/{Wspell{w> to practice a skill or spell.
+ 
+It is wise to first practice your weapon skill, or your primary attack spell.
+{WSpells{w/{Wskills{w can only be practiced to {W75%{w, after that they get better through use.
+ 
+{WGaining
+{WGain List  {w               list all groups and skills that can be learned
+{WGain Points  {w             lower your creation points by 1 (costs two sessions)
+{WGain {w<{Wskill{w/{Wspell group{w>  add a skill or spell group, at the listed cost
+{WGain Convert              {wturns {W6 practices{w into {W1 training session
+{WGain Study                {wturns {W1 training session {winto {W6 practices{w
+~
+E
+page2~
+{WWimpy {w<{W#{w>        You will automatically flee when HP reaches the specified #
+{WConsider {w<{Wmob{w>   See how strong the mob is in comparison to you
+{WKill {w<{Wmob{w>       Initiate combat with a mob
+{WFlee{w             Flee to another room and end combat{x
+~
+E
+page3~
+{WSkills
+{wSome skills are used {Wautomatically{w, like {Wparry {wand {Wdodge
+{wOthers can only be used in combat, by typing the name of the skill, like {Wkick
+{wOthers can be used to {Winitiate combat{w, like backstab ({Wbackstab {w<{Wmob{w>)
+ 
+{WSpells
+{wTo initiate combat with a spell, {WCAST {w<{Wspell{w> <{Wtarget{w>
+{wTo use a spell during combat, just {WCAST {w<{Wspell{w>
+{wThere are spells which you cast on yourself to improve your armor or battle skills{x
+~
+D4
+~
+~
+0 0 704
+S
+#707
+North Room~
+You learned how to go north.
+Now type south to go back from which you came.
+~
+0 132100 0
+0
+D2
+~
+~
+0 0 704
+M 150 H 150
+S
+#708
+South Room~
+You learned how to go south.
+Now type north to go from which you came.
+~
+0 131072 0
+0
+D0
+~
+~
+0 0 704
+S
+#709
+East Room~
+You learned how to go east.
+Now type west to go from which you came.
+~
+0 131072 0
+0
+D3
+~
+~
+0 0 704
+S
+#710
+NorthEast Room~
+You learned how to go NorthEast.
+Type SouthWest to go from which you came.
+~
+0 131072 0
+0
+D8
+~
+~
+0 0 704
+S
+#711
+NorthWest Room~
+You learned how to go NorthWest.
+Type SouthEast to go from which you came.
+~
+0 131072 0
+0
+D7
+~
+~
+0 0 704
+S
+#712
+SouthWest Room~
+You learned how to go SouthWest.
+Now type NorthEast to go from which you came.
+~
+0 131072 0
+0
+D6
+~
+~
+0 0 704
+S
+#713
+SouthEast Room~
+You learned how to go SouthEast.
+Now type NorthWest to go from which you came.
+~
+0 131072 0
+0
+D9
+~
+~
+0 0 704
+S
+#714
+Inside Room~
+You learned how to go inside.
+Now type outside to go from which you came.
+~
+0 0 0
+0
+D11
+~
+~
+0 0 704
+S
+#715
+Outside Room~
+You learned how to go Outside.
+Now type inside to go from which you came.
+~
+0 0 0
+0
+D10
+~
+~
+0 0 704
+S
+#716
+Entrance to the battlegrounds~
+The battle grounds lay to the west beyond the closed door.
+There is a God to the north who can teach beginners how
+to use thier spells and skills more efficently.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 717
+D1
+~
+~
+0 0 703
+D3
+~
+~
+0 0 718
+S
+#717
+Trainee Practice Room~
+Upon first entering, loud banging and a bad oder can be seen 
+and heard from all the students practicing thier spells
+and skills.  There is a great creature in the center
+of all the rukus named Osiris.  
+~
+0 0 0
+0
+D2
+~
+~
+0 0 716
+S
+#718
+Battlegrounds~
+Extreme noise comes from this area of the academy as many great 
+adventurers practice and kill things.  There are many room to 
+the west, all with something to get experience from.
+~
+0 0 0
+0
+D1
+~
+~
+0 0 716
+D3
+~
+~
+0 0 719
+S
+#719
+Battle Room~
+The practicing rooms are to the north and east.
+Remeber to set your wimpy. And remember it is okay
+to flee if needed.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 720
+D1
+~
+~
+0 0 718
+D2
+~
+~
+0 0 721
+S
+#720
+Battle Room~
+Many of things have been destoryed in here
+and is almost impossible to make out what use
+to inhabit this room. The ranger students are
+practicing thier skills and learning how to use
+thier magic.
+~
+0 0 0
+0
+D2
+~
+~
+0 0 719
+S
+#721
+Battle Room~
+Many of things have been destoryed in here
+and is almost impossible to make out what use
+to inhabit this room. The ranger students are
+practicing thier skills and learning how to use
+thier magic.
+~
+0 0 0
+0
+D0
+~
+~
+0 0 719
+S
+#0
+
+
+
+#SPECIALS
+M 702 spec_cast_cleric
+M 704 spec_cast_adept
+M 717 spec_cast_cleric
+S
+
+
+
+#RESETS
+M 0 700 1 700 1
+M 0 702 1 702 1
+M 0 717 1 717 1
+M 0 720 4 720 1
+M 0 720 4 721 1
+S
+
+
+
+#SHOPS
+717 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#700
+mob oload 700
+mob oload 701
+mob oload 701
+mob oload 702
+mob oload 703
+mob oload 703
+mob oload 704
+mob oload 705
+mob oload 706
+mob oload 707
+mob oload 707
+mob oload 709
+mob oload 710
+mob oload 711
+mob oload 712
+mob oload 713
+mob oload 721
+put all pack
+give pack $n
+say Here you go, $n. Have a safe journey!
+~
+#701
+{wIf you would like a set of newbie equipment, ask me for a {WPACK{w ({WSAY PACK{w){x
+~
+#702
+say What kind of weapon would you like, $n?
+~
+#703
+mob oload 714
+give sword $n
+say Just say {Gpack{x to receive armor as well.
+~
+#704
+mob oload 716
+give staff $n
+say Just say {Gpack{x to receive armor as well.
+~
+#705
+mob oload 717
+give dagger $n
+say Just say {Gpack{x to receive armor as well.
+~
+#706
+mob oload 718
+give mace $n
+say Just say {Gpack{x to receive armor as well.
+~
+#707
+mob oload 719
+give axe $n
+say Just say {Gpack{x to receive armor as well.
+~
+#708
+mob oload 720
+give spear $n
+say Just say {Gpack{x to receive armor as well.
+~
+#0
+
+#$

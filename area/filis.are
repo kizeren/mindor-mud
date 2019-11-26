@@ -1,0 +1,52 @@
+#AREADATA
+New area~
+Builders ~
+VNUMs 40400 40499
+Credits [LOCK] New Area~
+Security 1
+RepopMsg The ground rumbles ominously.~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#40400
+nothing~
+New room
+~
+0 4 0
+0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$
