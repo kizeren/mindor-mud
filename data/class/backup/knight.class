@@ -1,0 +1,91 @@
+#CLASS
+Name knight~
+WhoN Knt
+Prime 0
+Weapon 3702
+Guild1 3022
+Guild2 9633
+Skill 75
+Thac00 20
+Thac32 -10
+HPMin 13
+HPMax 18
+FMana 0
+Base noble basics~
+Default noble default~
+End
+#SKILLS
+heal~
+10 1
+axe~
+1 5
+dagger~
+1 2
+flail~
+1 6
+mace~
+1 3
+polearm~
+1 6
+shield block~
+1 6
+spear~
+1 4
+sword~
+1 3
+whip~
+1 5
+backstab~
+10 2
+bash~
+20 2
+circle~
+40 4
+dirt kicking~
+6 4
+disarm~
+20 6
+dodge~
+5 4
+dual wield~
+30 3
+envenom~
+20 4
+gouge~
+40 3
+hand to hand~
+20 4
+parry~
+20 4
+trip~
+10 3
+second attack~
+20 5
+third attack~
+30 6
+fourth attack~
+50 20
+haggle~
+5 3
+hide~
+5 6
+lore~
+10 4
+peek~
+5 3
+pick lock~
+15 4
+sneak~
+6 4
+steal~
+7 4
+scrolls~
+1 5
+staves~
+1 5
+wands~
+1 5
+recall~
+1 2
+End~
+#END
